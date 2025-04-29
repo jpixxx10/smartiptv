@@ -59,14 +59,6 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/86845
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/22979
 #EXTINF:-1 tvg-name="Maroñas"tvg-id=""tvg-logo="https://www.maronas.com.uy/public/web/img/og-logo.png"group-title="URUGUAY",Maroñas
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/99502
-#EXTINF:-1 tvg-name="Cocina TV"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png"group-title="TV || ZONA VIX",Cocina TV
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/74696.ts
-#EXTINF:-1 tvg-name="VEVO Latino"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png"group-title="TV || ZONA VIX",VEVO Latino
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/74720.ts
-#EXTINF:-1 tvg-name="VEVO Reggaeton y Trap"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png"group-title="TV || ZONA VIX",VEVO Reggaeton y Trap
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/74721.ts
-#EXTINF:-1 tvg-name="TUDN"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png"group-title="TV || ZONA VIX",TUDN
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/74741.ts
 #EXTINF:-1 tvg-name="VEN | CANAL i"tvg-id="(no tvg-id)"tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2023/02/Logo-Canal-I-para-la-Web-151-x-99-1.png"group-title="TV || VENEZUELA",VEN | CANAL i
 http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/24583.ts
 #EXTINF:-1 tvg-name="VEN | TELEVEN"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/c172e27e81a0633908064de128594689.PNG"group-title="TV || VENEZUELA",VEN | TELEVEN
@@ -1809,96 +1801,6 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/100957
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/100958
 #EXTINF:-1 tvg-name="EVENTOS 11"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png"group-title="FÚTBOL Y EVENTOS",EVENTOS 11
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/100959
-#EXTINF:-1 tvg-name="EVENTOS #1"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png"group-title="EVENTOS 27 ABRIL",EVENTOS #1
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/195893.ts
-#EXTINF:-1 tvg-name="EVENTOS #2"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/ScjdLVt/logo-eventos.png"group-title="EVENTOS 27 ABRIL",EVENTOS #2
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/197027.ts
-#EXTINF:-1 tvg-name="EVENTOS #3"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/L98f3bP/zapping-2.png"group-title="EVENTOS 27 ABRIL",EVENTOS #3
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/326016.ts
-#EXTINF:-1 tvg-name="02:00pm Flamengo vs Corinthians"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/09VTrzs/Brasileirao.png"group-title="EVENTOS 27 ABRIL",02:00pm Flamengo vs Corinthians
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328785.ts
-#EXTINF:-1 tvg-name="02:00pm Santa Fe vs Boyacá Chicó"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/nzgKpXN/Colombia.png"group-title="EVENTOS 27 ABRIL",02:00pm Santa Fe vs Boyacá Chicó
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328786.ts
-#EXTINF:-1 tvg-name="02:00pm Palestino vs Universidad Chile"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/RT66XdzH/Liga-Chile-2025.png"group-title="EVENTOS 27 ABRIL",02:00pm Palestino vs Universidad Chile
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328787.ts
-#EXTINF:-1 tvg-name="02:30pm Boavista vs Sporting CP"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/wFwgGXxX/Liga-Portugal.png"group-title="EVENTOS 27 ABRIL",02:30pm Boavista vs Sporting CP
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328788.ts
-#EXTINF:-1 tvg-name="02:30pm Los Angeles Lakers vs Minnesota Timberwolves"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/XJd2dFj/NBA.png"group-title="EVENTOS 27 ABRIL",02:30pm Los Angeles Lakers vs Minnesota Timberwolves
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328789.ts
-#EXTINF:-1 tvg-name="03:30pm Orense vs Independiente del Valle (ECDF)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/6Jr2Syqh/Liga-pro-Ecuador.png"group-title="EVENTOS 27 ABRIL",03:30pm Orense vs Independiente del Valle (ECDF)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328790.ts
-#EXTINF:-1 tvg-name="03:30pm Orense vs Independiente del Valle"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/6Jr2Syqh/Liga-pro-Ecuador.png"group-title="EVENTOS 27 ABRIL",03:30pm Orense vs Independiente del Valle
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328791.ts
-#EXTINF:-1 tvg-name="03:30pm Orense vs Independiente del Valle"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/6Jr2Syqh/Liga-pro-Ecuador.png"group-title="EVENTOS 27 ABRIL",03:30pm Orense vs Independiente del Valle
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328792.ts
-#EXTINF:-1 tvg-name="03:30pm Atlético Grau vs Sport Boys"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/8YYdXNp/Liga-Peru.png"group-title="EVENTOS 27 ABRIL",03:30pm Atlético Grau vs Sport Boys
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328793.ts
-#EXTINF:-1 tvg-name="04:00pm Inter Miami vs Dallas"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/8Lc8zp52/MLS.png"group-title="EVENTOS 27 ABRIL",04:00pm Inter Miami vs Dallas
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328794.ts
-#EXTINF:-1 tvg-name="04:00pm Inter Miami vs Dallas"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/8Lc8zp52/MLS.png"group-title="EVENTOS 27 ABRIL",04:00pm Inter Miami vs Dallas
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328795.ts
-#EXTINF:-1 tvg-name="04:00pm Comunicaciones vs Xinabajul"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/gWzGgsK/guatemala.png"group-title="EVENTOS 27 ABRIL",04:00pm Comunicaciones vs Xinabajul
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328796.ts
-#EXTINF:-1 tvg-name="04:00pm Real Sociedad vs Victoria"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/zW9R9ypp/Honduras.png"group-title="EVENTOS 27 ABRIL",04:00pm Real Sociedad vs Victoria
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328797.ts
-#EXTINF:-1 tvg-name="04:00pm Pérez Zeledón vs Municipal Liberia"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/RkKdDynx/LIGA-PROMERICA-Costa-RICA.png"group-title="EVENTOS 27 ABRIL",04:00pm Pérez Zeledón vs Municipal Liberia
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328798.ts
-#EXTINF:-1 tvg-name="04:10pm Fortaleza CEIF vs Medellín"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/nzgKpXN/Colombia.png"group-title="EVENTOS 27 ABRIL",04:10pm Fortaleza CEIF vs Medellín
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328799.ts
-#EXTINF:-1 tvg-name="04:15pm Peñarol vs Cerro"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/zVdsGcFJ/Liga-Uruguaya.png"group-title="EVENTOS 27 ABRIL",04:15pm Peñarol vs Cerro
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328800.ts
-#EXTINF:-1 tvg-name="04:30pm Huachipato vs Unión Española"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/RT66XdzH/Liga-Chile-2025.png"group-title="EVENTOS 27 ABRIL",04:30pm Huachipato vs Unión Española
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328801.ts
-#EXTINF:-1 tvg-name="04:30pm Palmeiras vs Bahia"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/09VTrzs/Brasileirao.png"group-title="EVENTOS 27 ABRIL",04:30pm Palmeiras vs Bahia
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328802.ts
-#EXTINF:-1 tvg-name="04:30pm Cruzeiro vs Vasco da Gama"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/09VTrzs/Brasileirao.png"group-title="EVENTOS 27 ABRIL",04:30pm Cruzeiro vs Vasco da Gama
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328803.ts
-#EXTINF:-1 tvg-name="04:30pm Vitória vs Grêmio"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/09VTrzs/Brasileirao.png"group-title="EVENTOS 27 ABRIL",04:30pm Vitória vs Grêmio
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328804.ts
-#EXTINF:-1 tvg-name="05:00pm Instituto vs Sarmiento"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/pqZLb0k/Liga-Argentina.png"group-title="EVENTOS 27 ABRIL",05:00pm Instituto vs Sarmiento
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328805.ts
-#EXTINF:-1 tvg-name="05:00pm Lanús vs San Martín San Juan"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/pqZLb0k/Liga-Argentina.png"group-title="EVENTOS 27 ABRIL",05:00pm Lanús vs San Martín San Juan
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328806.ts
-#EXTINF:-1 tvg-name="06:00pm Juárez vs Pumas UNAM (Fox Deportes)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/VpjgSWGY/Liga-MX.png"group-title="EVENTOS 27 ABRIL",06:00pm Juárez vs Pumas UNAM (Fox Deportes)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328808.ts
-#EXTINF:-1 tvg-name="06:00pm Juárez vs Pumas UNAM (TubiMx)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/VpjgSWGY/Liga-MX.png"group-title="EVENTOS 27 ABRIL",06:00pm Juárez vs Pumas UNAM (TubiMx)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328809.ts
-#EXTINF:-1 tvg-name="06:00pm Juárez vs Pumas UNAM (Azteca 7)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/VpjgSWGY/Liga-MX.png"group-title="EVENTOS 27 ABRIL",06:00pm Juárez vs Pumas UNAM (Azteca 7)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328810.ts
-#EXTINF:-1 tvg-name="06:00pm Emelec vs Técnico Universitario (ECDF)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/6Jr2Syqh/Liga-pro-Ecuador.png"group-title="EVENTOS 27 ABRIL",06:00pm Emelec vs Técnico Universitario (ECDF)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328812.ts
-#EXTINF:-1 tvg-name="06:00pm Emelec vs Técnico Universitario"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/6Jr2Syqh/Liga-pro-Ecuador.png"group-title="EVENTOS 27 ABRIL",06:00pm Emelec vs Técnico Universitario
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328813.ts
-#EXTINF:-1 tvg-name="06:00pm Emelec vs Técnico Universitario"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/6Jr2Syqh/Liga-pro-Ecuador.png"group-title="EVENTOS 27 ABRIL",06:00pm Emelec vs Técnico Universitario
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328814.ts
-#EXTINF:-1 tvg-name="06:00pm Universitario vs UTC Cajamarca"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/8YYdXNp/Liga-Peru.png"group-title="EVENTOS 27 ABRIL",06:00pm Universitario vs UTC Cajamarca
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328815.ts
-#EXTINF:-1 tvg-name="06:00pm Puntarenas vs Alajuelense"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/RkKdDynx/LIGA-PROMERICA-Costa-RICA.png"group-title="EVENTOS 27 ABRIL",06:00pm Puntarenas vs Alajuelense
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328816.ts
-#EXTINF:-1 tvg-name="06:00pm Boston Celtics vs Orlando Magic"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/XJd2dFj/NBA.png"group-title="EVENTOS 27 ABRIL",06:00pm Boston Celtics vs Orlando Magic
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328817.ts
-#EXTINF:-1 tvg-name="06:15pm Marathón vs Olimpia"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/zW9R9ypp/Honduras.png"group-title="EVENTOS 27 ABRIL",06:15pm Marathón vs Olimpia
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328818.ts
-#EXTINF:-1 tvg-name="06:20pm América de Cali vs Deportivo Cali"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/nzgKpXN/Colombia.png"group-title="EVENTOS 27 ABRIL",06:20pm América de Cali vs Deportivo Cali
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328819.ts
-#EXTINF:-1 tvg-name="06:30pm Santos vs RB Bragantino"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/09VTrzs/Brasileirao.png"group-title="EVENTOS 27 ABRIL",06:30pm Santos vs RB Bragantino
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328820.ts
-#EXTINF:-1 tvg-name="07:15pm Independiente vs Deportivo Riestra"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/pqZLb0k/Liga-Argentina.png"group-title="EVENTOS 27 ABRIL",07:15pm Independiente vs Deportivo Riestra
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328821.ts
-#EXTINF:-1 tvg-name="08:00pm LA Galaxy vs Portland Timbers"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/8Lc8zp52/MLS.png"group-title="EVENTOS 27 ABRIL",08:00pm LA Galaxy vs Portland Timbers
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328822.ts
-#EXTINF:-1 tvg-name="08:30pm Monterrey vs Pachuca (Tudn Usa)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/VpjgSWGY/Liga-MX.png"group-title="EVENTOS 27 ABRIL",08:30pm Monterrey vs Pachuca (Tudn Usa)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328823.ts
-#EXTINF:-1 tvg-name="08:30pm Monterrey vs Pachuca (TudnMx)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/VpjgSWGY/Liga-MX.png"group-title="EVENTOS 27 ABRIL",08:30pm Monterrey vs Pachuca (TudnMx)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328824.ts
-#EXTINF:-1 tvg-name="08:30pm Monterrey vs Pachuca (Canal 5)"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/VpjgSWGY/Liga-MX.png"group-title="EVENTOS 27 ABRIL",08:30pm Monterrey vs Pachuca (Canal 5)
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328825.ts
-#EXTINF:-1 tvg-name="08:30pm Atlético Bucaramanga vs Millonarios"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/nzgKpXN/Colombia.png"group-title="EVENTOS 27 ABRIL",08:30pm Atlético Bucaramanga vs Millonarios
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328826.ts
-#EXTINF:-1 tvg-name="08:30pm Olancho vs UPNFM"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/zW9R9ypp/Honduras.png"group-title="EVENTOS 27 ABRIL",08:30pm Olancho vs UPNFM
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328827.ts
-#EXTINF:-1 tvg-name="08:30pm Indiana Pacers vs Milwaukee Bucks"tvg-id="(no tvg-id)"tvg-logo="https://i.ibb.co/XJd2dFj/NBA.png"group-title="EVENTOS 27 ABRIL",08:30pm Indiana Pacers vs Milwaukee Bucks
-http://cincotv.org:25461/live/Moisesmiranda2024/DNRMR116117/328828.ts
 #EXTINF:-1 tvg-name="A3 Series HD"tvg-id=""tvg-logo="https://seeklogo.com/images/A/atres-series-logo-3BA3503760-seeklogo.com.png"group-title="ESPAÑA",A3 Series HD
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/16539
 #EXTINF:-1 tvg-name="TVE 24H"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png"group-title="ESPAÑA",TVE 24H
@@ -2371,28 +2273,6 @@ http://planettvweb.com:8091/movie/AlejandroAle/YRej9272m/59123.mkv
 http://planettvweb.com:8091/movie/AlejandroAle/YRej9272m/81376.mkv
 #EXTINF:-1 tvg-name="Keylor Navas, Hombre de Fe (2017)"tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpycb7bCKzGfQFuiaoZCq6rJZGZ.jpg"group-title="DOCUMENTAL",Hombre de Fe (2017)
 http://planettvweb.com:8091/movie/AlejandroAle/YRej9272m/125671.mkv
-#EXTINF:-1 tvg-name="------DEPORTES MEXICO-------"tvg-id=""tvg-logo=""group-title="DEPORTES MEXICO",------DEPORTES MEXICO-------
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/12837
-#EXTINF:-1 tvg-name="FOX SPORT HD MEX"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png"group-title="DEPORTES MEXICO",FOX SPORT HD MEX
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/12008
-#EXTINF:-1 tvg-name="FOX SPORT 2 HD MEX"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES MEXICO",FOX SPORT 2 HD MEX
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/12009
-#EXTINF:-1 tvg-name="FOX SPORT 3 HD MEX"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png"group-title="DEPORTES MEXICO",FOX SPORT 3 HD MEX
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/12010
-#EXTINF:-1 tvg-name="ESPN HD MX"tvg-id=""tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg"group-title="DEPORTES MEXICO",ESPN HD MX
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/11991
-#EXTINF:-1 tvg-name="ESPN 2 MX HD"tvg-id=""tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70997_logo_espn_2.png"group-title="DEPORTES MEXICO",ESPN 2 MX HD
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/11989
-#EXTINF:-1 tvg-name="ESPN 3 MX HD"tvg-id=""tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png"group-title="DEPORTES MEXICO",ESPN 3 MX HD
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/11990
-#EXTINF:-1 tvg-name="ESPN PLUS MX HD"tvg-id=""tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png"group-title="DEPORTES MEXICO",ESPN PLUS MX HD
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/11992
-#EXTINF:-1 tvg-name="FOX Sports Premium"tvg-id=""tvg-logo="https://sport-tv-guide.live/images/stations/a192.png"group-title="DEPORTES MEXICO",FOX Sports Premium
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/38384
-#EXTINF:-1 tvg-name="TUDN HD"tvg-id=""tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg"group-title="DEPORTES MEXICO",TUDN HD
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/50497
-#EXTINF:-1 tvg-name="ESPN 4 MX HD"tvg-id=""tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png"group-title="DEPORTES MEXICO",ESPN 4 MX HD
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/64415
 #EXTINF:-1 tvg-name="------DEPORTES ESPAÑA------"tvg-id=""tvg-logo=""group-title="DEPORTES ESPAÑA",------DEPORTES ESPAÑA------
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/12836
 #EXTINF:-1 tvg-name="BEIN SPORT SP"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"group-title="DEPORTES ESPAÑA",BEIN SPORT SP
@@ -2615,12 +2495,6 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/38586
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/38587
 #EXTINF:-1 tvg-name="WIN SPORT HD_"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png"group-title="DEPORTES",WIN SPORT HD_
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/12445
-#EXTINF:-1 tvg-name="TUDNXTRA 1"tvg-id=""tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg"group-title="DEPORTES",TUDNXTRA 1
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/83260
-#EXTINF:-1 tvg-name="TUDNXTRA 2"tvg-id=""tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg"group-title="DEPORTES",TUDNXTRA 2
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/83261
-#EXTINF:-1 tvg-name="TUDNXTRA 3"tvg-id=""tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg"group-title="DEPORTES",TUDNXTRA 3
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/83262
 #EXTINF:-1 tvg-name="Claro Sports 3 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_Summer_Olympics_text_logo.svg/800px-2024_Summer_Olympics_text_logo.svg.png"group-title="DEPORTES",Claro Sports 3 HD
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/102996
 #EXTINF:-1 tvg-name="Claro Sports 4 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_Summer_Olympics_text_logo.svg/800px-2024_Summer_Olympics_text_logo.svg.png"group-title="DEPORTES",Claro Sports 4 HD
@@ -3365,276 +3239,6 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/73717
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/101814
 #EXTINF:-1 tvg-name="Peliculas Inframundo"tvg-id=""tvg-logo=""group-title="24/7",Peliculas Inframundo
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/101815
-#EXTINF:-1 tvg-name="On Fire (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b6d655b84196439b1276e4f8bcc603e4.jpg"group-title="⭐️Películas 2023",On Fire (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370752.mp4
-#EXTINF:-1 tvg-name="ONEFOUR: Against All Odds (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9a1f2749ff7b50147821ce712e809140.jpg"group-title="⭐️Películas 2023",ONEFOUR: Against All Odds (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370753.mp4
-#EXTINF:-1 tvg-name="Ouija Witch (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0317221a2a036b011a78c10350d7b33b.jpg"group-title="⭐️Películas 2023",Ouija Witch (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370754.mp4
-#EXTINF:-1 tvg-name="Phoenix (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/71f85574b0ad5a650b3ba49e1e7ce4ad.jpg"group-title="⭐️Películas 2023",Phoenix (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370755.mp4
-#EXTINF:-1 tvg-name="Pitón De Aguas Profundas (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/85557a05adaee1652fd4b6df37c32ec0.jpg"group-title="⭐️Películas 2023",Pitón De Aguas Profundas (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370756.mp4
-#EXTINF:-1 tvg-name="Puerta Amarilla: Un cineclub de pelis B en los 90 (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/25201357680c941d5510769d234cc4d3.jpg"group-title="⭐️Películas 2023",Puerta Amarilla: Un cineclub de pelis B en los 90 (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370757.mp4
-#EXTINF:-1 tvg-name="Redeeming Hope (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/13b0128bb498820d5a085a36ea6fa995.jpg"group-title="⭐️Películas 2023",Redeeming Hope (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370758.mp4
-#EXTINF:-1 tvg-name="RDX: Robert, Dony, Xavier (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/32a603a3133a53a2c706b234ae94311e.jpg"group-title="⭐️Películas 2023",Xavier (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370759.mp4
-#EXTINF:-1 tvg-name="Resurrected (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c74d64f22e5d35140ece85f210e4b332.jpg"group-title="⭐️Películas 2023",Resurrected (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370760.mp4
-#EXTINF:-1 tvg-name="Rosita Fresita y la Bestia del Plantano (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c479637f89e25b918626bf81f6079cf5.jpg"group-title="⭐️Películas 2023",Rosita Fresita y la Bestia del Plantano (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370761.mp4
-#EXTINF:-1 tvg-name="Scary Tales: Dead Zone (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0c3f72877b352cb14572368bb676b569.jpg"group-title="⭐️Películas 2023",Scary Tales: Dead Zone (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370762.mp4
-#EXTINF:-1 tvg-name="Secrets in the Desert (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/2c50a6202023508882af96f88877a38b.jpg"group-title="⭐️Películas 2023",Secrets in the Desert (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370763.mp4
-#EXTINF:-1 tvg-name="Surprised by Oxford (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/ea37d996f0840fe865300b293445c74d.jpg"group-title="⭐️Películas 2023",Surprised by Oxford (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370764.mp4
-#EXTINF:-1 tvg-name="The Astral Woods (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b0e7bdbf2b82c67bafb2176a7d273f7f.jpg"group-title="⭐️Películas 2023",The Astral Woods (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370765.mp4
-#EXTINF:-1 tvg-name="Ukryty (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/aedc444d5a949aa74b67f94612ecbd77.jpg"group-title="⭐️Películas 2023",Ukryty (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370767.mp4
-#EXTINF:-1 tvg-name="Enterrando una ambición (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/1d5b1954bc4024f44d63ad6dd2120f60.jpg"group-title="⭐️Películas 2023",Enterrando una ambición (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370769.mp4
-#EXTINF:-1 tvg-name="NO LO ABRAS (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/476e0b2ac0aa6b28184c52188b0ed0fd.jpg"group-title="⭐️Películas 2023",NO LO ABRAS (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370770.mp4
-#EXTINF:-1 tvg-name="Un extraño entre nosotras (2023) "tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f96cf7531ee0590aa1f16e99d99de616.jpg"group-title="⭐️Películas 2023",Un extraño entre nosotras (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370771.mp4
-#EXTINF:-1 tvg-name="Warrior Strong (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/15206444afd999b5748ce7b8e250e877.jpg"group-title="⭐️Películas 2023",Warrior Strong (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370772.mp4
-#EXTINF:-1 tvg-name="Woman in the Maze (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/2b1d0784a01cb54693a545259d509cc9.jpg"group-title="⭐️Películas 2023",Woman in the Maze (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370773.mp4
-#EXTINF:-1 tvg-name="El arte de matar (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/51437950360c35ba42e48b6ded9a8f45.jpg"group-title="⭐️Películas 2023",El arte de matar (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370776.mp4
-#EXTINF:-1 tvg-name="Heist 88 (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/91a4bf6abaafe9d09ba401a11855347b.jpg"group-title="⭐️Películas 2023",Heist 88 (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370777.mp4
-#EXTINF:-1 tvg-name="Invitación a un Asesinato (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/71fdd281410fd7d4a023845ec847945d.jpg"group-title="⭐️Películas 2023",Invitación a un Asesinato (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370778.mp4
-#EXTINF:-1 tvg-name="Road Trip Hostage (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/56f94c7b6ac21059cf0c05087c7391c6.jpg"group-title="⭐️Películas 2023",Road Trip Hostage (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370779.mp4
-#EXTINF:-1 tvg-name="The Exorcists (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/4376353dc619599511f6bd42faa4b2e9.jpg"group-title="⭐️Películas 2023",The Exorcists (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370780.mp4
-#EXTINF:-1 tvg-name="The Vigilante (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/2c616fb3bd1e8e04916cf7ba28392003.jpg"group-title="⭐️Películas 2023",The Vigilante (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370781.mp4
-#EXTINF:-1 tvg-name="7:11 PM (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/01575fe3921c89be30fbac49fc6fac6c.jpg"group-title="⭐️Películas 2023",7:11 PM (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370785.mp4
-#EXTINF:-1 tvg-name="A millones de kilómetros (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8d5cca7c6e6a418dc0ff002a35705354.jpg"group-title="⭐️Películas 2023",A millones de kilómetros (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370786.mp4
-#EXTINF:-1 tvg-name="Juega o Muere (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3151d4672624e11c299074d5000270d3.jpg"group-title="⭐️Películas 2023",Juega o Muere (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370787.mp4
-#EXTINF:-1 tvg-name="Breaking Point: Pasión y Baile (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/67ecdb2bd63fdb871228f8ff106f7d8f.jpg"group-title="⭐️Películas 2023",Breaking Point: Pasión y Baile (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370788.mp4
-#EXTINF:-1 tvg-name="Brujería (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/561c4342c774b8a4eacb3a08338f3c67.jpg"group-title="⭐️Películas 2023",Brujería (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370789.mp4
-#EXTINF:-1 tvg-name="Ensayo general (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/713658aa42c37b34398868b5240f31fa.jpg"group-title="⭐️Películas 2023",Ensayo general (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370790.mp4
-#EXTINF:-1 tvg-name="Captive (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/abaa060fceb145a9235214e7ec13fa55.jpg"group-title="⭐️Películas 2023",Captive (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370791.mp4
-#EXTINF:-1 tvg-name="Dark Asset (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b8dd206a881313b0136fd50410990b32.jpg"group-title="⭐️Películas 2023",Dark Asset (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370792.mp4
-#EXTINF:-1 tvg-name="Don't Look Away (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/2680ea7b588b794dd06b43a482387998.jpg"group-title="⭐️Películas 2023",Don't Look Away (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370793.mp4
-#EXTINF:-1 tvg-name="Double Kill (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/e30bf8e43ccd9228eb899030dd73d49b.jpg"group-title="⭐️Películas 2023",Double Kill (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370794.mp4
-#EXTINF:-1 tvg-name="El Curandero (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/76f9f3df5d7ed0d5e10bdccef9ca2a16.jpg"group-title="⭐️Películas 2023",El Curandero (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370795.mp4
-#EXTINF:-1 tvg-name="El monstruo dentro de mí (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/7a3060ad8c594775dde1a580af7938ad.jpg"group-title="⭐️Películas 2023",El monstruo dentro de mí (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370796.mp4
-#EXTINF:-1 tvg-name="El santo de las segundas oportunidades (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9269972972e5f02bee98bdd33c5a736f.jpg"group-title="⭐️Películas 2023",El santo de las segundas oportunidades (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370797.mp4
-#EXTINF:-1 tvg-name="The Retirement Plan (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/fbb167849619ec9a1ecc36c4cacfbb0f.jpg"group-title="⭐️Películas 2023",The Retirement Plan (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370798.mp4
-#EXTINF:-1 tvg-name="Escalation (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/4772071e67cf76668d223f821ba1f5be.jpg"group-title="⭐️Películas 2023",Escalation (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370799.mp4
-#EXTINF:-1 tvg-name="Flora e hijo (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/30717a30b80193667b0a96cd9773a0db.jpg"group-title="⭐️Películas 2023",Flora e hijo (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370800.mp4
-#EXTINF:-1 tvg-name="Guardianes del museo (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9cedca9ca030ecc31343ad564efd83bc.jpg"group-title="⭐️Películas 2023",Guardianes del museo (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370801.mp4
-#EXTINF:-1 tvg-name="Jurassic Shark 3: Seavenge (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/edcf17c463d35587bb9c30a179add736.jpg"group-title="⭐️Películas 2023",Jurassic Shark 3: Seavenge (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370802.mp4
-#EXTINF:-1 tvg-name="La maravillosa historia de Henry Sugar (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/be1950e3aa687669d82f763924b145d7.jpg"group-title="⭐️Películas 2023",La maravillosa historia de Henry Sugar (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370803.mp4
-#EXTINF:-1 tvg-name="La posibilidad estadística del amor a primera vista (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/81b593db962f7645e30c98e0ee1b2aae.jpg"group-title="⭐️Películas 2023",La posibilidad estadística del amor a primera vista (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370807.mp4
-#EXTINF:-1 tvg-name="My Animal (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/07f3c1eb21972cb100675f4fe04fa577.jpg"group-title="⭐️Películas 2023",My Animal (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370808.mp4
-#EXTINF:-1 tvg-name="Nandor Fodor and the Talking Mongoose (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/16fc976fd5580eac8e687a95568c11bb.jpg"group-title="⭐️Películas 2023",Nandor Fodor and the Talking Mongoose (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370809.mp4
-#EXTINF:-1 tvg-name="La Venganza de Jack (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/d5c7b942f062ecfe5e03255cec4fa744.jpg"group-title="⭐️Películas 2023",La Venganza de Jack (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370810.mp4
-#EXTINF:-1 tvg-name="Sentinela (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/db27dc68338c9c0460d5995a5b467dd2.jpg"group-title="⭐️Películas 2023",Sentinela (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370811.mp4
-#EXTINF:-1 tvg-name="Sirona (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/db210a72f35290dd37ed0f8aae1c045c.jpg"group-title="⭐️Películas 2023",Sirona (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370812.mp4
-#EXTINF:-1 tvg-name="Garras voraces (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/a9acb79077d80882a7a8b2e82d60c2a2.jpg"group-title="⭐️Películas 2023",Garras voraces (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370813.mp4
-#EXTINF:-1 tvg-name="Flow Callejero 2 (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/1c75c200c0615edfc488f7a4a8351b2c.jpg"group-title="⭐️Películas 2023",Flow Callejero 2 (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370814.mp4
-#EXTINF:-1 tvg-name="Sweet Dreams (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/cc1820211657bc7859589cf722c1b6c6.jpg"group-title="⭐️Películas 2023",Sweet Dreams (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370815.mp4
-#EXTINF:-1 tvg-name="Trauma Therapy: Psychosis (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/68bc31e991bca3ed549c2ef1364627bd.jpg"group-title="⭐️Películas 2023",Trauma Therapy: Psychosis (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370816.mp4
-#EXTINF:-1 tvg-name="Us or Them (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/cb25f6ad97756e4d89a9c206e9156e4c.jpg"group-title="⭐️Películas 2023",Us or Them (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370818.mp4
-#EXTINF:-1 tvg-name="Veneno de Serpiente (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/4e9d58b099ca40f5b2b3d53a99343eb2.jpg"group-title="⭐️Películas 2023",Veneno de Serpiente (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370819.mp4
-#EXTINF:-1 tvg-name="Underverden 2 (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/097db69efb649b542cf377259144dc47.jpg"group-title="⭐️Películas 2023",Underverden 2 (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370820.mp4
-#EXTINF:-1 tvg-name="Vida Adulta (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/976d69b4d3da55364ad5306a0a1831c9.jpg"group-title="⭐️Películas 2023",Vida Adulta (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370821.mp4
-#EXTINF:-1 tvg-name="Visions (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f0bee6ca16108fdb0d6e60d87cd520ac.jpg"group-title="⭐️Películas 2023",Visions (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370822.mp4
-#EXTINF:-1 tvg-name="Zombie Town (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/66cb7e4ce19bbc9dafa98abb3326b6f4.jpg"group-title="⭐️Películas 2023",Zombie Town (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370823.mp4
-#EXTINF:-1 tvg-name="Te esperaré en venus (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/967721d6b43bbee6b6fa3460c3f21fe8.jpg"group-title="⭐️Películas 2023",Te esperaré en venus (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370825.mp4
-#EXTINF:-1 tvg-name="De vuelta a Las Vegas (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/47b210dbc3ffcf5cbb0a1aa17f1660b4.jpg"group-title="⭐️Películas 2023",De vuelta a Las Vegas (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370826.mp4
-#EXTINF:-1 tvg-name="Birth/Rebirth (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f908fecd8fc68179235057dea8c85895.jpg"group-title="⭐️Películas 2023",Birth/Rebirth (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370827.mp4
-#EXTINF:-1 tvg-name="Dark Windows (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/92117a3e15bfa5f446770bd8a31cdd0e.jpg"group-title="⭐️Películas 2023",Dark Windows (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370828.mp4
-#EXTINF:-1 tvg-name="The Assassin (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/ca93ddcc9cc2efe09f1e31f8d2cf9a23.jpg"group-title="⭐️Películas 2023",The Assassin (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370829.mp4
-#EXTINF:-1 tvg-name="We Make Antiques! Osaka Dreams (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/5d0e5044b041ffde74048ee24b523e04.jpg"group-title="⭐️Películas 2023",We Make Antiques! Osaka Dreams (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370830.mp4
-#EXTINF:-1 tvg-name="Abducted by My Teacher: The Elizabeth Thomas Story (2023) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/351294d78d7383e792a76d1caf346990.jpg"group-title="⭐️Películas 2023",Abducted by My Teacher: The Elizabeth Thomas Story (2023) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370831.mp4
-#EXTINF:-1 tvg-name="El clon de Tyrone (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9cf558e59740e1d48dd0a0e0be0d25d2.jpg"group-title="⭐️Películas 2023",El clon de Tyrone (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/319063.mp4
-#EXTINF:-1 tvg-name="El río bravo (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/1c4cec75242e841c7f9844a12f282d07.jpg"group-title="⭐️Películas 2023",El río bravo (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/327924.mp4
-#EXTINF:-1 tvg-name="Kho Gaye Hum Kahan (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/d652bb61ec458e5aeef6e4cba3981b51.jpg"group-title="⭐️Películas 2023",Kho Gaye Hum Kahan (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370969.mp4
-#EXTINF:-1 tvg-name="Priscilla (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/d40ad806c5a0bf249d19891dc6e058e7.jpg"group-title="⭐️Películas 2023",Priscilla (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/371911.mp4
-#EXTINF:-1 tvg-name="Despertar del duelo (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8715768e74162a79a1e0a4a0d7175634.jpg"group-title="⭐️Películas 2023",Despertar del duelo (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/372248.mp4
-#EXTINF:-1 tvg-name="La sociedad de la nieve (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/e3e6c4a900dd9c9e16ba435db5c1ab1c.jpg"group-title="⭐️Películas 2023",La sociedad de la nieve (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/372249.mp4
-#EXTINF:-1 tvg-name="Gracias, lo siento (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/1495d4fec89e2d77671d9e8a7b408f27.jpg"group-title="⭐️Películas 2023",lo siento (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/372250.mp4
-#EXTINF:-1 tvg-name="El puño del cóndor (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/e195c539a157d07f7e70c403b6a3d613.jpg"group-title="⭐️Películas 2023",El puño del cóndor (2023)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/310142.mp4
-#EXTINF:-1 tvg-name="No lo abras (2023) FHD"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/07144d56ed8ed1e76b55b151b60d83be.jpg"group-title="⭐️Películas 2023",No lo abras (2023) FHD
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/372254.mkv
-#EXTINF:-1 tvg-name="Intruso (2023) FHD"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/4fd735821af2a9bbfccf80e745879e63.jpg"group-title="⭐️Películas 2023",Intruso (2023) FHD
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/372255.mkv
-#EXTINF:-1 tvg-name="La hija del rey de los pantanos (2023) FHD"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/ef3517e533a6801b38a9b43d28c10535.jpg"group-title="⭐️Películas 2023",La hija del rey de los pantanos (2023) FHD
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/373022.mkv
-#EXTINF:-1 tvg-name="Napoleón (2023) FHD"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c0eed51aa3788e77bcc33e53cf07659f.jpg"group-title="⭐️Películas 2023",Napoleón (2023) FHD
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/373023.mp4
-#EXTINF:-1 tvg-name="12 Horas para el Fin del Mundo (2022)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/263c121c306ac8504f3eb34cd44bedfc.jpg"group-title="⭐️Películas 2022",12 Horas para el Fin del Mundo (2022)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370784.mp4
-#EXTINF:-1 tvg-name="La ira de Dios (2022)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/7748c38dc534eb11662387a0e858abaa.jpg"group-title="⭐️Películas 2022",La ira de Dios (2022)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/370967.mp4
-#EXTINF:-1 tvg-name="Criptoestafas (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c0412fbd4aeca53d032fc519c5caeaf8.jpg"group-title="⭐️Estrenos 2024",Criptoestafas (2024)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/371643.mp4
-#EXTINF:-1 tvg-name="Justice League: Crisis on Infinite Earths Part One (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/63fa23d2700752fc976427903d275f5d.jpg"group-title="⭐️Estrenos 2024",Justice League: Crisis on Infinite Earths Part One (2024)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/373037.mp4
-#EXTINF:-1 tvg-name="One More Shot (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f1adde1aa999660df0ebeb3c89d46a6e.jpg"group-title="⭐️Estrenos 2024",One More Shot (2024)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/373593.mp4
-#EXTINF:-1 tvg-name="The Painter (2024) con anuncios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9633006be6d59093509d08d36756ed5b.jpg"group-title="⭐️Estrenos 2024",The Painter (2024) con anuncios
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/373807.mp4
-#EXTINF:-1 tvg-name="Lift: Un robo de primera clase (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/5e30b9d77f96228a19ddc2ba2c51d186.jpg"group-title="⭐️Estrenos 2024",Lift: Un robo de primera clase (2024)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/373809.mp4
-#EXTINF:-1 tvg-name="Dogtooth (2009)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/536a1b8d5ef961d606a4b57ddf1a94b1.jpg"group-title="⭐️Drama",Dogtooth (2009)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/372516.mp4
-#EXTINF:-1 tvg-name="Song for a Raggy Boy (2003)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3b9857191171d96f7817a461ca30df73.jpg"group-title="⭐️Drama",Song for a Raggy Boy (2003)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/372518.mp4
-#EXTINF:-1 tvg-name="Los 33 (2015)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/96993e4167fdbff0dbc9ccc7b4d80801.jpg"group-title="⭐️Drama",Los 33 (2015)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/373624.mp4
-#EXTINF:-1 tvg-name="Messi (2014)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/724c05aea016986ba16b8cb1ad1eba61.jpg"group-title="⭐️Documentales",Messi (2014)
-http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/371707.mp4
-#EXTINF:-1 tvg-name="24/7: Bob Esponja"tvg-id=""tvg-logo="https://i.postimg.cc/Cx4tBhD8/BOB-ESPONJA.png"group-title="✅CANALES 24/7",24/7: Bob Esponja
-http://playtv44.com:8080/971627115/123456/83457
-#EXTINF:-1 tvg-name="24/7 Disney Action"tvg-id=""tvg-logo="https://i.postimg.cc/rpnPjffF/DISNEY.png"group-title="✅CANALES 24/7",24/7 Disney Action
-http://playtv44.com:8080/971627115/123456/83460
-#EXTINF:-1 tvg-name="24/7 Dragon Ball Zone"tvg-id=""tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png"group-title="✅CANALES 24/7",24/7 Dragon Ball Zone
-http://playtv44.com:8080/971627115/123456/83462
-#EXTINF:-1 tvg-name="24/7: Smallville"tvg-id=""tvg-logo="https://i.postimg.cc/yxFjMjyR/SMALL-VILLE.png"group-title="✅CANALES 24/7",24/7: Smallville
-http://playtv44.com:8080/971627115/123456/83477
-#EXTINF:-1 tvg-name="24/7: El show de los Looney Tunes"tvg-id=""tvg-logo="https://i.postimg.cc/3JXfV8tq/LOONEY-TUNES.png"group-title="✅CANALES 24/7",24/7: El show de los Looney Tunes
-http://playtv44.com:8080/971627115/123456/83479
-#EXTINF:-1 tvg-name="24/7: Thundercats"tvg-id=""tvg-logo="https://i.postimg.cc/GhCqF0bx/THUNDERCATS.png"group-title="✅CANALES 24/7",24/7: Thundercats
-http://playtv44.com:8080/971627115/123456/83486
-#EXTINF:-1 tvg-name="24/7 CINE 2024 "tvg-id=""tvg-logo="http://playtv44.com:8080/images/12b29b2ce83c7633df89a35370cc15e3.jpg"group-title="✅CANALES 24/7",24/7 CINE 2024
-http://playtv44.com:8080/971627115/123456/217059
-#EXTINF:-1 tvg-name="24/7 CSI Las Vegas "tvg-id=""tvg-logo="https://i.postimg.cc/wBTrDCcG/CSI-VEGA.png"group-title="✅CANALES 24/7",24/7 CSI Las Vegas
-http://playtv44.com:8080/971627115/123456/217060
-#EXTINF:-1 tvg-name="24/7: PrimeVideo  ᴴᴰ"tvg-id=""tvg-logo="https://i.postimg.cc/mD18wBc8/PRIME-VIDEO.png"group-title="✅CANALES 24/7",24/7: PrimeVideo  ᴴᴰ
-http://playtv44.com:8080/971627115/123456/217062
-#EXTINF:-1 tvg-name="24/7 Pelis TAQUILLA"tvg-id=""tvg-logo="http://playtv44.com:8080/images/b7f7ada7d848002260ee5eb7d8835709.jpg"group-title="✅CANALES 24/7",24/7 Pelis TAQUILLA
-http://playtv44.com:8080/971627115/123456/217064
-#EXTINF:-1 tvg-name="24/7 NETFLIX "tvg-id=""tvg-logo="https://th.bing.com/th/id/R.fab1d397d6438ba1d9d053dd474758f6?rik=zLv2r0VKTeN5Ug&riu=http%3a%2f%2fes.web.img1.acsta.net%2fr_640_600%2fb_1_d6d6d6%2fmedias%2fnmedia%2f18%2f68%2f91%2f15%2f18860704.jpg&ehk=Nzq%2bxAZ8MKaYP9b2GdqeuLK6l8R5fHrP0NZyGIKfuVY%3d&risl=&pid=ImgRaw&r=0"group-title="✅CANALES 24/7",24/7 NETFLIX
-http://playtv44.com:8080/971627115/123456/217065
-#EXTINF:-1 tvg-name="24/7 | Infantil"tvg-id=""tvg-logo="http://playtv44.com:8080/images/be50cf6dffad580c39320aad429c2210.png"group-title="✅CANALES 24/7",24/7 | Infantil
-http://playtv44.com:8080/971627115/123456/217068
-#EXTINF:-1 tvg-name="24/7  Variedad"tvg-id=""tvg-logo="https://i.postimg.cc/QxJSS6tG/VARIEDAD.png"group-title="✅CANALES 24/7",24/7  Variedad
-http://playtv44.com:8080/971627115/123456/217069
-#EXTINF:-1 tvg-name="24/7: Futurama ●"tvg-id=""tvg-logo="https://i.postimg.cc/5yvKxbb6/FUTURAMA.png"group-title="✅CANALES 24/7",24/7: Futurama ●
-http://playtv44.com:8080/971627115/123456/217070
-#EXTINF:-1 tvg-name="24/7:  Serie PACMAN ●"tvg-id=""tvg-logo="https://i.postimg.cc/HLgyKmP6/pacman.png"group-title="✅CANALES 24/7",24/7:  Serie PACMAN ●
-http://playtv44.com:8080/971627115/123456/217071
-#EXTINF:-1 tvg-name="24/7:  SONIC full ●"tvg-id=""tvg-logo="https://i.postimg.cc/BZDmPZfv/SONIC.png"group-title="✅CANALES 24/7",24/7:  SONIC full ●
-http://playtv44.com:8080/971627115/123456/217072
-#EXTINF:-1 tvg-name="24/7:  LEGO  Zone ●"tvg-id=""tvg-logo="https://i.postimg.cc/Qd570CSB/lego.png"group-title="✅CANALES 24/7",24/7:  LEGO  Zone ●
-http://playtv44.com:8080/971627115/123456/217073
-#EXTINF:-1 tvg-name="24/7:  Kids Familiar"tvg-id=""tvg-logo="http://playtv44.com:8080/images/7c93957cfd99032395c39b792c2d2c2c.png"group-title="✅CANALES 24/7",24/7:  Kids Familiar
-http://playtv44.com:8080/971627115/123456/217074
-#EXTINF:-1 tvg-name="24/7 Padre de Familia "tvg-id=""tvg-logo="https://i.postimg.cc/Xvzsdpvr/PADRE-DE-FAMILIA.png"group-title="✅CANALES 24/7",24/7 Padre de Familia
-http://playtv44.com:8080/971627115/123456/217075
-#EXTINF:-1 tvg-name="24/7: The Big Bang Theory"tvg-id=""tvg-logo="https://i.postimg.cc/T3xF3LyG/BIGBANG.png"group-title="✅CANALES 24/7",24/7: The Big Bang Theory
-http://playtv44.com:8080/971627115/123456/217076
-#EXTINF:-1 tvg-name="24/7: Bob Esponja"tvg-id=""tvg-logo="https://i.postimg.cc/Cx4tBhD8/BOB-ESPONJA.png"group-title="✅CANALES 24/7",24/7: Bob Esponja
-http://playtv44.com:8080/971627115/123456/83457
-#EXTINF:-1 tvg-name="24/7 Disney Action"tvg-id=""tvg-logo="https://i.postimg.cc/rpnPjffF/DISNEY.png"group-title="✅CANALES 24/7",24/7 Disney Action
-http://playtv44.com:8080/971627115/123456/83460
-#EXTINF:-1 tvg-name="24/7 Dragon Ball Zone"tvg-id=""tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png"group-title="✅CANALES 24/7",24/7 Dragon Ball Zone
-http://playtv44.com:8080/971627115/123456/83462
-#EXTINF:-1 tvg-name="24/7: Smallville"tvg-id=""tvg-logo="https://i.postimg.cc/yxFjMjyR/SMALL-VILLE.png"group-title="✅CANALES 24/7",24/7: Smallville
-http://playtv44.com:8080/971627115/123456/83477
-#EXTINF:-1 tvg-name="24/7: El show de los Looney Tunes"tvg-id=""tvg-logo="https://i.postimg.cc/3JXfV8tq/LOONEY-TUNES.png"group-title="✅CANALES 24/7",24/7: El show de los Looney Tunes
-http://playtv44.com:8080/971627115/123456/83479
-#EXTINF:-1 tvg-name="24/7: Thundercats"tvg-id=""tvg-logo="https://i.postimg.cc/GhCqF0bx/THUNDERCATS.png"group-title="✅CANALES 24/7",24/7: Thundercats
-http://playtv44.com:8080/971627115/123456/83486
-#EXTINF:-1 tvg-name="24/7 CINE 2024 "tvg-id=""tvg-logo="http://playtv44.com:8080/images/12b29b2ce83c7633df89a35370cc15e3.jpg"group-title="✅CANALES 24/7",24/7 CINE 2024
-http://playtv44.com:8080/971627115/123456/217059
-#EXTINF:-1 tvg-name="24/7 CSI Las Vegas "tvg-id=""tvg-logo="https://i.postimg.cc/wBTrDCcG/CSI-VEGA.png"group-title="✅CANALES 24/7",24/7 CSI Las Vegas
-http://playtv44.com:8080/971627115/123456/217060
-#EXTINF:-1 tvg-name="24/7: PrimeVideo  ᴴᴰ"tvg-id=""tvg-logo="https://i.postimg.cc/mD18wBc8/PRIME-VIDEO.png"group-title="✅CANALES 24/7",24/7: PrimeVideo  ᴴᴰ
-http://playtv44.com:8080/971627115/123456/217062
-#EXTINF:-1 tvg-name="24/7 Pelis TAQUILLA"tvg-id=""tvg-logo="http://playtv44.com:8080/images/b7f7ada7d848002260ee5eb7d8835709.jpg"group-title="✅CANALES 24/7",24/7 Pelis TAQUILLA
-http://playtv44.com:8080/971627115/123456/217064
-#EXTINF:-1 tvg-name="24/7 NETFLIX "tvg-id=""tvg-logo="https://th.bing.com/th/id/R.fab1d397d6438ba1d9d053dd474758f6?rik=zLv2r0VKTeN5Ug&riu=http%3a%2f%2fes.web.img1.acsta.net%2fr_640_600%2fb_1_d6d6d6%2fmedias%2fnmedia%2f18%2f68%2f91%2f15%2f18860704.jpg&ehk=Nzq%2bxAZ8MKaYP9b2GdqeuLK6l8R5fHrP0NZyGIKfuVY%3d&risl=&pid=ImgRaw&r=0"group-title="✅CANALES 24/7",24/7 NETFLIX
-http://playtv44.com:8080/971627115/123456/217065
-#EXTINF:-1 tvg-name="24/7 | Infantil"tvg-id=""tvg-logo="http://playtv44.com:8080/images/be50cf6dffad580c39320aad429c2210.png"group-title="✅CANALES 24/7",24/7 | Infantil
-http://playtv44.com:8080/971627115/123456/217068
-#EXTINF:-1 tvg-name="24/7  Variedad"tvg-id=""tvg-logo="https://i.postimg.cc/QxJSS6tG/VARIEDAD.png"group-title="✅CANALES 24/7",24/7  Variedad
-http://playtv44.com:8080/971627115/123456/217069
-#EXTINF:-1 tvg-name="24/7: Futurama ●"tvg-id=""tvg-logo="https://i.postimg.cc/5yvKxbb6/FUTURAMA.png"group-title="✅CANALES 24/7",24/7: Futurama ●
-http://playtv44.com:8080/971627115/123456/217070
-#EXTINF:-1 tvg-name="24/7:  Serie PACMAN ●"tvg-id=""tvg-logo="https://i.postimg.cc/HLgyKmP6/pacman.png"group-title="✅CANALES 24/7",24/7:  Serie PACMAN ●
-http://playtv44.com:8080/971627115/123456/217071
-#EXTINF:-1 tvg-name="24/7:  SONIC full ●"tvg-id=""tvg-logo="https://i.postimg.cc/BZDmPZfv/SONIC.png"group-title="✅CANALES 24/7",24/7:  SONIC full ●
-http://playtv44.com:8080/971627115/123456/217072
-#EXTINF:-1 tvg-name="24/7:  LEGO  Zone ●"tvg-id=""tvg-logo="https://i.postimg.cc/Qd570CSB/lego.png"group-title="✅CANALES 24/7",24/7:  LEGO  Zone ●
-http://playtv44.com:8080/971627115/123456/217073
-#EXTINF:-1 tvg-name="24/7:  Kids Familiar"tvg-id=""tvg-logo="http://playtv44.com:8080/images/7c93957cfd99032395c39b792c2d2c2c.png"group-title="✅CANALES 24/7",24/7:  Kids Familiar
-http://playtv44.com:8080/971627115/123456/217074
-#EXTINF:-1 tvg-name="24/7 Padre de Familia "tvg-id=""tvg-logo="https://i.postimg.cc/Xvzsdpvr/PADRE-DE-FAMILIA.png"group-title="✅CANALES 24/7",24/7 Padre de Familia
-http://playtv44.com:8080/971627115/123456/217075
-#EXTINF:-1 tvg-name="24/7: The Big Bang Theory"tvg-id=""tvg-logo="https://i.postimg.cc/T3xF3LyG/BIGBANG.png"group-title="✅CANALES 24/7",24/7: The Big Bang Theory
-http://playtv44.com:8080/971627115/123456/217076
-#EXTINF:-1 tvg-name="24/7: LOS SIMPSONS"tvg-id=""tvg-logo="https://i.postimg.cc/Z5j7YftF/LOS-SIMPSONS.png"group-title="✅CANALES 24/7",24/7: LOS SIMPSONS
-http://playtv44.com:8080/971627115/123456/83476
-#EXTINF:-1 tvg-name="24/7: El Chapuli­n Colorado"tvg-id=""tvg-logo="https://i.postimg.cc/B6jwV2z5/EL-CHAPULIN-COLORADO.png"group-title="✅CANALES 24/7",24/7: El Chapuli­n Colorado
-http://playtv44.com:8080/971627115/123456/83464
-#EXTINF:-1 tvg-name="24/7 Chavo del 8"tvg-id=""tvg-logo="https://i.postimg.cc/xCBFDcrw/EL-CHAVO-DEL-8.png"group-title="✅CANALES 24/7",24/7 Chavo del 8
-http://playtv44.com:8080/971627115/123456/196187
-#EXTINF:-1 tvg-name="24/7: Caballeros Del Zodiaco"tvg-id=""tvg-logo="https://i.postimg.cc/YCtDw5VC/LOS-CABALLEROS-DEL-ZODIACO.png"group-title="✅CANALES 24/7",24/7: Caballeros Del Zodiaco
-http://playtv44.com:8080/971627115/123456/83485
 #EXTINF:-1 tvg-name="24/7 Animaniacs"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b34ecbbcbdfcf25f9a3b5afc60680559.jpg"group-title="✅ 24/7 VIP",24/7 Animaniacs
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398002
 #EXTINF:-1 tvg-name="24/7 Animaniacs 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0d561e915039aa49c5568b8a2f6fdcfd.jpg"group-title="✅ 24/7 VIP",24/7 Animaniacs 2
@@ -3913,8 +3517,6 @@ http://playtvpremium.xyz:2095/56991877643playtv/play100324/306178
 http://playtvpremium.xyz:2095/56991877643playtv/play100324/306179
 #EXTINF:-1 tvg-name="24/7 Bluey"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✅ 24/7 INFANTILES AYER Y HOY",24/7 Bluey
 http://playtvpremium.xyz:2095/56991877643playtv/play100324/306180
-#EXTINF:-1 tvg-name="Peliculas Inframundo"tvg-id="(no tvg-id)"tvg-logo=""group-title="✅ + 24/7",Peliculas Inframundo
-http://playtvpremium.xyz:2095/56991877643playtv/play100324/306126
 #EXTINF:-1 tvg-name="La cumbre de los dioses (2021)"tvg-id=""tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xHJAunNc8wyC4hOprU1Vur7dgSs.jpg"group-title="▶️ PELICULAS NETLFIX SINCRONIZANDO...",La cumbre de los dioses (2021)
 http://playtv44.com:8080/movie/971627115/123456/78028.mp4
 #EXTINF:-1 tvg-name="La rosa de Bombay (2019)"tvg-id=""tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/BRYSZk9f8I2emo34ldHQpu1b2A.jpg"group-title="▶️ PELICULAS NETLFIX SINCRONIZANDO...",La rosa de Bombay (2019)
@@ -4247,3 +3849,443 @@ http://181.204.183.226:9000/play/a00o/index.m3u8
 http://181.204.183.226:9000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Win Sports+
 http://181.204.183.226:9000/play/a02j/index.m3u8
+EXTINF:-1 tvg-name="DEPORTES - Espn 1 COL (PM)(1080)"tvg-id="ESPN.co"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (PM)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9516
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 COL (e)(720)"tvg-id="ESPN.co"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (e)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9517
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 CHI (PM)(1080)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/99538
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 CHI (PM)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/99539
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 ARG (T)(720)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (T)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9520
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)"tvg-id="ESPN.2.co"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9521
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 ARG (Z)(720)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9522
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 MEX (L)(720)"tvg-id="ESPN.(Mexico).(ESPMX).mx"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9523
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 MEX (TV)(720)"tvg-id="Canal.Azteca.Uno.mx"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9524
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 MEX (T)(1080)"tvg-id="ESPN.MX.mx"tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (T)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9525
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (e)(720)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (e)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9526
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (PM)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9527
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (Z)(720)"tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar"tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9528
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 COL (TV)(1080)"tvg-id="ESPN.2.co"tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 2 COL (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9529
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 MEX (L)(720)"tvg-id="Canal.Azteca.Uno.mx"tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9530
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)"tvg-id="Canal.Azteca.Uno.mx"tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9531
+#EXTINF:-1 tvg-name="DEPORTES - Espn 3 ARG (L)(720)"tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar"tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9533
+#EXTINF:-1 tvg-name="DEPORTES - Espn 3 ARG (Z)(720)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9534
+#EXTINF:-1 tvg-name="DEPORTES - Espn 3 COL (M)(1080)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 3 COL (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9532
+#EXTINF:-1 tvg-name="DEPORTES - Espn 3 MEX (M)(1080)"tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).mx"tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9535
+#EXTINF:-1 tvg-name="DEPORTES - Espn 3 MEX (M)(720)"tvg-id="ESPN.MX.mx"tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9536
+#EXTINF:-1 tvg-name="DEPORTES - Espn 4 (T)(720)"tvg-id="ESPN.4.Latin.America.HDTV.(Southern.Feed.-.Premium).(ESPN4).ar"tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9538
+#EXTINF:-1 tvg-name="DEPORTES - Espn 4 MEX (M)(1080)"tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx"tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 4 MEX (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9537
+#EXTINF:-1 tvg-name="DEPORTES - Espn 5 (M)(1080)"tvg-id="ESPN.5.co"tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9539
+#EXTINF:-1 tvg-name="DEPORTES - Espn 5 (TV)(720)"tvg-id="ESPN.5.co"tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9540
+#EXTINF:-1 tvg-name="DEPORTES - Espn 6 (Z)(720)"tvg-id="ESPN.6.HD.co"tvg-logo="https://i.postimg.cc/XJYFwDsj/Proyecto-X-19.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 6 (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9541
+#EXTINF:-1 tvg-name="DEPORTES - ESPN 7 (e)(1080)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png"group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9573
+#EXTINF:-1 tvg-name="DEPORTES - ESPN 7 (e)(720)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png"group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9574
+#EXTINF:-1 tvg-name="DEPORTES - Espn 7 (PM)(720)"tvg-id="ESPN.7.HD.co"tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png"group-title="CANALES-DEPORTES",DEPORTES - Espn 7 (PM)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9543
+#EXTINF:-1 tvg-name="DEPORTES - Espn Deportes (MEX) (Z)(720)"tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us"tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png"group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes (MEX) (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9544
+#EXTINF:-1 tvg-name="DEPORTES - Espn Deportes MEX (M)(SD)"tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx"tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png"group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes MEX (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9548
+#EXTINF:-1 tvg-name="DEPORTES - Espn Extra ARG (L)(1080)"tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar"tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png"group-title="CANALES-DEPORTES",DEPORTES - Espn Extra ARG (L)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9545
+#EXTINF:-1 tvg-name="DEPORTES - Espn Extra MEX (L)(720)"tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx"tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png"group-title="CANALES-DEPORTES",DEPORTES - Espn Extra MEX (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9547
+#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium CL (PM)(1080)"tvg-id="Canal.ESPN.(Ecuador).ec"tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png"group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium CL (PM)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/115015
+#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium CL (PM)(720)"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png"group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium CL (PM)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/115016
+#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)"tvg-id="ESPN.PREMIUM.ar"tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png"group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9549
+#EXTINF:-1 tvg-name="DEPORTES - Espn Premium ARG (M)(1080)"tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar"tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png"group-title="CANALES-DEPORTES",DEPORTES - Espn Premium ARG (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9546
+#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)"tvg-id="ESPN.PREMIUM.ar"tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png"group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9550
+#EXTINF:-1 tvg-name="DEPORTES - beIN Sport USA (M)(720)"tvg-id="beIN.Sports.HDTV.(English).(beIn).us"tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png"group-title="CANALES-DEPORTES",DEPORTES - beIN Sport USA (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9551
+#EXTINF:-1 tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)"tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us"tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png"group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9552
+#EXTINF:-1 tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)"tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us"tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png"group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (T)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9553
+#EXTINF:-1 tvg-name="DEPORTES - beIN Sports Ñ (TV)(1080)"tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us"tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png"group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9554
+#EXTINF:-1 tvg-name="DEPORTES - Fox Deportes (TV)(720)"tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us"tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9571
+#EXTINF:-1 tvg-name="DEPORTES - FOX DEPORTES (Z)(720)"tvg-id="QVC3.(QVC3).us"tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png"group-title="CANALES-DEPORTES",DEPORTES - FOX DEPORTES (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9572
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 ARG (L)(720)"tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar"tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9575
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)"tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar"tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9576
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)"tvg-id="FOX.Sports.2.HD(FSP2HD).co"tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 COL (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9577
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(1080)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 LAT (Z)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9578
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 MEX (M)(1080)"tvg-id="Fox.Sports.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).mx"tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 MEX (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9579
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2  LAT (Z)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2  LAT (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9580
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)"tvg-id="Canal.1.(Colombia).ar"tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9581
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 ARG (T)(1080)"tvg-id="Fox.Sports.2.HDTV.Latin.America.(FOXSP2HD).ar"tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (T)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9582
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 COL (TV)(1080)"tvg-id="FOX.Sports.2.HD(FSP2HD).co"tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 COL (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9583
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 MEX (L)(1080)"tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx"tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (L)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9584
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 MEX (M)(1080)"tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx"tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9585
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 MX (Z)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MX (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9586
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 (Z)(1080)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 (Z)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9587
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 ARG (T)(1080)"tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).ar"tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (T)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9588
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 ARG (TV)(1080)"tvg-id="FOX.Sports.3.HD(FXS3HD).co"tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9589
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)"tvg-id="FOX.Sports.3.HD(FXS3HD).co"tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 COL (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9590
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)"tvg-id="Canal.Azteca.Uno.mx"tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9591
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 MX (Z)(1080)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MX (Z)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9592
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports Premium MX (L)(720)"tvg-id="FOX.Sports.Premium.MEXICO.mx"tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png"group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium MX (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9593
+#EXTINF:-1 tvg-name="DEPORTES - TUDN - MEX (M)(720)"tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us"tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png"group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9603
+#EXTINF:-1 tvg-name="DEPORTES - TUDN - MEX (Z)(720)"tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us"tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png"group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9604
+#EXTINF:-1 tvg-name="DEPORTES - TUDN - USA (TV)(720)"tvg-id="TUDN.us"tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png"group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9605
+#EXTINF:-1 tvg-name="DEPORTES - TUDN - USA (Z)(720)"tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us"tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png"group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9606
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports + (L)(720)"tvg-id="DSPORTS.+.HD.dtvsp"tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9557
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports + (TV)(720)"tvg-id="DSPORTS.+.HD.dtvsp"tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9558
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports + (TV)(720)"tvg-id="DSPORTS.+.HD.dtvsp"tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9559
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 1 (ARG) (TV)(1080)"tvg-id="DSPORTS.(ARG).dtvsp"tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9560
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)"tvg-id="Fox.Sports.Chile.cl"tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 CHI (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9561
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)"tvg-id="DSPORTS.(COL).(DTSC).co"tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9562
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)"tvg-id="DSPORTS.(COL).(DTSC).co"tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9563
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 2 (e)(1080)"tvg-id="DSPORTS.2.HD.dtvsp"tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9564
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 2 (e)(720)"tvg-id="DSPORTS.2.(DTS2).co"tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9565
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 2 (Z)(720)"tvg-id="DSPORTS.2.HD.dtvsp"tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9567
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 2 ARG (L)(720)"tvg-id="DSPORTS.2.HD.dtvsp"tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 ARG (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9566
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports Fight (TV)(720)"tvg-id="DSPORTS.Fight(DTSFHD).co"tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Fight (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9568
+#EXTINF:-1 tvg-name="DEPORTES - Directv Sports Motors (TV)(720)"tvg-id="DSports.Motor.dtvsp"tvg-logo="https://i.postimg.cc/4N481KNM/Dsports-Motors.png"group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Motors (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9569
+#EXTINF:-1 tvg-name="DEPORTES - Claro Sports (Z)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png"group-title="CANALES-DEPORTES",DEPORTES - Claro Sports (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9555
+#EXTINF:-1 tvg-name="DEPORTES - Claro Sports 2 (Z)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png"group-title="CANALES-DEPORTES",DEPORTES - Claro Sports 2 (Z)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9556
+#EXTINF:-1 tvg-name="DEPORTES - Fight BOX  (TV)(1080)"tvg-id="The.Fight.Network.(United.States).(TFN).us"tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png"group-title="CANALES-DEPORTES",DEPORTES - Fight BOX  (TV)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9570
+#EXTINF:-1 tvg-name="DEPORTES - Gol TV ES (M)(720)"tvg-id="GOL.TV.uy"tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png"group-title="CANALES-DEPORTES",DEPORTES - Gol TV ES (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9594
+#EXTINF:-1 tvg-name="DEPORTES - Gol TV Internacional (TV)(720)"tvg-id="Gol.TV.USA.us"tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png"group-title="CANALES-DEPORTES",DEPORTES - Gol TV Internacional (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9595
+#EXTINF:-1 tvg-name="DEPORTES - Golf Latin America (M)(SD)"tvg-id="IndiePlex.HDTV.(INDIEHD).us"tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png"group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9596
+#EXTINF:-1 tvg-name="DEPORTES - Golf Latin MEX (M)(1080)"tvg-id="The.Golf.Channel.HDTV.(GLFHD).us"tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png"group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9597
+#EXTINF:-1 tvg-name="DEPORTES - NBA U (M)(720)"tvg-id="NBA.TV.HDTV.(NBA.HD).us"tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png"group-title="CANALES-DEPORTES",DEPORTES - NBA U (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9598
+#EXTINF:-1 tvg-name="DEPORTES - Sky sports (TV)(720)"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png"group-title="CANALES-DEPORTES",DEPORTES - Sky sports (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9599
+#EXTINF:-1 tvg-name="DEPORTES - SKY Sports Bundesliga (Z)"tvg-id=""tvg-logo="https://i.postimg.cc/HLzWrYdb/Proyectox-sky-sports.png"group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Bundesliga (Z)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9600
+#EXTINF:-1 tvg-name="DEPORTES - SKY Sports La liga (TV)(720)"tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us"tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png"group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9601
+#EXTINF:-1 tvg-name="DEPORTES - Tennis Channel (L)(720)"tvg-id="Tennis.Channel.HDTV.(TNNSHD).us"tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png"group-title="CANALES-DEPORTES",DEPORTES - Tennis Channel (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9602
+#EXTINF:-1 tvg-name="DEPORTES - TVC Deportes (L)(1080)"tvg-id="Canal.TVC.Deportes.mx"tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png"group-title="CANALES-DEPORTES",DEPORTES - TVC Deportes (L)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9607
+#EXTINF:-1 tvg-name="DEPORTES - TyC Sports INT (T)(720)"tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar"tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png"group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (T)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9608
+#EXTINF:-1 tvg-name="DEPORTES - TyC Sports INT (TV)(720)"tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar"tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png"group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (TV)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9609
+#EXTINF:-1 tvg-name="MEX-ADN 40 (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png"group-title="MEXICO",MEX-ADN 40 (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87604
+#EXTINF:-1 tvg-name="MEX-Aym Sports (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png"group-title="MEXICO",MEX-Aym Sports (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87584
+#EXTINF:-1 tvg-name="MEX-AZ Cinema (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png"group-title="MEXICO",MEX-AZ Cinema (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87585
+#EXTINF:-1 tvg-name="MEX-AZ Clic (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png"group-title="MEXICO",MEX-AZ Clic (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87566
+#EXTINF:-1 tvg-name="MEX-AZ Clic (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png"group-title="MEXICO",MEX-AZ Clic (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87586
+#EXTINF:-1 tvg-name="MEX-AZ Clic (M)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png"group-title="MEXICO",MEX-AZ Clic (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87565
+#EXTINF:-1 tvg-name="MEX-AZ Corazon (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png"group-title="MEXICO",MEX-AZ Corazon (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87568
+#EXTINF:-1 tvg-name="MEX-AZ Corazón (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png"group-title="MEXICO",MEX-AZ Corazón (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87587
+#EXTINF:-1 tvg-name="MEX-AZ Corazón (M)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png"group-title="MEXICO",MEX-AZ Corazón (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87567
+#EXTINF:-1 tvg-name="MEX-AZ Mundo (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png"group-title="MEXICO",MEX-AZ Mundo (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87589
+#EXTINF:-1 tvg-name="MEX-AZ Mundo (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png"group-title="MEXICO",MEX-AZ Mundo (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87588
+#EXTINF:-1 tvg-name="MEX-Azteca 7 (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png"group-title="MEXICO",MEX-Azteca 7 (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87572
+#EXTINF:-1 tvg-name="MEX-Azteca 7 (L)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png"group-title="MEXICO",MEX-Azteca 7 (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87571
+#EXTINF:-1 tvg-name="MEX-Azteca 7 (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png"group-title="MEXICO",MEX-Azteca 7 (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87569
+#EXTINF:-1 tvg-name="MEX-Azteca 7 (M)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png"group-title="MEXICO",MEX-Azteca 7 (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87570
+#EXTINF:-1 tvg-name="MEX-Azteca Deportes (L)(720)"tvg-id=""tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png"group-title="MEXICO",MEX-Azteca Deportes (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87574
+#EXTINF:-1 tvg-name="MEX-Azteca Deportes (L)(SD)"tvg-id=""tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png"group-title="MEXICO",MEX-Azteca Deportes (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87573
+#EXTINF:-1 tvg-name="MEX-Azteca UNO (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png"group-title="MEXICO",MEX-Azteca UNO (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87576
+#EXTINF:-1 tvg-name="MEX-Azteca Uno (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png"group-title="MEXICO",MEX-Azteca Uno (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87593
+#EXTINF:-1 tvg-name="MEX-Azteca UNO -2 Horas (L)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png"group-title="MEXICO",MEX-Azteca UNO -2 Horas (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87575
+#EXTINF:-1 tvg-name="MEX-BitMe (M)(720)"tvg-id=""tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png"group-title="MEXICO",MEX-BitMe (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87592
+#EXTINF:-1 tvg-name="MEX-Bloomberg (M)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-apx9Di-xHJM/Xm6zVXRpOnI/AAAAAAAABmY/fLo91xzoCjEJf2TdmBIqfwyc0Z-1WBjtgCLcBGAsYHQ/s200/42.png"group-title="MEXICO",MEX-Bloomberg (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87577
+#EXTINF:-1 tvg-name="MEX-Canal 5 (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png"group-title="MEXICO",MEX-Canal 5 (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87598
+#EXTINF:-1 tvg-name="MEX-Canal 5 (L)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png"group-title="MEXICO",MEX-Canal 5 (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87597
+#EXTINF:-1 tvg-name="MEX-Canal de las Estrellas -2 (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png"group-title="MEXICO",MEX-Canal de las Estrellas -2 (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87594
+#EXTINF:-1 tvg-name="MEX-Imagen TV (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png"group-title="MEXICO",MEX-Imagen TV (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87616
+#EXTINF:-1 tvg-name="MEX-Imagen TV (M)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png"group-title="MEXICO",MEX-Imagen TV (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87615
+#EXTINF:-1 tvg-name="MEX-Ingenio TV (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-XslEa9ODtnk/Xm6mRePc-WI/AAAAAAAABj4/ySQY8kuakmUPogs60eW4wmY0L6MsqrNXgCLcBGAsYHQ/s200/34.png"group-title="MEXICO",MEX-Ingenio TV (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87617
+#EXTINF:-1 tvg-name="MEX-Las Estrellas (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png"group-title="MEXICO",MEX-Las Estrellas (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87579
+#EXTINF:-1 tvg-name="MEX-Las Estrellas (M)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png"group-title="MEXICO",MEX-Las Estrellas (M)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87578
+#EXTINF:-1 tvg-name="MEX-Las Estrellas -2 Horas (L)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png"group-title="MEXICO",MEX-Las Estrellas -2 Horas (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87583
+#EXTINF:-1 tvg-name="MEX-Las Estrellas -2 Horas (L)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png"group-title="MEXICO",MEX-Las Estrellas -2 Horas (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87582
+#EXTINF:-1 tvg-name="MEX-Once TV (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png"group-title="MEXICO",MEX-Once TV (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87603
+#EXTINF:-1 tvg-name="MEX-Televisa Monterrey (L)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png"group-title="MEXICO",MEX-Televisa Monterrey (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87605
+#EXTINF:-1 tvg-name="MEX-Televisa Puebla (L)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-HxMvNbzeE6U/Xm5wXn6qtoI/AAAAAAAABgg/MjSkMggWOFkXUlEuar-YsNzIDfRbvjq2gCLcBGAsYHQ/s200/20.png"group-title="MEXICO",MEX-Televisa Puebla (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87606
+#EXTINF:-1 tvg-name="MEX-Tlnovelas (M)(720)"tvg-id=""tvg-logo=""group-title="MEXICO",MEX-Tlnovelas (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87591
+#EXTINF:-1 tvg-name="MEX-TUDN (M)(720)"tvg-id=""tvg-logo=""group-title="MEXICO",MEX-TUDN (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87590
+#EXTINF:-1 tvg-name="MEX-TVC (L)(SD)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-BOL52VBf-TU/Xm5tz_NgftI/AAAAAAAABgI/P1eRtJdSPageCZug75EIwQMk7_eemmdQgCLcBGAsYHQ/s200/17.png"group-title="MEXICO",MEX-TVC (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87608
+#EXTINF:-1 tvg-name="MEX-TVC Deportes (L)(720)"tvg-id=""tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png"group-title="MEXICO",MEX-TVC Deportes (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87610
+#EXTINF:-1 tvg-name="MEX-TVC Deportes (L)(SD)"tvg-id=""tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png"group-title="MEXICO",MEX-TVC Deportes (L)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87609
+#EXTINF:-1 tvg-name="MEX-USA Latino (L)(720)"tvg-id=""tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png"group-title="MEXICO",MEX-USA Latino (L)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87614
+#EXTINF:-1 tvg-name="MEX-Viva Mexico (M)(720)"tvg-id=""tvg-logo="https://i.postimg.cc/cCRmb8wq/Proyectoxnew-3.png"group-title="MEXICO",MEX-Viva Mexico (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87600
+#EXTINF:-1 tvg-name="MEX_Azteca uno (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png"group-title="MEXICO",MEX_Azteca uno (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87602
+#EXTINF:-1 tvg-name="MEX_Canal 4 Televisa Mty (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png"group-title="MEXICO",MEX_Canal 4 Televisa Mty (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87601
+#EXTINF:-1 tvg-name="MEX_Canal 5 (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png"group-title="MEXICO",MEX_Canal 5 (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87596
+#EXTINF:-1 tvg-name="MEX_Foro TV (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-97qblKLDK5A/Xm5m0h85WuI/AAAAAAAABdg/a6PjI8WcZxIT5OOM3M8D7GdQInJ1uy5qgCLcBGAsYHQ/s200/6.png"group-title="MEXICO",MEX_Foro TV (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87595
+#EXTINF:-1 tvg-name="MEX_Las Estrellas -1hr (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png"group-title="MEXICO",MEX_Las Estrellas -1hr (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87580
+#EXTINF:-1 tvg-name="MEX_Las Estrellas -2hr (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png"group-title="MEXICO",MEX_Las Estrellas -2hr (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87581
+#EXTINF:-1 tvg-name="MEX_MilenioTV (M)(720)"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png"group-title="MEXICO",MEX_MilenioTV (M)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/87599
+#EXTINF:-1 tvg-name="24/7 ALF (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 ALF (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96690
+#EXTINF:-1 tvg-name="24/7 Batman (1966)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Batman (1966)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/101815
+#EXTINF:-1 tvg-name="24/7 Batman del futuro (1999)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Batman del futuro (1999)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/101816
+#EXTINF:-1 tvg-name="24/7 Batman El Enmascarado (2024)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Batman El Enmascarado (2024)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/101817
+#EXTINF:-1 tvg-name="24/7 Batman: La Serie Animada (1992)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Batman: La Serie Animada (1992)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/101818
+#EXTINF:-1 tvg-name="24/7 Bonanza (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Bonanza (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96692
+#EXTINF:-1 tvg-name="24/7 Buffy, cazavampiros"tvg-id=""tvg-logo=""group-title="24/7 RETRO",cazavampiros
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96693
+#EXTINF:-1 tvg-name="24/7 Chan Clan (1972)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Chan Clan (1972)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105627
+#EXTINF:-1 tvg-name="24/7 Chan Clan (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Chan Clan (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110039
+#EXTINF:-1 tvg-name="24/7 Clan del Oso Yogui (e)(HQ)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Clan del Oso Yogui (e)(HQ)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110035
+#EXTINF:-1 tvg-name="24/7 Clue Club (1976)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Clue Club (1976)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105628
+#EXTINF:-1 tvg-name="24/7 Conejo Ricochet y Coyote Droop a Long (1964)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Conejo Ricochet y Coyote Droop a Long (1964)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105629
+#EXTINF:-1 tvg-name="24/7 Dinamita el Perro Maravilla (1976)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Dinamita el Perro Maravilla (1976)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105630
+#EXTINF:-1 tvg-name="24/7 Don Gato Y Su Pandilla (e)(1080)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Don Gato Y Su Pandilla (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110032
+#EXTINF:-1 tvg-name="24/7 Droopy Master Detective (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Droopy Master Detective (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110040
+#EXTINF:-1 tvg-name="24/7 El Auto Fantástico (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Auto Fantástico (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96694
+#EXTINF:-1 tvg-name="24/7 El Escuadron Diabolico (1969)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Escuadron Diabolico (1969)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105631
+#EXTINF:-1 tvg-name="24/7 El fantasma revoltoso (1971)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El fantasma revoltoso (1971)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105632
+#EXTINF:-1 tvg-name="24/7 El Fantasma Revoltoso (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Fantasma Revoltoso (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110041
+#EXTINF:-1 tvg-name="24/7 El Leon Melquiades (1961)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Leon Melquiades (1961)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105633
+#EXTINF:-1 tvg-name="24/7 El nuevo show del Oso Yogi (1988)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El nuevo show del Oso Yogi (1988)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105635
+#EXTINF:-1 tvg-name="24/7 El Show de Huckleberry Hound"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Show de Huckleberry Hound
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110042
+#EXTINF:-1 tvg-name="24/7 El Show de los 70's (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Show de los 70's (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96776
+#EXTINF:-1 tvg-name="24/7 El Show de Pebbles y Bamm-Bamm (1971)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Show de Pebbles y Bamm-Bamm (1971)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105636
+#EXTINF:-1 tvg-name="24/7 El Show del Oso Yogi (e)(1080)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Show del Oso Yogi (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110034
+#EXTINF:-1 tvg-name="24/7 El Show del Oso Yogui (1961)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Show del Oso Yogui (1961)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105634
+#EXTINF:-1 tvg-name="24/7 El Super Agente 86 (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El Super Agente 86 (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96695
+#EXTINF:-1 tvg-name="24/7 El valle de los dinosaurios (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 El valle de los dinosaurios (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110043
+#EXTINF:-1 tvg-name="24/7 Frankenstein Jr (1966)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Frankenstein Jr (1966)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105650
+#EXTINF:-1 tvg-name="24/7 Galaxy Goof-Ups (e)(720)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Galaxy Goof-Ups (e)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110044
+#EXTINF:-1 tvg-name="24/7 Gasparin y los angeles"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Gasparin y los angeles
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110045
+#EXTINF:-1 tvg-name="24/7 Hechizada (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Hechizada (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96691
+#EXTINF:-1 tvg-name="24/7 Jonny Quest (1996)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Jonny Quest (1996)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105637
+#EXTINF:-1 tvg-name="24/7 La Carrera Espacial de Yogi (e)(720)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 La Carrera Espacial de Yogi (e)(720)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110046
+#EXTINF:-1 tvg-name="24/7 La Familia Addams (1972)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 La Familia Addams (1972)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105638
+#EXTINF:-1 tvg-name="24/7 La familia Ingalls (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 La familia Ingalls (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96699
+#EXTINF:-1 tvg-name="24/7 La familia Monster (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 La familia Monster (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96780
+#EXTINF:-1 tvg-name="24/7 La Tremenda Corte (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 La Tremenda Corte (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96698
+#EXTINF:-1 tvg-name="24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/101819
+#EXTINF:-1 tvg-name="24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110038
+#EXTINF:-1 tvg-name="24/7 Las olimpiadas de la risa (1977)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Las olimpiadas de la risa (1977)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105639
+#EXTINF:-1 tvg-name="24/7 Lindo pulgoso (1965)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Lindo pulgoso (1965)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105640
+#EXTINF:-1 tvg-name="24/7 Loopy De Loop (1959)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Loopy De Loop (1959)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105641
+#EXTINF:-1 tvg-name="24/7 Los 4 Fantasticos (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los 4 Fantasticos (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110047
+#EXTINF:-1 tvg-name="24/7 Los años maravillosos (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los años maravillosos (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96782
+#EXTINF:-1 tvg-name="24/7 Los Dukes de Hazzard (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los Dukes de Hazzard (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96779
+#EXTINF:-1 tvg-name="24/7 los guardianes galacticos (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 los guardianes galacticos (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110048
+#EXTINF:-1 tvg-name="24/7 Los locos Addams"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los locos Addams
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96777
+#EXTINF:-1 tvg-name="24/7 Los Magníficos (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los Magníficos (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96778
+#EXTINF:-1 tvg-name="24/7 Los Pequenos Picapiedras (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los Pequenos Picapiedras (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110050
+#EXTINF:-1 tvg-name="24/7 Los Picapiedras (e)(1080)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los Picapiedras (e)(1080)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110033
+#EXTINF:-1 tvg-name="24/7 Los piratas de las aguas negras (1991)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los piratas de las aguas negras (1991)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105642
+#EXTINF:-1 tvg-name="24/7 Los Pitufos (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los Pitufos (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110049
+#EXTINF:-1 tvg-name="24/7 Los Supersonicos (1962)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los Supersonicos (1962)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105643
+#EXTINF:-1 tvg-name="24/7 Los Tres Chiflados (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Los Tres Chiflados (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96781
+#EXTINF:-1 tvg-name="24/7 MacGyver (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 MacGyver (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96774
+#EXTINF:-1 tvg-name="24/7 Mi Bella Genio (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Mi Bella Genio (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96696
+#EXTINF:-1 tvg-name="24/7 Motoraton y Autogato (1969)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Motoraton y Autogato (1969)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105644
+#EXTINF:-1 tvg-name="24/7 Motormouse And Autocat (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Motormouse And Autocat (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110051
+#EXTINF:-1 tvg-name="24/7 Pepe Potamo (1964)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Pepe Potamo (1964)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105645
+#EXTINF:-1 tvg-name="24/7 Policía de acero Jiban (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Policía de acero Jiban (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96697
+#EXTINF:-1 tvg-name="24/7 Pulgarcito investigador privado (1973)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Pulgarcito investigador privado (1973)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105646
+#EXTINF:-1 tvg-name="24/7 Pulpo Manotas (1965)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Pulpo Manotas (1965)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105647
+#EXTINF:-1 tvg-name="24/7 Richy Ricon (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Richy Ricon (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110052
+#EXTINF:-1 tvg-name="24/7 Salvados por la campana (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Salvados por la campana (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96775
+#EXTINF:-1 tvg-name="24/7 The Batman (2004)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 The Batman (2004)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/101820
+#EXTINF:-1 tvg-name="24/7 Thundarr el barbaro (1980)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Thundarr el barbaro (1980)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105648
+#EXTINF:-1 tvg-name="24/7 Tiro Loco (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Tiro Loco (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110053
+#EXTINF:-1 tvg-name="24/7 Travesuras De Los Picapiedras (1980)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Travesuras De Los Picapiedras (1980)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/105649
+#EXTINF:-1 tvg-name="24/7 Walker Comisario de Texas (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Walker Comisario de Texas (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/96783
+#EXTINF:-1 tvg-name="24/7 Xena: La princesa guerrera (e)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Xena: La princesa guerrera (e)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/101183
+#EXTINF:-1 tvg-name="24/7 Yo Yogi (e)(HQ)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Yo Yogi (e)(HQ)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110036
+#EXTINF:-1 tvg-name="24/7 Yogui y la busqueda del tesoro (e)(HQ)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 Yogui y la busqueda del tesoro (e)(HQ)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/110037
+#EXTINF:-1 tvg-name="24/7 X-Men (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 X-Men (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/114145
+#EXTINF:-1 tvg-name="24/7 ThunderCats (e)(SD)"tvg-id=""tvg-logo=""group-title="24/7 RETRO",24/7 ThunderCats (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/114146
+#EXTINF:-1 tvg-name="24/7 LiveMan (e)(SD)"tvg-id=""tvg-logo="https://i.postimg.cc/7Zt7G67M/Iprotv-Ciney-Series2-30.png"group-title="24/7 RETRO",24/7 LiveMan (e)(SD)
+http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/115518
