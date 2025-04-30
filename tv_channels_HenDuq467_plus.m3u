@@ -3545,156 +3545,177 @@ http://playtv44.com:8080/movie/971627115/123456/92754.mkv
 http://playtv44.com:8080/movie/971627115/123456/93204.mkv
 #EXTINF:-1 tvg-name="13 Horas: Los soldados secretos de Bengasi (2016)"tvg-id=""tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg"group-title="▶️ PELICULAS NETLFIX SINCRONIZANDO...",13 Horas: Los soldados secretos de Bengasi (2016)
 http://playtv44.com:8080/movie/971627115/123456/96633.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",3ABN MX
+#EXTM3U
+#EXTINF:-1 group-title="MEXICO2",3ABN MX
 http://45.68.35.218:4001/play/a012/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",AZ HONDURAS
+#EXTINF:-1 group-title="MEXICO2",AZ HONDURAS
 http://45.68.35.218:4001/play/a02g/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",AZTECA 1
+#EXTINF:-1 group-title="MEXICO2",AZTECA 1
 http://45.68.35.218:4001/play/a025/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",AZTECA 7 MX
+#EXTINF:-1 group-title="MEXICO2",AZTECA 7 MX
 http://45.68.35.218:4001/play/a006/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",AZTECA GUATEMALA MX
+#EXTINF:-1 group-title="MEXICO2",AZTECA GUATEMALA MX
 http://45.68.35.218:4001/play/a00n/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",AZTECA INTERNACIONAL MX
+#EXTINF:-1 group-title="MEXICO2",AZTECA INTERNACIONAL MX
 http://45.68.35.218:4001/play/a00l/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",BANDA MAX MX
+#EXTINF:-1 group-title="MEXICO2",BANDA MAX MX
 http://45.68.35.218:4001/play/a00g/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",BITME MX
+#EXTINF:-1 group-title="MEXICO2",BITME MX
 http://45.68.35.218:4001/play/a00d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",BUNDESLIGA MX
+#EXTINF:-1 group-title="MEXICO2",BUNDESLIGA MX
 http://45.68.35.218:4001/play/a00c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 11
+#EXTINF:-1 group-title="MEXICO2",CANAL 11
 http://45.68.35.218:4001/play/a02e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 15 PRUEBA
+#EXTINF:-1 group-title="MEXICO2",CANAL 15 PRUEBA
 http://45.68.35.218:4001/play/a01e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 27 GUATE
+#EXTINF:-1 group-title="MEXICO2",CANAL 27 GUATE
 http://45.68.35.218:4001/play/a01a/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 4 FIBRA
+#EXTINF:-1 group-title="MEXICO2",CANAL 4 FIBRA
 http://45.68.35.218:4001/play/a003/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 5 FIBRA
+#EXTINF:-1 group-title="MEXICO2",CANAL 5 FIBRA
 http://45.68.35.218:4001/play/a002/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 5 MX
+#EXTINF:-1 group-title="MEXICO2",CANAL 5 MX
 http://45.68.35.218:4001/play/a009/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 6
+#EXTINF:-1 group-title="MEXICO2",CANAL 6
 http://45.68.35.218:4001/play/a023/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 8 HN
+#EXTINF:-1 group-title="MEXICO2",CANAL 8 HN
 http://45.68.35.218:4001/play/a024/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL 9 MX
+#EXTINF:-1 group-title="MEXICO2",CANAL 9 MX
 http://45.68.35.218:4001/play/a01g/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CANAL CAPITAL COLOMBIA SUR
+#EXTINF:-1 group-title="MEXICO2",CANAL CAPITAL COLOMBIA SUR 
 http://45.68.35.218:4001/play/a036/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CARACOL
+#EXTINF:-1 group-title="MEXICO2",CARACOL
 http://45.68.35.218:4001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CARACOL SRT COLOMBIA
+#EXTINF:-1 group-title="MEXICO2",CARACOL SRT COLOMBIA
 http://45.68.35.218:4001/play/a02s/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CHOLUTSAR
+#EXTINF:-1 group-title="MEXICO2",CHOLUTSAR
 http://45.68.35.218:4001/play/a02i/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CINE MEXICANO
+#EXTINF:-1 group-title="MEXICO2",CINE MEXICANO
 http://45.68.35.218:4001/play/a01x/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",COLOMBIA 1 SUR 13
+#EXTINF:-1 group-title="MEXICO2",COLOMBIA 1 SUR 13
 http://45.68.35.218:4001/play/a035/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",CONGRESO
+#EXTINF:-1 group-title="MEXICO2",CONGRESO
 http://45.68.35.218:4001/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",D PELICULAS MX
+#EXTINF:-1 group-title="MEXICO2",D PELICULAS MX
 http://45.68.35.218:4001/play/a00e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",DEPORTES TVC FIBRA
+#EXTINF:-1 group-title="MEXICO2",DEPORTES TVC FIBRA
 http://45.68.35.218:4001/play/a005/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",DISTRITO COMEDIA MX
+#EXTINF:-1 group-title="MEXICO2",DISTRITO COMEDIA MX
 http://45.68.35.218:4001/play/a00f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",DW
+#EXTINF:-1 group-title="MEXICO2",DW
 http://45.68.35.218:4001/play/a02j/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",Disney VN
+#EXTINF:-1 group-title="MEXICO2",Disney VN
 http://45.68.35.218:4001/play/a01m/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN 1 SRT SUR
+#EXTINF:-1 group-title="MEXICO2",ESPN 1 SRT SUR
 http://45.68.35.218:4001/play/a02t/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN 2 SRT SUR
+#EXTINF:-1 group-title="MEXICO2",ESPN 2 SRT SUR
 http://45.68.35.218:4001/play/a02u/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN 3 SRT SUR
+#EXTINF:-1 group-title="MEXICO2",ESPN 3 SRT SUR
 http://45.68.35.218:4001/play/a02v/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN 4 SRT SUR
+#EXTINF:-1 group-title="MEXICO2",ESPN 4 SRT SUR
 http://45.68.35.218:4001/play/a02w/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN 5 SRT SUR
+#EXTINF:-1 group-title="MEXICO2",ESPN 5 SRT SUR
 http://45.68.35.218:4001/play/a02x/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN 6 SRT SUR
+#EXTINF:-1 group-title="MEXICO2",ESPN 6 SRT SUR
 http://45.68.35.218:4001/play/a02y/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN 7 SRT SUR
+#EXTINF:-1 group-title="MEXICO2",ESPN 7 SRT SUR
 http://45.68.35.218:4001/play/a02z/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",ESPN DEPORTES USA
+#EXTINF:-1 group-title="MEXICO2",ESPN DEPORTES USA
 http://45.68.35.218:4001/play/a015/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",FOX SPORT 1
+#EXTINF:-1 group-title="MEXICO2",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",FOX SPORT 2
+#EXTINF:-1 group-title="MEXICO2",FOX SPORT 2
 http://45.68.35.218:4001/play/a01p/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",GOLDEN EDGE MX
+#EXTINF:-1 group-title="MEXICO2",GOLDEN EDGE MX
 http://45.68.35.218:4001/play/a00i/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",HCH FIBRA
+#EXTINF:-1 group-title="MEXICO2",HCH FIBRA
 http://45.68.35.218:4001/play/a004/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",JEFE2
+#EXTINF:-1 group-title="MEXICO2",JEFE2
 http://45.68.35.218:4001/play/a018/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",JEFE3
+#EXTINF:-1 group-title="MEXICO2",JEFE3
 http://45.68.35.218:4001/play/a019/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",JEFE4
+#EXTINF:-1 group-title="MEXICO2",JEFE4
 http://45.68.35.218:4001/play/a01b/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",LA LIGA MX
+#EXTINF:-1 group-title="MEXICO2",LA LIGA MX
 http://45.68.35.218:4001/play/a00b/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",LAS ESTRELLAS MX 1
+#EXTINF:-1 group-title="MEXICO2",LAS ESTRELLAS MX 1
 http://45.68.35.218:4001/play/a00a/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",LAS ESTRELLAS MX 12
+#EXTINF:-1 group-title="MEXICO2",LAS ESTRELLAS MX 12
 http://45.68.35.218:4001/play/a00h/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",MARIA VISION MX
+#EXTINF:-1 group-title="MEXICO2",MARIA VISION MX
 http://45.68.35.218:4001/play/a00q/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",MAYA TV
+#EXTINF:-1 group-title="MEXICO2",MAYA TV
 http://45.68.35.218:4001/play/a026/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",MEGACLASICOS
+#EXTINF:-1 group-title="MEXICO2",MEGACLASICOS
 http://45.68.35.218:4001/play/a02l/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",OROMAR
+#EXTINF:-1 group-title="MEXICO2",OROMAR
 http://45.68.35.218:4001/play/a01k/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",Q HUBO TV
+#EXTINF:-1 group-title="MEXICO2",Q HUBO TV
 http://45.68.35.218:4001/play/a029/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",RCN SRT SUR
+#EXTINF:-1 group-title="MEXICO2",RCN SRT SUR
 http://45.68.35.218:4001/play/a031/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",RUMBA TV SUR 12
+#EXTINF:-1 group-title="MEXICO2",RUMBA TV SUR 12
 http://45.68.35.218:4001/play/a034/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TELECEIBA
+#EXTINF:-1 group-title="MEXICO2",TELECEIBA
 http://45.68.35.218:4001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TELEHIT MUSICA MX
+#EXTINF:-1 group-title="MEXICO2",TELEHIT MUSICA MX
 http://45.68.35.218:4001/play/a00p/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TELEHIT MX
+#EXTINF:-1 group-title="MEXICO2",TELEHIT MX
 http://45.68.35.218:4001/play/a00o/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TELEMUNDO MIAMI
+#EXTINF:-1 group-title="MEXICO2",TELEMUNDO MIAMI
 http://45.68.35.218:4001/play/a00y/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TELEPROGRESO
+#EXTINF:-1 group-title="MEXICO2",TELEPROGRESO
 http://45.68.35.218:4001/play/a01d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TELEPROGRESO NW
+#EXTINF:-1 group-title="MEXICO2",TELEPROGRESO NW
 http://45.68.35.218:4001/play/a02f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TELESUR MX
+#EXTINF:-1 group-title="MEXICO2",TELESUR MX
 http://45.68.35.218:4001/play/a011/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TEN 11 LEGAL
+#EXTINF:-1 group-title="MEXICO2",TEN 11 LEGAL
 http://45.68.35.218:4001/play/a01w/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TEN CANAL 10
+#EXTINF:-1 group-title="MEXICO2",TEN CANAL 10
 http://45.68.35.218:4001/play/a01o/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TIGO DEPORTES MX
+#EXTINF:-1 group-title="MEXICO2",TIGO DEPORTES MX
 http://45.68.35.218:4001/play/a00t/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TIGO HN JEFE 1
+#EXTINF:-1 group-title="MEXICO2",TIGO HN JEFE 1
 http://45.68.35.218:4001/play/a010/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TIGO RESPALDO
+#EXTINF:-1 group-title="MEXICO2",TIGO RESPALDO
 http://45.68.35.218:4001/play/a01t/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TIGO RESPALDO VINICIO
+#EXTINF:-1 group-title="MEXICO2",TIGO RESPALDO VINICIO
 http://45.68.35.218:4001/play/a01r/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TL NOVELAS MX
+#EXTINF:-1 group-title="MEXICO2",TL NOVELAS MX 
 http://45.68.35.218:4001/play/a00s/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TN23 MX
+#EXTINF:-1 group-title="MEXICO2",TN23 MX
 http://45.68.35.218:4001/play/a00r/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TNT SPORT SRT SUR
+#EXTINF:-1 group-title="MEXICO2",TNT SPORT SRT SUR
 http://45.68.35.218:4001/play/a030/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TSI FIBRA
+#EXTINF:-1 group-title="MEXICO2",TSI FIBRA
 http://45.68.35.218:4001/play/a001/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TUDN MX
+#EXTINF:-1 group-title="MEXICO2",TUDN MX
 http://45.68.35.218:4001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TUDN RESPALDO
+#EXTINF:-1 group-title="MEXICO2",TUDN RESPALDO 
 http://45.68.35.218:4001/play/a01u/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TUDN USA VC
+#EXTINF:-1 group-title="MEXICO2",TUDN USA VC
 http://45.68.35.218:4001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TV AGRO SUR 
+http://45.68.35.218:4001/play/a033/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",UNE TV
+http://45.68.35.218:4001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",UNICABLE MX
+http://45.68.35.218:4001/play/a014/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",UNIVISION MIAMI VC
+http://45.68.35.218:4001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VEA CANAL MX
+http://45.68.35.218:4001/play/a013/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VIDEO ROLA MX
+http://45.68.35.218:4001/play/a007/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VIX LA LIGA RESPALDO
+http://45.68.35.218:4001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VTV
+http://45.68.35.218:4001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VW PLUS
+http://45.68.35.218:4001/play/a022/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",WIN SPORT SRT
+http://45.68.35.218:4001/play/a032/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TV AGRO SUR
 http://45.68.35.218:4001/play/a033/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",UNE TV
