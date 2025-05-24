@@ -1,4 +1,140 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="MX | TELEVISA CD JUAREZ | SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPnnyIQWx-p69RgEnGakoinBl-5yJ3Qpg0zJjHCpDmjk.png"group-title="MEXICO",MX | TELEVISA CD JUAREZ | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4W8C1JImqGSkPDpQ5I39MfA/ts
+#EXTINF:-1 tvg-name="MX | TELEVISA GUADALAJARA | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPnnyIQWx-p69RgEnGakoinBl-5yJ3Qpg0zJjHCpDmjk.png"group-title="MEXICO",MX | TELEVISA GUADALAJARA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4f-pWhtHWB81QbJ_Tp4-r3w/ts
+#EXTINF:-1 tvg-name="MX | TELEVISA MEXICALI | SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPnnyIQWx-p69RgEnGakoinBl-5yJ3Qpg0zJjHCpDmjk.png"group-title="MEXICO",MX | TELEVISA MEXICALI | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4XhrdOAGrBFCiRhs6CTApuE/ts
+#EXTINF:-1 tvg-name="MX | TELEVISA MONTERREY | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAUHGHvEfVcl4GuufRVq3muamoJ-_ruxYp4SBoLv91NV.png"group-title="MEXICO",MX | TELEVISA MONTERREY | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4RUiZ4tK4IQNNG2Qx8V-hL0/ts
+#EXTINF:-1 tvg-name="MX | TELEVISA PUEBLA | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAUHGHvEfVcl4GuufRVq3muamoJ-_ruxYp4SBoLv91NV.png"group-title="MEXICO",MX | TELEVISA PUEBLA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4QRh2jhacyF-AOElWRO0YXQ/ts
+#EXTINF:-1 tvg-name="MX | TELEVISA SONORA | SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPnnyIQWx-p69RgEnGakoinBl-5yJ3Qpg0zJjHCpDmjk.png"group-title="MEXICO",MX | TELEVISA SONORA | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4SrfZ-CQr0MEVnyTfagJxB4/ts
+#EXTINF:-1 tvg-name="A+"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/lmb/images/1/15/A_logo.png/revision/latest?cb=20170909222155&path-prefix=es"group-title="MEXICO",A+
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4UR64ORbpRwv0-c13TRzum0/ts
+#EXTINF:-1 tvg-name="MX | ADN 40 | HD"tvg-id="canaladn40.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKG_GMzGNBfO5ZCs-ExSAPGWYJXfDX9TVnvbdSZMkV6y.png"group-title="MEXICO",MX | ADN 40 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Xq8aSKCXHbFyFs1driw6-Q/ts
+#EXTINF:-1 tvg-name="MX | AZTECA 7 | HD"tvg-id="azteca7.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNybucTwYlxYHV_3DP8U8o_91sr_Ar5UvCcDRKlXdBxD.png"group-title="MEXICO",MX | AZTECA 7 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4a_pNx8CMqlpX7IDlKEi4Lk/ts
+#EXTINF:-1 tvg-name="MX | AZTECA INTERNACIONAL | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JE0E9BmYzz67369dQpu-EerhQox1050oIvlZCLNFEIgTkTSDwOcqGNSN8LqzoDUs7w.png"group-title="MEXICO",MX | AZTECA INTERNACIONAL | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4dfZBZkS69lQAVbibLuXkO4/ts
+#EXTINF:-1 tvg-name="MX | AZTECA MUNDO | HD"tvg-id="aztecamundo.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKgxaGs-TPcQrOKU-3r2B18S_GRDsxwf9va4tgBc6G0RwwPFkJ6kzvSTlZP01XIhlw.png"group-title="MEXICO",MX | AZTECA MUNDO | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4V1LgkSKOnAAMc86InMQ538/ts
+#EXTINF:-1 tvg-name="MX | AZTECA UNO | HD"tvg-id="aztecauno.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JD48UpuTsD5MF5cIpKll6kvgHDie5dnuO7TwyHh7I-Ab.png"group-title="MEXICO",MX | AZTECA UNO | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4dcemVEmajmitscfsrFGS8U/ts
+#EXTINF:-1 tvg-name="MX | AZTECA UNO -2 | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPcoattrHZJCewmGZNIWLovh7179dN1mmCHn3WZL8YHP.png"group-title="MEXICO",MX | AZTECA UNO -2 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4eg5vlqeB2yAnRnH96kHeP8/ts
+#EXTINF:-1 tvg-name="MX | CANAL 14 | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDOFIjps6x6210NH5ydUu7evqyL0S2djTah_Jc0HfxQU.png"group-title="MEXICO",MX | CANAL 14 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Rs0Ymwk8q9QCIWOWO__3Js/ts
+#EXTINF:-1 tvg-name="MX | CANAL 22 | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAh8Bwp75WaiDsBCEfg5i0RHYVpouxdn2rYch00e9EBc.png"group-title="MEXICO",MX | CANAL 22 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4SkOjlgVYjbxELsVq1_48qE/ts
+#EXTINF:-1 tvg-name="MX | VA+ AGUASCALIENTES | HD"tvg-id="AGUASC"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMG_O5QumUD55lW-nB26uz8Za0m9FaNovevXJqKAHD-7a2HBJ1o3i-JUXhwW8fbmdA.png"group-title="MEXICO",MX | VA+ AGUASCALIENTES | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4aDtNjuRiVbyC-F3B_sQlZY/ts
+#EXTINF:-1 tvg-name="MX | CANAL 5 | HD"tvg-id="5nacional.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMf5ScHfMzUJfb5WSqm0VSuXzxDXPqlZJ5QS1G5LNih5.png"group-title="MEXICO",MX | CANAL 5 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Z5FSDRNcwH0xHc4_iXf6bA/ts
+#EXTINF:-1 tvg-name="MX | MULTIMEDIOS CDMX | HD"tvg-id="multimedios.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDFAlsV8Hhdw8t8dCiZSBqzWhogwX7ecq8laqpGmjmYdvAoTgJfbh8j9C43BKZW6tw.png"group-title="MEXICO",MX | MULTIMEDIOS CDMX | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4cJuPC6XEdO0kLuQYCVeOBE/ts
+#EXTINF:-1 tvg-name="MX | LAS ESTRELLAS | HD"tvg-id="lasestrellas.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMxQDyq2TRl7Ui0i3kJPRVl-FY-eECr4leWFG6uXe3vPPnIQIgyEsrnX_O4zUAANCg.png"group-title="MEXICO",MX | LAS ESTRELLAS | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4QYWNIdl4tXAISHhhbrMzdo/ts
+#EXTINF:-1 tvg-name="CINE DINAMITA | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JFR4VEIYU_2SoVZ6lsGY4lnS8Xhut5KA8hfekxPW3797BvwkPjBjZPSOkZOwZM-tHQ.jpg"group-title="MEXICO",CINE DINAMITA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4eO3ZMWV8RGNUuiNEUyni8Y/ts
+#EXTINF:-1 tvg-name="CINE LATINO | SD"tvg-id="cinelatino.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JIHly__yqXbgrk5_pDw8i3w4eUvdaKtogEv3j-FrYKq3.png"group-title="MEXICO",CINE LATINO | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4WiCAIjP-A80GzK_FZSj-Mc/ts
+#EXTINF:-1 tvg-name="MX | CINE MEXICANO | SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPHqGZaxNMsSeuIwIfa8KJ1xF8pekS0kHPQLtgte5nnG7T4sdyVavq_MYFNhOM55Ag.png"group-title="MEXICO",MX | CINE MEXICANO | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4QpDf3aZjeWMcSmw9uHAIA0/ts
+#EXTINF:-1 tvg-name="COMEDY CENTRAL | HD"tvg-id="comedycentral.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBebObHXhiRtJYPSXKsuvTP7sDdsO2Lfw0gTxjGCKaZ1NZRo4L6bkI1RvfdmNeiK0g.jpg"group-title="MEXICO",COMEDY CENTRAL | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4ds_YXiMi86w6T1iSN9UNL0/ts
+#EXTINF:-1 tvg-name="DE PELICULA"tvg-id="depelicula.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEZ6t4a-3rwRY_rF85_MwQ4TUW8lJLmkkShwdQYMqKZY.jpg"group-title="MEXICO",DE PELICULA
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4XjTPxQ3i4_6aWoW_fBe0ck/ts
+#EXTINF:-1 tvg-name="DE PELICULA PLUS | HD"tvg-id="depelicula.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JABKHlYRkXEIcUyZns8_es4VluxHUtpMsh-skF8sblxw4i3KGz9XFYc-h8xcz6VbXQ.png"group-title="MEXICO",DE PELICULA PLUS | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4V9-kWawDkALPyPanQI__zA/ts
+#EXTINF:-1 tvg-name="DISTRITO COMEDIA | HD"tvg-id="distritocomedia.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JD0eVTtmpZaobzDktXKmEu2otBYI-P7YkZZusqNaijfS-CHK1HwfTeJdDG5VRp3Cjw.jpg"group-title="MEXICO",DISTRITO COMEDIA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4UZ-v0jw69jGOmYescoLyis/ts
+#EXTINF:-1 tvg-name="ESTRELLA TV (2 Horas)"tvg-id="ESTRLLP"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JG3YBbaUfTqEr_DqRI20ycWfqQn_bSp2vsf6iK8cshb7CKgPYMMnyZut8nnXGv3D-g.jpg"group-title="MEXICO",ESTRELLA TV (2 Horas)
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4TNtAeobkBL1-4A62UAVy5k/ts
+#EXTINF:-1 tvg-name="MX | ESTRELLA TV | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPWBWqTUPzEZlClIkpIVjSXgf1OzRweMOhsTbNG9CwIP.png"group-title="MEXICO",MX | ESTRELLA TV | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4QZ28hm2h7B42h-Qg8fpdqI/ts
+#EXTINF:-1 tvg-name="Filmex Clásico"tvg-id=""tvg-logo="https://i.postimg.cc/N0PM2RFy/FILMEX.jpg"group-title="MEXICO",Filmex Clásico
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4XT1HFwdAnJWy-h1s5gY4jg/ts
+#EXTINF:-1 tvg-name="MX | AZTECA CINEMA | HD"tvg-id="azcinema.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JLebPmD4uX3Kor2rIb9gqd9d_iUf7MSHq37G0s39YR1TmysHdOdAL3mukz1hSiZWmQ.png"group-title="MEXICO",MX | AZTECA CINEMA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4TvcRA_NAbLOO6_6Poxg5Hg/ts
+#EXTINF:-1 tvg-name="MX | AZTECA CLIC | HD"tvg-id="azclic.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JFHo5zS-quTM1DhdOuMcSN9jiDriKFZvZEf9ymfEd5hWXdoGOPQ2VGU922OjLdL1qw.png"group-title="MEXICO",MX | AZTECA CLIC | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Uj6DODzWWjVAzgtc7JgOpM/ts
+#EXTINF:-1 tvg-name="MX | AZTECA CORAZON | HD"tvg-id="azcorazon.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMdEFTmr_lRPubJ-tvMOYPEfYmm5hyqew4B2_ZKs8mrRPgpFWXbITmwACRIeDcWByQ.png"group-title="MEXICO",MX | AZTECA CORAZON | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4U7CUP5M4Kqc02rmZp4jssE/ts
+#EXTINF:-1 tvg-name="HD | CANAL 4 GUADALAJARA"tvg-id=""tvg-logo="http://108.181.21.93:80/images/QCqX5p5x3Y181Q8jwb82JFqWpEgmQvRbnvaxBdFt3eBRH99U_0qFWdHOA2LNE5kg.png"group-title="MEXICO",HD | CANAL 4 GUADALAJARA
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4bk0g1gQmixEc8bhbRhVdrc/ts
+#EXTINF:-1 tvg-name="MX | NU9VE | HD"tvg-id="galatv9nacional.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JHu-FsQs4YX2FR6MT-VyYS-VmUDPFFQVHg9hvXeMuZNL.png"group-title="MEXICO",MX | NU9VE | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4VU7404HYN_hHu90yCD64dQ/ts
+#EXTINF:-1 tvg-name="MX | IMAGEN TV | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGigA21lfysyo4M_VXuSwiZe-GROgUMP68RA1RJzfpWo.png"group-title="MEXICO",MX | IMAGEN TV | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Xdbdv12IAJpmA0haccTDRQ/ts
+#EXTINF:-1 tvg-name="MX | LAS ESTRELLAS -2 | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBZAitTxmzqiibqogDLuS-oCJN5RKb27y72AT8lqVdjOhnqfMLqhe-e1X1G6V73E4w.png"group-title="MEXICO",MX | LAS ESTRELLAS -2 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4RY6oic7IQQnT2a20JQhfww/ts
+#EXTINF:-1 tvg-name="MX | MEXIQUENSE | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JLwO2bz9tBFgJdwrLnKywPv_VnrYM10srtF2ltiEmJMp.png"group-title="MEXICO",MX | MEXIQUENSE | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4QJirHw4KgGNHEZ9ieag3FQ/ts
+#EXTINF:-1 tvg-name="MX | MILENIO NOTICIAS | HD"tvg-id="mileniotelevision.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEGQDnoFGs54iArTNggs1jvYp59N6SPyynO6xgacQpP9.png"group-title="MEXICO",MX | MILENIO NOTICIAS | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4YTZ6ZKN_ufpCXY19qWAfrw/ts
+#EXTINF:-1 tvg-name="MX | MULTIMEDIOS GUADALAJARA | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDFAlsV8Hhdw8t8dCiZSBqzWhogwX7ecq8laqpGmjmYdvAoTgJfbh8j9C43BKZW6tw.png"group-title="MEXICO",MX | MULTIMEDIOS GUADALAJARA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4fXJIMR9AWO3GE1Sgw60dIM/ts
+#EXTINF:-1 tvg-name="MX | MULTIMEDIOS LAGUNA | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDFAlsV8Hhdw8t8dCiZSBqzWhogwX7ecq8laqpGmjmYdvAoTgJfbh8j9C43BKZW6tw.png"group-title="MEXICO",MX | MULTIMEDIOS LAGUNA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4SmL2FpOQNOHqas1IbN2mGI/ts
+#EXTINF:-1 tvg-name="MX | MULTIMEDIOS MONTERREY | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDFAlsV8Hhdw8t8dCiZSBqzWhogwX7ecq8laqpGmjmYdvAoTgJfbh8j9C43BKZW6tw.png"group-title="MEXICO",MX | MULTIMEDIOS MONTERREY | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4XAxahdnwjeiWu9XOcOfTfk/ts
+#EXTINF:-1 tvg-name="MVS TV"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGjsPgDbakFPddLo5AwSGXIUOuQaM_u_5L54k47JvCda.png"group-title="MEXICO",MVS TV
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4eU9kfRp-E8mAVd62h1i880/ts
+#EXTINF:-1 tvg-name="MX | CANAL 11"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC9W6qDfEQqlDcNXQlPUYCeCE928lBlJ1eLeoOZOqqu6pzeljCMJSL8boDsxI_6G1vZAJJfdGNNyTpJazYqSDDS8WW1Njv9CYY9pfsD9zstCXcgjOgmoqUc2Inu3PnOuLQ.jpg"group-title="MEXICO",MX | CANAL 11
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4ceBvAY5QyWb2L7TyIK_iO4/ts
+#EXTINF:-1 tvg-name="MX | CINE ESTELAR | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JCvJoGL3RqzGXoAYkYXjsq56nDuniuTUUseZUfHAV8YU3P9zXI062Aupf5-z-Q1CZg.png"group-title="MEXICO",MX | CINE ESTELAR | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4QtoeVKo3PCZO7JPcpKozb4/ts
+#EXTINF:-1 tvg-name="MX | A MAS | SD"tvg-id="amastv.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPL4DbukF9hGdyZt9grvuskSuFupJvspsEAWwQIAV-xy.png"group-title="MEXICO",MX | A MAS | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4fnr-qbduzx3s-fytzcTuYg/ts
+#EXTINF:-1 tvg-name="MX: Foro Tv"tvg-id="forotv.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JE4TeXJ1eu2KS1ASI3_0qeDQ7984gLGXLJJGY7_K0_NG.png"group-title="MEXICO",MX: Foro Tv
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4YhPhkTFzB6sNJhtTZm3PQc/ts
+#EXTINF:-1 tvg-name="MX: Ingenio Tv SD #2"tvg-id="ingeniotv.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JOFvKdZpgCFtCTG-vwQklgA0IFsHrCM9-kb53WjjNAwxFewu6p6CWsDaLH65mnD1Dw7DdQJvPxu0x35dqS5BllIMWxsvoG2v1qB8R_fQZekWiwsDY1m9roHSmCwx4vLyxA.jpg"group-title="MEXICO",MX: Ingenio Tv SD #2
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Rsgqk7Rep7El0J-or6pNeA/ts
+#EXTINF:-1 tvg-name="MX | MILENIO | SD"tvg-id="mileniotelevision.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEGQDnoFGs54iArTNggs1jvYp59N6SPyynO6xgacQpP9.png"group-title="MEXICO",MX | MILENIO | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4XQxAfwRr_h8l-Qs199od_E/ts
+#EXTINF:-1 tvg-name="MX | NU9VE | SD"tvg-id="galatv9nacional.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JHKgLs_ag_aJkRUQUGZqiqSa21OiZ6IbbIK1vosXA0hs.png"group-title="MEXICO",MX | NU9VE | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4XUvgnQnwhjh301UaaVHzEM/ts
+#EXTINF:-1 tvg-name="MX | ONCE | HD"tvg-id="canalonce.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JECn_tsSFScwuXGh8u89v0p-9pyH6-l8mDkLRbLaH-Ft.png"group-title="MEXICO",MX | ONCE | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4ZNVeALGHOAor5SyfwLzjU4/ts
+#EXTINF:-1 tvg-name="MX | RCG COAHUILA | HD"tvg-id="RCG"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKs4gvkElCL47SYKUta6TA8W9ttzXFUs47eyAa-uonzl.png"group-title="MEXICO",MX | RCG COAHUILA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4XP8MZWzF2OFT0AZ8WIgwKQ/ts
+#EXTINF:-1 tvg-name="MX | TELEMAX | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC-dVSUrlu4iHOtv1kCvf7MYE5Xatr3abV6ADIw20_tf.png"group-title="MEXICO",MX | TELEMAX | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4bN96PeBm81m_kbWObzP85A/ts
+#EXTINF:-1 tvg-name="MX | TELEVISA TIJUANA | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAUHGHvEfVcl4GuufRVq3muamoJ-_ruxYp4SBoLv91NV.png"group-title="MEXICO",MX | TELEVISA TIJUANA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4SJO-7JE9EaE3lB5jWZNNeE/ts
+#EXTINF:-1 tvg-name="TLNOVELAS | HD"tvg-id="tlnovelas.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JD5PIcwRCUTITFcsvPy-nJ8a_oPPvZh3_JZV8vFFN6E5.png"group-title="MEXICO",TLNOVELAS | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4TiHNW1n7KKVwQikEuXjv5E/ts
+#EXTINF:-1 tvg-name="MX | TV MAR PUERTO VALLARTA | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JLPoiyoJrPxVh9zrXxeQaQoHp6YHOvgSIzvkqZhzNwNC.png"group-title="MEXICO",MX | TV MAR PUERTO VALLARTA | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4TVK-ThJAfyhdARORj58tGw/ts
+#EXTINF:-1 tvg-name="MX | TV MAS | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JP9H4499ON712HsOvwKDbVswDA8ACdeVJBZ79F8qwLDJ.png"group-title="MEXICO",MX | TV MAS | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Qa5Ddkcc0xDxGrH_O5sn0k/ts
+#EXTINF:-1 tvg-name="MX | TVP CD OBREGON | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGN7L6U4OFjvRHocvsJhmoDAGjh4rTyuyaL_UbZQ-SZ_.png"group-title="MEXICO",MX | TVP CD OBREGON | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4ctkh80Xbxa01bEtEf4niD4/ts
+#EXTINF:-1 tvg-name="MX | TVP CULIACAN | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGN7L6U4OFjvRHocvsJhmoDAGjh4rTyuyaL_UbZQ-SZ_.png"group-title="MEXICO",MX | TVP CULIACAN | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4UiZ0sL4nLmCEV7YVRP0ig8/ts
+#EXTINF:-1 tvg-name="MX | TVP LOS MOCHIS | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGN7L6U4OFjvRHocvsJhmoDAGjh4rTyuyaL_UbZQ-SZ_.png"group-title="MEXICO",MX | TVP LOS MOCHIS | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4SIgFfwmvRoZYejgWtC203Q/ts
+#EXTINF:-1 tvg-name="MX | SIPSE | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKcA4d1NFGWSWSw6zPhad4U2oTpuyvwN9kjTDiiU6k8k.png"group-title="MEXICO",MX | SIPSE | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4aCbLKqVDWVkzxg-XAXZG38/ts
+#EXTINF:-1 tvg-name="MX | CANAL 13 | HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNBrotyNFFEZJh6OflYS17viYx04wXVjUSVH_2yJg9V1.png"group-title="MEXICO",MX | CANAL 13 | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4Xz2WrLC9u6B3-Zq96K8MOg/ts
+#EXTINF:-1 tvg-name="MX | TV UNAM | HD"tvg-id="teveunam.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JLPQW36r7cIszOQp-pYbaGoIQRna_Gmb13EkPlXt4QsC.png"group-title="MEXICO",MX | TV UNAM | HD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4UYXxTTOXTTFAh0kA3R6kbw/ts
+#EXTINF:-1 tvg-name="MX | CANAL 44"tvg-id="udgtvcanal44.mx"tvg-logo="http://lotv.plus:80/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQtMRinwoV6YW625rvFKBTTihlOO2fEXac0JtaAW22Z623R6WehvsYsfXDaGmZFxV3CQx_vHKdHyn8fJpeL9JuNkfPevaLzZeTp3yt3te1Puu9GPMjfsC1672qaWEkprFBM.png"group-title="MEXICO",MX | CANAL 44
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4bKEwEkN1wPBzXCkbr5yMUs/ts
+#EXTINF:-1 tvg-name="CANAL 5"tvg-id="canal5.mx"tvg-logo="https://i.postimg.cc/Fz75LSzh/CANAL-5.jpg"group-title="MEXICO",CANAL 5
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4bbtQEurals-Q-nenCN6QKA/ts
+#EXTINF:-1 tvg-name="MX Las estrellas SD"tvg-id="lasestrellas.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMxQDyq2TRl7Ui0i3kJPRVl-FY-eECr4leWFG6uXe3vPPnIQIgyEsrnX_O4zUAANCg.png"group-title="MEXICO",MX Las estrellas SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4QeNeAP7xmuruP1lh_kp5AI/ts
+#EXTINF:-1 tvg-name="[IZZI] MULTIMEDIOS PLUS"tvg-id="MMEDPHD"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDFAlsV8Hhdw8t8dCiZSBqzWhogwX7ecq8laqpGmjmYdvAoTgJfbh8j9C43BKZW6tw.png"group-title="MEXICO",[IZZI] MULTIMEDIOS PLUS
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4f4jqmNwsbS_pZUmv-tkHWY/ts
+#EXTINF:-1 tvg-name="AZTECA INTERNACIONAL | SD"tvg-id=""tvg-logo=""group-title="MEXICO",AZTECA INTERNACIONAL | SD
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4WwN8ihKWrom5XPk1h5PIKo/ts
+#EXTINF:-1 tvg-name="CANAL 66 MEXICALI"tvg-id=""tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNCN6T1blmHHzwUOklu9YzDhlGTJ-78Wo1H7Wd8pA7iwB.png"group-title="MEXICO",CANAL 66 MEXICALI
+http://lotv.plus:80/play/q-LeP4Xc-jx5eBKJ7_rU4dDwMdNLo0nSkGb-q-sq4f0/ts
 #EXTINF:-1 tvg-name="24/7:  PAW PATROL serie ●"tvg-id=""tvg-logo="https://i.postimg.cc/T18QNFgG/PAW-PATROL.png"group-title="CANALES 24/7",24/7:  PAW PATROL serie ●
 http://playtv44.com:8080/983973559/123456/217067
 #EXTINF:-1 tvg-name="24/7: LOS SIMPSONS"tvg-id=""tvg-logo="https://i.postimg.cc/Z5j7YftF/LOS-SIMPSONS.png"group-title="CANALES 24/7",24/7: LOS SIMPSONS
