@@ -1,3 +1,1734 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="-----URUGUAY------"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"group-title="tvsinseñal",-----sinseñal------
-https://ia600203.us.archive.org/16/items/soluciona-tu-smart-iptv-rapido-veed/Soluciona%20Tu%20Smart%20IPTV%20R%C3%A1pido-VEED.mp4
+#EXTINF:-1 tvg-name="24/7:  PAW PATROL serie ●"tvg-id=""tvg-logo="https://i.postimg.cc/T18QNFgG/PAW-PATROL.png"group-title="CANALES 24/7",24/7:  PAW PATROL serie ●
+http://playtv44.com:8080/983973559/123456/217067
+#EXTINF:-1 tvg-name="24/7: LOS SIMPSONS"tvg-id=""tvg-logo="https://i.postimg.cc/Z5j7YftF/LOS-SIMPSONS.png"group-title="CANALES 24/7",24/7: LOS SIMPSONS
+http://playtv44.com:8080/983973559/123456/83476
+#EXTINF:-1 tvg-name="24/7 Chavo del 8"tvg-id=""tvg-logo="https://i.postimg.cc/xCBFDcrw/EL-CHAVO-DEL-8.png"group-title="CANALES 24/7",24/7 Chavo del 8
+http://playtv44.com:8080/983973559/123456/196187
+#EXTINF:-1 tvg-name="24/7: Caballeros Del Zodiaco"tvg-id=""tvg-logo="https://i.postimg.cc/YCtDw5VC/LOS-CABALLEROS-DEL-ZODIACO.png"group-title="CANALES 24/7",24/7: Caballeros Del Zodiaco
+http://playtv44.com:8080/983973559/123456/83485
+#EXTINF:-1 tvg-name="24/7: Bob Esponja"tvg-id=""tvg-logo="https://i.postimg.cc/Cx4tBhD8/BOB-ESPONJA.png"group-title="CANALES 24/7",24/7: Bob Esponja
+http://playtv44.com:8080/983973559/123456/83457
+#EXTINF:-1 tvg-name="24/7 Disney Action"tvg-id=""tvg-logo="https://i.postimg.cc/rpnPjffF/DISNEY.png"group-title="CANALES 24/7",24/7 Disney Action
+http://playtv44.com:8080/983973559/123456/83460
+#EXTINF:-1 tvg-name="24/7 Dragon Ball Zone"tvg-id=""tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png"group-title="CANALES 24/7",24/7 Dragon Ball Zone
+http://playtv44.com:8080/983973559/123456/83462
+#EXTINF:-1 tvg-name="24/7: Smallville"tvg-id=""tvg-logo="https://i.postimg.cc/yxFjMjyR/SMALL-VILLE.png"group-title="CANALES 24/7",24/7: Smallville
+http://playtv44.com:8080/983973559/123456/83477
+#EXTINF:-1 tvg-name="24/7: El show de los Looney Tunes"tvg-id=""tvg-logo="https://i.postimg.cc/3JXfV8tq/LOONEY-TUNES.png"group-title="CANALES 24/7",24/7: El show de los Looney Tunes
+http://playtv44.com:8080/983973559/123456/83479
+#EXTINF:-1 tvg-name="24/7: Thundercats"tvg-id=""tvg-logo="https://i.postimg.cc/GhCqF0bx/THUNDERCATS.png"group-title="CANALES 24/7",24/7: Thundercats
+http://playtv44.com:8080/983973559/123456/83486
+#EXTINF:-1 tvg-name="24/7 CINE ACCION "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBdHYMAKhn4Wzk3tdM6iHR-ftiGKyE92ozA&s"group-title="CANALES 24/7",24/7 CINE ACCION
+http://playtv44.com:8080/983973559/123456/217059
+#EXTINF:-1 tvg-name="24/7 CSI Las Vegas "tvg-id=""tvg-logo="https://i.postimg.cc/wBTrDCcG/CSI-VEGA.png"group-title="CANALES 24/7",24/7 CSI Las Vegas
+http://playtv44.com:8080/983973559/123456/217060
+#EXTINF:-1 tvg-name="24/7: PrimeVideo  ᴴᴰ"tvg-id=""tvg-logo="https://i.postimg.cc/mD18wBc8/PRIME-VIDEO.png"group-title="CANALES 24/7",24/7: PrimeVideo  ᴴᴰ
+http://playtv44.com:8080/983973559/123456/217062
+#EXTINF:-1 tvg-name="24/7 NETFLIX "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png"group-title="CANALES 24/7",24/7 NETFLIX
+http://playtv44.com:8080/983973559/123456/217065
+#EXTINF:-1 tvg-name="24/7 | Infantil"tvg-id=""tvg-logo="http://playtv44.com:8080/images/be50cf6dffad580c39320aad429c2210.png"group-title="CANALES 24/7",24/7 | Infantil
+http://playtv44.com:8080/983973559/123456/217068
+#EXTINF:-1 tvg-name="24/7  Variedad"tvg-id=""tvg-logo="https://i.postimg.cc/QxJSS6tG/VARIEDAD.png"group-title="CANALES 24/7",24/7  Variedad
+http://playtv44.com:8080/983973559/123456/217069
+#EXTINF:-1 tvg-name="24/7: Futurama ●"tvg-id=""tvg-logo="https://i.postimg.cc/5yvKxbb6/FUTURAMA.png"group-title="CANALES 24/7",24/7: Futurama ●
+http://playtv44.com:8080/983973559/123456/217070
+#EXTINF:-1 tvg-name="24/7:  Serie PACMAN ●"tvg-id=""tvg-logo="https://i.postimg.cc/HLgyKmP6/pacman.png"group-title="CANALES 24/7",24/7:  Serie PACMAN ●
+http://playtv44.com:8080/983973559/123456/217071
+#EXTINF:-1 tvg-name="24/7:  SONIC FULL"tvg-id=""tvg-logo="https://i.postimg.cc/BZDmPZfv/SONIC.png"group-title="CANALES 24/7",24/7:  SONIC FULL
+http://playtv44.com:8080/983973559/123456/217072
+#EXTINF:-1 tvg-name="24/7:  LEGO  Zone ●"tvg-id=""tvg-logo="https://i.postimg.cc/Qd570CSB/lego.png"group-title="CANALES 24/7",24/7:  LEGO  Zone ●
+http://playtv44.com:8080/983973559/123456/217073
+#EXTINF:-1 tvg-name="24/7 PELICULAS FAMILIAR"tvg-id=""tvg-logo="http://playtv44.com:8080/images/7c93957cfd99032395c39b792c2d2c2c.png"group-title="CANALES 24/7",24/7 PELICULAS FAMILIAR
+http://playtv44.com:8080/983973559/123456/217074
+#EXTINF:-1 tvg-name="24/7: The Big Bang Theory"tvg-id=""tvg-logo="https://i.postimg.cc/T3xF3LyG/BIGBANG.png"group-title="CANALES 24/7",24/7: The Big Bang Theory
+http://playtv44.com:8080/983973559/123456/217076
+#EXTINF:-1 tvg-name="24/7: El Chapuli­n Colorado"tvg-id=""tvg-logo="https://i.postimg.cc/B6jwV2z5/EL-CHAPULIN-COLORADO.png"group-title="CANALES 24/7",24/7: El Chapuli­n Colorado
+http://playtv44.com:8080/983973559/123456/83464
+#EXTINF:-1 tvg-name="24/7 Cine Terror "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZA9rZRwsCjRzoh1ckCpq5U996tqlWbwjRzg&s"group-title="CANALES 24/7",24/7 Cine Terror
+http://playtv44.com:8080/983973559/123456/377965
+#EXTINF:-1 tvg-name="CINE LATINO HD"tvg-id=""tvg-logo="https://i.postimg.cc/JhjbjVdc/CINE-LATINO.png"group-title="CANALES CINE",CINE LATINO HD
+http://playtv44.com:8080/983973559/123456/12338
+#EXTINF:-1 tvg-name="HBO MUNDI HD"tvg-id=""tvg-logo="https://i.postimg.cc/vB5ZzHQZ/HBO-MUNDI.png"group-title="CANALES CINE",HBO MUNDI HD
+http://playtv44.com:8080/983973559/123456/12340
+#EXTINF:-1 tvg-name="UNIVERSAL HD"tvg-id=""tvg-logo="https://i.postimg.cc/G2n28RzF/UNIVERSAL.png"group-title="CANALES CINE",UNIVERSAL HD
+http://playtv44.com:8080/983973559/123456/12347
+#EXTINF:-1 tvg-name="FX HD ts"tvg-id=""tvg-logo="https://i.postimg.cc/W1mHrLGG/FX-International-logo-svg.png"group-title="CANALES CINE",FX HD ts
+http://playtv44.com:8080/983973559/123456/12352
+#EXTINF:-1 tvg-name="AMC HD"tvg-id=""tvg-logo="https://i.postimg.cc/WbkKNJtf/amc.png"group-title="CANALES CINE",AMC HD
+http://playtv44.com:8080/983973559/123456/12355
+#EXTINF:-1 tvg-name="UNIVERSAL CRIME HD"tvg-id=""tvg-logo="https://i.postimg.cc/rmGp5HYv/UNIVERSAL-CRIME.png"group-title="CANALES CINE",UNIVERSAL CRIME HD
+http://playtv44.com:8080/983973559/123456/39370
+#EXTINF:-1 tvg-name="HBO XTREME HD"tvg-id=""tvg-logo="https://i.ibb.co/yQQk3Vk/XTREME.png"group-title="CANALES CINE",HBO XTREME HD
+http://playtv44.com:8080/983973559/123456/39371
+#EXTINF:-1 tvg-name="HBO FAMILY "tvg-id=""tvg-logo="https://i.ibb.co/34ZnF8s/FAMILY.png"group-title="CANALES CINE",HBO FAMILY
+http://playtv44.com:8080/983973559/123456/78377
+#EXTINF:-1 tvg-name="HBO HD"tvg-id=""tvg-logo="https://i.ibb.co/GMcRNWY/HBO.png"group-title="CANALES CINE",HBO HD
+http://playtv44.com:8080/983973559/123456/78379
+#EXTINF:-1 tvg-name="CINECANAL  HD"tvg-id=""tvg-logo="https://i.postimg.cc/nzWRZHxJ/CINECANAL.png"group-title="CANALES CINE",CINECANAL  HD
+http://playtv44.com:8080/983973559/123456/78381
+#EXTINF:-1 tvg-name="UNIVERSAL COMEDY HD"tvg-id=""tvg-logo="https://i.postimg.cc/yxV8jTMW/UNIVERSAL-COMEDY.png"group-title="CANALES CINE",UNIVERSAL COMEDY HD
+http://playtv44.com:8080/983973559/123456/78383
+#EXTINF:-1 tvg-name="UNIVERSAL REALITY HD"tvg-id=""tvg-logo="https://i.postimg.cc/Jhk0z037/UNIVERSAL-Reality.png"group-title="CANALES CINE",UNIVERSAL REALITY HD
+http://playtv44.com:8080/983973559/123456/78384
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIER HD"tvg-id=""tvg-logo="https://i.postimg.cc/Gtqh5yRK/UNIVERSAL-Premier.png"group-title="CANALES CINE",UNIVERSAL PREMIER HD
+http://playtv44.com:8080/983973559/123456/78385
+#EXTINF:-1 tvg-name="Warner HD"tvg-id=""tvg-logo="https://i.ibb.co/gSrJS1d/1200px-Warner-Channel-svg.png"group-title="CANALES CINE",Warner HD
+http://playtv44.com:8080/983973559/123456/78396
+#EXTINF:-1 tvg-name="TNT HD"tvg-id=""tvg-logo="https://i.ibb.co/dkDhX7n/TNT.png"group-title="CANALES CINE",TNT HD
+http://playtv44.com:8080/983973559/123456/78398
+#EXTINF:-1 tvg-name="TCM HD"tvg-id=""tvg-logo="https://i.ibb.co/ydrckRX/TCM.png"group-title="CANALES CINE",TCM HD
+http://playtv44.com:8080/983973559/123456/78399
+#EXTINF:-1 tvg-name="STAR CHANNEL  HD"tvg-id=""tvg-logo="https://i.postimg.cc/ZRTJjpjs/Copia-de-Copia-de-Copia-de-Copia-de-E-COMMERCE-PRODUCTOS-ELECTRONICOS-2.png"group-title="CANALES CINE",STAR CHANNEL  HD
+http://playtv44.com:8080/983973559/123456/83449
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL HD1"tvg-id=""tvg-logo="https://i.ibb.co/SVCpKvf/Studio-Universal.png"group-title="CANALES CINE",STUDIO UNIVERSAL HD1
+http://playtv44.com:8080/983973559/123456/210939
+#EXTINF:-1 tvg-name="Paramount Channel HD"tvg-id=""tvg-logo="https://i.ibb.co/GFVryK1/Copia-de-Copia-de-Copia-de-Copia-de-E-COMMERCE-PRODUCTOS-ELECTRONICOS-2-1.png"group-title="CANALES CINE",Paramount Channel HD
+http://playtv44.com:8080/983973559/123456/215673
+#EXTINF:-1 tvg-name="HBO 2 HD"tvg-id=""tvg-logo="https://i.ibb.co/99W1t8h/HBO-2.png"group-title="CANALES CINE",HBO 2 HD
+http://playtv44.com:8080/983973559/123456/218784
+#EXTINF:-1 tvg-name="AXN HD"tvg-id=""tvg-logo="https://i.ibb.co/2MGbGN0/axn.png"group-title="CANALES CINE",AXN HD
+http://playtv44.com:8080/983973559/123456/218787
+#EXTINF:-1 tvg-name="HBO PLUS HD"tvg-id=""tvg-logo="https://i.ibb.co/cr56D6L/PLUS.png"group-title="CANALES CINE",HBO PLUS HD
+http://playtv44.com:8080/983973559/123456/218791
+#EXTINF:-1 tvg-name="De Pelicula Classic HD"tvg-id=""tvg-logo="https://i.ibb.co/12py1Vx/De-Pel-cula-Cl-sico.png"group-title="CANALES CINE",De Pelicula Classic HD
+http://playtv44.com:8080/983973559/123456/218795
+#EXTINF:-1 tvg-name="CINEMAX HD"tvg-id=""tvg-logo="https://i.postimg.cc/GmN9RGyS/Cinemax.png"group-title="CANALES CINE",CINEMAX HD
+http://playtv44.com:8080/983973559/123456/218796
+#EXTINF:-1 tvg-name="SPACE  HD"tvg-id=""tvg-logo="https://i.postimg.cc/ryBTNTr3/Space-Logo-svg.png"group-title="CANALES CINE",SPACE  HD
+http://playtv44.com:8080/983973559/123456/218802
+#EXTINF:-1 tvg-name="SONY HD"tvg-id=""tvg-logo="https://i.ibb.co/gzV8SF9/sony-channel.png"group-title="CANALES CINE",SONY HD
+http://playtv44.com:8080/983973559/123456/218804
+#EXTINF:-1 tvg-name="GOLDEN PLUS "tvg-id=""tvg-logo="https://i.postimg.cc/Dwf57KQ4/GOLDEN_PLUS.png"group-title="CANALES CINE",GOLDEN PLUS
+http://playtv44.com:8080/983973559/123456/315893
+#EXTINF:-1 tvg-name="GOLDEN PREMIER HD"tvg-id=""tvg-logo="https://i.postimg.cc/LsnTZBbH/GOLDEN_PREMIER.png"group-title="CANALES CINE",GOLDEN PREMIER HD
+http://playtv44.com:8080/983973559/123456/315894
+#EXTINF:-1 tvg-name="HBO POP HD"tvg-id=""tvg-logo="https://i.postimg.cc/tJ5RKSn0/HBO-POP.png"group-title="CANALES CINE",HBO POP HD
+http://playtv44.com:8080/983973559/123456/338771
+#EXTINF:-1 tvg-name="Universal Cinema "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png"group-title="CANALES CINE",Universal Cinema
+http://playtv44.com:8080/983973559/123456/369751
+#EXTINF:-1 tvg-name="AR - AMERICA TV"tvg-id=""tvg-logo="https://i.postimg.cc/htpRJg5R/america.png"group-title="CANALES DE ARGENTINA",AR - AMERICA TV
+http://playtv44.com:8080/983973559/123456/51580
+#EXTINF:-1 tvg-name="C5N -  ARGENTINA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/4320ed421c8efca775f6c6c0be21ad92.png"group-title="CANALES DE ARGENTINA",C5N -  ARGENTINA
+http://playtv44.com:8080/983973559/123456/51582
+#EXTINF:-1 tvg-name="Canal 21"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/627a15c5a4e565eb9da5a76dddb74a91.png"group-title="CANALES DE ARGENTINA",Canal 21
+http://playtv44.com:8080/983973559/123456/51583
+#EXTINF:-1 tvg-name="Ciudad Magazine"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/39b8ec0ec82b024fd43cd9c81d7e8077.jpg"group-title="CANALES DE ARGENTINA",Ciudad Magazine
+http://playtv44.com:8080/983973559/123456/51586
+#EXTINF:-1 tvg-name="AR- EL NUEVE"tvg-id=""tvg-logo="https://i.postimg.cc/NFJVQh77/ELNUEVE.png"group-title="CANALES DE ARGENTINA",AR- EL NUEVE
+http://playtv44.com:8080/983973559/123456/51590
+#EXTINF:-1 tvg-name="LN"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/1bd5ba760035100ac06cf6917f03725c.jpg"group-title="CANALES DE ARGENTINA",LN
+http://playtv44.com:8080/983973559/123456/51596
+#EXTINF:-1 tvg-name="Telemax"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/3ded6ed68c458c674490672fe20dfc47.png"group-title="CANALES DE ARGENTINA",Telemax
+http://playtv44.com:8080/983973559/123456/51600
+#EXTINF:-1 tvg-name="TV Publica"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/34e51dfe8c34c46fcdaaf70ed4f2bd26.png"group-title="CANALES DE ARGENTINA",TV Publica
+http://playtv44.com:8080/983973559/123456/51602
+#EXTINF:-1 tvg-name="El Trece"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/0b7dbfba7e0c7234a677ffed43c122d5.jpg"group-title="CANALES DE ARGENTINA",El Trece
+http://playtv44.com:8080/983973559/123456/66221
+#EXTINF:-1 tvg-name="Canal 9 Multivisión"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/8da71e4609856af99b36c1ba02b50c5c.png"group-title="CANALES DE ARGENTINA",Canal 9 Multivisión
+http://playtv44.com:8080/983973559/123456/66379
+#EXTINF:-1 tvg-name="AR - TELEFE"tvg-id=""tvg-logo="https://i.postimg.cc/HnQfTCyK/telefe.png"group-title="CANALES DE ARGENTINA",AR - TELEFE
+http://playtv44.com:8080/983973559/123456/116943
+#EXTINF:-1 tvg-name="Canal 26 Arg"tvg-id=""tvg-logo="http://playtv44.com:8080/images/befb4c0b791b6eb7c94d7caac029745f.png"group-title="CANALES DE ARGENTINA",Canal 26 Arg
+http://playtv44.com:8080/983973559/123456/197318
+#EXTINF:-1 tvg-name="ATB TV - ARGENTINA"tvg-id=""tvg-logo=""group-title="CANALES DE ARGENTINA",ATB TV - ARGENTINA
+http://playtv44.com:8080/983973559/123456/315869
+#EXTINF:-1 tvg-name="TN - ARGENTINA"tvg-id=""tvg-logo="https://i.postimg.cc/xjMrvL4R/tn.png"group-title="CANALES DE ARGENTINA",TN - ARGENTINA
+http://playtv44.com:8080/983973559/123456/315880
+#EXTINF:-1 tvg-name="AR - AIRE SANTA FE "tvg-id=""tvg-logo="https://i.postimg.cc/FzwK16h3/AIRE-SANTA-FE-ARGENTINA.png"group-title="CANALES DE ARGENTINA",AR - AIRE SANTA FE
+http://playtv44.com:8080/983973559/123456/315886
+#EXTINF:-1 tvg-name="AR- BEAST RADIO"tvg-id=""tvg-logo="https://i.postimg.cc/L5JX9SFm/Beats-Radio-ARGENTINA.png"group-title="CANALES DE ARGENTINA",AR- BEAST RADIO
+http://playtv44.com:8080/983973559/123456/315889
+#EXTINF:-1 tvg-name="BO: ATB"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7kfLIOqERTVuL5t9NSlAgIP4Vb9ovFFC9xE8oc75mbx04U7p5MbWhR_iMJ-SCA7klVQ&usqp=CAU"group-title="CANALES DE BOLIVIA",BO: ATB
+http://playtv44.com:8080/983973559/123456/184755
+#EXTINF:-1 tvg-name="BO: ATB CBA"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7kfLIOqERTVuL5t9NSlAgIP4Vb9ovFFC9xE8oc75mbx04U7p5MbWhR_iMJ-SCA7klVQ&usqp=CAU"group-title="CANALES DE BOLIVIA",BO: ATB CBA
+http://playtv44.com:8080/983973559/123456/184756
+#EXTINF:-1 tvg-name="BO: Bolivia TV"tvg-id=""tvg-logo="https://pbs.twimg.com/media/DHzB6rxWAAAM3jT?format=jpg&name=large"group-title="CANALES DE BOLIVIA",BO: Bolivia TV
+http://playtv44.com:8080/983973559/123456/184757
+#EXTINF:-1 tvg-name="BO: Bolivision la paz"tvg-id=""tvg-logo="http://kaoztv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUPmGMKv7KiRekLhJatFbc1ZMfPiGgNOnu3A5kLycQ9o6zNWVw6sBw3j2Iel0ATY4o.png"group-title="CANALES DE BOLIVIA",BO: Bolivision la paz
+http://playtv44.com:8080/983973559/123456/184758
+#EXTINF:-1 tvg-name="BO: Cadena A"tvg-id=""tvg-logo="http://kaoztv.com:80/images/0JjsK5WXwCF8tWgCoDdGnXvVQp0epJvqQnKH9NUhig6QbhAnERXfQMQT7cy8Of0uyURU0aclQtEkzSitC3qcKmICb0J2uJtNKnS-jFcUwpHsHLYiGQkAt0cK1LQyFYJN.png"group-title="CANALES DE BOLIVIA",BO: Cadena A
+http://playtv44.com:8080/983973559/123456/184759
+#EXTINF:-1 tvg-name="BO: Gigavision"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99lgiRLQNS9ckW4AAcY9NiCyOAdIjWIC6-iTsjV7Yst0MlXKWdeI3Ee_Jz4_IqTJdqH4&usqp=CAU"group-title="CANALES DE BOLIVIA",BO: Gigavision
+http://playtv44.com:8080/983973559/123456/184760
+#EXTINF:-1 tvg-name="BO: Rec online"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/8opA7PbnILtW23QyDSFA9gDKDwanGSpNMc1p1V5umYXX4becUOAyyfR2CtWBdfCgla4X"group-title="CANALES DE BOLIVIA",BO: Rec online
+http://playtv44.com:8080/983973559/123456/184761
+#EXTINF:-1 tvg-name="RED PAT LA PAZ - BOLIVIA"tvg-id=""tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/Bolivia-1024.png"group-title="CANALES DE BOLIVIA",RED PAT LA PAZ - BOLIVIA
+http://playtv44.com:8080/983973559/123456/184762
+#EXTINF:-1 tvg-name="BO: Red uno santa cruz"tvg-id=""tvg-logo="http://kaoztv.com:80/images/ZQqndXWrgnF-oLwfgScA29XKdxMvT2SUARVQDC5W-WSawrURWvY2YG3VRJccaAKeZUcQvvP-UtmdeyIXBUJeuw.jpg"group-title="CANALES DE BOLIVIA",BO: Red uno santa cruz
+http://playtv44.com:8080/983973559/123456/184763
+#EXTINF:-1 tvg-name="BO: Redadvenir"tvg-id=""tvg-logo="http://kaoztv.com:80/images/L1hfP8WxQpGvEAdoCtW3PenuxXa1ztz6SGVxDJAEozxTanumKu9UpaiY7qqUZzhk72uWnEdKLg3ueRj1O59RVsCZYxmtg3LbHUz0TOyUo0GGEBJeR70CLMfYrp2fP9MoL-mPQqNBtcFS7XFFEcvzvQ.jpg"group-title="CANALES DE BOLIVIA",BO: Redadvenir
+http://playtv44.com:8080/983973559/123456/184764
+#EXTINF:-1 tvg-name="BO: RTP"tvg-id=""tvg-logo="http://kaoztv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFGBNdddytZarBGf-qVX0yLRJ91xThw5Nv_D_FFkYg0kE.png"group-title="CANALES DE BOLIVIA",BO: RTP
+http://playtv44.com:8080/983973559/123456/184765
+#EXTINF:-1 tvg-name="BO: TV Latina canal 42"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/nHu6eTf30jhhe585-zmys5spn-OyDBA6-GXQHG4HEhvT7J89evsK-jVL3I8Tb5-Lsw"group-title="CANALES DE BOLIVIA",BO: TV Latina canal 42
+http://playtv44.com:8080/983973559/123456/184770
+#EXTINF:-1 tvg-name="BO: TV U"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/nHu6eTf30jhhe585-zmys5spn-OyDBA6-GXQHG4HEhvT7J89evsK-jVL3I8Tb5-Lsw"group-title="CANALES DE BOLIVIA",BO: TV U
+http://playtv44.com:8080/983973559/123456/184771
+#EXTINF:-1 tvg-name="BO: Unitel"tvg-id=""tvg-logo="http://kaoztv.com:80/images/KBpBPAlj-y_jJ1BVGtjBwcTUZX7YVKq2yjhacIj3TIf67tae19fJQTJ7WZxdjttjH8O6AOXFXonnr3Ii9BhZACo8b_Vn5Harq77pQxuXkG68oJDsZBeeEyo2DcX75VIImUZTg1AJxzDwTCVPbUtHQA.jpg"group-title="CANALES DE BOLIVIA",BO: Unitel
+http://playtv44.com:8080/983973559/123456/184773
+#EXTINF:-1 tvg-name="BO: ATB Bolivia"tvg-id=""tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="CANALES DE BOLIVIA",BO: ATB Bolivia
+http://playtv44.com:8080/983973559/123456/184774
+#EXTINF:-1 tvg-name="BO: Bolivia TV"tvg-id=""tvg-logo="https://pbs.twimg.com/media/DHzB6rxWAAAM3jT?format=jpg&name=large"group-title="CANALES DE BOLIVIA",BO: Bolivia TV
+http://playtv44.com:8080/983973559/123456/184775
+#EXTINF:-1 tvg-name="BO: Bolivisión"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/BOLIVISION.png/revision/latest/scale-to-width-down/200?cb=20201014030009&path-prefix=es"group-title="CANALES DE BOLIVIA",BO: Bolivisión
+http://playtv44.com:8080/983973559/123456/184776
+#EXTINF:-1 tvg-name="BO: Red pat santa cruz"tvg-id=""tvg-logo="http://kaoztv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUzaq6GwEzbzx4iUpuSx7OAIht5oqCVF1cQeXP7p1KfXd49rnKHHv-csn63ZuM88vo.png"group-title="CANALES DE BOLIVIA",BO: Red pat santa cruz
+http://playtv44.com:8080/983973559/123456/184777
+#EXTINF:-1 tvg-name="BO: Red uno cochabamba  - Programas"tvg-id=""tvg-logo="http://kaoztv.com:80/images/ITvAmQ8tdy5VeIDFASD8slwaJgfxh2mnAxNY0u5xy8e3ng36eVM4gmq3i2__b45bbONtOxDzoHzv3oyvUYnJDw.jpg"group-title="CANALES DE BOLIVIA",BO: Red uno cochabamba  - Programas
+http://playtv44.com:8080/983973559/123456/184778
+#EXTINF:-1 tvg-name="BO: Red uno"tvg-id=""tvg-logo="http://kaoztv.com:80/images/ITvAmQ8tdy5VeIDFASD8slwaJgfxh2mnAxNY0u5xy8e3ng36eVM4gmq3i2__b45bbONtOxDzoHzv3oyvUYnJDw.jpg"group-title="CANALES DE BOLIVIA",BO: Red uno
+http://playtv44.com:8080/983973559/123456/184779
+#EXTINF:-1 tvg-name="BO: Red uno la paz - Programas"tvg-id=""tvg-logo="http://kaoztv.com:80/images/ITvAmQ8tdy5VeIDFASD8slwaJgfxh2mnAxNY0u5xy8e3ng36eVM4gmq3i2__b45bbONtOxDzoHzv3oyvUYnJDw.jpg"group-title="CANALES DE BOLIVIA",BO: Red uno la paz - Programas
+http://playtv44.com:8080/983973559/123456/184780
+#EXTINF:-1 tvg-name="BO: RTP Bolivia"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/Mk6wqM_HjUmAMSbNNtDo-sU-J4mZxx-5uNCgenmr8vJQHhowuAz4g17x0on8gG9rv2tB"group-title="CANALES DE BOLIVIA",BO: RTP Bolivia
+http://playtv44.com:8080/983973559/123456/184781
+#EXTINF:-1 tvg-name="TVU - BOLIVIA"tvg-id=""tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/Bolivia-1024.png"group-title="CANALES DE BOLIVIA",TVU - BOLIVIA
+http://playtv44.com:8080/983973559/123456/184782
+#EXTINF:-1 tvg-name="BO: Unitel"tvg-id=""tvg-logo="http://kaoztv.com:80/images/KBpBPAlj-y_jJ1BVGtjBwcTUZX7YVKq2yjhacIj3TIf67tae19fJQTJ7WZxdjttjH8O6AOXFXonnr3Ii9BhZACo8b_Vn5Harq77pQxuXkG68oJDsZBeeEyo2DcX75VIImUZTg1AJxzDwTCVPbUtHQA.jpg"group-title="CANALES DE BOLIVIA",BO: Unitel
+http://playtv44.com:8080/983973559/123456/184783
+#EXTINF:-1 tvg-name="13C - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",13C - CHILE
+http://playtv44.com:8080/983973559/123456/74719
+#EXTINF:-1 tvg-name="CL13 - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",CL13 - CHILE
+http://playtv44.com:8080/983973559/123456/74720
+#EXTINF:-1 tvg-name="TVN CHILE "tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",TVN CHILE
+http://playtv44.com:8080/983973559/123456/74721
+#EXTINF:-1 tvg-name="CDF - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",CDF - CHILE
+http://playtv44.com:8080/983973559/123456/74724
+#EXTINF:-1 tvg-name="CDO BASIO - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",CDO BASIO - CHILE
+http://playtv44.com:8080/983973559/123456/74731
+#EXTINF:-1 tvg-name="ETC TV - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",ETC TV - CHILE
+http://playtv44.com:8080/983973559/123456/74739
+#EXTINF:-1 tvg-name="LA RED - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",LA RED - CHILE
+http://playtv44.com:8080/983973559/123456/74740
+#EXTINF:-1 tvg-name="MEGA - CHILE "tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",MEGA - CHILE
+http://playtv44.com:8080/983973559/123456/74742
+#EXTINF:-1 tvg-name="REC TV - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",REC TV - CHILE
+http://playtv44.com:8080/983973559/123456/74746
+#EXTINF:-1 tvg-name="CANAL 9 REGIONAL - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",CANAL 9 REGIONAL - CHILE
+http://playtv44.com:8080/983973559/123456/74750
+#EXTINF:-1 tvg-name="TVU CONCEPCION - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",TVU CONCEPCION - CHILE
+http://playtv44.com:8080/983973559/123456/74753
+#EXTINF:-1 tvg-name="ITV - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",ITV - CHILE
+http://playtv44.com:8080/983973559/123456/214662
+#EXTINF:-1 tvg-name="TV8 - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",TV8 - CHILE
+http://playtv44.com:8080/983973559/123456/214663
+#EXTINF:-1 tvg-name="CANAL 11 AYSEN - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",CANAL 11 AYSEN - CHILE
+http://playtv44.com:8080/983973559/123456/214664
+#EXTINF:-1 tvg-name="GENIAL TV - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",GENIAL TV - CHILE
+http://playtv44.com:8080/983973559/123456/214665
+#EXTINF:-1 tvg-name="TVR: CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",TVR: CHILE
+http://playtv44.com:8080/983973559/123456/214667
+#EXTINF:-1 tvg-name="13 PRIME - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",13 PRIME - CHILE
+http://playtv44.com:8080/983973559/123456/214669
+#EXTINF:-1 tvg-name="UCHILE TV - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",UCHILE TV - CHILE
+http://playtv44.com:8080/983973559/123456/214672
+#EXTINF:-1 tvg-name="TV POP - CHILE "tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",TV POP - CHILE
+http://playtv44.com:8080/983973559/123456/214673
+#EXTINF:-1 tvg-name="GIROVISUAL - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",GIROVISUAL - CHILE
+http://playtv44.com:8080/983973559/123456/214674
+#EXTINF:-1 tvg-name="CAMPOABIERTO - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",CAMPOABIERTO - CHILE
+http://playtv44.com:8080/983973559/123456/214675
+#EXTINF:-1 tvg-name="PIGUINO TV - CHILE"tvg-id=""tvg-logo="https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"group-title="CANALES DE CHILE",PIGUINO TV - CHILE
+http://playtv44.com:8080/983973559/123456/315744
+#EXTINF:-1 tvg-name="CO: Win Sports + HD ●"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/37693cfc748049e45d87b8c7d8b9aacd.png"group-title="CANALES DE COLOMBIA",CO: Win Sports + HD ●
+http://playtv44.com:8080/983973559/123456/72740
+#EXTINF:-1 tvg-name="CARACOL INTERNACIONAL - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/d3d9446802a44259755d38e6d163e820.png"group-title="CANALES DE COLOMBIA",CARACOL INTERNACIONAL - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72747
+#EXTINF:-1 tvg-name="CARACOL - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/de433ed4480536c8426731d9bfb97f8c.png"group-title="CANALES DE COLOMBIA",CARACOL - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72750
+#EXTINF:-1 tvg-name="CO: Señal Colombia   //"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/d4003560f477e5dd40c7d912b31aff49.png"group-title="CANALES DE COLOMBIA",CO: Señal Colombia   //
+http://playtv44.com:8080/983973559/123456/72752
+#EXTINF:-1 tvg-name="CO: Canal Capital   //"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/7cca6bee6cc0d587bf5bd993f389cf72.png"group-title="CANALES DE COLOMBIA",CO: Canal Capital   //
+http://playtv44.com:8080/983973559/123456/72753
+#EXTINF:-1 tvg-name="CNC - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/23b0488b4a4354adc3c95068b9d3ac8b.png"group-title="CANALES DE COLOMBIA",CNC - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72754
+#EXTINF:-1 tvg-name="CO: Canal uno 1 Colombia"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/02b766291bd3f0210896e378de868ac5.png"group-title="CANALES DE COLOMBIA",CO: Canal uno 1 Colombia
+http://playtv44.com:8080/983973559/123456/72755
+#EXTINF:-1 tvg-name="CO: City TV ●"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/00d7574832650d43ad7f1686a0d681d3.png"group-title="CANALES DE COLOMBIA",CO: City TV ●
+http://playtv44.com:8080/983973559/123456/72756
+#EXTINF:-1 tvg-name="CO: NTN24 ●"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/d62ebbd9634b792d6143e9a4c204458e.png"group-title="CANALES DE COLOMBIA",CO: NTN24 ●
+http://playtv44.com:8080/983973559/123456/72757
+#EXTINF:-1 tvg-name="CO: Suram TV     //●"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/fa1a6d30ecfb1e2bfae01c78ce20db34.png"group-title="CANALES DE COLOMBIA",CO: Suram TV     //●
+http://playtv44.com:8080/983973559/123456/72758
+#EXTINF:-1 tvg-name="CO: Telecafé   //"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/cf003fe543cece6b30a22b44a2afabdb.png"group-title="CANALES DE COLOMBIA",CO: Telecafé   //
+http://playtv44.com:8080/983973559/123456/72759
+#EXTINF:-1 tvg-name="TELECARIBE - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/aa3ce476c75e4d5324b9f0a8d6627562.png"group-title="CANALES DE COLOMBIA",TELECARIBE - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72760
+#EXTINF:-1 tvg-name="CO: TeleAntioquia"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/57024e78b0a4ef54a4261a3596fb12f9.png"group-title="CANALES DE COLOMBIA",CO: TeleAntioquia
+http://playtv44.com:8080/983973559/123456/72761
+#EXTINF:-1 tvg-name="TELEMEDILLIN "tvg-id=""tvg-logo="http://190.2.148.5:25461/images/3c59dc048e8850243be8079a5c74d079.png"group-title="CANALES DE COLOMBIA",TELEMEDILLIN
+http://playtv44.com:8080/983973559/123456/72762
+#EXTINF:-1 tvg-name="TV AGRO - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/51e0d94ce9fee127924b9eee75600739.png"group-title="CANALES DE COLOMBIA",TV AGRO - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72763
+#EXTINF:-1 tvg-name="TELEPACIFICO - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/c7871a2a5eb0095e3e39ecfb0ad26151.png"group-title="CANALES DE COLOMBIA",TELEPACIFICO - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72764
+#EXTINF:-1 tvg-name="CALI TV - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/b080294d1f64d430b439d2459515547e.jpg"group-title="CANALES DE COLOMBIA",CALI TV - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72765
+#EXTINF:-1 tvg-name="AMORDISCOS TV - COLOMBIA"tvg-id=""tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png"group-title="CANALES DE COLOMBIA",AMORDISCOS TV - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72770
+#EXTINF:-1 tvg-name="COSMOVISION - COLOMBIA"tvg-id=""tvg-logo="https://www.coosmovision.com/wp-content/uploads/2022/05/logo-coosmovision.svg"group-title="CANALES DE COLOMBIA",COSMOVISION - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72771
+#EXTINF:-1 tvg-name="CANAL 12 EL NUESTRO - COLOMBIA"tvg-id=""tvg-logo="https://globalone80.org/wp-content/uploads/2021/05/Colombia-Bandera.png"group-title="CANALES DE COLOMBIA",CANAL 12 EL NUESTRO - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72773
+#EXTINF:-1 tvg-name="FULL URBANO - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/636336deffa5b283db4067200c700241.png"group-title="CANALES DE COLOMBIA",FULL URBANO - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72776
+#EXTINF:-1 tvg-name="MUNDO - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/d9ff87ec489258d1bb917f46ed120bd6.png"group-title="CANALES DE COLOMBIA",MUNDO - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72778
+#EXTINF:-1 tvg-name="TELEFAMILIA - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/93c2badb0ef152b5e53b4384ed2a864e.png"group-title="CANALES DE COLOMBIA",TELEFAMILIA - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72779
+#EXTINF:-1 tvg-name="TELE PASTO - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/5d5d8dcff5e56a35ce1a13e26708a344.jpg"group-title="CANALES DE COLOMBIA",TELE PASTO - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72780
+#EXTINF:-1 tvg-name="TV PEÑOL - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/852410b39271e806e255469b7e4d541b.png"group-title="CANALES DE COLOMBIA",TV PEÑOL - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72781
+#EXTINF:-1 tvg-name="NOTICIERO 90 MINUTOS - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/c6e9ff2f151d97a2cce32b9df7a5d0df.png"group-title="CANALES DE COLOMBIA",NOTICIERO 90 MINUTOS - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72783
+#EXTINF:-1 tvg-name="CINEMEGA - COLOMBIA"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/a4d917818ab42771f33fd1d9d5270b0b.png"group-title="CANALES DE COLOMBIA",CINEMEGA - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72784
+#EXTINF:-1 tvg-name="CANALA ACUARIO - COLOMBIA"tvg-id=""tvg-logo="https://www.twitch.tv/canalacuario?tt_content=twitch_logo&tt_medium=embed"group-title="CANALES DE COLOMBIA",CANALA ACUARIO - COLOMBIA
+http://playtv44.com:8080/983973559/123456/315511
+#EXTINF:-1 tvg-name="ENLACE - COLOMBIA"tvg-id=""tvg-logo="https://enlacetelevision.com/wp-content/uploads/2023/11/LOGONAV.png"group-title="CANALES DE COLOMBIA",ENLACE - COLOMBIA
+http://playtv44.com:8080/983973559/123456/315512
+#EXTINF:-1 tvg-name="CTV BARRANQUILLA - COLOMBIA"tvg-id=""tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-Logo-ctv.png"group-title="CANALES DE COLOMBIA",CTV BARRANQUILLA - COLOMBIA
+http://playtv44.com:8080/983973559/123456/315513
+#EXTINF:-1 tvg-name="CTP - COLOMBIA"tvg-id=""tvg-logo=""group-title="CANALES DE COLOMBIA",CTP - COLOMBIA
+http://playtv44.com:8080/983973559/123456/315514
+#EXTINF:-1 tvg-name="CAMPO TV - COLOMBIA"tvg-id=""tvg-logo="https://canalcampotv.com/wp-content/uploads/2020/05/logo.png"group-title="CANALES DE COLOMBIA",CAMPO TV - COLOMBIA
+http://playtv44.com:8080/983973559/123456/315515
+#EXTINF:-1 tvg-name="CANAL INSTITUCIONAL - COLOMBIA"tvg-id=""tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png"group-title="CANALES DE COLOMBIA",CANAL INSTITUCIONAL - COLOMBIA
+http://playtv44.com:8080/983973559/123456/315516
+#EXTINF:-1 tvg-name="ATN - COLOMBIA"tvg-id=""tvg-logo="https://globalone80.org/wp-content/uploads/2021/05/Colombia-Bandera.png"group-title="CANALES DE COLOMBIA",ATN - COLOMBIA
+http://playtv44.com:8080/983973559/123456/315573
+#EXTINF:-1 tvg-name="Costa Rica // Canal 1"tvg-id=""tvg-logo="https://immaa.xyz/COSunno.png"group-title="CANALES DE COSTA RICA",Costa Rica // Canal 1
+http://playtv44.com:8080/983973559/123456/315576
+#EXTINF:-1 tvg-name="Costa Rica //  Teleuno"tvg-id=""tvg-logo="https://immaa.xyz/COSteleeuno.png"group-title="CANALES DE COSTA RICA",Costa Rica //  Teleuno
+http://playtv44.com:8080/983973559/123456/315577
+#EXTINF:-1 tvg-name="Costa Rica // TD+ 2 TDMAX 2"tvg-id=""tvg-logo="https://immaa.xyz/CRtddd2.png"group-title="CANALES DE COSTA RICA",Costa Rica // TD+ 2 TDMAX 2
+http://playtv44.com:8080/983973559/123456/315579
+#EXTINF:-1 tvg-name="Costa Rica // TD+ 1  TDMAX"tvg-id=""tvg-logo="https://immaa.xyz/COStddd.png"group-title="CANALES DE COSTA RICA",Costa Rica // TD+ 1  TDMAX
+http://playtv44.com:8080/983973559/123456/315580
+#EXTINF:-1 tvg-name="Costa Rica // FUTV ● @   (22Mb)"tvg-id=""tvg-logo="https://immaa.xyz/CRfuuutv.png"group-title="CANALES DE COSTA RICA",Costa Rica // FUTV ● @   (22Mb)
+http://playtv44.com:8080/983973559/123456/315581
+#EXTINF:-1 tvg-name="Costa Rica // TIGO SPORTS ● @"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png"group-title="CANALES DE COSTA RICA",Costa Rica // TIGO SPORTS ● @
+http://playtv44.com:8080/983973559/123456/315583
+#EXTINF:-1 tvg-name="COSTA R - CANAL 2"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png"group-title="CANALES DE COSTA RICA",COSTA R - CANAL 2
+http://playtv44.com:8080/983973559/123456/315584
+#EXTINF:-1 tvg-name="Costa Rica // CANAL 4 REPRETEL"tvg-id=""tvg-logo="https://immaa.xyz/COSca4.png"group-title="CANALES DE COSTA RICA",Costa Rica // CANAL 4 REPRETEL
+http://playtv44.com:8080/983973559/123456/315585
+#EXTINF:-1 tvg-name="Costa Rica // SAN VITO TV  // Canal 5"tvg-id=""tvg-logo="https://immaa.xyz/CRsttsanvito.png"group-title="CANALES DE COSTA RICA",Costa Rica // SAN VITO TV  // Canal 5
+http://playtv44.com:8080/983973559/123456/315586
+#EXTINF:-1 tvg-name="Costa Rica // CANAL 6 // Repretel"tvg-id=""tvg-logo="https://immaa.xyz/COScaan6.png"group-title="CANALES DE COSTA RICA",Costa Rica // CANAL 6 // Repretel
+http://playtv44.com:8080/983973559/123456/315587
+#EXTINF:-1 tvg-name="Costa Rica // Antena 6"tvg-id=""tvg-logo="https://immaa.xyz/COSaanntt6.png"group-title="CANALES DE COSTA RICA",Costa Rica // Antena 6
+http://playtv44.com:8080/983973559/123456/315588
+#EXTINF:-1 tvg-name="Costa Rica // TELETICA CANAL 7 TD7  @"tvg-id=""tvg-logo="https://immaa.xyz/CRteleeetica7.png"group-title="CANALES DE COSTA RICA",Costa Rica // TELETICA CANAL 7 TD7  @
+http://playtv44.com:8080/983973559/123456/315589
+#EXTINF:-1 tvg-name="Costa Rica // Canal 8  Multimedios"tvg-id=""tvg-logo="https://immaa.xyz/COScc8.png"group-title="CANALES DE COSTA RICA",Costa Rica // Canal 8  Multimedios
+http://playtv44.com:8080/983973559/123456/315590
+#EXTINF:-1 tvg-name="Costa Rica //  TV Sur Canal 9"tvg-id=""tvg-logo="https://immaa.xyz/COStvsssur.png"group-title="CANALES DE COSTA RICA",Costa Rica //  TV Sur Canal 9
+http://playtv44.com:8080/983973559/123456/315591
+#EXTINF:-1 tvg-name="Costa Rica // CANAL 11 Repretel"tvg-id=""tvg-logo="https://immaa.xyz/COS11.png"group-title="CANALES DE COSTA RICA",Costa Rica // CANAL 11 Repretel
+http://playtv44.com:8080/983973559/123456/315592
+#EXTINF:-1 tvg-name="Costa Rica //  FUTV SD @  (8Mb)"tvg-id=""tvg-logo="https://immaa.xyz/COSfffsd.png"group-title="CANALES DE COSTA RICA",Costa Rica //  FUTV SD @  (8Mb)
+http://playtv44.com:8080/983973559/123456/315593
+#EXTINF:-1 tvg-name="Costa Rica //   TVN 14"tvg-id=""tvg-logo="https://immaa.xyz/COSttvn.png"group-title="CANALES DE COSTA RICA",Costa Rica //   TVN 14
+http://playtv44.com:8080/983973559/123456/315595
+#EXTINF:-1 tvg-name="Costa Rica // Canal 36 Trivision //"tvg-id=""tvg-logo="https://immaa.xyz/CRtrivvviss36.png"group-title="CANALES DE COSTA RICA",Costa Rica // Canal 36 Trivision //
+http://playtv44.com:8080/983973559/123456/315596
+#EXTINF:-1 tvg-name="Costa Rica // ANEXION C36 **Costa Rica*****"tvg-id=""tvg-logo="https://immaa.xyz/CO36.png"group-title="CANALES DE COSTA RICA",Costa Rica // ANEXION C36 **Costa Rica*****
+http://playtv44.com:8080/983973559/123456/315597
+#EXTINF:-1 tvg-name="Costa Rica //  Canal 38"tvg-id=""tvg-logo="https://immaa.xyz/COScanmn38.png"group-title="CANALES DE COSTA RICA",Costa Rica //  Canal 38
+http://playtv44.com:8080/983973559/123456/315598
+#EXTINF:-1 tvg-name="Costa Rica //  Canal VM Latino 39 Music"tvg-id=""tvg-logo="https://immaa.xyz/COSmusca.png"group-title="CANALES DE COSTA RICA",Costa Rica //  Canal VM Latino 39 Music
+http://playtv44.com:8080/983973559/123456/315599
+#EXTINF:-1 tvg-name="Costa Rica // Unico tv"tvg-id=""tvg-logo="https://immaa.xyz/COSunicc.png"group-title="CANALES DE COSTA RICA",Costa Rica // Unico tv
+http://playtv44.com:8080/983973559/123456/315600
+#EXTINF:-1 tvg-name="Costa Rica // Limon tv"tvg-id=""tvg-logo="https://immaa.xyz/COSlimmo.png"group-title="CANALES DE COSTA RICA",Costa Rica // Limon tv
+http://playtv44.com:8080/983973559/123456/315601
+#EXTINF:-1 tvg-name="Costa Rica // Sarapiquí TV"tvg-id=""tvg-logo="https://immaa.xyz/COSsssttv.png"group-title="CANALES DE COSTA RICA",Costa Rica // Sarapiquí TV
+http://playtv44.com:8080/983973559/123456/315602
+#EXTINF:-1 tvg-name="Costa Rica // CANAL EXTRA"tvg-id=""tvg-logo="https://img2.freepng.es/20180618/gja/kisspng-costa-rica-extra-tv-42-television-channel-streamin-5b27f4ae7ff047.233950511529345198524.jpg"group-title="CANALES DE COSTA RICA",Costa Rica // CANAL EXTRA
+http://playtv44.com:8080/983973559/123456/315603
+#EXTINF:-1 tvg-name="Costa Rica // Esperanza TV Religion"tvg-id=""tvg-logo="https://immaa.xyz/COSesperaa.png"group-title="CANALES DE COSTA RICA",Costa Rica // Esperanza TV Religion
+http://playtv44.com:8080/983973559/123456/315604
+#EXTINF:-1 tvg-name="Costa Rica // Colosal TV"tvg-id=""tvg-logo="https://immaa.xyz/COScolloss.png"group-title="CANALES DE COSTA RICA",Costa Rica // Colosal TV
+http://playtv44.com:8080/983973559/123456/315605
+#EXTINF:-1 tvg-name="Costa Rica //  MZ Sports"tvg-id=""tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png"group-title="CANALES DE COSTA RICA",Costa Rica //  MZ Sports
+http://playtv44.com:8080/983973559/123456/315606
+#EXTINF:-1 tvg-name="Costa Rica //  Soy Plancha TV"tvg-id=""tvg-logo="https://immaa.xyz/COSsooy.png"group-title="CANALES DE COSTA RICA",Costa Rica //  Soy Plancha TV
+http://playtv44.com:8080/983973559/123456/315607
+#EXTINF:-1 tvg-name="Costa Rica //  Urbano TV Musica"tvg-id=""tvg-logo="https://immaa.xyz/COSuurbaan.png"group-title="CANALES DE COSTA RICA",Costa Rica //  Urbano TV Musica
+http://playtv44.com:8080/983973559/123456/315608
+#EXTINF:-1 tvg-name="Costa Rica // Video Tour Music"tvg-id=""tvg-logo="https://immaa.xyz/COStour.png"group-title="CANALES DE COSTA RICA",Costa Rica // Video Tour Music
+http://playtv44.com:8080/983973559/123456/315609
+#EXTINF:-1 tvg-name="Costa Rica //  Vintage Music"tvg-id=""tvg-logo="https://immaa.xyz/COSvvinntag.png"group-title="CANALES DE COSTA RICA",Costa Rica //  Vintage Music
+http://playtv44.com:8080/983973559/123456/315610
+#EXTINF:-1 tvg-name="Costa Rica //  Telesistema"tvg-id=""tvg-logo="https://immaa.xyz/COSteleeesisstm.png"group-title="CANALES DE COSTA RICA",Costa Rica //  Telesistema
+http://playtv44.com:8080/983973559/123456/315611
+#EXTINF:-1 tvg-name="Costa Rica // Radio 88 Stereo Music"tvg-id=""tvg-logo="https://immaa.xyz/COS88.png"group-title="CANALES DE COSTA RICA",Costa Rica // Radio 88 Stereo Music
+http://playtv44.com:8080/983973559/123456/315612
+#EXTINF:-1 tvg-name="Costa Rica // EXTREMA TV //"tvg-id=""tvg-logo="https://immaa.xyz/COSextrreem.png"group-title="CANALES DE COSTA RICA",Costa Rica // EXTREMA TV //
+http://playtv44.com:8080/983973559/123456/315613
+#EXTINF:-1 tvg-name="Costa Rica // MULTIMEDIOS"tvg-id=""tvg-logo="https://immaa.xyz/COSmultmme.png"group-title="CANALES DE COSTA RICA",Costa Rica // MULTIMEDIOS
+http://playtv44.com:8080/983973559/123456/315614
+#EXTINF:-1 tvg-name="Costa Rica // TELESUR"tvg-id=""tvg-logo="https://immaa.xyz/COStelesssu.png"group-title="CANALES DE COSTA RICA",Costa Rica // TELESUR
+http://playtv44.com:8080/983973559/123456/315615
+#EXTINF:-1 tvg-name="Costa Rica // TELERED TR //"tvg-id=""tvg-logo="https://immaa.xyz/CRtrttv.png"group-title="CANALES DE COSTA RICA",Costa Rica // TELERED TR //
+http://playtv44.com:8080/983973559/123456/315617
+#EXTINF:-1 tvg-name="CR: 15 UCR Quince //"tvg-id=""tvg-logo="https://immaa.xyz/COSquiincc.png"group-title="CANALES DE COSTA RICA",CR: 15 UCR Quince //
+http://playtv44.com:8080/983973559/123456/315618
+#EXTINF:-1 tvg-name="CR: TDMAX Futbol //"tvg-id=""tvg-logo="https://media.cr/wp-content/uploads/2023/05/tdmax.png"group-title="CANALES DE COSTA RICA",CR: TDMAX Futbol //
+http://playtv44.com:8080/983973559/123456/315622
+#EXTINF:-1 tvg-name="Canal Costa TV | CL"tvg-id=""tvg-logo="https://www.m3u.cl/logo/894_Canal_Costa_TV.png"group-title="CANALES DE COSTA RICA",Canal Costa TV | CL
+http://playtv44.com:8080/983973559/123456/315625
+#EXTINF:-1 tvg-name="Costa Rica // TIGO SPORTS OP 2"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png"group-title="CANALES DE COSTA RICA",Costa Rica // TIGO SPORTS OP 2
+http://playtv44.com:8080/983973559/123456/315626
+#EXTINF:-1 tvg-name="08:00 ᴴ(● Campeonato de Costa Rica Sub-20 ● ►  ᴺᵀ–ᴾ"tvg-id=""tvg-logo="https://immaa.xyz/evenONON.png"group-title="CANALES DE COSTA RICA",08:00 ᴴ(● Campeonato de Costa Rica Sub-20 ● ►  ᴺᵀ–ᴾ
+http://playtv44.com:8080/983973559/123456/315629
+#EXTINF:-1 tvg-name="20:00 ᴴ(● Campeonato de Costa Rica Sub-20 ● ►  ᴺᵀ–ᴾ"tvg-id=""tvg-logo="https://immaa.xyz/evenONON.png"group-title="CANALES DE COSTA RICA",20:00 ᴴ(● Campeonato de Costa Rica Sub-20 ● ►  ᴺᵀ–ᴾ
+http://playtv44.com:8080/983973559/123456/315630
+#EXTINF:-1 tvg-name="FUTV (5Mb)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE COSTA RICA",FUTV (5Mb)
+http://playtv44.com:8080/983973559/123456/315633
+#EXTINF:-1 tvg-name="FUTV (+20Mb)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE COSTA RICA",FUTV (+20Mb)
+http://playtv44.com:8080/983973559/123456/315634
+#EXTINF:-1 tvg-name="CUBA// CUBAMAX"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5fd89ab8efe0ae20e8b5b0e82a5c019a.png"group-title="CANALES DE CUBA",CUBA// CUBAMAX
+http://playtv44.com:8080/983973559/123456/218885
+#EXTINF:-1 tvg-name="CUBA// TELEMARTI"tvg-id=""tvg-logo="http://playtv44.com:8080/images/68f00bce20aa2d152bb7dd17cc5a3786.png"group-title="CANALES DE CUBA",CUBA// TELEMARTI
+http://playtv44.com:8080/983973559/123456/218887
+#EXTINF:-1 tvg-name="CUBA// Cubavision Internacional CVI //"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5c75e264f853f05495374f802c822b4a.png"group-title="CANALES DE CUBA",CUBA// Cubavision Internacional CVI //
+http://playtv44.com:8080/983973559/123456/218889
+#EXTINF:-1 tvg-name="CUBA// MULTIVISION MV"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5e917bb0173e4e8464081d0d4ed7ea20.png"group-title="CANALES DE CUBA",CUBA// MULTIVISION MV
+http://playtv44.com:8080/983973559/123456/218890
+#EXTINF:-1 tvg-name="CUBA//  INFANTIL"tvg-id=""tvg-logo="http://playtv44.com:8080/images/adbfe1a2860f89454fab6dafdc42c1f8.png"group-title="CANALES DE CUBA",CUBA//  INFANTIL
+http://playtv44.com:8080/983973559/123456/218891
+#EXTINF:-1 tvg-name="CUBA// EDUCATIVO 1 ICTR"tvg-id=""tvg-logo="http://playtv44.com:8080/images/6b23eac64c5e9eddadaab70fb1798d46.png"group-title="CANALES DE CUBA",CUBA// EDUCATIVO 1 ICTR
+http://playtv44.com:8080/983973559/123456/218892
+#EXTINF:-1 tvg-name="CUBA// MEGATV pr"tvg-id=""tvg-logo="http://playtv44.com:8080/images/4172acfe53dc8293910e098e7b9865e8.png"group-title="CANALES DE CUBA",CUBA// MEGATV pr
+http://playtv44.com:8080/983973559/123456/218894
+#EXTINF:-1 tvg-name="CUBA// CLARO SPORTS GT"tvg-id=""tvg-logo="http://playtv44.com:8080/images/8a3571f94e9df1da69984352eabbcbf2.png"group-title="CANALES DE CUBA",CUBA// CLARO SPORTS GT
+http://playtv44.com:8080/983973559/123456/218896
+#EXTINF:-1 tvg-name="CUBA// TELEMARTI"tvg-id=""tvg-logo="http://playtv44.com:8080/images/68f00bce20aa2d152bb7dd17cc5a3786.png"group-title="CANALES DE CUBA",CUBA// TELEMARTI
+http://playtv44.com:8080/983973559/123456/218897
+#EXTINF:-1 tvg-name="CUBA// Tele Rebelde"tvg-id=""tvg-logo="http://playtv44.com:8080/images/7618b8b705541062218c96d8f6563dd6.png"group-title="CANALES DE CUBA",CUBA// Tele Rebelde
+http://playtv44.com:8080/983973559/123456/218898
+#EXTINF:-1 tvg-name="CUBA// Cubavision Internacional CVI //"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5c75e264f853f05495374f802c822b4a.png"group-title="CANALES DE CUBA",CUBA// Cubavision Internacional CVI //
+http://playtv44.com:8080/983973559/123456/218899
+#EXTINF:-1 tvg-name="CUBA// MULTIVISION MV"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5e917bb0173e4e8464081d0d4ed7ea20.png"group-title="CANALES DE CUBA",CUBA// MULTIVISION MV
+http://playtv44.com:8080/983973559/123456/218900
+#EXTINF:-1 tvg-name="ESPN PREMIUM AR (ON)"tvg-id=""tvg-logo="https://i.postimg.cc/K8BMFDtH/7.png"group-title="CANALES DE DEPORTES",ESPN PREMIUM AR (ON)
+http://playtv44.com:8080/983973559/123456/52718
+#EXTINF:-1 tvg-name="FOX SPORTS 3 CHILE"tvg-id=""tvg-logo="https://i.postimg.cc/23pSXg98/12.png"group-title="CANALES DE DEPORTES",FOX SPORTS 3 CHILE
+http://playtv44.com:8080/983973559/123456/52741
+#EXTINF:-1 tvg-name="ESPN 2 MX (ON)"tvg-id=""tvg-logo="https://i.postimg.cc/Px3LK3kP/2.png"group-title="CANALES DE DEPORTES",ESPN 2 MX (ON)
+http://playtv44.com:8080/983973559/123456/52744
+#EXTINF:-1 tvg-name="ESPN 3 ARG"tvg-id=""tvg-logo="https://i.postimg.cc/vBHgrRkJ/3.png"group-title="CANALES DE DEPORTES",ESPN 3 ARG
+http://playtv44.com:8080/983973559/123456/52747
+#EXTINF:-1 tvg-name="ESPN 2 AR (ON)"tvg-id=""tvg-logo="https://i.postimg.cc/Px3LK3kP/2.png"group-title="CANALES DE DEPORTES",ESPN 2 AR (ON)
+http://playtv44.com:8080/983973559/123456/52748
+#EXTINF:-1 tvg-name="ESPN 1 MX"tvg-id=""tvg-logo="https://i.postimg.cc/1X88dG9M/8.png"group-title="CANALES DE DEPORTES",ESPN 1 MX
+http://playtv44.com:8080/983973559/123456/52749
+#EXTINF:-1 tvg-name="ESPN DEPORTES "tvg-id=""tvg-logo="https://i.postimg.cc/rFd4Zksc/6.png"group-title="CANALES DE DEPORTES",ESPN DEPORTES
+http://playtv44.com:8080/983973559/123456/52750
+#EXTINF:-1 tvg-name="BEIN SPORTS (ENG)"tvg-id=""tvg-logo="https://i.postimg.cc/PJYk16MY/BEIN-SPORTS.png"group-title="CANALES DE DEPORTES",BEIN SPORTS (ENG)
+http://playtv44.com:8080/983973559/123456/52754
+#EXTINF:-1 tvg-name="TYC Sports"tvg-id=""tvg-logo="https://i.postimg.cc/TYFVHtGB/TYC.png"group-title="CANALES DE DEPORTES",TYC Sports
+http://playtv44.com:8080/983973559/123456/52761
+#EXTINF:-1 tvg-name="ESPN BRASIL"tvg-id=""tvg-logo="https://i.postimg.cc/R0mn0JRV/1.png"group-title="CANALES DE DEPORTES",ESPN BRASIL
+http://playtv44.com:8080/983973559/123456/52773
+#EXTINF:-1 tvg-name="FOX SPORTS 1 MX (ON)"tvg-id=""tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png"group-title="CANALES DE DEPORTES",FOX SPORTS 1 MX (ON)
+http://playtv44.com:8080/983973559/123456/52783
+#EXTINF:-1 tvg-name="FOX SPORTS 3 SUR"tvg-id=""tvg-logo="https://i.postimg.cc/23pSXg98/12.png"group-title="CANALES DE DEPORTES",FOX SPORTS 3 SUR
+http://playtv44.com:8080/983973559/123456/52785
+#EXTINF:-1 tvg-name="FOX SPORTS 2 ARG"tvg-id=""tvg-logo="https://i.postimg.cc/cHbHfvQ3/11.png"group-title="CANALES DE DEPORTES",FOX SPORTS 2 ARG
+http://playtv44.com:8080/983973559/123456/52788
+#EXTINF:-1 tvg-name="FOX SPORTS 1 ARGENTINA"tvg-id=""tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png"group-title="CANALES DE DEPORTES",FOX SPORTS 1 ARGENTINA
+http://playtv44.com:8080/983973559/123456/52790
+#EXTINF:-1 tvg-name="TUDN USA"tvg-id=""tvg-logo="https://i.postimg.cc/13RKF8m3/TUDN.png"group-title="CANALES DE DEPORTES",TUDN USA
+http://playtv44.com:8080/983973559/123456/52794
+#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM"tvg-id=""tvg-logo="https://i.postimg.cc/XYSr2Btc/9.png"group-title="CANALES DE DEPORTES",FOX SPORTS PREMIUM
+http://playtv44.com:8080/983973559/123456/66137
+#EXTINF:-1 tvg-name="ESPN 1 AR (HD)"tvg-id=""tvg-logo="https://i.postimg.cc/R0mn0JRV/1.png"group-title="CANALES DE DEPORTES",ESPN 1 AR (HD)
+http://playtv44.com:8080/983973559/123456/67586
+#EXTINF:-1 tvg-name="DAZN 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/NjqmBLV0/DAZN.png"group-title="CANALES DE DEPORTES",DAZN 3 HD
+http://playtv44.com:8080/983973559/123456/67371
+#EXTINF:-1 tvg-name="DAZN 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/NjqmBLV0/DAZN.png"group-title="CANALES DE DEPORTES",DAZN 2 HD
+http://playtv44.com:8080/983973559/123456/67370
+#EXTINF:-1 tvg-name="DAZN 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/NjqmBLV0/DAZN.png"group-title="CANALES DE DEPORTES",DAZN 1 HD
+http://playtv44.com:8080/983973559/123456/67369
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 PERU"tvg-id=""tvg-logo="https://i.postimg.cc/4NhKbQ2x/16.png"group-title="CANALES DE DEPORTES",DIRECTV SPORTS 2 PERU
+http://playtv44.com:8080/983973559/123456/218845
+#EXTINF:-1 tvg-name="MLB NASCAR"tvg-id=""tvg-logo="https://i.postimg.cc/x1ptDXjD/NASCAR.png"group-title="CANALES DE DEPORTES",MLB NASCAR
+http://playtv44.com:8080/983973559/123456/218850
+#EXTINF:-1 tvg-name="DIRECTV SPOR 1 COLOMBIA"tvg-id=""tvg-logo="https://i.postimg.cc/c1zgnbmz/14.png"group-title="CANALES DE DEPORTES",DIRECTV SPOR 1 COLOMBIA
+http://playtv44.com:8080/983973559/123456/218962
+#EXTINF:-1 tvg-name="ESPN 2 COLOMBIA"tvg-id=""tvg-logo="https://i.postimg.cc/Px3LK3kP/2.png"group-title="CANALES DE DEPORTES",ESPN 2 COLOMBIA
+http://playtv44.com:8080/983973559/123456/218970
+#EXTINF:-1 tvg-name="ESPN 3 (COL)"tvg-id=""tvg-logo="https://i.postimg.cc/vBHgrRkJ/3.png"group-title="CANALES DE DEPORTES",ESPN 3 (COL)
+http://playtv44.com:8080/983973559/123456/218971
+#EXTINF:-1 tvg-name="ESPN 1 COL TS"tvg-id=""tvg-logo="https://i.postimg.cc/R0mn0JRV/1.png"group-title="CANALES DE DEPORTES",ESPN 1 COL TS
+http://playtv44.com:8080/983973559/123456/218972
+#EXTINF:-1 tvg-name="FOX SPORTS 2 COLOMBIA"tvg-id=""tvg-logo="https://i.postimg.cc/cHbHfvQ3/11.png"group-title="CANALES DE DEPORTES",FOX SPORTS 2 COLOMBIA
+http://playtv44.com:8080/983973559/123456/218973
+#EXTINF:-1 tvg-name="FOX SPORTS 3 COLOMBIA"tvg-id=""tvg-logo="https://i.postimg.cc/23pSXg98/12.png"group-title="CANALES DE DEPORTES",FOX SPORTS 3 COLOMBIA
+http://playtv44.com:8080/983973559/123456/218974
+#EXTINF:-1 tvg-name="ESPN 1 AR"tvg-id=""tvg-logo="https://i.postimg.cc/R0mn0JRV/1.png"group-title="CANALES DE DEPORTES",ESPN 1 AR
+http://playtv44.com:8080/983973559/123456/218999
+#EXTINF:-1 tvg-name="ESPN 2 AR"tvg-id=""tvg-logo="https://i.postimg.cc/Px3LK3kP/2.png"group-title="CANALES DE DEPORTES",ESPN 2 AR
+http://playtv44.com:8080/983973559/123456/219005
+#EXTINF:-1 tvg-name="ESPN 3 MX"tvg-id=""tvg-logo="https://i.postimg.cc/vBHgrRkJ/3.png"group-title="CANALES DE DEPORTES",ESPN 3 MX
+http://playtv44.com:8080/983973559/123456/219010
+#EXTINF:-1 tvg-name="ESPN 2 NORTE +"tvg-id=""tvg-logo="https://i.postimg.cc/Px3LK3kP/2.png"group-title="CANALES DE DEPORTES",ESPN 2 NORTE +
+http://playtv44.com:8080/983973559/123456/219011
+#EXTINF:-1 tvg-name="ESPN 1 MX (ON)"tvg-id=""tvg-logo="https://i.postimg.cc/R0mn0JRV/1.png"group-title="CANALES DE DEPORTES",ESPN 1 MX (ON)
+http://playtv44.com:8080/983973559/123456/219012
+#EXTINF:-1 tvg-name="DAZN COMBATE "tvg-id=""tvg-logo="https://i.postimg.cc/NjqmBLV0/DAZN.png"group-title="CANALES DE DEPORTES",DAZN COMBATE
+http://playtv44.com:8080/983973559/123456/312304
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 - ECUADOR"tvg-id=""tvg-logo="https://i.postimg.cc/4NhKbQ2x/16.png"group-title="CANALES DE DEPORTES",DIRECTV SPORTS 2 - ECUADOR
+http://playtv44.com:8080/983973559/123456/314219
+#EXTINF:-1 tvg-name="NBA TV (USA)"tvg-id=""tvg-logo="https://i.postimg.cc/3JsLD8yy/NBA.png"group-title="CANALES DE DEPORTES",NBA TV (USA)
+http://playtv44.com:8080/983973559/123456/314431
+#EXTINF:-1 tvg-name="FOX SPORTS 1 PERU"tvg-id=""tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png"group-title="CANALES DE DEPORTES",FOX SPORTS 1 PERU
+http://playtv44.com:8080/983973559/123456/315560
+#EXTINF:-1 tvg-name="FOX SPORTS 2 PERU"tvg-id=""tvg-logo="https://i.postimg.cc/cHbHfvQ3/11.png"group-title="CANALES DE DEPORTES",FOX SPORTS 2 PERU
+http://playtv44.com:8080/983973559/123456/315561
+#EXTINF:-1 tvg-name="VTV PLUS (URU)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"group-title="CANALES DE DEPORTES",VTV PLUS (URU)
+http://playtv44.com:8080/983973559/123456/315566
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 PERU"tvg-id=""tvg-logo="https://i.postimg.cc/4NhKbQ2x/16.png"group-title="CANALES DE DEPORTES",DIRECTV SPORTS 2 PERU
+http://playtv44.com:8080/983973559/123456/315567
+#EXTINF:-1 tvg-name="DIRECTV SPORTS + PERU"tvg-id=""tvg-logo="https://i.postimg.cc/mgYtK2sx/19.png"group-title="CANALES DE DEPORTES",DIRECTV SPORTS + PERU
+http://playtv44.com:8080/983973559/123456/315568
+#EXTINF:-1 tvg-name="ESPN 5 +"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png"group-title="CANALES DE DEPORTES",ESPN 5 +
+http://playtv44.com:8080/983973559/123456/369623
+#EXTINF:-1 tvg-name="ESPN 4 +"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png"group-title="CANALES DE DEPORTES",ESPN 4 +
+http://playtv44.com:8080/983973559/123456/369620
+#EXTINF:-1 tvg-name="ESPN 7 +"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png"group-title="CANALES DE DEPORTES",ESPN 7 +
+http://playtv44.com:8080/983973559/123456/369624
+#EXTINF:-1 tvg-name="ESPN 3 +"tvg-id=""tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png"group-title="CANALES DE DEPORTES",ESPN 3 +
+http://playtv44.com:8080/983973559/123456/369621
+#EXTINF:-1 tvg-name="ESPN 6 +"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png"group-title="CANALES DE DEPORTES",ESPN 6 +
+http://playtv44.com:8080/983973559/123456/369619
+#EXTINF:-1 tvg-name="UFC (USA)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png"group-title="CANALES DE DEPORTES",UFC (USA)
+http://playtv44.com:8080/983973559/123456/369622
+#EXTINF:-1 tvg-name="DAZN - FORMULA 1 "tvg-id=""tvg-logo="https://i.postimg.cc/K8MkWF8y/FORMULA-1.png"group-title="CANALES DE DEPORTES",DAZN - FORMULA 1
+http://playtv44.com:8080/983973559/123456/369754
+#EXTINF:-1 tvg-name="ECDF (ECU)"tvg-id=""tvg-logo="https://pbs.twimg.com/media/F_gVIkvW8AAxsI-.png"group-title="CANALES DE DEPORTES",ECDF (ECU)
+http://playtv44.com:8080/983973559/123456/369837
+#EXTINF:-1 tvg-name="GOL TV"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png"group-title="CANALES DE DEPORTES",GOL TV
+http://playtv44.com:8080/983973559/123456/369838
+#EXTINF:-1 tvg-name="Claro Sports"tvg-id=""tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"group-title="CANALES DE DEPORTES",Claro Sports
+http://playtv44.com:8080/983973559/123456/369840
+#EXTINF:-1 tvg-name="Tennis Channel (ENG)"tvg-id=""tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATennis_Channel_logo.svg&psig=AOvVaw04EEB1Yxs0LGE1brD1fMrT&ust=1747495928419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD1o-GnqI0DFQAAAAAdAAAAABAE"group-title="CANALES DE DEPORTES",Tennis Channel (ENG)
+http://playtv44.com:8080/983973559/123456/377793
+#EXTINF:-1 tvg-name="GAMAVISION (EC)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ECUADOR",GAMAVISION (EC)
+http://playtv44.com:8080/983973559/123456/314220
+#EXTINF:-1 tvg-name="TC TELEVISION (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",TC TELEVISION (EC)
+http://playtv44.com:8080/983973559/123456/314221
+#EXTINF:-1 tvg-name="TELEAMAZONAS QUITO (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",TELEAMAZONAS QUITO (EC)
+http://playtv44.com:8080/983973559/123456/314222
+#EXTINF:-1 tvg-name="OROMAR TV - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",OROMAR TV - ECUADOR
+http://playtv44.com:8080/983973559/123456/314223
+#EXTINF:-1 tvg-name="EL CANAL DEL FUTBOL (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",EL CANAL DEL FUTBOL (EC)
+http://playtv44.com:8080/983973559/123456/314225
+#EXTINF:-1 tvg-name="ECUAVISA QUITO - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",ECUAVISA QUITO - ECUADOR
+http://playtv44.com:8080/983973559/123456/314227
+#EXTINF:-1 tvg-name="ECUADOR TV (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",ECUADOR TV (EC)
+http://playtv44.com:8080/983973559/123456/314228
+#EXTINF:-1 tvg-name="CANELA TV - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",CANELA TV - ECUADOR
+http://playtv44.com:8080/983973559/123456/314229
+#EXTINF:-1 tvg-name="ECUAVISA INTERNACIONAL (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",ECUAVISA INTERNACIONAL (EC)
+http://playtv44.com:8080/983973559/123456/314230
+#EXTINF:-1 tvg-name="RTS (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",RTS (EC)
+http://playtv44.com:8080/983973559/123456/314231
+#EXTINF:-1 tvg-name="TVC (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",TVC (EC)
+http://playtv44.com:8080/983973559/123456/314232
+#EXTINF:-1 tvg-name="GAMAVISION (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",GAMAVISION (EC)
+http://playtv44.com:8080/983973559/123456/314235
+#EXTINF:-1 tvg-name="TC TELEVISION (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",TC TELEVISION (EC)
+http://playtv44.com:8080/983973559/123456/314236
+#EXTINF:-1 tvg-name="TELEAMAZONAS QUITO (EC)"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",TELEAMAZONAS QUITO (EC)
+http://playtv44.com:8080/983973559/123456/314237
+#EXTINF:-1 tvg-name="TELERAMA - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",TELERAMA - ECUADOR
+http://playtv44.com:8080/983973559/123456/315532
+#EXTINF:-1 tvg-name="ECOTEL TV - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",ECOTEL TV - ECUADOR
+http://playtv44.com:8080/983973559/123456/315533
+#EXTINF:-1 tvg-name="TOP LATINO TV - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",TOP LATINO TV - ECUADOR
+http://playtv44.com:8080/983973559/123456/315534
+#EXTINF:-1 tvg-name="UNISIONTV - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",UNISIONTV - ECUADOR
+http://playtv44.com:8080/983973559/123456/315535
+#EXTINF:-1 tvg-name="RTU - ECUADOR"tvg-id=""tvg-logo="https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"group-title="CANALES DE ECUADOR",RTU - ECUADOR
+http://playtv44.com:8080/983973559/123456/315536
+#EXTINF:-1 tvg-name="Tru TV"tvg-id=""tvg-logo="https://i.postimg.cc/jSQrJgqY/TRU-TV.png"group-title="CANALES DE ENTRETENIMIETO",Tru TV
+http://playtv44.com:8080/983973559/123456/52603
+#EXTINF:-1 tvg-name="TLN Novelas"tvg-id=""tvg-logo="https://i.postimg.cc/SN94mQws/TL-NOVELAS.png"group-title="CANALES DE ENTRETENIMIETO",TLN Novelas
+http://playtv44.com:8080/983973559/123456/52604
+#EXTINF:-1 tvg-name="GALAVISION"tvg-id=""tvg-logo="https://i.postimg.cc/9fL5LDqx/GALAVISION.png"group-title="CANALES DE ENTRETENIMIETO",GALAVISION
+http://playtv44.com:8080/983973559/123456/52607
+#EXTINF:-1 tvg-name="EL GOURMET"tvg-id=""tvg-logo="https://i.postimg.cc/W3LwZn5g/EL-GOURMET.png"group-title="CANALES DE ENTRETENIMIETO",EL GOURMET
+http://playtv44.com:8080/983973559/123456/52608
+#EXTINF:-1 tvg-name="Lifetime"tvg-id=""tvg-logo="https://i.postimg.cc/dttmGDjH/LIFETIME.png"group-title="CANALES DE ENTRETENIMIETO",Lifetime
+http://playtv44.com:8080/983973559/123456/52609
+#EXTINF:-1 tvg-name="Food Network"tvg-id=""tvg-logo="https://i.postimg.cc/0NJCr309/FOOD-NETWORK.png"group-title="CANALES DE ENTRETENIMIETO",Food Network
+http://playtv44.com:8080/983973559/123456/52611
+#EXTINF:-1 tvg-name="Pasiones"tvg-id=""tvg-logo="https://i.postimg.cc/rwD1Ybb5/PASIONES.png"group-title="CANALES DE ENTRETENIMIETO",Pasiones
+http://playtv44.com:8080/983973559/123456/52616
+#EXTINF:-1 tvg-name="Telemundo Internacional"tvg-id=""tvg-logo="https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"group-title="CANALES DE ENTRETENIMIETO",Telemundo Internacional
+http://playtv44.com:8080/983973559/123456/52621
+#EXTINF:-1 tvg-name="TELEMUNDO PUERTO RICO"tvg-id=""tvg-logo="https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"group-title="CANALES DE ENTRETENIMIETO",TELEMUNDO PUERTO RICO
+http://playtv44.com:8080/983973559/123456/67697
+#EXTINF:-1 tvg-name="LAS ESTRELLAS MX"tvg-id=""tvg-logo="https://i.postimg.cc/pTfYJFS7/LAS-ESTRELLAS.png"group-title="CANALES DE ENTRETENIMIETO",LAS ESTRELLAS MX
+http://playtv44.com:8080/983973559/123456/67700
+#EXTINF:-1 tvg-name="RCN NOVELAS "tvg-id=""tvg-logo="https://i.postimg.cc/0Nmp9S9Q/RCN-NOVELAS.png"group-title="CANALES DE ENTRETENIMIETO",RCN NOVELAS
+http://playtv44.com:8080/983973559/123456/217039
+#EXTINF:-1 tvg-name="E! Entertainment"tvg-id=""tvg-logo="http://playtv44.com:8080/images/f88682e6a0c375880761eccdf5a33335.jpg"group-title="CANALES DE ENTRETENIMIETO",E! Entertainment
+http://playtv44.com:8080/983973559/123456/218832
+#EXTINF:-1 tvg-name="UNIVISION MIAMI "tvg-id=""tvg-logo="https://i.postimg.cc/d0scR2Dk/UNIVISION.png"group-title="CANALES DE ENTRETENIMIETO",UNIVISION MIAMI
+http://playtv44.com:8080/983973559/123456/314267
+#EXTINF:-1 tvg-name="UNIVISION NEW YORK "tvg-id=""tvg-logo="https://i.postimg.cc/d0scR2Dk/UNIVISION.png"group-title="CANALES DE ENTRETENIMIETO",UNIVISION NEW YORK
+http://playtv44.com:8080/983973559/123456/314268
+#EXTINF:-1 tvg-name="COMEDY CENTRAL"tvg-id=""tvg-logo="https://i.postimg.cc/NFQ8J0q0/COMEDY-CENTRAL.png"group-title="CANALES DE ENTRETENIMIETO",COMEDY CENTRAL
+http://playtv44.com:8080/983973559/123456/52685
+#EXTINF:-1 tvg-name="Telemundo - NOVELAS"tvg-id=""tvg-logo="https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"group-title="CANALES DE ENTRETENIMIETO",Telemundo - NOVELAS
+http://playtv44.com:8080/983973559/123456/67701
+#EXTINF:-1 tvg-name="TNT NOVELAS"tvg-id=""tvg-logo="https://i.postimg.cc/WpgBMhSP/tnt-novelas.png"group-title="CANALES DE ENTRETENIMIETO",TNT NOVELAS
+http://playtv44.com:8080/983973559/123456/360082
+#EXTINF:-1 tvg-name="MTV ESPAÑOL"tvg-id=""tvg-logo="https://allvectorlogo.com/img/2016/07/mtv-music-television-espanol-logo.png"group-title="CANALES DE ENTRETENIMIETO",MTV ESPAÑOL
+http://playtv44.com:8080/983973559/123456/369753
+#EXTINF:-1 tvg-name="MULTIPREMIER"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"group-title="CANALES DE ENTRETENIMIETO",MULTIPREMIER
+http://playtv44.com:8080/983973559/123456/369799
+#EXTINF:-1 tvg-name="Infierno en la Cocina "tvg-id=""tvg-logo="https://e7.pngegg.com/pngimages/984/463/png-clipart-gordon-ramsay-hell-s-kitchen-u-s-season-12-chef-hell-s-kitchen-u-s-season-15-hell-miscellaneous-television.png"group-title="CANALES DE ENTRETENIMIETO",Infierno en la Cocina
+http://playtv44.com:8080/983973559/123456/369836
+#EXTINF:-1 tvg-name="KANAL D DRAMA "tvg-id=""tvg-logo="https://kanalddrama.com/assets/img/logotop.png"group-title="CANALES DE ENTRETENIMIETO",KANAL D DRAMA
+http://playtv44.com:8080/983973559/123456/370139
+#EXTINF:-1 tvg-name="ANDALUCIA TV (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",ANDALUCIA TV (ESP)
+http://playtv44.com:8080/983973559/123456/314321
+#EXTINF:-1 tvg-name="24 HS Internacional (ESP)"tvg-id=""tvg-logo="https://e7.pngegg.com/pngimages/601/849/png-clipart-24-horas-rtve-television-channel-canal-nostalgia-24-h-television-text.png"group-title="CANALES DE ESPAÑA",24 HS Internacional (ESP)
+http://playtv44.com:8080/983973559/123456/314327
+#EXTINF:-1 tvg-name="CAZA Y PESCA (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",CAZA Y PESCA (ESP)
+http://playtv44.com:8080/983973559/123456/314329
+#EXTINF:-1 tvg-name="CLAN TV (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",CLAN TV (ESP)
+http://playtv44.com:8080/983973559/123456/314330
+#EXTINF:-1 tvg-name="TVE INTERNACIONAL (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",TVE INTERNACIONAL (ESP)
+http://playtv44.com:8080/983973559/123456/314338
+#EXTINF:-1 tvg-name="LA 2 (ESP)"tvg-id=""tvg-logo="https://i.postimg.cc/RVXLjN0C/LA-2.png"group-title="CANALES DE ESPAÑA",LA 2 (ESP)
+http://playtv44.com:8080/983973559/123456/314356
+#EXTINF:-1 tvg-name="TELECINCO (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",TELECINCO (ESP)
+http://playtv44.com:8080/983973559/123456/314358
+#EXTINF:-1 tvg-name="MEGA (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",MEGA (ESP)
+http://playtv44.com:8080/983973559/123456/314365
+#EXTINF:-1 tvg-name="FOX LIFE (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",FOX LIFE (ESP)
+http://playtv44.com:8080/983973559/123456/314372
+#EXTINF:-1 tvg-name="HOLLYWOOD (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",HOLLYWOOD (ESP)
+http://playtv44.com:8080/983973559/123456/314373
+#EXTINF:-1 tvg-name="M SERIES XTRA (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",M SERIES XTRA (ESP)
+http://playtv44.com:8080/983973559/123456/314378
+#EXTINF:-1 tvg-name="EUROSPORT 1 (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",EUROSPORT 1 (ESP)
+http://playtv44.com:8080/983973559/123456/314383
+#EXTINF:-1 tvg-name="EUROSPORT 2 (ESP)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE ESPAÑA",EUROSPORT 2 (ESP)
+http://playtv44.com:8080/983973559/123456/314384
+#EXTINF:-1 tvg-name="LA 1 (ESP)"tvg-id=""tvg-logo="https://i.postimg.cc/BbCBZvcg/LA-1.png"group-title="CANALES DE ESPAÑA",LA 1 (ESP)
+http://playtv44.com:8080/983973559/123456/338772
+#EXTINF:-1 tvg-name="CANAL 9 BARBE -  GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 9 BARBE -  GUATEMALA
+http://playtv44.com:8080/983973559/123456/218861
+#EXTINF:-1 tvg-name="RETRO TV - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",RETRO TV - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218862
+#EXTINF:-1 tvg-name="JESUS TV CANAL 98 - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",JESUS TV CANAL 98 - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218863
+#EXTINF:-1 tvg-name="GUATEMALA | Guatevision  // ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA | Guatevision  // ●
+http://playtv44.com:8080/983973559/123456/218864
+#EXTINF:-1 tvg-name="CANAL 11  TELEONCE - GUATEMALA "tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 11  TELEONCE - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218865
+#EXTINF:-1 tvg-name="GUATEMALA  | TELEVISIETE . //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA  | TELEVISIETE . //
+http://playtv44.com:8080/983973559/123456/218866
+#EXTINF:-1 tvg-name=" CANAL 3  - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 3  - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218867
+#EXTINF:-1 tvg-name="GUATEMALA | ANTIGUA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA | ANTIGUA
+http://playtv44.com:8080/983973559/123456/218868
+#EXTINF:-1 tvg-name="GUATEMALA | AZTECA GUATEMALA ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA | AZTECA GUATEMALA ●
+http://playtv44.com:8080/983973559/123456/218869
+#EXTINF:-1 tvg-name="GUATEMALA | CANAL 7 GUIA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA | CANAL 7 GUIA
+http://playtv44.com:8080/983973559/123456/218870
+#EXTINF:-1 tvg-name="CANAL 13 - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 13 - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218871
+#EXTINF:-1 tvg-name="GUATEMALA / TN23 // Noticias"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA / TN23 // Noticias
+http://playtv44.com:8080/983973559/123456/218872
+#EXTINF:-1 tvg-name="Guatevision SD 2Mb"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",Guatevision SD 2Mb
+http://playtv44.com:8080/983973559/123456/218873
+#EXTINF:-1 tvg-name="GUATEMALA | CLARO  SPORTS GT ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA | CLARO  SPORTS GT ●
+http://playtv44.com:8080/983973559/123456/218874
+#EXTINF:-1 tvg-name="GUATV - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATV - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218875
+#EXTINF:-1 tvg-name="SASTV - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",SASTV - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218876
+#EXTINF:-1 tvg-name="GUATEMALA | Única Tv // (No 24/7)"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA | Única Tv // (No 24/7)
+http://playtv44.com:8080/983973559/123456/218877
+#EXTINF:-1 tvg-name="JESUS TV CANAL 98 - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",JESUS TV CANAL 98 - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218878
+#EXTINF:-1 tvg-name="Nim TV Sololá Guatemala - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",Nim TV Sololá Guatemala - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218879
+#EXTINF:-1 tvg-name="CANAL 13 ESQUIPULAS CHIQUIMULA - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 13 ESQUIPULAS CHIQUIMULA - GUATEMALA
+http://playtv44.com:8080/983973559/123456/218880
+#EXTINF:-1 tvg-name="GUATEMALA / TELECOSTA //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA / TELECOSTA //
+http://playtv44.com:8080/983973559/123456/218881
+#EXTINF:-1 tvg-name="GUATEMALA / Cariñosa Tv Quesada //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",GUATEMALA / Cariñosa Tv Quesada //
+http://playtv44.com:8080/983973559/123456/218882
+#EXTINF:-1 tvg-name="NUEVO MUNDO TV - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",NUEVO MUNDO TV - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315517
+#EXTINF:-1 tvg-name="CANAL 8 SANTA ROSA - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 8 SANTA ROSA - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315518
+#EXTINF:-1 tvg-name="TOTOVISION - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",TOTOVISION - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315519
+#EXTINF:-1 tvg-name="MI CANAL - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",MI CANAL - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315520
+#EXTINF:-1 tvg-name="CANAL 9 SOLOLA - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 9 SOLOLA - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315521
+#EXTINF:-1 tvg-name="CANAL 100 CHINIQUE QUICHE - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 100 CHINIQUE QUICHE - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315523
+#EXTINF:-1 tvg-name="PANIEL KIDS & YOUNG - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",PANIEL KIDS & YOUNG - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315524
+#EXTINF:-1 tvg-name="CANAL 9 TV SAN MARCOS - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",CANAL 9 TV SAN MARCOS - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315525
+#EXTINF:-1 tvg-name="RHEMA TV - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",RHEMA TV - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315526
+#EXTINF:-1 tvg-name="AMIGOS TV CHIQUIMULA - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",AMIGOS TV CHIQUIMULA - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315527
+#EXTINF:-1 tvg-name="FRANCHS TV - GUATEMALA"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"group-title="CANALES DE GUATEMALA",FRANCHS TV - GUATEMALA
+http://playtv44.com:8080/983973559/123456/315530
+#EXTINF:-1 tvg-name="MX: CANAL VIX LO MEJOR LIGA MX"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: CANAL VIX LO MEJOR LIGA MX
+http://playtv44.com:8080/983973559/123456/315638
+#EXTINF:-1 tvg-name="LA CASA DE LOS FAMOSOS 001"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",LA CASA DE LOS FAMOSOS 001
+http://playtv44.com:8080/983973559/123456/315639
+#EXTINF:-1 tvg-name="MX : Afizzionados Deportes Sports ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX : Afizzionados Deportes Sports ●
+http://playtv44.com:8080/983973559/123456/315651
+#EXTINF:-1 tvg-name="MX : Televisa Puebla HD"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX : Televisa Puebla HD
+http://playtv44.com:8080/983973559/123456/315660
+#EXTINF:-1 tvg-name="MX: Canal 8  Ocho Monterrey"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Canal 8  Ocho Monterrey
+http://playtv44.com:8080/983973559/123456/315662
+#EXTINF:-1 tvg-name="MX: Az Click ● @ Azteca"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Az Click ● @ Azteca
+http://playtv44.com:8080/983973559/123456/315670
+#EXTINF:-1 tvg-name="MX: AZ Corazon"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: AZ Corazon
+http://playtv44.com:8080/983973559/123456/315671
+#EXTINF:-1 tvg-name="MX: AZ Mundo ● @ Azteca"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: AZ Mundo ● @ Azteca
+http://playtv44.com:8080/983973559/123456/315672
+#EXTINF:-1 tvg-name="MX: Azteca 7 ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Azteca 7 ●
+http://playtv44.com:8080/983973559/123456/315673
+#EXTINF:-1 tvg-name="MX: Azteca Uno ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Azteca Uno ●
+http://playtv44.com:8080/983973559/123456/315674
+#EXTINF:-1 tvg-name="MX: Canal 11 Once"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Canal 11 Once
+http://playtv44.com:8080/983973559/123456/315679
+#EXTINF:-1 tvg-name="MX: Canal 26  Aguascalientes VA+"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Canal 26  Aguascalientes VA+
+http://playtv44.com:8080/983973559/123456/315680
+#EXTINF:-1 tvg-name="MX: Canal 5 ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Canal 5 ●
+http://playtv44.com:8080/983973559/123456/315681
+#EXTINF:-1 tvg-name="MX: INGENIO TV"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: INGENIO TV
+http://playtv44.com:8080/983973559/123456/315686
+#EXTINF:-1 tvg-name="MX: Distrito Comedia ● @"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Distrito Comedia ● @
+http://playtv44.com:8080/983973559/123456/315690
+#EXTINF:-1 tvg-name="MX : Galavision  Alburquerque Santa Fe ● @"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX : Galavision  Alburquerque Santa Fe ● @
+http://playtv44.com:8080/983973559/123456/315696
+#EXTINF:-1 tvg-name="MX: Fuel TV Moto / patineta"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Fuel TV Moto / patineta
+http://playtv44.com:8080/983973559/123456/315697
+#EXTINF:-1 tvg-name="MX: GALA TV"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: GALA TV
+http://playtv44.com:8080/983973559/123456/315699
+#EXTINF:-1 tvg-name="MX: Garage TV"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Garage TV
+http://playtv44.com:8080/983973559/123456/315700
+#EXTINF:-1 tvg-name="MX: MEXICANAL"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: MEXICANAL
+http://playtv44.com:8080/983973559/123456/315703
+#EXTINF:-1 tvg-name="MX: Teleformula @"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Teleformula @
+http://playtv44.com:8080/983973559/123456/315704
+#EXTINF:-1 tvg-name="MX: Imagen Tv ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Imagen Tv ●
+http://playtv44.com:8080/983973559/123456/315706
+#EXTINF:-1 tvg-name="MX: NU9VE Canal 9 Nueve"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: NU9VE Canal 9 Nueve
+http://playtv44.com:8080/983973559/123456/315707
+#EXTINF:-1 tvg-name="MX// Milenio TV //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX// Milenio TV //
+http://playtv44.com:8080/983973559/123456/315710
+#EXTINF:-1 tvg-name="MX: Starz Encore Black"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Starz Encore Black
+http://playtv44.com:8080/983973559/123456/315716
+#EXTINF:-1 tvg-name="MX: Sundance TV"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Sundance TV
+http://playtv44.com:8080/983973559/123456/315718
+#EXTINF:-1 tvg-name="MX: EL HERALDO ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: EL HERALDO ●
+http://playtv44.com:8080/983973559/123456/315719
+#EXTINF:-1 tvg-name="MX: --------------"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: --------------
+http://playtv44.com:8080/983973559/123456/315720
+#EXTINF:-1 tvg-name="MX: Telemax TLM"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Telemax TLM
+http://playtv44.com:8080/983973559/123456/315721
+#EXTINF:-1 tvg-name="MX: TNT   //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: TNT   //
+http://playtv44.com:8080/983973559/123456/315723
+#EXTINF:-1 tvg-name="MX: Televisa Tijuana 12 Xewt"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: Televisa Tijuana 12 Xewt
+http://playtv44.com:8080/983973559/123456/315724
+#EXTINF:-1 tvg-name="MX: TV mas  TV+ Veracruz  //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: TV mas  TV+ Veracruz  //
+http://playtv44.com:8080/983973559/123456/315725
+#EXTINF:-1 tvg-name="MX// Unicable ●"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX// Unicable ●
+http://playtv44.com:8080/983973559/123456/315726
+#EXTINF:-1 tvg-name="MX// DE PELICULAS  ● @"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX// DE PELICULAS  ● @
+http://playtv44.com:8080/983973559/123456/315728
+#EXTINF:-1 tvg-name="││MX││CANAL ONCE  //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││CANAL ONCE  //
+http://playtv44.com:8080/983973559/123456/315729
+#EXTINF:-1 tvg-name="││MX││ Televimex  //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││ Televimex  //
+http://playtv44.com:8080/983973559/123456/315730
+#EXTINF:-1 tvg-name="││MX││Justicia Tv     //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││Justicia Tv     //
+http://playtv44.com:8080/983973559/123456/315731
+#EXTINF:-1 tvg-name="││MX││RCG 2     //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││RCG 2     //
+http://playtv44.com:8080/983973559/123456/315732
+#EXTINF:-1 tvg-name="││MX││PACIFICO  TVP //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││PACIFICO  TVP //
+http://playtv44.com:8080/983973559/123456/315733
+#EXTINF:-1 tvg-name="││MX││UNAM   //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││UNAM   //
+http://playtv44.com:8080/983973559/123456/315734
+#EXTINF:-1 tvg-name="││MX││ TV Mar La Paz    //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││ TV Mar La Paz    //
+http://playtv44.com:8080/983973559/123456/315735
+#EXTINF:-1 tvg-name="││MX││TELESISTEMA //"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",││MX││TELESISTEMA //
+http://playtv44.com:8080/983973559/123456/315736
+#EXTINF:-1 tvg-name="MX || TeleHIT"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX || TeleHIT
+http://playtv44.com:8080/983973559/123456/315737
+#EXTINF:-1 tvg-name="MX: CINE ZONE ⁽ᴴᴰ⁾"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: CINE ZONE ⁽ᴴᴰ⁾
+http://playtv44.com:8080/983973559/123456/315739
+#EXTINF:-1 tvg-name="MX: MORVIDO CINE TERROR"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",MX: MORVIDO CINE TERROR
+http://playtv44.com:8080/983973559/123456/315741
+#EXTINF:-1 tvg-name="LA CASA DE LOS FAMOSOS 001"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",LA CASA DE LOS FAMOSOS 001
+http://playtv44.com:8080/983973559/123456/315742
+#EXTINF:-1 tvg-name="LA CASA DE LOS FAMOSOS 002"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",LA CASA DE LOS FAMOSOS 002
+http://playtv44.com:8080/983973559/123456/315743
+#EXTINF:-1 tvg-name="ADN 40 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",ADN 40 - MEXICO
+http://playtv44.com:8080/983973559/123456/315890
+#EXTINF:-1 tvg-name="AMX NOTICIAS - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",AMX NOTICIAS - MEXICO
+http://playtv44.com:8080/983973559/123456/315892
+#EXTINF:-1 tvg-name="ALCANCE TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",ALCANCE TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315891
+#EXTINF:-1 tvg-name="Canal 13 Bajio - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 13 Bajio - MEXICO
+http://playtv44.com:8080/983973559/123456/315900
+#EXTINF:-1 tvg-name="Canal 13 Campeche - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 13 Campeche - MEXICO
+http://playtv44.com:8080/983973559/123456/315901
+#EXTINF:-1 tvg-name="Canal 13 Chiapas - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 13 Chiapas - MEXICO
+http://playtv44.com:8080/983973559/123456/315902
+#EXTINF:-1 tvg-name="Canal 13 Michoacan - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 13 Michoacan - MEXICO
+http://playtv44.com:8080/983973559/123456/315903
+#EXTINF:-1 tvg-name="Canal 13 Oaxaca - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 13 Oaxaca - MEXICO
+http://playtv44.com:8080/983973559/123456/315904
+#EXTINF:-1 tvg-name="Canal 13 Puebla - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 13 Puebla - MEXICO
+http://playtv44.com:8080/983973559/123456/315905
+#EXTINF:-1 tvg-name="Canal 13 Tabasco - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 13 Tabasco - MEXICO
+http://playtv44.com:8080/983973559/123456/315906
+#EXTINF:-1 tvg-name="Canal 26 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 26 - MEXICO
+http://playtv44.com:8080/983973559/123456/315907
+#EXTINF:-1 tvg-name="Canal 44 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal 44 - MEXICO
+http://playtv44.com:8080/983973559/123456/315908
+#EXTINF:-1 tvg-name="Canal del Congreso 45.3 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal del Congreso 45.3 - MEXICO
+http://playtv44.com:8080/983973559/123456/315910
+#EXTINF:-1 tvg-name="Canal Ocho TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Canal Ocho TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315911
+#EXTINF:-1 tvg-name="Conecta TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Conecta TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315912
+#EXTINF:-1 tvg-name="CorTV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",CorTV - MEXICO
+http://playtv44.com:8080/983973559/123456/315913
+#EXTINF:-1 tvg-name="Expresa TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Expresa TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315915
+#EXTINF:-1 tvg-name="ILCE Canal 15 Summa Saberes - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",ILCE Canal 15 Summa Saberes - MEXICO
+http://playtv44.com:8080/983973559/123456/315918
+#EXTINF:-1 tvg-name="IMRyT - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",IMRyT - MEXICO
+http://playtv44.com:8080/983973559/123456/315919
+#EXTINF:-1 tvg-name="Jalisco TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Jalisco TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315920
+#EXTINF:-1 tvg-name="Justicia TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Justicia TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315921
+#EXTINF:-1 tvg-name="Lobo TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Lobo TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315923
+#EXTINF:-1 tvg-name="Mexiquense TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Mexiquense TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315925
+#EXTINF:-1 tvg-name="Monte Maria - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Monte Maria - MEXICO
+http://playtv44.com:8080/983973559/123456/315926
+#EXTINF:-1 tvg-name="Noticias Canal 10 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Noticias Canal 10 - MEXICO
+http://playtv44.com:8080/983973559/123456/315931
+#EXTINF:-1 tvg-name="NRT Mexico - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",NRT Mexico - MEXICO
+http://playtv44.com:8080/983973559/123456/315934
+#EXTINF:-1 tvg-name="Nueve TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Nueve TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315935
+#EXTINF:-1 tvg-name="Presumiendo Mexico"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Presumiendo Mexico
+http://playtv44.com:8080/983973559/123456/315936
+#EXTINF:-1 tvg-name="RCG TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",RCG TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315937
+#EXTINF:-1 tvg-name="Sintesis TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Sintesis TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315938
+#EXTINF:-1 tvg-name="SQCS Canal 4 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",SQCS Canal 4 - MEXICO
+http://playtv44.com:8080/983973559/123456/315939
+#EXTINF:-1 tvg-name="Super Channel 12 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Super Channel 12 - MEXICO
+http://playtv44.com:8080/983973559/123456/315940
+#EXTINF:-1 tvg-name="Telemar Campeche - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Telemar Campeche - MEXICO
+http://playtv44.com:8080/983973559/123456/315942
+#EXTINF:-1 tvg-name="TRC TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TRC TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315960
+#EXTINF:-1 tvg-name="TUDN Mexico - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TUDN Mexico - MEXICO
+http://playtv44.com:8080/983973559/123456/315961
+#EXTINF:-1 tvg-name="Turistik TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Turistik TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315962
+#EXTINF:-1 tvg-name="TV BUAP - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV BUAP - MEXICO
+http://playtv44.com:8080/983973559/123456/315963
+#EXTINF:-1 tvg-name="TV Cuatro 4.1 - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV Cuatro 4.1 - MEXICO
+http://playtv44.com:8080/983973559/123456/315964
+#EXTINF:-1 tvg-name="TV Guanajuato - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV Guanajuato - MEXICO
+http://playtv44.com:8080/983973559/123456/315967
+#EXTINF:-1 tvg-name="TV Independencia - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV Independencia - MEXICO
+http://playtv44.com:8080/983973559/123456/315968
+#EXTINF:-1 tvg-name="TV Lobo - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV Lobo - MEXICO
+http://playtv44.com:8080/983973559/123456/315969
+#EXTINF:-1 tvg-name="TV Mar La Paz - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV Mar La Paz - MEXICO
+http://playtv44.com:8080/983973559/123456/315970
+#EXTINF:-1 tvg-name="TV Mar Los Cabos - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV Mar Los Cabos - MEXICO
+http://playtv44.com:8080/983973559/123456/315971
+#EXTINF:-1 tvg-name="TV Mar Puerto Vallarta - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV Mar Puerto Vallarta - MEXICO
+http://playtv44.com:8080/983973559/123456/315972
+#EXTINF:-1 tvg-name="TVMas - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TVMas - MEXICO
+http://playtv44.com:8080/983973559/123456/315973
+#EXTINF:-1 tvg-name="TVP - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TVP - MEXICO
+http://playtv44.com:8080/983973559/123456/315974
+#EXTINF:-1 tvg-name="TVP Los Mochis - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TVP Los Mochis - MEXICO
+http://playtv44.com:8080/983973559/123456/315975
+#EXTINF:-1 tvg-name="TVT - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TVT - MEXICO
+http://playtv44.com:8080/983973559/123456/315976
+#EXTINF:-1 tvg-name="TV UJAT - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",TV UJAT - MEXICO
+http://playtv44.com:8080/983973559/123456/315977
+#EXTINF:-1 tvg-name="Ultra TV Puebla - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Ultra TV Puebla - MEXICO
+http://playtv44.com:8080/983973559/123456/315978
+#EXTINF:-1 tvg-name="UMTV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",UMTV - MEXICO
+http://playtv44.com:8080/983973559/123456/315979
+#EXTINF:-1 tvg-name="Univision Panregional - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",Univision Panregional - MEXICO
+http://playtv44.com:8080/983973559/123456/315980
+#EXTINF:-1 tvg-name="VB Media TV - MEXICO"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"group-title="CANALES DE MEXICO",VB Media TV - MEXICO
+http://playtv44.com:8080/983973559/123456/315981
+#EXTINF:-1 tvg-name="Retros Music"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/a43683d33b40f413228d54e3c6ed4a2f.jpg"group-title="CANALES DE MUSICA",Retros Music
+http://playtv44.com:8080/983973559/123456/39397
+#EXTINF:-1 tvg-name="MTV LIVE "tvg-id=""tvg-logo="http://190.2.148.5:25461/images/958ed4486bbdeacc79f6204c61f3a2e5.png"group-title="CANALES DE MUSICA",MTV LIVE
+http://playtv44.com:8080/983973559/123456/51606
+#EXTINF:-1 tvg-name="ROCK MUSIC //"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/71956bd2574e92522c071a1950aec043.png"group-title="CANALES DE MUSICA",ROCK MUSIC //
+http://playtv44.com:8080/983973559/123456/66334
+#EXTINF:-1 tvg-name="RECUERDOS"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/78355ed6d51e605d6ca4cd0042f9f8cb.png"group-title="CANALES DE MUSICA",RECUERDOS
+http://playtv44.com:8080/983973559/123456/66335
+#EXTINF:-1 tvg-name="MOLAHITS"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/e0be39fe83f0c9de85de089fd8ef2066.png"group-title="CANALES DE MUSICA",MOLAHITS
+http://playtv44.com:8080/983973559/123456/66336
+#EXTINF:-1 tvg-name="MTV U"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/a4c5725060e8a08a45bd0bec8b71ba48.jpg"group-title="CANALES DE MUSICA",MTV U
+http://playtv44.com:8080/983973559/123456/66337
+#EXTINF:-1 tvg-name="LA KALLE MUSICA "tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjgbnbgnQlqc488DKbN0xeChJMEeG7gbdeYTNfMU0j5pSLzD9we_T46IM6GjZ7KKfH1Obci8oWTSqTM2rmixm85QHgH8X1SV3HHbv54OoObrMr6cUkRbjvaRSMnc0BALb0SZGpyXi_M-flQ-4jQRIHPgJbZNYFWhE7RqQwEoNhO-jKmOlxLFN29uLlP"group-title="CANALES DE MUSICA",LA KALLE MUSICA
+http://playtv44.com:8080/983973559/123456/66345
+#EXTINF:-1 tvg-name="MUSICA‖ HTV  ●"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/73d4823105c411521c6badd5ad4489d5.png"group-title="CANALES DE MUSICA",MUSICA‖ HTV  ●
+http://playtv44.com:8080/983973559/123456/66346
+#EXTINF:-1 tvg-name="MUSICA||  Telehit ●"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/8f14e45fceea167a5a36dedd4bea2543.png"group-title="CANALES DE MUSICA",MUSICA||  Telehit ●
+http://playtv44.com:8080/983973559/123456/66349
+#EXTINF:-1 tvg-name="MTV CLASSIC "tvg-id=""tvg-logo="http://190.2.148.5:25461/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png"group-title="CANALES DE MUSICA",MTV CLASSIC
+http://playtv44.com:8080/983973559/123456/66350
+#EXTINF:-1 tvg-name="MUSICA||  VH1"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/e4da3b7fbbce2345d7772b0674a318d5.png"group-title="CANALES DE MUSICA",MUSICA||  VH1
+http://playtv44.com:8080/983973559/123456/66351
+#EXTINF:-1 tvg-name="MUSICA - POP LATINO "tvg-id=""tvg-logo="http://190.2.148.5:25461/images/3b325e0fec8ea9bfbdd17d8a34cab6a2.png"group-title="CANALES DE MUSICA",MUSICA - POP LATINO
+http://playtv44.com:8080/983973559/123456/66353
+#EXTINF:-1 tvg-name="FREE TV HITS "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/FreeTv_Egypt_Logo.png/640px-FreeTv_Egypt_Logo.png"group-title="CANALES DE MUSICA",FREE TV HITS
+http://playtv44.com:8080/983973559/123456/72782
+#EXTINF:-1 tvg-name="RADIO STEREO 88 - COSTA RICA"tvg-id=""tvg-logo=""group-title="CANALES DE MUSICA",RADIO STEREO 88 - COSTA RICA
+http://playtv44.com:8080/983973559/123456/315871
+#EXTINF:-1 tvg-name="AMERICA TV"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/8e57832f08f10ea5763a0532f7467fb5.jpg"group-title="CANALES DE PERU",AMERICA TV
+http://playtv44.com:8080/983973559/123456/66224
+#EXTINF:-1 tvg-name="Ovacion"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/0f9371bbcba0e06310f540503af851ca.jpg"group-title="CANALES DE PERU",Ovacion
+http://playtv44.com:8080/983973559/123456/66234
+#EXTINF:-1 tvg-name="PERU MAGICO"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Peru_Magico_2016.png/revision/latest?cb=20161023181843"group-title="CANALES DE PERU",PERU MAGICO
+http://playtv44.com:8080/983973559/123456/66237
+#EXTINF:-1 tvg-name="Canal N HD"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/5daa96d144bc8765f093ef63f5b990aa.png"group-title="CANALES DE PERU",Canal N HD
+http://playtv44.com:8080/983973559/123456/66245
+#EXTINF:-1 tvg-name="Movistar Plus"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/12aad6f5e5a2d070131aeb4fcd427e05.jpg"group-title="CANALES DE PERU",Movistar Plus
+http://playtv44.com:8080/983973559/123456/66247
+#EXTINF:-1 tvg-name="Panamericana"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/c4c9e495aa523c6cf02201805dfe5b94.png"group-title="CANALES DE PERU",Panamericana
+http://playtv44.com:8080/983973559/123456/66248
+#EXTINF:-1 tvg-name="WILLAX: Peru"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/7177ef753a8627d1338938887d725f71.png"group-title="CANALES DE PERU",WILLAX: Peru
+http://playtv44.com:8080/983973559/123456/66251
+#EXTINF:-1 tvg-name="TV PERU - PERU"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/e9325473232d7349006691c774bd62da.png"group-title="CANALES DE PERU",TV PERU - PERU
+http://playtv44.com:8080/983973559/123456/66255
+#EXTINF:-1 tvg-name="PE: TV Cosmos HD"tvg-id=""tvg-logo="http://190.2.148.5:25461/images/4bc9e547806958631101dcba96a893a7.png"group-title="CANALES DE PERU",PE: TV Cosmos HD
+http://playtv44.com:8080/983973559/123456/66259
+#EXTINF:-1 tvg-name="Canal IPE"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5ec9e935de332341f3d07094aa59f1cd.png"group-title="CANALES DE PERU",Canal IPE
+http://playtv44.com:8080/983973559/123456/66264
+#EXTINF:-1 tvg-name="⸗ Peru ◊ BEST Cable Sports ●  **PERU****"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png"group-title="CANALES DE PERU",⸗ Peru ◊ BEST Cable Sports ●  **PERU****
+http://playtv44.com:8080/983973559/123456/315540
+#EXTINF:-1 tvg-name="⸗ Peru ◊ ATV  ● @"tvg-id=""tvg-logo="https://immaa.xyz/PERatttvv.png"group-title="CANALES DE PERU",⸗ Peru ◊ ATV  ● @
+http://playtv44.com:8080/983973559/123456/315541
+#EXTINF:-1 tvg-name="⸗ Peru ◊ ATV  sur ● @"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-a-EtXz9ptfY/XyzEUoOthoI/AAAAAAAAApg/f5uzxEvySn0OIQQfkngK-KLhBv0ZRHCDgCLcBGAsYHQ/w200-h200/estrenos%2B2019.png"group-title="CANALES DE PERU",⸗ Peru ◊ ATV  sur ● @
+http://playtv44.com:8080/983973559/123456/315542
+#EXTINF:-1 tvg-name="⸗ Peru ◊ GLOBAL RBC"tvg-id=""tvg-logo="https://immaa.xyz/PERrrrbbc.png"group-title="CANALES DE PERU",⸗ Peru ◊ GLOBAL RBC
+http://playtv44.com:8080/983973559/123456/315543
+#EXTINF:-1 tvg-name="⸗ Peru ◊ Panamericana HD ●"tvg-id=""tvg-logo="https://immaa.xyz/PERpananme.png"group-title="CANALES DE PERU",⸗ Peru ◊ Panamericana HD ●
+http://playtv44.com:8080/983973559/123456/315544
+#EXTINF:-1 tvg-name="⸗ Peru ◊  BEST CABLE  MUSIC ● //"tvg-id=""tvg-logo="https://immaa.xyz/netppall.png"group-title="CANALES DE PERU",⸗ Peru ◊  BEST CABLE  MUSIC ● //
+http://playtv44.com:8080/983973559/123456/315547
+#EXTINF:-1 tvg-name="⸗ Peru ◊ CULTURA 24 TV //●"tvg-id=""tvg-logo="https://immaa.xyz/PERcuut24.png"group-title="CANALES DE PERU",⸗ Peru ◊ CULTURA 24 TV //●
+http://playtv44.com:8080/983973559/123456/315548
+#EXTINF:-1 tvg-name="⸗ Peru ◊ OVACION TV  ●//"tvg-id=""tvg-logo="https://immaa.xyz/PERoovaaccc.png"group-title="CANALES DE PERU",⸗ Peru ◊ OVACION TV  ●//
+http://playtv44.com:8080/983973559/123456/315549
+#EXTINF:-1 tvg-name="BH TV - PERU"tvg-id=""tvg-logo="https://immaa.xyz/PERbhhht.png"group-title="CANALES DE PERU",BH TV - PERU
+http://playtv44.com:8080/983973559/123456/315550
+#EXTINF:-1 tvg-name="⸗ Peru ◊ TELESUR ● //"tvg-id=""tvg-logo="https://immaa.xyz/PERtelllessur.png"group-title="CANALES DE PERU",⸗ Peru ◊ TELESUR ● //
+http://playtv44.com:8080/983973559/123456/315551
+#EXTINF:-1 tvg-name="⸗ Peru ◊ ATV + ●"tvg-id=""tvg-logo="https://immaa.xyz/PERaaatvp.png"group-title="CANALES DE PERU",⸗ Peru ◊ ATV + ●
+http://playtv44.com:8080/983973559/123456/315552
+#EXTINF:-1 tvg-name="⸗ Peru ◊ Antares TV ● //"tvg-id=""tvg-logo="https://immaa.xyz/PERanntelevvv.png"group-title="CANALES DE PERU",⸗ Peru ◊ Antares TV ● //
+http://playtv44.com:8080/983973559/123456/315554
+#EXTINF:-1 tvg-name="⸗ Peru ◊ Frecuencia LATINA OP 1 @"tvg-id=""tvg-logo="https://immaa.xyz/PERlaatiiinna.png"group-title="CANALES DE PERU",⸗ Peru ◊ Frecuencia LATINA OP 1 @
+http://playtv44.com:8080/983973559/123456/315556
+#EXTINF:-1 tvg-name="⸗ Peru ◊ Autentica //●"tvg-id=""tvg-logo="https://immaa.xyz/PERautennntic.png"group-title="CANALES DE PERU",⸗ Peru ◊ Autentica //●
+http://playtv44.com:8080/983973559/123456/315558
+#EXTINF:-1 tvg-name="TV PERU NOTICIAS - PERU"tvg-id=""tvg-logo="https://immaa.xyz/PERtvppeno.png"group-title="CANALES DE PERU",TV PERU NOTICIAS - PERU
+http://playtv44.com:8080/983973559/123456/315559
+#EXTINF:-1 tvg-name="⸗ Peru ◊ RPP"tvg-id=""tvg-logo="https://immaa.xyz/PERrrrpppp.png"group-title="CANALES DE PERU",⸗ Peru ◊ RPP
+http://playtv44.com:8080/983973559/123456/315563
+#EXTINF:-1 tvg-name="⸗ Peru ◊ Exitosa ●"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png"group-title="CANALES DE PERU",⸗ Peru ◊ Exitosa ●
+http://playtv44.com:8080/983973559/123456/315564
+#EXTINF:-1 tvg-name="⸗ Peru ◊ Nativa TV ● //"tvg-id=""tvg-logo="https://immaa.xyz/PERnnatitvav.png"group-title="CANALES DE PERU",⸗ Peru ◊ Nativa TV ● //
+http://playtv44.com:8080/983973559/123456/315565
+#EXTINF:-1 tvg-name="⸗ Peru ◊ AMERICA TV SD ● @      (10Mb)"tvg-id=""tvg-logo="https://immaa.xyz/PERamericcsd.png"group-title="CANALES DE PERU",⸗ Peru ◊ AMERICA TV SD ● @      (10Mb)
+http://playtv44.com:8080/983973559/123456/315569
+#EXTINF:-1 tvg-name="Puerto Ric // MEGA TV  // **Puerto Rico*****"tvg-id=""tvg-logo="http://playtv44.com:8080/images/0f426bab586e7e995eb5c1986f370edc.png"group-title="CANALES DE PUERTO RICO",Puerto Ric // MEGA TV  // **Puerto Rico*****
+http://playtv44.com:8080/983973559/123456/218819
+#EXTINF:-1 tvg-name="Puerto Ric //  TIVA TV //"tvg-id=""tvg-logo="http://playtv44.com:8080/images/797786ea5161ea4972c89345d0ffae1e.png"group-title="CANALES DE PUERTO RICO",Puerto Ric //  TIVA TV //
+http://playtv44.com:8080/983973559/123456/218822
+#EXTINF:-1 tvg-name="Puerto Ric // WAPA AMERCIA"tvg-id=""tvg-logo="http://playtv44.com:8080/images/4ee0d1c3b8e2d3aab86aeee6404b5f6f.png"group-title="CANALES DE PUERTO RICO",Puerto Ric // WAPA AMERCIA
+http://playtv44.com:8080/983973559/123456/218823
+#EXTINF:-1 tvg-name="Puerto Ric // WIPR Canal 6"tvg-id=""tvg-logo="http://playtv44.com:8080/images/a24b37142e083b297e7fa40385806f9c.png"group-title="CANALES DE PUERTO RICO",Puerto Ric // WIPR Canal 6
+http://playtv44.com:8080/983973559/123456/218824
+#EXTINF:-1 tvg-name="Puerto Ric // Teleonce  //"tvg-id=""tvg-logo="http://playtv44.com:8080/images/2de4bfe3e0b0c3eb19a5e3d919fcab8e.png"group-title="CANALES DE PUERTO RICO",Puerto Ric // Teleonce  //
+http://playtv44.com:8080/983973559/123456/218825
+#EXTINF:-1 tvg-name="Puerto Ric // WAPA 2 Deporte"tvg-id=""tvg-logo="http://playtv44.com:8080/images/12407911648f564c14f7d5101db283a0.jpg"group-title="CANALES DE PUERTO RICO",Puerto Ric // WAPA 2 Deporte
+http://playtv44.com:8080/983973559/123456/218827
+#EXTINF:-1 tvg-name="Puerto Ric // CMD INTERNACIONAL // reli"tvg-id=""tvg-logo="http://playtv44.com:8080/images/6f5c5a02310cd197e9111ecd368e5fed.jpg"group-title="CANALES DE PUERTO RICO",Puerto Ric // CMD INTERNACIONAL // reli
+http://playtv44.com:8080/983973559/123456/218828
+#EXTINF:-1 tvg-name="Puerto Ric //  MEGACINE PUERTO RICO"tvg-id=""tvg-logo="http://playtv44.com:8080/images/01bca96b6ced4b4d1510250f28fecc99.jpg"group-title="CANALES DE PUERTO RICO",Puerto Ric //  MEGACINE PUERTO RICO
+http://playtv44.com:8080/983973559/123456/218829
+#EXTINF:-1 tvg-name="Puerto Ric //  PUERTO KIDS"tvg-id=""tvg-logo="http://playtv44.com:8080/images/81518bebd772033e38107121767aa376.jpg"group-title="CANALES DE PUERTO RICO",Puerto Ric //  PUERTO KIDS
+http://playtv44.com:8080/983973559/123456/218830
+#EXTINF:-1 tvg-name="Puerto Ric //  WAPA 1 ●"tvg-id=""tvg-logo="http://playtv44.com:8080/images/2c6e5dbfcf4700583df1988740c2d35d.jpg"group-title="CANALES DE PUERTO RICO",Puerto Ric //  WAPA 1 ●
+http://playtv44.com:8080/983973559/123456/218831
+#EXTINF:-1 tvg-name="Puerto Ric // PUNTO 2"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5569d379da86c9142bcfb4b1252553a5.jpg"group-title="CANALES DE PUERTO RICO",Puerto Ric // PUNTO 2
+http://playtv44.com:8080/983973559/123456/218833
+#EXTINF:-1 tvg-name="Puerto Ric // Conéctate TV // revi"tvg-id=""tvg-logo="https://graph.facebook.com/conectatetvpr/picture?width=320&height=320"group-title="CANALES DE PUERTO RICO",Puerto Ric // Conéctate TV // revi
+http://playtv44.com:8080/983973559/123456/218834
+#EXTINF:-1 tvg-name="Puerto Ric // EnlaceTV  // Religioso ●"tvg-id=""tvg-logo="https://graph.facebook.com/enlacetv/picture?width=320&height=320"group-title="CANALES DE PUERTO RICO",Puerto Ric // EnlaceTV  // Religioso ●
+http://playtv44.com:8080/983973559/123456/218835
+#EXTINF:-1 tvg-name="Puerto Ric // EWTN el Canal Católico - Religion"tvg-id=""tvg-logo="http://playtv44.com:8080/images/74b784dae90b966a111dc4e6a01675ae.png"group-title="CANALES DE PUERTO RICO",Puerto Ric // EWTN el Canal Católico - Religion
+http://playtv44.com:8080/983973559/123456/218836
+#EXTINF:-1 tvg-name="Puerto Ric //  Hiperconectados Televisión"tvg-id=""tvg-logo="https://graph.facebook.com/hiperconectadostv/picture?width=320&height=320"group-title="CANALES DE PUERTO RICO",Puerto Ric //  Hiperconectados Televisión
+http://playtv44.com:8080/983973559/123456/218837
+#EXTINF:-1 tvg-name="Puerto Ric // Mas TV  //"tvg-id=""tvg-logo="http://playtv44.com:8080/images/966ff773b05000c3f99569ecc0a5e1ff.png"group-title="CANALES DE PUERTO RICO",Puerto Ric // Mas TV  //
+http://playtv44.com:8080/983973559/123456/218838
+#EXTINF:-1 tvg-name="Puerto Ric // Tele Islas Canal 7"tvg-id=""tvg-logo="http://playtv44.com:8080/images/5dcbcaec28dbdf56ffc60efc3c3ecb4d.png"group-title="CANALES DE PUERTO RICO",Puerto Ric // Tele Islas Canal 7
+http://playtv44.com:8080/983973559/123456/218839
+#EXTINF:-1 tvg-name="CANAL 10 (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",CANAL 10 (UY)
+http://playtv44.com:8080/983973559/123456/315382
+#EXTINF:-1 tvg-name="CANAL 4 (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",CANAL 4 (UY)
+http://playtv44.com:8080/983973559/123456/315383
+#EXTINF:-1 tvg-name="CANAL 5 (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",CANAL 5 (UY)
+http://playtv44.com:8080/983973559/123456/315384
+#EXTINF:-1 tvg-name="TELE (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",TELE (UY)
+http://playtv44.com:8080/983973559/123456/315385
+#EXTINF:-1 tvg-name="VTV (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",VTV (UY)
+http://playtv44.com:8080/983973559/123456/315386
+#EXTINF:-1 tvg-name="VTV + (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",VTV + (UY)
+http://playtv44.com:8080/983973559/123456/315387
+#EXTINF:-1 tvg-name="CANAL 7 (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",CANAL 7 (UY)
+http://playtv44.com:8080/983973559/123456/315388
+#EXTINF:-1 tvg-name="CANAL 9 TELEROCHA (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",CANAL 9 TELEROCHA (UY)
+http://playtv44.com:8080/983973559/123456/315389
+#EXTINF:-1 tvg-name="CANAL 11 LAS PIEDRAS (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",CANAL 11 LAS PIEDRAS (UY)
+http://playtv44.com:8080/983973559/123456/315390
+#EXTINF:-1 tvg-name="MARONAS ENTERTAINMENT (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",MARONAS ENTERTAINMENT (UY)
+http://playtv44.com:8080/983973559/123456/315391
+#EXTINF:-1 tvg-name="VERA+ (UY)"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE URUGUAY",VERA+ (UY)
+http://playtv44.com:8080/983973559/123456/315392
+#EXTINF:-1 tvg-name="VEN ◊/  Venevision"tvg-id=""tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Venevision
+http://playtv44.com:8080/983973559/123456/219016
+#EXTINF:-1 tvg-name="VEN ◊/  Globovision"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Globovision
+http://playtv44.com:8080/983973559/123456/219018
+#EXTINF:-1 tvg-name="VEN ◊/  Televen   // ● @"tvg-id=""tvg-logo="https://immaa.xyz/VENtteelllevveen.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Televen   // ● @
+http://playtv44.com:8080/983973559/123456/219019
+#EXTINF:-1 tvg-name="CATATUMBO TV - VENEZUELA"tvg-id=""tvg-logo="https://pbs.twimg.com/profile_images/685552789745963008/iCuCWWJY_400x400.jpg"group-title="CANALES DE VENEZUELA",CATATUMBO TV - VENEZUELA
+http://playtv44.com:8080/983973559/123456/219020
+#EXTINF:-1 tvg-name="VEN ◊/  Telearagua    //"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Telearagua    //
+http://playtv44.com:8080/983973559/123456/219021
+#EXTINF:-1 tvg-name="VEN ◊/  Vale TV"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Vale TV
+http://playtv44.com:8080/983973559/123456/219022
+#EXTINF:-1 tvg-name="VEN ◊/  Meridiano TV"tvg-id=""tvg-logo="https://i.imgur.com/cHBXTRZ.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Meridiano TV
+http://playtv44.com:8080/983973559/123456/219023
+#EXTINF:-1 tvg-name="VEN ◊/  Ve Plus TV"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Venevision_Plus_Logo_2016.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Ve Plus TV
+http://playtv44.com:8080/983973559/123456/219025
+#EXTINF:-1 tvg-name="VEN ◊/  TLT"tvg-id=""tvg-logo="https://i.imgur.com/ET6Sbb0.png"group-title="CANALES DE VENEZUELA",VEN ◊/  TLT
+http://playtv44.com:8080/983973559/123456/219026
+#EXTINF:-1 tvg-name="VEN ◊/   Telesur"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-V6VZz0bxIyo/Xm5XsrahTDI/AAAAAAAABbc/lFiMo51Z7FkqF5mr4SmzbPAmlke1LaEZgCLcBGAsYHQ/s200/3.png"group-title="CANALES DE VENEZUELA",VEN ◊/   Telesur
+http://playtv44.com:8080/983973559/123456/219027
+#EXTINF:-1 tvg-name="VEN ◊/  TVO Nubeh"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/sv_23-tv-oriente_m.png"group-title="CANALES DE VENEZUELA",VEN ◊/  TVO Nubeh
+http://playtv44.com:8080/983973559/123456/219028
+#EXTINF:-1 tvg-name="TVES - VENEZUELA"tvg-id=""tvg-logo="https://www.tves.gob.ve/web/wp-content/uploads/2023/11/LOGO-PNG.png"group-title="CANALES DE VENEZUELA",TVES - VENEZUELA
+http://playtv44.com:8080/983973559/123456/219029
+#EXTINF:-1 tvg-name="VEN ◊/  El Venezolano EVTV"tvg-id=""tvg-logo="https://www.lapatilla.com/wp-content/uploads/2015/05/EVTVES.jpg"group-title="CANALES DE VENEZUELA",VEN ◊/  El Venezolano EVTV
+http://playtv44.com:8080/983973559/123456/219030
+#EXTINF:-1 tvg-name="VEN ◊/  VTV Venezolana de Television"tvg-id=""tvg-logo="https://immaa.xyz/VENvenezolanavtv.png"group-title="CANALES DE VENEZUELA",VEN ◊/  VTV Venezolana de Television
+http://playtv44.com:8080/983973559/123456/219031
+#EXTINF:-1 tvg-name="VEN ◊/  Canal I Panavision //"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="CANALES DE VENEZUELA",VEN ◊/  Canal I Panavision //
+http://playtv44.com:8080/983973559/123456/219032
+#EXTINF:-1 tvg-name="VEN ◊/  TV Venezuela (Tv Miami)"tvg-id=""tvg-logo="https://static.wixstatic.com/media/d508f7_ee49b4c37d2e4e6b88331cbae4db512a~mv2.png/v1/fit/w_2500,h_1330,al_c/d508f7_ee49b4c37d2e4e6b88331cbae4db512a~mv2.png"group-title="CANALES DE VENEZUELA",VEN ◊/  TV Venezuela (Tv Miami)
+http://playtv44.com:8080/983973559/123456/219033
+#EXTINF:-1 tvg-name="Radio Caracas"tvg-id=""tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CNXKXBBkCp.png"group-title="CANALES DE VENEZUELA",Radio Caracas
+http://playtv44.com:8080/983973559/123456/219034
+#EXTINF:-1 tvg-name="VEN ◊/  Promar"tvg-id=""tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png"group-title="CANALES DE VENEZUELA",VEN ◊/  Promar
+http://playtv44.com:8080/983973559/123456/219035
+#EXTINF:-1 tvg-name="EVTV – El Venezonalo"tvg-id=""tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/39/76/5d397645-873e-e54f-e656-4804241512ee/AppIcon_ElVenezolanoTV-1x_U007emarketing-0-10-0-sRGB-85-220.png/1200x630wa.png"group-title="CANALES DE VENEZUELA",EVTV – El Venezonalo
+http://playtv44.com:8080/983973559/123456/219036
+#EXTINF:-1 tvg-name="BTA - VENEZUELA"tvg-id=""tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png"group-title="CANALES DE VENEZUELA",BTA - VENEZUELA
+http://playtv44.com:8080/983973559/123456/315378
+#EXTINF:-1 tvg-name="VEPACO TV - VENEZUELA"tvg-id=""tvg-logo="https://vepaco.tv/wp-content/uploads/2022/09/logovepacotv_mediano.png"group-title="CANALES DE VENEZUELA",VEPACO TV - VENEZUELA
+http://playtv44.com:8080/983973559/123456/315379
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC"tvg-id=""tvg-logo="https://i.postimg.cc/d0K8WQ9x/nat-geo.png"group-title="CANALES DOCUMENTALES Y CULTURALES",NATIONAL GEOGRAPHIC
+http://playtv44.com:8080/983973559/123456/52660
+#EXTINF:-1 tvg-name="HISTORY 2"tvg-id=""tvg-logo="https://i.postimg.cc/vTm7WPv8/history-2.png"group-title="CANALES DOCUMENTALES Y CULTURALES",HISTORY 2
+http://playtv44.com:8080/983973559/123456/52662
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE"tvg-id=""tvg-logo="https://i.postimg.cc/43yQH4X7/tlc.png"group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY SCIENCE
+http://playtv44.com:8080/983973559/123456/52663
+#EXTINF:-1 tvg-name="DISCOVERY THEATER"tvg-id=""tvg-logo="https://i.postimg.cc/BZhBq0qj/discovery-theater.png"group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY THEATER
+http://playtv44.com:8080/983973559/123456/52666
+#EXTINF:-1 tvg-name="DISCOVER TLC "tvg-id=""tvg-logo="https://i.postimg.cc/FHSygk0S/tlc.png"group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVER TLC
+http://playtv44.com:8080/983973559/123456/52667
+#EXTINF:-1 tvg-name="HISTORY"tvg-id=""tvg-logo="https://i.postimg.cc/28MdZ7Lm/history.png"group-title="CANALES DOCUMENTALES Y CULTURALES",HISTORY
+http://playtv44.com:8080/983973559/123456/52668
+#EXTINF:-1 tvg-name="DISCOVERY H&H"tvg-id=""tvg-logo="https://i.postimg.cc/nh01L9ff/tlc-2.png"group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY H&H
+http://playtv44.com:8080/983973559/123456/52672
+#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY"tvg-id=""tvg-logo="https://i.postimg.cc/wx252s3y/investigation.png"group-title="CANALES DOCUMENTALES Y CULTURALES",INVESTIGATION DISCOVERY
+http://playtv44.com:8080/983973559/123456/52674
+#EXTINF:-1 tvg-name="ANIMAL PLANET"tvg-id=""tvg-logo="https://i.postimg.cc/Rhb7GcP7/animal-planet.png"group-title="CANALES DOCUMENTALES Y CULTURALES",ANIMAL PLANET
+http://playtv44.com:8080/983973559/123456/52676
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL"tvg-id=""tvg-logo="https://i.postimg.cc/jdLQ2F5Z/discovery-chanel.png"group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY CHANNEL
+http://playtv44.com:8080/983973559/123456/52677
+#EXTINF:-1 tvg-name="DISCOVERY TURBO"tvg-id=""tvg-logo="https://i.postimg.cc/YSfQTcnq/turbo.png"group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY TURBO
+http://playtv44.com:8080/983973559/123456/218988
+#EXTINF:-1 tvg-name="A&E"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s"group-title="CANALES DOCUMENTALES Y CULTURALES",A&E
+http://playtv44.com:8080/983973559/123456/369750
+#EXTINF:-1 tvg-name="Discovery World "tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png"group-title="CANALES DOCUMENTALES Y CULTURALES",Discovery World
+http://playtv44.com:8080/983973559/123456/369834
+#EXTINF:-1 tvg-name="NAT GEO WILD "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png"group-title="CANALES DOCUMENTALES Y CULTURALES",NAT GEO WILD
+http://playtv44.com:8080/983973559/123456/370136
+#EXTINF:-1 tvg-name="Tv GRACIA - COLOMBIA"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rfqFa700A2w1OYzpEg1YYB6f3jsHe4BLZb9xAiuIX23-agNnPetlhlE_xqRA1-KHE5Q&usqp=CAU"group-title="CANALES EVANGELIOS",Tv GRACIA - COLOMBIA
+http://playtv44.com:8080/983973559/123456/72772
+#EXTINF:-1 tvg-name="REDE GOSPEL - BRAZIL -PLAYMOVIE"tvg-id=""tvg-logo="http://playtv44.com:8080/images/324a14b01b57a5ae90e3161488ff9c01.png"group-title="CANALES EVANGELIOS",REDE GOSPEL - BRAZIL -PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/242102
+#EXTINF:-1 tvg-name="Extrema TV - PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Extrema TV - PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327183
+#EXTINF:-1 tvg-name="CDM Internacional - PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",CDM Internacional - PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327184
+#EXTINF:-1 tvg-name="Movie Fe - PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Movie Fe - PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327187
+#EXTINF:-1 tvg-name="Cielo TV - PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Cielo TV - PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327188
+#EXTINF:-1 tvg-name="Asomavisión - PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Asomavisión - PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327189
+#EXTINF:-1 tvg-name="Spirit Television"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Spirit Television
+http://playtv44.com:8080/983973559/123456/327190
+#EXTINF:-1 tvg-name="JBN TV-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",JBN TV-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327195
+#EXTINF:-1 tvg-name="Tv CRET-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Tv CRET-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327196
+#EXTINF:-1 tvg-name="Tv Telebendicion-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Tv Telebendicion-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327198
+#EXTINF:-1 tvg-name="Tv Salvacion-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Tv Salvacion-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327199
+#EXTINF:-1 tvg-name="Solidaria-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Solidaria-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327201
+#EXTINF:-1 tvg-name="CCI CHANNEL-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",CCI CHANNEL-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327204
+#EXTINF:-1 tvg-name="Luz Naciente-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Luz Naciente-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327205
+#EXTINF:-1 tvg-name="Hosanna Visión-PLAYMOVIE"tvg-id=""tvg-logo=""group-title="CANALES EVANGELIOS",Hosanna Visión-PLAYMOVIE
+http://playtv44.com:8080/983973559/123456/327207
+#EXTINF:-1 tvg-name="BABY TV"tvg-id=""tvg-logo="https://i.postimg.cc/V6gNGYCg/BABY-TV.png"group-title="CANALES INFANTILES",BABY TV
+http://playtv44.com:8080/983973559/123456/15576
+#EXTINF:-1 tvg-name="DISNEY CHANNEL"tvg-id=""tvg-logo="https://i.postimg.cc/BvfXY7Xh/DISNEY-CHANNEL.png"group-title="CANALES INFANTILES",DISNEY CHANNEL
+http://playtv44.com:8080/983973559/123456/15580
+#EXTINF:-1 tvg-name="DISNEY JR"tvg-id=""tvg-logo="https://i.postimg.cc/B6MbvqNy/DISNEY-JR.png"group-title="CANALES INFANTILES",DISNEY JR
+http://playtv44.com:8080/983973559/123456/15581
+#EXTINF:-1 tvg-name="TOONCAST"tvg-id=""tvg-logo="https://i.postimg.cc/sXV1yBP7/TOONCAST.png"group-title="CANALES INFANTILES",TOONCAST
+http://playtv44.com:8080/983973559/123456/15582
+#EXTINF:-1 tvg-name="NICKELODEON"tvg-id=""tvg-logo="https://i.postimg.cc/2y5SgPdD/NICKELODEON.png"group-title="CANALES INFANTILES",NICKELODEON
+http://playtv44.com:8080/983973559/123456/15583
+#EXTINF:-1 tvg-name="TEEN NICK"tvg-id=""tvg-logo="https://i.postimg.cc/1z04L0Fy/TEEN-KIDS.png"group-title="CANALES INFANTILES",TEEN NICK
+http://playtv44.com:8080/983973559/123456/15584
+#EXTINF:-1 tvg-name="NICK JR"tvg-id=""tvg-logo="https://i.postimg.cc/4dsdQKmn/NICK-JR.png"group-title="CANALES INFANTILES",NICK JR
+http://playtv44.com:8080/983973559/123456/15585
+#EXTINF:-1 tvg-name="DISCOVERY KIDS"tvg-id=""tvg-logo="https://i.postimg.cc/ZK0BCyGL/DISCOVERY-KIDS.png"group-title="CANALES INFANTILES",DISCOVERY KIDS
+http://playtv44.com:8080/983973559/123456/31565
+#EXTINF:-1 tvg-name="CARTOON NETWORK"tvg-id=""tvg-logo="https://i.postimg.cc/05VKkCBQ/CARTOON-NETWORK.png"group-title="CANALES INFANTILES",CARTOON NETWORK
+http://playtv44.com:8080/983973559/123456/315884
+#EXTINF:-1 tvg-name="CARTOONITO"tvg-id=""tvg-logo="https://i.postimg.cc/YqV4gCkB/CARTOONITO.png"group-title="CANALES INFANTILES",CARTOONITO
+http://playtv44.com:8080/983973559/123456/315885
+#EXTINF:-1 tvg-name="NICK CLASICO "tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png/revision/latest/scale-to-width-down/1200?cb=20240623002542&path-prefix=es"group-title="CANALES INFANTILES",NICK CLASICO
+http://playtv44.com:8080/983973559/123456/369835
+#EXTINF:-1 tvg-name="Baby First TV "tvg-id=""tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo.png"group-title="CANALES INFANTILES",Baby First TV
+http://playtv44.com:8080/983973559/123456/369839
+#EXTINF:-1 tvg-name="PLIM PLIM "tvg-id=""tvg-logo="https://images.seeklogo.com/logo-png/38/1/plim-plim-logo-png_seeklogo-382562.png"group-title="CANALES INFANTILES",PLIM PLIM
+http://playtv44.com:8080/983973559/123456/378739
+#EXTINF:-1 tvg-name="MLS : HIGHLIGHTS Major League Soccer"tvg-id=""tvg-logo="https://immaa.xyz/mlsstos.png"group-title="CANALES X EVENTOS ",MLS : HIGHLIGHTS Major League Soccer
+http://playtv44.com:8080/983973559/123456/258037
+#EXTINF:-1 tvg-name="MLS 01:"tvg-id=""tvg-logo="https://immaa.xyz/mlsstos.png"group-title="CANALES X EVENTOS ",MLS 01:
+http://playtv44.com:8080/983973559/123456/258038
+#EXTINF:-1 tvg-name="MLS 03:"tvg-id=""tvg-logo="https://immaa.xyz/mlsstos.png"group-title="CANALES X EVENTOS ",MLS 03:
+http://playtv44.com:8080/983973559/123456/258039
+#EXTINF:-1 tvg-name="MLS 04:"tvg-id=""tvg-logo="https://immaa.xyz/mlsstos.png"group-title="CANALES X EVENTOS ",MLS 04:
+http://playtv44.com:8080/983973559/123456/258040
+#EXTINF:-1 tvg-name="---------24/7-------"tvg-id=""tvg-logo="https://audioforo.com/wp-content/uploads/2015/01/Full-HD-logo-1-1.jpg"group-title="24/7",---------24/7-------
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/12822
+#EXTINF:-1 tvg-name="CINE ACCION 01"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",CINE ACCION 01
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20347
+#EXTINF:-1 tvg-name="CINE: Acción 02"tvg-id=""tvg-logo=""group-title="24/7",CINE: Acción 02
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74599
+#EXTINF:-1 tvg-name="CINE: Acción 03"tvg-id=""tvg-logo=""group-title="24/7",CINE: Acción 03
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74600
+#EXTINF:-1 tvg-name="CINE: Acción 04"tvg-id=""tvg-logo=""group-title="24/7",CINE: Acción 04
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74601
+#EXTINF:-1 tvg-name="CINE: Acción 05"tvg-id=""tvg-logo=""group-title="24/7",CINE: Acción 05
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74602
+#EXTINF:-1 tvg-name="Animaciones"tvg-id=""tvg-logo=""group-title="24/7",Animaciones
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74603
+#EXTINF:-1 tvg-name="El mentalista"tvg-id=""tvg-logo=""group-title="24/7",El mentalista
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74604
+#EXTINF:-1 tvg-name="CINE: Animación 03 "tvg-id=""tvg-logo=""group-title="24/7",CINE: Animación 03
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74605
+#EXTINF:-1 tvg-name="CINE: Familiar 01"tvg-id=""tvg-logo=""group-title="24/7",CINE: Familiar 01
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74606
+#EXTINF:-1 tvg-name="CINE: Familiar 02"tvg-id=""tvg-logo=""group-title="24/7",CINE: Familiar 02
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74607
+#EXTINF:-1 tvg-name="El Laboratorio de Dexter [1 - 4T]"tvg-id=""tvg-logo=""group-title="24/7",El Laboratorio de Dexter [1 - 4T]
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74608
+#EXTINF:-1 tvg-name="DraginBall"tvg-id=""tvg-logo=""group-title="24/7",DraginBall
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74609
+#EXTINF:-1 tvg-name="Dragon BallGT"tvg-id=""tvg-logo=""group-title="24/7",Dragon BallGT
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74610
+#EXTINF:-1 tvg-name="Dragon Ball Super"tvg-id=""tvg-logo=""group-title="24/7",Dragon Ball Super
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74611
+#EXTINF:-1 tvg-name="Dragin Ball Z"tvg-id=""tvg-logo=""group-title="24/7",Dragin Ball Z
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74612
+#EXTINF:-1 tvg-name="Family Guy"tvg-id=""tvg-logo=""group-title="24/7",Family Guy
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74613
+#EXTINF:-1 tvg-name="Clásicos Disney"tvg-id=""tvg-logo=""group-title="24/7",Clásicos Disney
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74614
+#EXTINF:-1 tvg-name="Las aventuras de Tom Sawyer"tvg-id=""tvg-logo=""group-title="24/7",Las aventuras de Tom Sawyer
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74615
+#EXTINF:-1 tvg-name="Peliculas Universo DC"tvg-id=""tvg-logo=""group-title="24/7",Peliculas Universo DC
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74616
+#EXTINF:-1 tvg-name="Peliculas Batman"tvg-id=""tvg-logo=""group-title="24/7",Peliculas Batman
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74617
+#EXTINF:-1 tvg-name="Game of Thrones HD"tvg-id=""tvg-logo=""group-title="24/7",Game of Thrones HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74618
+#EXTINF:-1 tvg-name="Las nuevas aventuras de Batman"tvg-id=""tvg-logo=""group-title="24/7",Las nuevas aventuras de Batman
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74619
+#EXTINF:-1 tvg-name="House of Cards"tvg-id=""tvg-logo=""group-title="24/7",House of Cards
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/74620
+#EXTINF:-1 tvg-name="CINE ESTELAR"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",CINE ESTELAR
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17758
+#EXTINF:-1 tvg-name="Cine Romance"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Romance
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17759
+#EXTINF:-1 tvg-name="Estrellas de Acción"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Estrellas de Acción
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17760
+#EXTINF:-1 tvg-name="La casa de papel"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",La casa de papel
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20341
+#EXTINF:-1 tvg-name="Cine Accion 2"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Accion 2
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17788
+#EXTINF:-1 tvg-name="Cine Comedia 2"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Comedia 2
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17789
+#EXTINF:-1 tvg-name="DR House"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",DR House
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20342
+#EXTINF:-1 tvg-name="Peliculas Marvel Cronologia"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Peliculas Marvel Cronologia
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20343
+#EXTINF:-1 tvg-name="Breaking Bad [Completo]"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Breaking Bad [Completo]
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20344
+#EXTINF:-1 tvg-name="Cine Ficcion/Fantasia 1"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Ficcion/Fantasia 1
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20345
+#EXTINF:-1 tvg-name="Ficcion/Fantasia 2"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Ficcion/Fantasia 2
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20346
+#EXTINF:-1 tvg-name="Los años maravillosos"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Los años maravillosos
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20348
+#EXTINF:-1 tvg-name="Cine Infantil"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Infantil
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20349
+#EXTINF:-1 tvg-name="Cine Infantil HD"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Infantil HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20350
+#EXTINF:-1 tvg-name="Cine Infantil Sagas HD"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Infantil Sagas HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20351
+#EXTINF:-1 tvg-name="Cine Latino"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Latino
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20352
+#EXTINF:-1 tvg-name="Peliculas Marvel Orden Estreno"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Peliculas Marvel Orden Estreno
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20353
+#EXTINF:-1 tvg-name="Cine Romance HD"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Romance HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20354
+#EXTINF:-1 tvg-name="Cine Terror"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Terror
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20355
+#EXTINF:-1 tvg-name="Cine Zombis"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine Zombis
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/20356
+#EXTINF:-1 tvg-name="TV Series Retro"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",TV Series Retro
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16433
+#EXTINF:-1 tvg-name="TV Ciencia"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",TV Ciencia
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17756
+#EXTINF:-1 tvg-name="TV Animales"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",TV Animales
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17757
+#EXTINF:-1 tvg-name="Los archivos del FBI"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Los archivos del FBI
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17772
+#EXTINF:-1 tvg-name="Cine drama"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine drama
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17784
+#EXTINF:-1 tvg-name="Misterios sin Resolver "tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Misterios sin Resolver
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17786
+#EXTINF:-1 tvg-name="TV ANIME"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",TV ANIME
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17762
+#EXTINF:-1 tvg-name="Cine familia"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Cine familia
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17766
+#EXTINF:-1 tvg-name="Tv Humor"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Tv Humor
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17768
+#EXTINF:-1 tvg-name="Bob Esponja"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Bob Esponja
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16421
+#EXTINF:-1 tvg-name="Telenovelas"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Telenovelas
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17778
+#EXTINF:-1 tvg-name="CANTINFLAS SD"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",CANTINFLAS SD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16422
+#EXTINF:-1 tvg-name="SD:Chespirito"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Chespirito
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16423
+#EXTINF:-1 tvg-name="SD:Los Simpsons"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Los Simpsons
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16424
+#EXTINF:-1 tvg-name="Los Simpson (Temporadas 1-5)"tvg-id=""tvg-logo=""group-title="24/7",Los Simpson (Temporadas 1-5)
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/38573
+#EXTINF:-1 tvg-name="Los Simpson (Temporadas 12-17)"tvg-id=""tvg-logo=""group-title="24/7",Los Simpson (Temporadas 12-17)
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/38574
+#EXTINF:-1 tvg-name="Los Simpson (Temporadas 18-21)"tvg-id=""tvg-logo=""group-title="24/7",Los Simpson (Temporadas 18-21)
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/38575
+#EXTINF:-1 tvg-name="Los Simpson (Temporadas 22-26)"tvg-id=""tvg-logo=""group-title="24/7",Los Simpson (Temporadas 22-26)
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/38576
+#EXTINF:-1 tvg-name="Los Simpson (Temporadas 27-30)"tvg-id=""tvg-logo=""group-title="24/7",Los Simpson (Temporadas 27-30)
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/38577
+#EXTINF:-1 tvg-name="SD:EL CHAVO DEL 8"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:EL CHAVO DEL 8
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16425
+#EXTINF:-1 tvg-name="LA_SD:CHAPULIN COLORADO"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",LA_SD:CHAPULIN COLORADO
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16426
+#EXTINF:-1 tvg-name="SD:MR. BEAN"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:MR. BEAN
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16427
+#EXTINF:-1 tvg-name="SD:Looney Tunes"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Looney Tunes
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16428
+#EXTINF:-1 tvg-name="SD:Scooby Doo"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Scooby Doo
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16429
+#EXTINF:-1 tvg-name="Alf"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Alf
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16430
+#EXTINF:-1 tvg-name="SD:Los Picapiedra"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Los Picapiedra
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16431
+#EXTINF:-1 tvg-name="SD:Two And a Half Men 24/7"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Two And a Half Men 24/7
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16432
+#EXTINF:-1 tvg-name="SD:Dragon Ball GT"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Dragon Ball GT
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16434
+#EXTINF:-1 tvg-name="SD:DRAGON BALL"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:DRAGON BALL
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16435
+#EXTINF:-1 tvg-name="SD:Naruto"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SD:Naruto
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16436
+#EXTINF:-1 tvg-name="Friends"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Friends
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/16437
+#EXTINF:-1 tvg-name="Elfen Lied"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Elfen Lied
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17747
+#EXTINF:-1 tvg-name="Looney Tunes"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Looney Tunes
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17748
+#EXTINF:-1 tvg-name="El Coyote y el Correcaminos [Completo]"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",El Coyote y el Correcaminos [Completo]
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17749
+#EXTINF:-1 tvg-name="Nuestro Cine"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Nuestro Cine
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17750
+#EXTINF:-1 tvg-name="TOM Y JERRY SERIE COMPLETA"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",TOM Y JERRY SERIE COMPLETA
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17751
+#EXTINF:-1 tvg-name="Liga De La Justicia Ilimitada"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Liga De La Justicia Ilimitada
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17752
+#EXTINF:-1 tvg-name="Daremound"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Daremound
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17753
+#EXTINF:-1 tvg-name="Peliculas Scary Movie"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Peliculas Scary Movie
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17754
+#EXTINF:-1 tvg-name="PINKI ELVIRA Y CEREBRO"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",PINKI ELVIRA Y CEREBRO
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17755
+#EXTINF:-1 tvg-name="Pokémon"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Pokémon
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17761
+#EXTINF:-1 tvg-name="Los Picapiedra"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Los Picapiedra
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17763
+#EXTINF:-1 tvg-name="Series"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Series
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17771
+#EXTINF:-1 tvg-name="Un Show Más"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Un Show Más
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17764
+#EXTINF:-1 tvg-name="LA PANTERA ROSA"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",LA PANTERA ROSA
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17765
+#EXTINF:-1 tvg-name="GARFIELD Y SUS AMIGOS"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",GARFIELD Y SUS AMIGOS
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17767
+#EXTINF:-1 tvg-name="EL SHOW DE LA PEQUEÑA LU LU"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",EL SHOW DE LA PEQUEÑA LU LU
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17769
+#EXTINF:-1 tvg-name="Pablo Escobar"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Pablo Escobar
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17770
+#EXTINF:-1 tvg-name="CORAJE EL PERRO COBARDE"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",CORAJE EL PERRO COBARDE
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17773
+#EXTINF:-1 tvg-name="Dinosaurios"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Dinosaurios
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17775
+#EXTINF:-1 tvg-name="SOUTH PARK SERIE TEMPORADA 1 - 10 HD"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SOUTH PARK SERIE TEMPORADA 1 - 10 HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17776
+#EXTINF:-1 tvg-name="SOUTH PARK SERIE TEMPORADA 11 -22 HD"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",SOUTH PARK SERIE TEMPORADA 11 -22 HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17777
+#EXTINF:-1 tvg-name="El Pato Darkwing"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",El Pato Darkwing
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17779
+#EXTINF:-1 tvg-name="PADRE DE FAMILIA SERIE TEMPORADA 10 - 14 HD "tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",PADRE DE FAMILIA SERIE TEMPORADA 10 - 14 HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17781
+#EXTINF:-1 tvg-name="La vaca y el pollito"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",La vaca y el pollito
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17782
+#EXTINF:-1 tvg-name="Ed, Edd y Eddy"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Edd y Eddy
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17785
+#EXTINF:-1 tvg-name="The Big Bang Theory"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",The Big Bang Theory
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17787
+#EXTINF:-1 tvg-name="Elementary"tvg-id=""tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",Elementary
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/17790
+#EXTINF:-1 tvg-name="Los Tres Chiflados"tvg-id=""tvg-logo=""group-title="24/7",Los Tres Chiflados
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/39174
+#EXTINF:-1 tvg-name="El Gallo Claudio"tvg-id=""tvg-logo=""group-title="24/7",El Gallo Claudio
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73706
+#EXTINF:-1 tvg-name="Animaniacs"tvg-id=""tvg-logo=""group-title="24/7",Animaniacs
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73707
+#EXTINF:-1 tvg-name="Hey Arnold! [Completo]"tvg-id=""tvg-logo=""group-title="24/7",Hey Arnold! [Completo]
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73708
+#EXTINF:-1 tvg-name="Las chicas superpoderosas"tvg-id=""tvg-logo=""group-title="24/7",Las chicas superpoderosas
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73709
+#EXTINF:-1 tvg-name="TrollHunters"tvg-id=""tvg-logo=""group-title="24/7",TrollHunters
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73710
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!"tvg-id=""tvg-logo=""group-title="24/7",Yu-Gi-Oh!
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73711
+#EXTINF:-1 tvg-name="El Principel del Rap"tvg-id=""tvg-logo=""group-title="24/7",El Principel del Rap
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73712
+#EXTINF:-1 tvg-name="One Punch Man"tvg-id=""tvg-logo=""group-title="24/7",One Punch Man
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73713
+#EXTINF:-1 tvg-name="Smallville"tvg-id=""tvg-logo=""group-title="24/7",Smallville
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73714
+#EXTINF:-1 tvg-name="Doraemon"tvg-id=""tvg-logo=""group-title="24/7",Doraemon
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73715
+#EXTINF:-1 tvg-name="QUE HAY DE NUEVO SCOOBY DOO SERIE COMPLETA"tvg-id=""tvg-logo=""group-title="24/7",QUE HAY DE NUEVO SCOOBY DOO SERIE COMPLETA
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73716
+#EXTINF:-1 tvg-name="Ranma ½ HD"tvg-id=""tvg-logo=""group-title="24/7",Ranma ½ HD
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/73717
+#EXTINF:-1 tvg-name="ESTRENOS 2023"tvg-id=""tvg-logo=""group-title="24/7",ESTRENOS 2023
+http://planettvweb.com:8091/AlejandroAle/YRej9272m/101814
+#EXTINF:-1 group-title="COLOMBIA2",3ABN LATINO
+http://181.78.15.155:9800/play/a00e
+#EXTINF:-1 group-title="COLOMBIA2",AZ CINEMA
+http://181.78.15.155:9800/play/a003
+#EXTINF:-1 group-title="COLOMBIA2",AZ CINEMA - TRANS
+http://181.78.15.155:9800/play/a00t
+#EXTINF:-1 group-title="COLOMBIA2",AZ CLIC - TRANS
+http://181.78.15.155:9800/play/a00v
+#EXTINF:-1 group-title="COLOMBIA2",AZ CLICK
+http://181.78.15.155:9800/play/a002
+#EXTINF:-1 group-title="COLOMBIA2",AZ CORAZON
+http://181.78.15.155:9800/play/a001
+#EXTINF:-1 group-title="COLOMBIA2",AZ CORAZON - TRANS
+http://181.78.15.155:9800/play/a00u
+#EXTINF:-1 group-title="COLOMBIA2",AZ MUNDO
+http://181.78.15.155:9800/play/a004
+#EXTINF:-1 group-title="COLOMBIA2",AZ MUNDO TRANS
+http://181.78.15.155:9800/play/a00w
+#EXTINF:-1 group-title="COLOMBIA2",BABY TV
+http://181.78.15.155:9800/play/a020
+#EXTINF:-1 group-title="COLOMBIA2",CANAL INFANTIL
+http://181.78.15.155:9800/play/a01z
+#EXTINF:-1 group-title="COLOMBIA2",CANAL INFANTIL
+http://181.78.15.155:9800/play/a005
+#EXTINF:-1 group-title="COLOMBIA2",CANAL INSTITUCIONAL
+http://181.78.15.155:9800/play/a01j
+#EXTINF:-1 group-title="COLOMBIA2",CANAL TRO
+http://181.78.15.155:9800/play/a016
+#EXTINF:-1 group-title="COLOMBIA2",CANAL TRO
+http://181.78.15.155:9800/play/a015
+#EXTINF:-1 group-title="COLOMBIA2",CANAL UNO
+http://181.78.15.155:9800/play/a01b
+#EXTINF:-1 group-title="COLOMBIA2",CANTINAZO - NEVA
+http://181.78.15.155:9800/play/a02t
+#EXTINF:-1 group-title="COLOMBIA2",CARTOONITO
+http://181.78.15.155:9800/play/a024
+#EXTINF:-1 group-title="COLOMBIA2",CINE FAMILIAR
+http://181.78.15.155:9800/play/a006
+#EXTINF:-1 group-title="COLOMBIA2",CINE HISPANO
+http://181.78.15.155:9800/play/a008
+#EXTINF:-1 group-title="COLOMBIA2",CINE LATINO
+http://181.78.15.155:9800/play/a025
+#EXTINF:-1 group-title="COLOMBIA2",CINE PREMIUM
+http://181.78.15.155:9800/play/a007
+#EXTINF:-1 group-title="COLOMBIA2",CINEMA PLATINO
+http://181.78.15.155:9800/play/a00l
+#EXTINF:-1 group-title="COLOMBIA2",CITY TV
+http://181.78.15.155:9800/play/a01f
+#EXTINF:-1 group-title="COLOMBIA2",CNN
+http://181.78.15.155:9800/play/a01q
+#EXTINF:-1 group-title="COLOMBIA2",DE PELICULA ASI
+http://181.78.15.155:9800/play/a02m
+#EXTINF:-1 group-title="COLOMBIA2",DE PELICULA TRANS
+http://181.78.15.155:9800/play/a02n
+#EXTINF:-1 group-title="COLOMBIA2",DREAMWORKS
+http://181.78.15.155:9800/play/a022
+#EXTINF:-1 group-title="COLOMBIA2",EJTV
+http://181.78.15.155:9800/play/a00p
+#EXTINF:-1 group-title="COLOMBIA2",ENLACE TV
+http://181.78.15.155:9800/play/a01h
+#EXTINF:-1 group-title="COLOMBIA2",ESPN
+http://181.78.15.155:9800/play/a01r
+#EXTINF:-1 group-title="COLOMBIA2",ESPN 2
+http://181.78.15.155:9800/play/a01s
+#EXTINF:-1 group-title="COLOMBIA2",ESPN 3
+http://181.78.15.155:9800/play/a01t
+#EXTINF:-1 group-title="COLOMBIA2",ESPN 4
+http://181.78.15.155:9800/play/a01u
+#EXTINF:-1 group-title="COLOMBIA2",ESPN 5
+http://181.78.15.155:9800/play/a01v
+#EXTINF:-1 group-title="COLOMBIA2",ESPN 6
+http://181.78.15.155:9800/play/a01w
+#EXTINF:-1 group-title="COLOMBIA2",ESTRELLAS TRANS
+http://181.78.15.155:9800/play/a02j
+#EXTINF:-1 group-title="COLOMBIA2",EURONEWS
+http://181.78.15.155:9800/play/a01n
+#EXTINF:-1 group-title="COLOMBIA2",GOLDEN ASI
+http://181.78.15.155:9800/play/a027
+#EXTINF:-1 group-title="COLOMBIA2",GOLDEN ASI TRANS
+http://181.78.15.155:9800/play/a028
+#EXTINF:-1 group-title="COLOMBIA2",GOLDEN EDGE ASI
+http://181.78.15.155:9800/play/a02k
+#EXTINF:-1 group-title="COLOMBIA2",GOLDEN EDGE TRANS
+http://181.78.15.155:9800/play/a02l
+#EXTINF:-1 group-title="COLOMBIA2",History 2 trans
+http://181.78.15.155:9800/play/a02q
+#EXTINF:-1 group-title="COLOMBIA2",History2 ASI
+http://181.78.15.155:9800/play/a02p
+#EXTINF:-1 group-title="COLOMBIA2",LA KALLE
+http://181.78.15.155:9800/play/a00j
+#EXTINF:-1 group-title="COLOMBIA2",LOVE NATURE - NEVA
+http://181.78.15.155:9800/play/a02a
+#EXTINF:-1 group-title="COLOMBIA2",LOVE NATURE TRANS
+http://181.78.15.155:9800/play/a010
+#EXTINF:-1 group-title="COLOMBIA2",MOMENTO 24 - NEVA
+http://181.78.15.155:9800/play/a02v
+#EXTINF:-1 group-title="COLOMBIA2",MUSICA POPULAR
+http://181.78.15.155:9800/play/a00a
+#EXTINF:-1 group-title="COLOMBIA2",MUSICA REGGAETON
+http://181.78.15.155:9800/play/a00b
+#EXTINF:-1 group-title="COLOMBIA2",MUSICA ROMANTICA
+http://181.78.15.155:9800/play/a00i
+#EXTINF:-1 group-title="COLOMBIA2",MUSICA SALSA
+http://181.78.15.155:9800/play/a009
+#EXTINF:-1 group-title="COLOMBIA2",NTN 24 HORAS
+http://181.78.15.155:9800/play/a02g
+#EXTINF:-1 group-title="COLOMBIA2",NTN 24 HORAS TRANS
+http://181.78.15.155:9800/play/a02h
+#EXTINF:-1 group-title="COLOMBIA2",PARRANDA VALLENATA
+http://181.78.15.155:9800/play/a02b
+#EXTINF:-1 group-title="COLOMBIA2",PLIM PLIM - NEVA
+http://181.78.15.155:9800/play/a029
+#EXTINF:-1 group-title="COLOMBIA2",RCN
+http://181.78.15.155:9800/play/a01c
+#EXTINF:-1 group-title="COLOMBIA2",RCN HD2
+http://181.78.15.155:9800/play/a00r
+#EXTINF:-1 group-title="COLOMBIA2",SEÑAL COLOMBIA
+http://181.78.15.155:9800/play/a01e
+#EXTINF:-1 group-title="COLOMBIA2",SUPER MUSICA
+http://181.78.15.155:9800/play/a02u
+#EXTINF:-1 group-title="COLOMBIA2",SUPER MUSICA
+http://181.78.15.155:9800/play/a02d
+#EXTINF:-1 group-title="COLOMBIA2",TELEAMIGA
+http://181.78.15.155:9800/play/a00h
+#EXTINF:-1 group-title="COLOMBIA2",TELEANTIOQUIA
+http://181.78.15.155:9800/play/a01a
+#EXTINF:-1 group-title="COLOMBIA2",TELECAFE
+http://181.78.15.155:9800/play/a017
+#EXTINF:-1 group-title="COLOMBIA2",TELECARIBE
+http://181.78.15.155:9800/play/a018
+#EXTINF:-1 group-title="COLOMBIA2",TELENOSTALGIA
+http://181.78.15.155:9800/play/a00m
+#EXTINF:-1 group-title="COLOMBIA2",TELEPACIFICO
+http://181.78.15.155:9800/play/a019
+#EXTINF:-1 group-title="COLOMBIA2",TELEPETROLEO
+http://181.78.15.155:9800/play/a01g
+#EXTINF:-1 group-title="COLOMBIA2",TELEPETROLEO
+http://181.78.15.155:9800/play/a00k
+#EXTINF:-1 group-title="COLOMBIA2",TELESUR
+http://181.78.15.155:9800/play/a01p
+#EXTINF:-1 group-title="COLOMBIA2",TELEVID
+http://181.78.15.155:9800/play/a00g
+#EXTINF:-1 group-title="COLOMBIA2",TOONCAST
+http://181.78.15.155:9800/play/a021
+#EXTINF:-1 group-title="COLOMBIA2",UNIVISION
+http://181.78.15.155:9800/play/a00f
+#EXTINF:-1 group-title="COLOMBIA2",UNIVISION
+http://181.78.15.155:9800/play/a013
+#EXTINF:-1 group-title="COLOMBIA2",UNIVISION - TRANS
+http://181.78.15.155:9800/play/a014
+#EXTINF:-1 group-title="COLOMBIA2",ZOOM
+http://181.78.15.155:9800/play/a00o
+#EXTINF:-1 group-title="COLOMBIA2",ZOOMOO
+http://181.78.15.155:9800/play/a00z
+#EXTINF:-1 group-title="COLOMBIA2",ZOOMOO TRANS
+http://181.78.15.155:9800/play/a00y
+#EXTINF:-1 group-title="COLOMBIA2",Zoom
+http://181.78.15.155:9800/play/a01i
+#EXTM3U
+#EXTINF:-1 group-title="MEXICO2",3ABN MX
+http://45.68.35.218:4001/play/a012/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",AZ HONDURAS
+http://45.68.35.218:4001/play/a02g/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",AZTECA 1
+http://45.68.35.218:4001/play/a025/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",AZTECA 7 MX
+http://45.68.35.218:4001/play/a006/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",AZTECA GUATEMALA MX
+http://45.68.35.218:4001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",AZTECA INTERNACIONAL MX
+http://45.68.35.218:4001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",BANDA MAX MX
+http://45.68.35.218:4001/play/a00g/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",BITME MX
+http://45.68.35.218:4001/play/a00d/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",BUNDESLIGA MX
+http://45.68.35.218:4001/play/a00c/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 11
+http://45.68.35.218:4001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 15 PRUEBA
+http://45.68.35.218:4001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 27 GUATE
+http://45.68.35.218:4001/play/a01a/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 4 FIBRA
+http://45.68.35.218:4001/play/a003/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 5 FIBRA
+http://45.68.35.218:4001/play/a002/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 5 MX
+http://45.68.35.218:4001/play/a009/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 6
+http://45.68.35.218:4001/play/a023/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 8 HN
+http://45.68.35.218:4001/play/a024/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL 9 MX
+http://45.68.35.218:4001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CANAL CAPITAL COLOMBIA SUR 
+http://45.68.35.218:4001/play/a036/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CARACOL
+http://45.68.35.218:4001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CARACOL SRT COLOMBIA
+http://45.68.35.218:4001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CHOLUTSAR
+http://45.68.35.218:4001/play/a02i/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CINE MEXICANO
+http://45.68.35.218:4001/play/a01x/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",COLOMBIA 1 SUR 13
+http://45.68.35.218:4001/play/a035/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",CONGRESO
+http://45.68.35.218:4001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",D PELICULAS MX
+http://45.68.35.218:4001/play/a00e/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",DEPORTES TVC FIBRA
+http://45.68.35.218:4001/play/a005/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",DISTRITO COMEDIA MX
+http://45.68.35.218:4001/play/a00f/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",DW
+http://45.68.35.218:4001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",Disney VN
+http://45.68.35.218:4001/play/a01m/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN 1 SRT SUR
+http://45.68.35.218:4001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN 2 SRT SUR
+http://45.68.35.218:4001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN 3 SRT SUR
+http://45.68.35.218:4001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN 4 SRT SUR
+http://45.68.35.218:4001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN 5 SRT SUR
+http://45.68.35.218:4001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN 6 SRT SUR
+http://45.68.35.218:4001/play/a02y/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN 7 SRT SUR
+http://45.68.35.218:4001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",ESPN DEPORTES USA
+http://45.68.35.218:4001/play/a015/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",FOX SPORT 1
+http://45.68.35.218:4001/play/a021/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",FOX SPORT 2
+http://45.68.35.218:4001/play/a01p/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",GOLDEN EDGE MX
+http://45.68.35.218:4001/play/a00i/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",HCH FIBRA
+http://45.68.35.218:4001/play/a004/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",JEFE2
+http://45.68.35.218:4001/play/a018/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",JEFE3
+http://45.68.35.218:4001/play/a019/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",JEFE4
+http://45.68.35.218:4001/play/a01b/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",LA LIGA MX
+http://45.68.35.218:4001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",LAS ESTRELLAS MX 1
+http://45.68.35.218:4001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",LAS ESTRELLAS MX 12
+http://45.68.35.218:4001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",MARIA VISION MX
+http://45.68.35.218:4001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",MAYA TV
+http://45.68.35.218:4001/play/a026/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",MEGACLASICOS
+http://45.68.35.218:4001/play/a02l/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",OROMAR
+http://45.68.35.218:4001/play/a01k/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",Q HUBO TV
+http://45.68.35.218:4001/play/a029/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",RCN SRT SUR
+http://45.68.35.218:4001/play/a031/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",RUMBA TV SUR 12
+http://45.68.35.218:4001/play/a034/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TELECEIBA
+http://45.68.35.218:4001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TELEHIT MUSICA MX
+http://45.68.35.218:4001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TELEHIT MX
+http://45.68.35.218:4001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TELEMUNDO MIAMI
+http://45.68.35.218:4001/play/a00y/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TELEPROGRESO
+http://45.68.35.218:4001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TELEPROGRESO NW
+http://45.68.35.218:4001/play/a02f/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TELESUR MX
+http://45.68.35.218:4001/play/a011/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TEN 11 LEGAL
+http://45.68.35.218:4001/play/a01w/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TEN CANAL 10
+http://45.68.35.218:4001/play/a01o/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TIGO DEPORTES MX
+http://45.68.35.218:4001/play/a00t/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TIGO HN JEFE 1
+http://45.68.35.218:4001/play/a010/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TIGO RESPALDO
+http://45.68.35.218:4001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TIGO RESPALDO VINICIO
+http://45.68.35.218:4001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TL NOVELAS MX 
+http://45.68.35.218:4001/play/a00s/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TN23 MX
+http://45.68.35.218:4001/play/a00r/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TNT SPORT SRT SUR
+http://45.68.35.218:4001/play/a030/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TSI FIBRA
+http://45.68.35.218:4001/play/a001/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TUDN MX
+http://45.68.35.218:4001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TUDN RESPALDO 
+http://45.68.35.218:4001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TUDN USA VC
+http://45.68.35.218:4001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",TV AGRO SUR 
+http://45.68.35.218:4001/play/a033/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",UNE TV
+http://45.68.35.218:4001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",UNICABLE MX
+http://45.68.35.218:4001/play/a014/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",UNIVISION MIAMI VC
+http://45.68.35.218:4001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VEA CANAL MX
+http://45.68.35.218:4001/play/a013/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VIDEO ROLA MX
+http://45.68.35.218:4001/play/a007/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VIX LA LIGA RESPALDO
+http://45.68.35.218:4001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VTV
+http://45.68.35.218:4001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",VW PLUS
+http://45.68.35.218:4001/play/a022/index.m3u8
+#EXTINF:-1 group-title="MEXICO2",WIN SPORT SRT
+http://45.68.35.218:4001/play/a032/index.m3u8
