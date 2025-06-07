@@ -1,159 +1,332 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",A&E HD
-http://181.204.183.226:9000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",AXN
-http://181.204.183.226:9000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Animal Planet
-http://181.204.183.226:9000/play/a005/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Canal  Capital
-http://181.204.183.226:9000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Canal 13
-http://181.204.183.226:9000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Canal Institucional
-http://181.204.183.226:9000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Canal TRO
-http://181.204.183.226:9000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Caracol HD
-http://181.204.183.226:9000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Cartoon Network
-http://181.204.183.226:9000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Cartoonito
-http://181.204.183.226:9000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",City TV
-http://181.204.183.226:9000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Comedy Central
-http://181.204.183.226:9000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",DHE HD
-http://181.204.183.226:9000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",DW Espaæol
-http://181.204.183.226:9000/play/a021/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Discovery H&H HD
-http://181.204.183.226:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Discovery World HD
-http://181.204.183.226:9000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Disney HD
-http://181.204.183.226:9000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Distrito Comedia
-http://181.204.183.226:9000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",E! Entertainment TV
-http://181.204.183.226:9000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN 2 HD
-http://181.204.183.226:9000/play/a017/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN 3 HD
-http://181.204.183.226:9000/play/a011/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN 4HD
-http://181.204.183.226:9000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN 5HD
-http://181.204.183.226:9000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN 6HD
-http://181.204.183.226:9000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN 7
-http://181.204.183.226:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN HD
-http://181.204.183.226:9000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ESPN Premium HD
-http://181.204.183.226:9000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ET Canal El Tiempo
-http://181.204.183.226:9000/play/a020/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",El Gourmet
-http://181.204.183.226:9000/play/a008/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",FX HD
-http://181.204.183.226:9000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Golden Edge
-http://181.204.183.226:9000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Golden HD
-http://181.204.183.226:9000/play/a023/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",HBO Family HD
-http://181.204.183.226:9000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",HBO HD
-http://181.204.183.226:9000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",HBO Plus
-http://181.204.183.226:9000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",HBO Signature
-http://181.204.183.226:9000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",HBO XTREME HD
-http://181.204.183.226:9000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",History Channel
-http://181.204.183.226:9000/play/a007/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",ID HD
-http://181.204.183.226:9000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Las Estrellas HD
-http://181.204.183.226:9000/play/a013/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",MTV
-http://181.204.183.226:9000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",National Geographic
-http://181.204.183.226:9000/play/a006/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Nick HD
-http://181.204.183.226:9000/play/a018/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Nick Jr
-http://181.204.183.226:9000/play/a025/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Paramount HD
-http://181.204.183.226:9000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Pasiones
-http://181.204.183.226:9000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",RCN HD
-http://181.204.183.226:9000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",STAR CHANNEL HD
-http://181.204.183.226:9000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Señal Colombia
-http://181.204.183.226:9000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Sony
-http://181.204.183.226:9000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Space HD
-http://181.204.183.226:9000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Studio Universal HD
-http://181.204.183.226:9000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",TCM
-http://181.204.183.226:9000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",TNT HD
-http://181.204.183.226:9000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",TNT Novelas HD
-http://181.204.183.226:9000/play/a010/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",TNT Series HD
-http://181.204.183.226:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",TNT Sports Premiun HD
-http://181.204.183.226:9000/play/a016/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Telecafe
-http://181.204.183.226:9000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Telecaribe
-http://181.204.183.226:9000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Teleislas
-http://181.204.183.226:9000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Telemundo
-http://181.204.183.226:9000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Telenovelas
-http://181.204.183.226:9000/play/a029/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Telepacifico
-http://181.204.183.226:9000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Tooncast
-http://181.204.183.226:9000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",UNIVERSAL CHANNEL HD
-http://181.204.183.226:9000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Warner Channel HD
-http://181.204.183.226:9000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ COLOMBIA2",Win Sports+
-http://tv.proyectox.vip:8080/JULIOluner/a679afe6000d/9516
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",TV AGRO SUR
+#EXTINF:-1 group-title="▶️ COLOMBIA2",3ABN LATINO
+http://181.78.15.155:9800/play/a00e
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ CINEMA
+http://181.78.15.155:9800/play/a003
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ CINEMA - TRANS
+http://181.78.15.155:9800/play/a00t
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ CLIC - TRANS
+http://181.78.15.155:9800/play/a00v
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ CLICK
+http://181.78.15.155:9800/play/a002
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ CORAZON
+http://181.78.15.155:9800/play/a001
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ CORAZON - TRANS
+http://181.78.15.155:9800/play/a00u
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ MUNDO
+http://181.78.15.155:9800/play/a004
+#EXTINF:-1 group-title="▶️ COLOMBIA2",AZ MUNDO TRANS
+http://181.78.15.155:9800/play/a00w
+#EXTINF:-1 group-title="▶️ COLOMBIA2",BABY TV
+http://181.78.15.155:9800/play/a020
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CANAL INFANTIL
+http://181.78.15.155:9800/play/a01z
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CANAL INFANTIL
+http://181.78.15.155:9800/play/a005
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CANAL INSTITUCIONAL
+http://181.78.15.155:9800/play/a01j
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CANAL TRO
+http://181.78.15.155:9800/play/a016
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CANAL TRO
+http://181.78.15.155:9800/play/a015
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CANAL UNO
+http://181.78.15.155:9800/play/a01b
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CANTINAZO - NEVA
+http://181.78.15.155:9800/play/a02t
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CARTOONITO
+http://181.78.15.155:9800/play/a024
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CINE FAMILIAR
+http://181.78.15.155:9800/play/a006
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CINE HISPANO
+http://181.78.15.155:9800/play/a008
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CINE LATINO
+http://181.78.15.155:9800/play/a025
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CINE PREMIUM
+http://181.78.15.155:9800/play/a007
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CINEMA PLATINO
+http://181.78.15.155:9800/play/a00l
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CITY TV
+http://181.78.15.155:9800/play/a01f
+#EXTINF:-1 group-title="▶️ COLOMBIA2",CNN
+http://181.78.15.155:9800/play/a01q
+#EXTINF:-1 group-title="▶️ COLOMBIA2",DE PELICULA ASI
+http://181.78.15.155:9800/play/a02m
+#EXTINF:-1 group-title="▶️ COLOMBIA2",DE PELICULA TRANS
+http://181.78.15.155:9800/play/a02n
+#EXTINF:-1 group-title="▶️ COLOMBIA2",DREAMWORKS
+http://181.78.15.155:9800/play/a022
+#EXTINF:-1 group-title="▶️ COLOMBIA2",EJTV
+http://181.78.15.155:9800/play/a00p
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ENLACE TV
+http://181.78.15.155:9800/play/a01h
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ESPN
+http://181.78.15.155:9800/play/a01r
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ESPN 2
+http://181.78.15.155:9800/play/a01s
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ESPN 3
+http://181.78.15.155:9800/play/a01t
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ESPN 4
+http://181.78.15.155:9800/play/a01u
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ESPN 5
+http://181.78.15.155:9800/play/a01v
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ESPN 6
+http://181.78.15.155:9800/play/a01w
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ESTRELLAS TRANS
+http://181.78.15.155:9800/play/a02j
+#EXTINF:-1 group-title="▶️ COLOMBIA2",EURONEWS
+http://181.78.15.155:9800/play/a01n
+#EXTINF:-1 group-title="▶️ COLOMBIA2",GOLDEN ASI
+http://181.78.15.155:9800/play/a027
+#EXTINF:-1 group-title="▶️ COLOMBIA2",GOLDEN ASI TRANS
+http://181.78.15.155:9800/play/a028
+#EXTINF:-1 group-title="▶️ COLOMBIA2",GOLDEN EDGE ASI
+http://181.78.15.155:9800/play/a02k
+#EXTINF:-1 group-title="▶️ COLOMBIA2",GOLDEN EDGE TRANS
+http://181.78.15.155:9800/play/a02l
+#EXTINF:-1 group-title="▶️ COLOMBIA2",History 2 trans
+http://181.78.15.155:9800/play/a02q
+#EXTINF:-1 group-title="▶️ COLOMBIA2",History2 ASI
+http://181.78.15.155:9800/play/a02p
+#EXTINF:-1 group-title="▶️ COLOMBIA2",LA KALLE
+http://181.78.15.155:9800/play/a00j
+#EXTINF:-1 group-title="▶️ COLOMBIA2",LOVE NATURE - NEVA
+http://181.78.15.155:9800/play/a02a
+#EXTINF:-1 group-title="▶️ COLOMBIA2",LOVE NATURE TRANS
+http://181.78.15.155:9800/play/a010
+#EXTINF:-1 group-title="▶️ COLOMBIA2",MOMENTO 24 - NEVA
+http://181.78.15.155:9800/play/a02v
+#EXTINF:-1 group-title="▶️ COLOMBIA2",MUSICA POPULAR
+http://181.78.15.155:9800/play/a00a
+#EXTINF:-1 group-title="▶️ COLOMBIA2",MUSICA REGGAETON
+http://181.78.15.155:9800/play/a00b
+#EXTINF:-1 group-title="▶️ COLOMBIA2",MUSICA ROMANTICA
+http://181.78.15.155:9800/play/a00i
+#EXTINF:-1 group-title="▶️ COLOMBIA2",MUSICA SALSA
+http://181.78.15.155:9800/play/a009
+#EXTINF:-1 group-title="▶️ COLOMBIA2",NTN 24 HORAS
+http://181.78.15.155:9800/play/a02g
+#EXTINF:-1 group-title="▶️ COLOMBIA2",NTN 24 HORAS TRANS
+http://181.78.15.155:9800/play/a02h
+#EXTINF:-1 group-title="▶️ COLOMBIA2",PARRANDA VALLENATA
+http://181.78.15.155:9800/play/a02b
+#EXTINF:-1 group-title="▶️ COLOMBIA2",PLIM PLIM - NEVA
+http://181.78.15.155:9800/play/a029
+#EXTINF:-1 group-title="▶️ COLOMBIA2",RCN
+http://181.78.15.155:9800/play/a01c
+#EXTINF:-1 group-title="▶️ COLOMBIA2",RCN HD2
+http://181.78.15.155:9800/play/a00r
+#EXTINF:-1 group-title="▶️ COLOMBIA2",SEÑAL COLOMBIA
+http://181.78.15.155:9800/play/a01e
+#EXTINF:-1 group-title="▶️ COLOMBIA2",SUPER MUSICA
+http://181.78.15.155:9800/play/a02u
+#EXTINF:-1 group-title="▶️ COLOMBIA2",SUPER MUSICA
+http://181.78.15.155:9800/play/a02d
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELEAMIGA
+http://181.78.15.155:9800/play/a00h
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELEANTIOQUIA
+http://181.78.15.155:9800/play/a01a
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELECAFE
+http://181.78.15.155:9800/play/a017
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELECARIBE
+http://181.78.15.155:9800/play/a018
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELENOSTALGIA
+http://181.78.15.155:9800/play/a00m
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELEPACIFICO
+http://181.78.15.155:9800/play/a019
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELEPETROLEO
+http://181.78.15.155:9800/play/a01g
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELEPETROLEO
+http://181.78.15.155:9800/play/a00k
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELESUR
+http://181.78.15.155:9800/play/a01p
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TELEVID
+http://181.78.15.155:9800/play/a00g
+#EXTINF:-1 group-title="▶️ COLOMBIA2",TOONCAST
+http://181.78.15.155:9800/play/a021
+#EXTINF:-1 group-title="▶️ COLOMBIA2",UNIVISION
+http://181.78.15.155:9800/play/a00f
+#EXTINF:-1 group-title="▶️ COLOMBIA2",UNIVISION
+http://181.78.15.155:9800/play/a013
+#EXTINF:-1 group-title="▶️ COLOMBIA2",UNIVISION - TRANS
+http://181.78.15.155:9800/play/a014
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ZOOM
+http://181.78.15.155:9800/play/a00o
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ZOOMOO
+http://181.78.15.155:9800/play/a00z
+#EXTINF:-1 group-title="▶️ COLOMBIA2",ZOOMOO TRANS
+http://181.78.15.155:9800/play/a00y
+#EXTINF:-1 group-title="▶️ COLOMBIA2",Zoom
+http://181.78.15.155:9800/play/a01i
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",3ABN MX
+http://45.68.35.218:4001/play/a012/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",AZ HONDURAS
+http://45.68.35.218:4001/play/a02g/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",AZTECA 1
+http://45.68.35.218:4001/play/a025/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",AZTECA 7 MX
+http://45.68.35.218:4001/play/a006/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",AZTECA GUATEMALA MX
+http://45.68.35.218:4001/play/a00n/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",AZTECA INTERNACIONAL MX
+http://45.68.35.218:4001/play/a00l/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",BANDA MAX MX
+http://45.68.35.218:4001/play/a00g/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",BITME MX
+http://45.68.35.218:4001/play/a00d/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",BUNDESLIGA MX
+http://45.68.35.218:4001/play/a00c/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 11
+http://45.68.35.218:4001/play/a02e/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 15 PRUEBA
+http://45.68.35.218:4001/play/a01e/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 27 GUATE
+http://45.68.35.218:4001/play/a01a/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 4 FIBRA
+http://45.68.35.218:4001/play/a003/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 5 FIBRA
+http://45.68.35.218:4001/play/a002/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 5 MX
+http://45.68.35.218:4001/play/a009/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 6
+http://45.68.35.218:4001/play/a023/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 8 HN
+http://45.68.35.218:4001/play/a024/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL 9 MX
+http://45.68.35.218:4001/play/a01g/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CANAL CAPITAL COLOMBIA SUR 
+http://45.68.35.218:4001/play/a036/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CARACOL
+http://45.68.35.218:4001/play/a01y/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CARACOL SRT COLOMBIA
+http://45.68.35.218:4001/play/a02s/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CHOLUTSAR
+http://45.68.35.218:4001/play/a02i/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CINE MEXICANO
+http://45.68.35.218:4001/play/a01x/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",COLOMBIA 1 SUR 13
+http://45.68.35.218:4001/play/a035/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",CONGRESO
+http://45.68.35.218:4001/play/a01j/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",D PELICULAS MX
+http://45.68.35.218:4001/play/a00e/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",DEPORTES TVC FIBRA
+http://45.68.35.218:4001/play/a005/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",DISTRITO COMEDIA MX
+http://45.68.35.218:4001/play/a00f/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",DW
+http://45.68.35.218:4001/play/a02j/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",Disney VN
+http://45.68.35.218:4001/play/a01m/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN 1 SRT SUR
+http://45.68.35.218:4001/play/a02t/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN 2 SRT SUR
+http://45.68.35.218:4001/play/a02u/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN 3 SRT SUR
+http://45.68.35.218:4001/play/a02v/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN 4 SRT SUR
+http://45.68.35.218:4001/play/a02w/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN 5 SRT SUR
+http://45.68.35.218:4001/play/a02x/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN 6 SRT SUR
+http://45.68.35.218:4001/play/a02y/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN 7 SRT SUR
+http://45.68.35.218:4001/play/a02z/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",ESPN DEPORTES USA
+http://45.68.35.218:4001/play/a015/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",FOX SPORT 1
+http://45.68.35.218:4001/play/a021/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",FOX SPORT 2
+http://45.68.35.218:4001/play/a01p/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",GOLDEN EDGE MX
+http://45.68.35.218:4001/play/a00i/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",HCH FIBRA
+http://45.68.35.218:4001/play/a004/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",JEFE2
+http://45.68.35.218:4001/play/a018/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",JEFE3
+http://45.68.35.218:4001/play/a019/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",JEFE4
+http://45.68.35.218:4001/play/a01b/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",LA LIGA MX
+http://45.68.35.218:4001/play/a00b/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",LAS ESTRELLAS MX 1
+http://45.68.35.218:4001/play/a00a/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",LAS ESTRELLAS MX 12
+http://45.68.35.218:4001/play/a00h/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",MARIA VISION MX
+http://45.68.35.218:4001/play/a00q/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",MAYA TV
+http://45.68.35.218:4001/play/a026/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",MEGACLASICOS
+http://45.68.35.218:4001/play/a02l/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",OROMAR
+http://45.68.35.218:4001/play/a01k/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",Q HUBO TV
+http://45.68.35.218:4001/play/a029/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",RCN SRT SUR
+http://45.68.35.218:4001/play/a031/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",RUMBA TV SUR 12
+http://45.68.35.218:4001/play/a034/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TELECEIBA
+http://45.68.35.218:4001/play/a00v/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TELEHIT MUSICA MX
+http://45.68.35.218:4001/play/a00p/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TELEHIT MX
+http://45.68.35.218:4001/play/a00o/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TELEMUNDO MIAMI
+http://45.68.35.218:4001/play/a00y/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TELEPROGRESO
+http://45.68.35.218:4001/play/a01d/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TELEPROGRESO NW
+http://45.68.35.218:4001/play/a02f/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TELESUR MX
+http://45.68.35.218:4001/play/a011/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TEN 11 LEGAL
+http://45.68.35.218:4001/play/a01w/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TEN CANAL 10
+http://45.68.35.218:4001/play/a01o/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TIGO DEPORTES MX
+http://45.68.35.218:4001/play/a00t/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TIGO HN JEFE 1
+http://45.68.35.218:4001/play/a010/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TIGO RESPALDO
+http://45.68.35.218:4001/play/a01t/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TIGO RESPALDO VINICIO
+http://45.68.35.218:4001/play/a01r/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TL NOVELAS MX 
+http://45.68.35.218:4001/play/a00s/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TN23 MX
+http://45.68.35.218:4001/play/a00r/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TNT SPORT SRT SUR
+http://45.68.35.218:4001/play/a030/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TSI FIBRA
+http://45.68.35.218:4001/play/a001/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TUDN MX
+http://45.68.35.218:4001/play/a00u/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TUDN RESPALDO 
+http://45.68.35.218:4001/play/a01u/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TUDN USA VC
+http://45.68.35.218:4001/play/a00x/index.m3u8
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",TV AGRO SUR 
 http://45.68.35.218:4001/play/a033/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",UNE TV
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",UNE TV
 http://45.68.35.218:4001/play/a02c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",UNICABLE MX
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",UNICABLE MX
 http://45.68.35.218:4001/play/a014/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",UNIVISION MIAMI VC
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",UNIVISION MIAMI VC
 http://45.68.35.218:4001/play/a00w/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",VEA CANAL MX
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",VEA CANAL MX
 http://45.68.35.218:4001/play/a013/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",VIDEO ROLA MX
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",VIDEO ROLA MX
 http://45.68.35.218:4001/play/a007/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",VIX LA LIGA RESPALDO
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",VIX LA LIGA RESPALDO
 http://45.68.35.218:4001/play/a01s/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",VTV
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",VTV
 http://45.68.35.218:4001/play/a02p/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",VW PLUS
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",VW PLUS
 http://45.68.35.218:4001/play/a022/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",WIN SPORT SRT
+#EXTINF:-1 -1 group-title="▶️ MEXICO2",WIN SPORT SRT
 http://45.68.35.218:4001/play/a032/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-name="---------24/7-------"tvg-id="(no tvg-id)"tvg-logo="https://audioforo.com/wp-content/uploads/2015/01/Full-HD-logo-1-1.jpg"group-title="24/7",---------24/7-------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12822.ts
 #EXTINF:-1 tvg-name="CINE ACCION 01"tvg-id="(no tvg-id)"tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"group-title="24/7",CINE ACCION 01
