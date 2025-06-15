@@ -1,1 +1,317 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name="4MB | ESPN MX"tvg-id="espn.mx"tvg-logo="https://i.postimg.cc/X7GXNMfZ/ESPN.jpg"group-title="DEPORTES",4MB | ESPN MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kzw-GicKpfex4Yn_Avat3_E/ts
+#EXTINF:-1 tvg-name="ADRENALINA SPORTS HD"tvg-id="ADRESN"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKApie5XcuHVEgXMUfBglOERLwx3IQ_LKmJxUgcboMQD.png"group-title="DEPORTES",ADRENALINA SPORTS HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3i1sFqzlXoXCz2oTPV-B5M/ts
+#EXTINF:-1 tvg-name="AFIZZIONADOS"tvg-id="afizzionados.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JCeFkwp9pb08zl-Ffo640ndpp7G7_x0XDEpQOcOLqHgy.jpg"group-title="DEPORTES",AFIZZIONADOS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Ky3FyrZjLVJ_17-SBT0wrlw/ts
+#EXTINF:-1 tvg-name="AYM SPORTS HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGJRTQe1vYwODA4pUymcBNJqjGDH4sO1FETCpCMSvw6B.png"group-title="DEPORTES",AYM SPORTS HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K9_fuj9xGnyphYwikK32-2k/ts
+#EXTINF:-1 tvg-name="AZTECA DEPORTES NETWORK"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEPlUs_7UtkKmE-DJOLMBFVTAp-xDPgfYUnD8zQpdsUb_OtbhDXfVOrz3op9TKT7vA.png"group-title="DEPORTES",AZTECA DEPORTES NETWORK
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_fqtSWxyB06DG3jpcndn9w/ts
+#EXTINF:-1 tvg-name="AZTECA DEPORTES MX HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEPlUs_7UtkKmE-DJOLMBFVTAp-xDPgfYUnD8zQpdsUb_OtbhDXfVOrz3op9TKT7vA.png"group-title="DEPORTES",AZTECA DEPORTES MX HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KxyUYzh-yr6bijuHpTMWjHE/ts
+#EXTINF:-1 tvg-name="LA LIGA TV HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JIKj__sCL8GMkUH_HSKuvXzawDtBTOGvyIFFkKBgxF6Y.png"group-title="DEPORTES",LA LIGA TV HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8gi16bm6uurYD5upg_dz78/ts
+#EXTINF:-1 tvg-name="LA LIGA TV SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPUWlk9NAmSWUnGx14S9QqiGTPs09XLgAtibOru2P10Z.png"group-title="DEPORTES",LA LIGA TV SD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KyVv0gFmeBnjOv5S8SUtyes/ts
+#EXTINF:-1 tvg-name="BEIN LA LIGA"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JI0TFS4-9VW1t8NF4wwpPffM8gHc3ErnM3MUmf--htNc.jpg"group-title="DEPORTES",BEIN LA LIGA
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K04qCHrysDtIrwuHZkrX3W8/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS Ñ OP1"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMcLkL1Q5GZzuQvufQWFwelpdurAeeViqr-o3Z_A9fIT.jpg"group-title="DEPORTES",BEIN SPORTS Ñ OP1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K89q4bxpPXB7ychSdkq8w28/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS Ñ OP2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JJlCgTIgEVkgxhd5c-gn7mtcu9a-wVH4qmSQb1_-aQvL.jpg"group-title="DEPORTES",BEIN SPORTS Ñ OP2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kx7AcqDmLo9b9Rq0_llvlZo/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 4"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEQ8Mw_XdsltjoSh_X4RXtaOJ09ymDtcfHSFJ7tf-8sB.jpg"group-title="DEPORTES",BEIN SPORTS 4
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3DApMydoWrqmqi3VaB7NJo/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 5"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JFiCwskQ-xmcN1gQjMsAytxaF9iLkI85Lab23Ankq7ZN.jpg"group-title="DEPORTES",BEIN SPORTS 5
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8cqzLt64Xd5SWigumfadqI/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 6"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNj-cVAbXaK-m3vtgd3sxY79ytX685KinKJzy_QalFSo.jpg"group-title="DEPORTES",BEIN SPORTS 6
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KzkAsHBU0bvB7OF2MmjCfEs/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 7"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JCT0cOpX2uXcLtpAhVgZRKB0yoBGL8Kuo3ozjC4jgo0T.jpg"group-title="DEPORTES",BEIN SPORTS 7
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_8EIZMeZVm_vzFqPQoz7E4/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 8"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JALguZVbmIvDY2HktLRd1tSDHBXaTQFRB_yX7MfYnrfF.jpg"group-title="DEPORTES",BEIN SPORTS 8
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KxakOuAuaaJeTHM2AAYVnM8/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA ENG"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JP7Fxm9lo0VX4M47mAbGqMPV4-M2xxZ-jrs4Qy1B2Bw9.jpg"group-title="DEPORTES",BEIN SPORTS EXTRA ENG
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KzyA4Igujve64U0SB6U4KJY/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA ESPAÑOL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JO5OMHjpV80T_NN-ZliN2Uih4taWpUx_Ajt8QpO6zt3T.jpg"group-title="DEPORTES",BEIN SPORTS EXTRA ESPAÑOL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_9SqKrKmkOiUjxmqUgi2Rk/ts
+#EXTINF:-1 tvg-name="BEIN SPORTS Ñ OP3"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMcLkL1Q5GZzuQvufQWFwelpdurAeeViqr-o3Z_A9fIT.jpg"group-title="DEPORTES",BEIN SPORTS Ñ OP3
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kz0qz_VfVWpXV-JhuvHMQaI/ts
+#EXTINF:-1 tvg-name="CALIENTE TV HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBoVTDYh4CAs5WuvVm39B_3E4Y8dpottspu31evd_to5aw5X7e6c7zdXKMq2NDbSag.png"group-title="DEPORTES",CALIENTE TV HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_nJEWaazJRMLX-8Q076Ks4/ts
+#EXTINF:-1 tvg-name="CDF BASICO"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDqqHWs7t7xraZWMNkrLDlK0nvewN0isuUQyd-LgJlXg.jpg"group-title="DEPORTES",CDF BASICO
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_DtGMEg1IML_9Fn8M6E6TY/ts
+#EXTINF:-1 tvg-name="CDF PREMIUN"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JD823wd-iZEirLZum8fzssEsdDf1RMfSlfMYAhtD5T2V.jpg"group-title="DEPORTES",CDF PREMIUN
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kzx7p9EX96cVASuAOzrYqW4/ts
+#EXTINF:-1 tvg-name="CDO"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JI1rAVXwkg98mNwkVmTvTDO9q8pwPq9Kstz9IUMixBEE.jpg"group-title="DEPORTES",CDO
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kxdq0d14ZK7JP9LKqSQJdt0/ts
+#EXTINF:-1 tvg-name="CLARO SPORTS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JLmEkiIZUX2cTAvJJIX9XGG578MMb7TrhE3E63aGAf4_.jpg"group-title="DEPORTES",CLARO SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6O5zZrhM_dDGip3trtEQHs/ts
+#EXTINF:-1 tvg-name="CLARO SPORTS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBbVJk9CWWX4f6Vyr6_waLZbbwedom3HZlLjZEGBnt1m.jpg"group-title="DEPORTES",CLARO SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwhHAtzcqPu6prDmOwYYVdQ/ts
+#EXTINF:-1 tvg-name="COMBATE UFC"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMVrSS75UZgl0ktkEHIcs9fIfN8PeiWuUj-RjfcctqTr.jpg"group-title="DEPORTES",COMBATE UFC
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_DooZcwAdQNuMsGSrjdgoA/ts
+#EXTINF:-1 tvg-name="DAZN 1"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JA1NIg9EtV9vo264ItEYahxrvtxkiLRoh-iq7lII5Sv7.png"group-title="DEPORTES",DAZN 1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kyp_N3CIb74jaFepiyqszmQ/ts
+#EXTINF:-1 tvg-name="DAZN 2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JI_Jf2YU6uZMOVw0gVapwVOGSd_ddEPWhXC9iqimfqsl.jpg"group-title="DEPORTES",DAZN 2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3uBO_jQnXmW4zqx5NSiWos/ts
+#EXTINF:-1 tvg-name="DAZN 3"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JA02Pc226fwieC175_It0ZZiLZVkRt6NpQGon6gq2fqi.jpg"group-title="DEPORTES",DAZN 3
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0Ehj1Qf8x5ssP011g9yVDo/ts
+#EXTINF:-1 tvg-name="DAZN 4"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNLuZKbs6azVIt5kKofXQqh02T4O7_vikkxoElxN37rJ.jpg"group-title="DEPORTES",DAZN 4
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6rTGROD0tJc5E9toNy5oag/ts
+#EXTINF:-1 tvg-name="DAZN F1"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JHHmKV50QdSqgrggRtW56XGfrHyVa2TVC6_Tz_fHfzR6.jpg"group-title="DEPORTES",DAZN F1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8YHShldeesDsOWHLToBEU8/ts
+#EXTINF:-1 tvg-name="DAZN LA LIGA"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JH4qunKpViujuyCPjf8vWWuVJQuxoN-020JEn5PuzNeR.jpg"group-title="DEPORTES",DAZN LA LIGA
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K7cKDenDUGQzjndtpibR0RE/ts
+#EXTINF:-1 tvg-name="DAZN LA LIGA 2 HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JFDQol196pwBnme0L2PepuqL3TWHm4feA4P5BOC_Q832cjY7_z5fLeEQGRfv5yXSng.png"group-title="DEPORTES",DAZN LA LIGA 2 HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kw3uH49kieHMm-lHZbj_lEI/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGId6gaHHu8whNZJ7rP8jN6dYeI24IMMNVgMBn8Wy1gv.jpg"group-title="DEPORTES",DIRECTV SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K2wEtmJdQvT3Yld3JZs7xnY/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS +"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JK_dfMR2LAe21T9CNomPzJTPtSa86ZTdlscIBsBX25Vq.jpg"group-title="DEPORTES",DIRECTV SPORTS +
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K27QgD1lb9DIxlVp4GDIzaE/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS + #2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JK_dfMR2LAe21T9CNomPzJTPtSa86ZTdlscIBsBX25Vq.jpg"group-title="DEPORTES",DIRECTV SPORTS + #2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6Tm3nSk7QWKoplYd5SjooI/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAQKJn3HnOAy67Yp4tLdVdHGaOfZ3Adj6dnMEkt9T0xC.jpg"group-title="DEPORTES",DIRECTV SPORTS 2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Ky10qPjVlucJTsYunq_RFRQ/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAQKJn3HnOAy67Yp4tLdVdHGaOfZ3Adj6dnMEkt9T0xC.jpg"group-title="DEPORTES",DIRECTV SPORTS 2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KxOkgpkCJIpNoamGRv6cLzE/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAQKJn3HnOAy67Yp4tLdVdHGaOfZ3Adj6dnMEkt9T0xC.jpg"group-title="DEPORTES",DIRECTV SPORTS 2 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K39sHVY7jYBhOq7jzOxDRtc/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAQKJn3HnOAy67Yp4tLdVdHGaOfZ3Adj6dnMEkt9T0xC.jpg"group-title="DEPORTES",DIRECTV SPORTS 2 CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6VDWfuePk8mmq_I9D8JTR8/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAQKJn3HnOAy67Yp4tLdVdHGaOfZ3Adj6dnMEkt9T0xC.jpg"group-title="DEPORTES",DIRECTV SPORTS 2 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0ADlSy8ThqCplRbOiRQyQ4/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAQKJn3HnOAy67Yp4tLdVdHGaOfZ3Adj6dnMEkt9T0xC.jpg"group-title="DEPORTES",DIRECTV SPORTS 2 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K307XCyuWKHfSPe4LEX8TEk/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2 ECU"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAQKJn3HnOAy67Yp4tLdVdHGaOfZ3Adj6dnMEkt9T0xC.jpg"group-title="DEPORTES",DIRECTV SPORTS 2 ECU
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KycEVBrLJq842-3Y-7n2CDU/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGId6gaHHu8whNZJ7rP8jN6dYeI24IMMNVgMBn8Wy1gv.jpg"group-title="DEPORTES",DIRECTV SPORTS AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5iDXUL-HsbdkZq7QDnVOVE/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGId6gaHHu8whNZJ7rP8jN6dYeI24IMMNVgMBn8Wy1gv.jpg"group-title="DEPORTES",DIRECTV SPORTS CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4SnQSWvCQl6IwJOs4Sb0tY/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGId6gaHHu8whNZJ7rP8jN6dYeI24IMMNVgMBn8Wy1gv.jpg"group-title="DEPORTES",DIRECTV SPORTS COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6uhE7gaXmmTFmoo-bdt6gY/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS PLUS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JK_dfMR2LAe21T9CNomPzJTPtSa86ZTdlscIBsBX25Vq.jpg"group-title="DEPORTES",DIRECTV SPORTS PLUS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8ZklHJ392QAfthhtvJVuiI/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS PLUS CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JHJzCDAfkoCxfPwPgCoggmsUMB9OCQHv6Hp9mrNyFpSw.jpg"group-title="DEPORTES",DIRECTV SPORTS PLUS CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K9TgaogYcRIM8w9tDIdaews/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS PLUS COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JK_dfMR2LAe21T9CNomPzJTPtSa86ZTdlscIBsBX25Vq.jpg"group-title="DEPORTES",DIRECTV SPORTS PLUS COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K1aRPhLG0uVdzWbt1D8JPwE/ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS UY"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGId6gaHHu8whNZJ7rP8jN6dYeI24IMMNVgMBn8Wy1gv.jpg"group-title="DEPORTES",DIRECTV SPORTS UY
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K53l3O_1PYCKC5s4W8R0r6g/ts
+#EXTINF:-1 tvg-name="ESPN 2 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JA__JoVLS4Ajmb5PEnhfZBEAJ6-xDkDkmXkX2JQrUBh2.png"group-title="DEPORTES",ESPN 2 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KzzMoMddJ0njSbj1fgvDXsU/ts
+#EXTINF:-1 tvg-name="ESPN 2 AR #2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JA__JoVLS4Ajmb5PEnhfZBEAJ6-xDkDkmXkX2JQrUBh2.png"group-title="DEPORTES",ESPN 2 AR #2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K7ebx-330yZU5JBrisUT0oo/ts
+#EXTINF:-1 tvg-name="ESPN 2 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JA__JoVLS4Ajmb5PEnhfZBEAJ6-xDkDkmXkX2JQrUBh2.png"group-title="DEPORTES",ESPN 2 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3nId5-qbIHQW5JiakWLxFc/ts
+#EXTINF:-1 tvg-name="ESPN 2 MX"tvg-id="espn2.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JA__JoVLS4Ajmb5PEnhfZBEAJ6-xDkDkmXkX2JQrUBh2.png"group-title="DEPORTES",ESPN 2 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8zrmQMPVYU6w3ckgz21Ruk/ts
+#EXTINF:-1 tvg-name="ESPN 3 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1aFzovajBaDuzMW-hdKLeLuTkOfubM33FbH2FLMxCg.png"group-title="DEPORTES",ESPN 3 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwZeHVgkUef-nBbewueGMXU/ts
+#EXTINF:-1 tvg-name="ESPN 3 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1aFzovajBaDuzMW-hdKLeLuTkOfubM33FbH2FLMxCg.png"group-title="DEPORTES",ESPN 3 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0AQpAS-CMY9X1xMAuq16xU/ts
+#EXTINF:-1 tvg-name="ESPN 3 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1aFzovajBaDuzMW-hdKLeLuTkOfubM33FbH2FLMxCg.png"group-title="DEPORTES",ESPN 3 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K2qRGpAF8EuZ9fo8TuaRs70/ts
+#EXTINF:-1 tvg-name="ESPN 3 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1aFzovajBaDuzMW-hdKLeLuTkOfubM33FbH2FLMxCg.png"group-title="DEPORTES",ESPN 3 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KxHwcLEYPad6aWjqBAGXRkc/ts
+#EXTINF:-1 tvg-name="ESPN 3 MX"tvg-id="espn3.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1aFzovajBaDuzMW-hdKLeLuTkOfubM33FbH2FLMxCg.png"group-title="DEPORTES",ESPN 3 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K21pNAOay9AbD2-eg7Wer7g/ts
+#EXTINF:-1 tvg-name="ESPN 3 MX"tvg-id="espn3.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1aFzovajBaDuzMW-hdKLeLuTkOfubM33FbH2FLMxCg.png"group-title="DEPORTES",ESPN 3 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4lsXKVlQUsSaggiPL6Pzq4/ts
+#EXTINF:-1 tvg-name="ESPN 3 PE"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1aFzovajBaDuzMW-hdKLeLuTkOfubM33FbH2FLMxCg.png"group-title="DEPORTES",ESPN 3 PE
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KzF6g5fqq9s3PvJj5BGnd3s/ts
+#EXTINF:-1 tvg-name="ESPN 4 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGTFi5lWLfDMOGM936e33p3SEhMWe-BXA4sR8YyCRjGW.png"group-title="DEPORTES",ESPN 4 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_mqnbxQ-f6YRZtzS0h9Sb0/ts
+#EXTINF:-1 tvg-name="ESPN 4 MX"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGTFi5lWLfDMOGM936e33p3SEhMWe-BXA4sR8YyCRjGW.png"group-title="DEPORTES",ESPN 4 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwOKtkbycz1dfCNh1ciOGDk/ts
+#EXTINF:-1 tvg-name="ESPN 5"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JF7eZEvTcGt9XLqUBPTgerbmu79gaUMV6R4YunLI4iaX.png"group-title="DEPORTES",ESPN 5
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5Fs6KF5mTjwiAkgqwDoGsA/ts
+#EXTINF:-1 tvg-name="ESPN 6"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEsQlAWuXAHVOLvcAaG2GtS7Ra7GBI6zMMzdjIgSxhOQ.png"group-title="DEPORTES",ESPN 6
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3xkRtqL0YnAmeFqCXewu6Q/ts
+#EXTINF:-1 tvg-name="ESPN 7 HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPl1G3wssAqDfpQeL2z_B7V01bbttyvj5SQhGTM8OHWp.png"group-title="DEPORTES",ESPN 7 HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K1Ra2m1ky_9PZCSmnxP7a5Q/ts
+#EXTINF:-1 tvg-name="ESPN AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGFjJXaLH80eOM5RpVQMldKD5DwLuC4a4LdyZpR6vf-n.jpg"group-title="DEPORTES",ESPN AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4ycysBXPLGXhN2zTrGvIRU/ts
+#EXTINF:-1 tvg-name="ESPN CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNIm73WGLPq956nwA-e77IvLpZHbuK9tusdDmHApv5CI.png"group-title="DEPORTES",ESPN CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kz8fhsXs4uQoIU_IybkgLck/ts
+#EXTINF:-1 tvg-name="ESPN COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNIm73WGLPq956nwA-e77IvLpZHbuK9tusdDmHApv5CI.png"group-title="DEPORTES",ESPN COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K9y_dmGspTBa_mEQJp6l4q4/ts
+#EXTINF:-1 tvg-name="ESPN DEPORTES HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JLGW31_811rSBywEpIWHLbzer_5sm6gZRbkT_LJ7YVPl7YA5rZ5PN09V3O2M-KJ8dA.png"group-title="DEPORTES",ESPN DEPORTES HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K63GCVkyUarmJn8FV-na_wI/ts
+#EXTINF:-1 tvg-name="ESPN EXTRA AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBBe8UKj5nXK59ObkdJ00ELsMNoI-TdZlskfq81klvXj.png"group-title="DEPORTES",ESPN EXTRA AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3uxg1Ki38gdrKFKcwPDQsI/ts
+#EXTINF:-1 tvg-name="ESPN EXTRA MX"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JP0sv2TLDQWEzo2lbHvM9hmc5Bh5K_e2I_ZGvXmdWBMy.png"group-title="DEPORTES",ESPN EXTRA MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0t61GCN4tLFexUsGXRH9AU/ts
+#EXTINF:-1 tvg-name="ESPN MX"tvg-id="espn.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNIm73WGLPq956nwA-e77IvLpZHbuK9tusdDmHApv5CI.png"group-title="DEPORTES",ESPN MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6I1_gLNu2SFlNzQDk2aps8/ts
+#EXTINF:-1 tvg-name="ESPN MX"tvg-id="espn.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNIm73WGLPq956nwA-e77IvLpZHbuK9tusdDmHApv5CI.png"group-title="DEPORTES",ESPN MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5fjo0VtNaKtYPCSd0iTue8/ts
+#EXTINF:-1 tvg-name="ESPN PREMIUM AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGlSiBpBluyFrMG2EfXdhupzbz_Xm5CsGfOOUdXh-BiA.png"group-title="DEPORTES",ESPN PREMIUM AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K32etRxnfD83RM5wneM4ng0/ts
+#EXTINF:-1 tvg-name="EUROSPORT 1"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEB46SY7zN_lKQIFD9NrwVxDnX6Kn9XMe03RSNHDadPZ.jpg"group-title="DEPORTES",EUROSPORT 1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0Xhvz1sR0TI1GxrIt5GRt4/ts
+#EXTINF:-1 tvg-name="EUROSPORT 2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JOX-G3acXnrJ7au3r03CsJvN1EIJsDSnhJguZr4gXsl4.jpg"group-title="DEPORTES",EUROSPORT 2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K7c4kEq0Pr5pfbZSImvs7QA/ts
+#EXTINF:-1 tvg-name="FOX DEPORTES"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JI1doWJw-7B347E5ohNiW2mIqtE0Gf4Un4MY-2rXJtVu.jpg"group-title="DEPORTES",FOX DEPORTES
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4zuNceLK4VoD7vAMLPVB04/ts
+#EXTINF:-1 tvg-name="FOX SPORTS"tvg-id="foxsports.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JI1doWJw-7B347E5ohNiW2mIqtE0Gf4Un4MY-2rXJtVu.jpg"group-title="DEPORTES",FOX SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5uruAg56mbv2V_CIa8_JrQ/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 1 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEqH4dEjMWk4FlFKiXbe_y6tzUgEIArzqufcd167R3Rgg2V5E9QuqYmCcjHMQvstSA.jpg"group-title="DEPORTES",FOX SPORTS 1 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KyX-xS-7oJfmA1HQE0xcvSA/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 1 CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEqH4dEjMWk4FlFKiXbe_y6tzUgEIArzqufcd167R3Rgg2V5E9QuqYmCcjHMQvstSA.jpg"group-title="DEPORTES",FOX SPORTS 1 CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kwbe1sduLG3geIRf9FEXyRs/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 1 MX"tvg-id="foxsports.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEqH4dEjMWk4FlFKiXbe_y6tzUgEIArzqufcd167R3Rgg2V5E9QuqYmCcjHMQvstSA.jpg"group-title="DEPORTES",FOX SPORTS 1 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6dmde6sFJnWmmvThiLRhRo/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBhL5hW9ztA6oeooAciq5UzJPYjoUNgsqU5B1gRCOl9MndhQEWjowd61rIYfV1UM1Q.jpg"group-title="DEPORTES",FOX SPORTS 2 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3_Adgyrjojp9ZXlOah-HBE/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBhL5hW9ztA6oeooAciq5UzJPYjoUNgsqU5B1gRCOl9MndhQEWjowd61rIYfV1UM1Q.jpg"group-title="DEPORTES",FOX SPORTS 2 CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K15nepmIlgS4fIyaaqu7c3A/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JFbZ3a9iCMVjIZoMood_I1-8dK1eEI9MOwvZT5oGn9Ss_VCzcmZzbBAeky7ohSq8Yg.jpg"group-title="DEPORTES",FOX SPORTS 2 CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8-AGMr2qdoxhndLu90PPZY/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBhL5hW9ztA6oeooAciq5UzJPYjoUNgsqU5B1gRCOl9MndhQEWjowd61rIYfV1UM1Q.jpg"group-title="DEPORTES",FOX SPORTS 2 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K034fRSR6f2S-izzVolRGM4/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBhL5hW9ztA6oeooAciq5UzJPYjoUNgsqU5B1gRCOl9MndhQEWjowd61rIYfV1UM1Q.jpg"group-title="DEPORTES",FOX SPORTS 2 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K1MAZUacyAdRud9mlhXSdeY/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 MX"tvg-id="foxsports2.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBhL5hW9ztA6oeooAciq5UzJPYjoUNgsqU5B1gRCOl9MndhQEWjowd61rIYfV1UM1Q.jpg"group-title="DEPORTES",FOX SPORTS 2 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_4fx89dO0TLPjvfaudIZ0o/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 3 AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEagZjA30k4c54RXHNpMlgJQYPOIsJTlgQSi05vRotkf.jpg"group-title="DEPORTES",FOX SPORTS 3 AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K-EOu3T3pJBF0JYOf04lklY/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 3 COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEagZjA30k4c54RXHNpMlgJQYPOIsJTlgQSi05vRotkf.jpg"group-title="DEPORTES",FOX SPORTS 3 COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_LQauybwVbnvrFu3sut_EA/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 3 MX"tvg-id="foxsports3.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEagZjA30k4c54RXHNpMlgJQYPOIsJTlgQSi05vRotkf.jpg"group-title="DEPORTES",FOX SPORTS 3 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6C4iQBpmZ9oTamyfeBVoT8/ts
+#EXTINF:-1 tvg-name="FOX SPORTS 3 MX"tvg-id="foxsports3.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEagZjA30k4c54RXHNpMlgJQYPOIsJTlgQSi05vRotkf.jpg"group-title="DEPORTES",FOX SPORTS 3 MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kw2QBmu_za-IVUlORFy2I7I/ts
+#EXTINF:-1 tvg-name="FOX SPORTS COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JI1doWJw-7B347E5ohNiW2mIqtE0Gf4Un4MY-2rXJtVu.jpg"group-title="DEPORTES",FOX SPORTS COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K-n7EPd_Xql_oTb668hWBqM/ts
+#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JANaFqUUkQuYIKovFiLSev7hpS8kg4fZugKOlXPG09fCPU4DKStXq3VTSI2Qeun53g.png"group-title="DEPORTES",FOX SPORTS PREMIUM AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kzw7_bFmEK3NT5PcbrDGZP4/ts
+#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM MX"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JANaFqUUkQuYIKovFiLSev7hpS8kg4fZugKOlXPG09fCPU4DKStXq3VTSI2Qeun53g.png"group-title="DEPORTES",FOX SPORTS PREMIUM MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K-p4q8xwz0-wK20pjrjege0/ts
+#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM MX HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JHuHeHSVVi9lBBpuNJkmKVKcvzvq-CveUwJTxFyC-t9dzkpF7U-kGJipkhLsrkqreQ.png"group-title="DEPORTES",FOX SPORTS PREMIUM MX HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5-u-IkXp_o6KHrjYnHvuGw/ts
+#EXTINF:-1 tvg-name="FUTV CR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEg-rMoI8Sw1PPoEEDQLT_HVE3JmtXR1NCHPOJDsdZXh.jpg"group-title="DEPORTES",FUTV CR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K1sfTRWUljbhp8cykt7YRyU/ts
+#EXTINF:-1 tvg-name="GOL PERU"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAqbZiazp8zV49Vth8QiA8B3jHBs5HAw0OhtHYDDTcKF.jpg"group-title="DEPORTES",GOL PERU
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8omuq4izPdfhCniK13_wIw/ts
+#EXTINF:-1 tvg-name="GOLTV"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPtwK3Hb-uAFOv1t5s69NEdx992RtEpuBntfQsTvjZRd.jpg"group-title="DEPORTES",GOLTV
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K71yZ-L3jjEsPwB02xZVEj8/ts
+#EXTINF:-1 tvg-name="GOLTV"tvg-id="GOLTVL"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JPtwK3Hb-uAFOv1t5s69NEdx992RtEpuBntfQsTvjZRd.jpg"group-title="DEPORTES",GOLTV
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4BZpCH3uYJv4B2g1m0rAd4/ts
+#EXTINF:-1 tvg-name="GOLTV"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JFlJOnpsOm5mTI8MNwAcIa8o6kEB9UY9laslat2Xc5Mf.jpg"group-title="DEPORTES",GOLTV
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5TTHQFz_g9YgxE76FTiv-M/ts
+#EXTINF:-1 tvg-name="HD CH | CDO PREMIUM"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JI1rAVXwkg98mNwkVmTvTDO9q8pwPq9Kstz9IUMixBEE.jpg"group-title="DEPORTES",HD CH | CDO PREMIUM
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kypn-p_4gd1lj3mx3pMEiN0/ts
+#EXTINF:-1 tvg-name="LA LIGA TV BAR"tvg-id="LALTV"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JJwNguyWaTyAk4XB0lu1w5xk5cKvFcBpgZSc0m_h2Mw3.jpg"group-title="DEPORTES",LA LIGA TV BAR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K3UG2XAPaKqIscO7Il4tc_s/ts
+#EXTINF:-1 tvg-name="Latin America Sport SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC_6LmrfH6ad3tr-SXYYQOxIcNjaIiiYmrQ8fD59DeopIzrBMRyDcGUoTKn5ZAG2uiTOaMjLcgKhjjFIYBNYn7T9la299liV5UQ-UtVgL10-7kZnby7YKbji7ETJR1T7mg.jpg"group-title="DEPORTES",Latin America Sport SD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KxATUFSOgakbH3VYlMAl3gI/ts
+#EXTINF:-1 tvg-name="LIGA1"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNogKWCvozzJNsTyX0fYz4VobZMfTf0VhnUOfjx7lDEO.jpg"group-title="DEPORTES",LIGA1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K2RYtbC8p4BEBC_Q-30mb8Y/ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 1"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNGRBa9wzQVkG5P4BZ4AMGwAicCxRhCq2v6duT7zOZld.jpg"group-title="DEPORTES",MOVISTAR DEPORTES 1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5CAImv4H2qL3X321PrSILA/ts
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JEEIp21BReYpB1B_jMsl-wTMMxfhCZtkkC_saHRQKd6G.jpg"group-title="DEPORTES",MOVISTAR LA LIGA
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8ia0dS2Nn64eoGuw4iIUd0/ts
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES"tvg-id="LIGCAMP"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGATucQ52NkOOPfnvofksWlCcEvXIQZTqbPG0bkUIhAB.jpg"group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K56H2Yt335T8ffdENPJXmLA/ts
+#EXTINF:-1 tvg-name="MX ESPN 2 SD"tvg-id="espn2.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JA__JoVLS4Ajmb5PEnhfZBEAJ6-xDkDkmXkX2JQrUBh2.png"group-title="DEPORTES",MX ESPN 2 SD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwpggHqR96RtL_bxbA5L1nk/ts
+#EXTINF:-1 tvg-name="MX: Fox Sports 2 Mx."tvg-id="foxsports2.mx"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBhL5hW9ztA6oeooAciq5UzJPYjoUNgsqU5B1gRCOl9MndhQEWjowd61rIYfV1UM1Q.jpg"group-title="DEPORTES",MX: Fox Sports 2 Mx.
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K-SfM3rpA2D2Y8grRbNeFqQ/ts
+#EXTINF:-1 tvg-name="REAL MADRID TV"tvg-id="RMAD"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JIWNtGrb8Ch-K7zyMa7fOc12wZy9qhWfqLoeei-Kd6hf.jpg"group-title="DEPORTES",REAL MADRID TV
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwaXd1XVAaTxStLRsGy7mCM/ts
+#EXTINF:-1 tvg-name="RED BULL TV"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JHcDnBO_yjGkaI4CCRTCXKYgdJr-bohpc5LdTsAzxa9J.png"group-title="DEPORTES",RED BULL TV
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KxIzhuabCqNafY6ruhPaZOc/ts
+#EXTINF:-1 tvg-name="SD AR | ESPN 3"tvg-id=""tvg-logo="https://i.postimg.cc/Hkbx5QPd/ESPN3.jpg"group-title="DEPORTES",SD AR | ESPN 3
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0nj9QJyj9ZqdGSRvs8y6qY/ts
+#EXTINF:-1 tvg-name="S SPORTS LA LIGA"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JO8VqG6TUhMMQFA8GoCmTfw4gpAIpyI77VNCC3ESGpTz.jpg"group-title="DEPORTES",S SPORTS LA LIGA
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8wvHJpS-3ykwvXsrTkfrxI/ts
+#EXTINF:-1 tvg-name="TELEDEPORTE"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JJSsAl3K4-6TIc04cEGbCTFFTSmRIrCTUXGaONU9lVf2.jpg"group-title="DEPORTES",TELEDEPORTE
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_nFcM2Lxri9syzAwt55tPo/ts
+#EXTINF:-1 tvg-name="TIGO SPORT CR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JL6C4lSkcoCg0blpuAmea_Xg_ATXZbfWCV4AzbZfQ0_7.jpg"group-title="DEPORTES",TIGO SPORT CR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6aI1g_U90nz1yPVaon2m2k/ts
+#EXTINF:-1 tvg-name="TIGO SPORTS"tvg-id="TIGO"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JL6C4lSkcoCg0blpuAmea_Xg_ATXZbfWCV4AzbZfQ0_7.jpg"group-title="DEPORTES",TIGO SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K94O8Rh-RqVJBXlE4Ui5Zv0/ts
+#EXTINF:-1 tvg-name="TIGO SPORTS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JC1Vh1BTJCIueoFpqjLM9WmhX8ClnJMg8Fog1Ub5Gfhs.jpg"group-title="DEPORTES",TIGO SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5iCysoFid70F6m2q6mC0gg/ts
+#EXTINF:-1 tvg-name="TIGO SPORTS + PY"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JL6C4lSkcoCg0blpuAmea_Xg_ATXZbfWCV4AzbZfQ0_7.jpg"group-title="DEPORTES",TIGO SPORTS + PY
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0TtGTVgEYKlD_-cL2up-yU/ts
+#EXTINF:-1 tvg-name="TIGO SPORTS 1 BOL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JL6C4lSkcoCg0blpuAmea_Xg_ATXZbfWCV4AzbZfQ0_7.jpg"group-title="DEPORTES",TIGO SPORTS 1 BOL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K1iYZB7nzFjxAuABK-RcBXA/ts
+#EXTINF:-1 tvg-name="TIGO SPORTS CR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JL6C4lSkcoCg0blpuAmea_Xg_ATXZbfWCV4AzbZfQ0_7.jpg"group-title="DEPORTES",TIGO SPORTS CR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K7R-wXmKY4CVMkvuvxGOQoA/ts
+#EXTINF:-1 tvg-name="TIGO SPORTS PV"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JL6C4lSkcoCg0blpuAmea_Xg_ATXZbfWCV4AzbZfQ0_7.jpg"group-title="DEPORTES",TIGO SPORTS PV
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KxP0EfdUsStV19OXgm4gA4o/ts
+#EXTINF:-1 tvg-name="TIGO SPORTS SAL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JL6C4lSkcoCg0blpuAmea_Xg_ATXZbfWCV4AzbZfQ0_7.jpg"group-title="DEPORTES",TIGO SPORTS SAL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K9G-83wKscOI_jlTaLHCpso/ts
+#EXTINF:-1 tvg-name="TNT SPORTS 2 CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGN7XoVH3ZsQSRjxwDneBKWf0TJKDQK-E4GM8Jf8XDK0.jpg"group-title="DEPORTES",TNT SPORTS 2 CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kx_oKowjV9VYhTy0euPMMDI/ts
+#EXTINF:-1 tvg-name="TNT SPORTS 3 CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNsCm6kxk4dOHutkKiAH8rjQMKjFlBpL6DfTx9NdD9ql.jpg"group-title="DEPORTES",TNT SPORTS 3 CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8_wbb0Od-NIfsRFjrUrPAU/ts
+#EXTINF:-1 tvg-name="TNT SPORTS AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDQeZz9Mm3JgCOGK4WJqEXTfAqBkYMYxGat30JTZV7Qdxf2m3sDZ1moy-rXTTRth3A.jpg"group-title="DEPORTES",TNT SPORTS AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K-N7VepL9SAml8usjmwP_yo/ts
+#EXTINF:-1 tvg-name="TNT SPORTS ARG"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDQeZz9Mm3JgCOGK4WJqEXTfAqBkYMYxGat30JTZV7Qdxf2m3sDZ1moy-rXTTRth3A.jpg"group-title="DEPORTES",TNT SPORTS ARG
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K06e5NjNBX15Z2Harx9LidM/ts
+#EXTINF:-1 tvg-name="TNT SPORTS CHI"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDQeZz9Mm3JgCOGK4WJqEXTfAqBkYMYxGat30JTZV7Qdxf2m3sDZ1moy-rXTTRth3A.jpg"group-title="DEPORTES",TNT SPORTS CHI
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K60IEutXZd8-NS_of3eWa5c/ts
+#EXTINF:-1 tvg-name="TNT SPORTS ESTADIO"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JHT0lNIRpce0UUOKibvG9rT_sBi6vLt3zc-1qMiv7L9trEnzImUsEigslkQuRNJeVQ.jpg"group-title="DEPORTES",TNT SPORTS ESTADIO
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K610RJm4zGGkQSSlpUs13EY/ts
+#EXTINF:-1 tvg-name="TODO DEPORTES HON"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JNAC9nqFRgkMwUnw2y41hA0DxEOGWWhnmleTuuUlUOMD.jpg"group-title="DEPORTES",TODO DEPORTES HON
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8-TtbOZpuSfMAYeRJPAf6A/ts
+#EXTINF:-1 tvg-name="TOROS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JFxFm6mHfcXOypvJ9t2G_Jz_S2hgQmya73sJbLXyL6ti.jpg"group-title="DEPORTES",TOROS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5sD5snigTyqHKGQjRIF0Wo/ts
+#EXTINF:-1 tvg-name="TUDN"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDJ-9rVXlwoYYv6f_KCbOvo6xwDH6fUws4NSwJPXfZH4.jpg"group-title="DEPORTES",TUDN
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4s75s1KeuPiEBgh_aATa5w/ts
+#EXTINF:-1 tvg-name="TUDN MX HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JJ__yY9PLH5ad6CKJ5nMhHDFEEFGjkD0bkja3Lcp3lRH-vMAWcyXY1BoClgIZGf7Pw.png"group-title="DEPORTES",TUDN MX HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K52p3XCL3rZLtwqT_rgD1EU/ts
+#EXTINF:-1 tvg-name="TUDN MX SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JAdyY3rRyMu19LOSGETTNBklddSR3xMnJCLXdENmpiNIRt2yD0gzB-eCoyvaTmzEAQ.png"group-title="DEPORTES",TUDN MX SD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwRQM2M9SokXf9IwCx4-RSU/ts
+#EXTINF:-1 tvg-name="TUDN USA HD"tvg-id="TUDNM"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JK2m4reC5oJVV57OuJsvz7ekB5-XMdb7I51VZbADsdF3.png"group-title="DEPORTES",TUDN USA HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4Mj5UFUv315seIAnGQA5tQ/ts
+#EXTINF:-1 tvg-name="TUDN USA SD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKqxMWI4WDgyV4B_liahJMTokHF9bm4kKhuxmlr09W1m.png"group-title="DEPORTES",TUDN USA SD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K7fuVR-sg1a_sio6cjER0fI/ts
+#EXTINF:-1 tvg-name="TVC DEPORTES MX"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGHHd1cOH0IXaDBnHmtW1cNWqt6aZf3ICYfMMFy2gLna.jpg"group-title="DEPORTES",TVC DEPORTES MX
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K5rFbfT3_oRNF8_cv7gBqKk/ts
+#EXTINF:-1 tvg-name="TYC SPORTS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKmeOUzLJ4xY5aEUKbkLDgSzPIXdMOxxX3ZmK36DHVvH.jpg"group-title="DEPORTES",TYC SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwhQMXug8CBtRbcKhdy2b4Q/ts
+#EXTINF:-1 tvg-name="TYC SPORTS"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JMIvqa3fN2S9OuZoM31lqLr--_Z8agJ6draLQXn622r_.jpg"group-title="DEPORTES",TYC SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K7NLM_2gb-CqHDfdJjzY5zs/ts
+#EXTINF:-1 tvg-name="TYC SPORTS AR"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKmeOUzLJ4xY5aEUKbkLDgSzPIXdMOxxX3ZmK36DHVvH.jpg"group-title="DEPORTES",TYC SPORTS AR
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KwbXkYHHZHH4aHII17nGuO4/ts
+#EXTINF:-1 tvg-name="VTV + UY"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JIXvcR5V62B3mL3JDqRW8Qqx9SQ4y2_ceI-lDgfDcC4b.jpg"group-title="DEPORTES",VTV + UY
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K8SsEijbtsMqzSriDluutmM/ts
+#EXTINF:-1 tvg-name="WIN SPORTS COL"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBTHZfvvaRynAMKgQqtyk0BVGXpRw6C6_sPIkW8f812I.jpg"group-title="DEPORTES",WIN SPORTS COL
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KzUJ2__rqfdIwO6Dcnr0E24/ts
+#EXTINF:-1 tvg-name="WIN SPORTS PLUS"tvg-id="WINSPRE"tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JDoFBv4UjAr-n90or2XxXgIXJLKtyHHw-7KxgiV07rMi.jpg"group-title="DEPORTES",WIN SPORTS PLUS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kzm0Y7-CAN7rPNrxVtxSC7o/ts
+#EXTINF:-1 tvg-name="WINSPORTS +"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JKap631eiAdMnJcQ_p2iWrSiqq-yBoljs5c_liepcWCC.jpg"group-title="DEPORTES",WINSPORTS +
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6jyhWRIYbvqjdt9U3cwIf8/ts
+#EXTINF:-1 tvg-name="WINSPORTS +"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JBTHZfvvaRynAMKgQqtyk0BVGXpRw6C6_sPIkW8f812I.jpg"group-title="DEPORTES",WINSPORTS +
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K2oo8Xeg3IXU9YE1NeQ5YZI/ts
+#EXTINF:-1 tvg-name="ZONA TUDN HD"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JM7PIFK3fxxVBTxoxLAQg_02KMDwlktoX1S4ebBkhPL3.png"group-title="DEPORTES",ZONA TUDN HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K1NM9jZ7KpJx8edXqKyS7kA/ts
+#EXTINF:-1 tvg-name="TVC Derportes 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/j2WqjN7V/TVC2.jpg"group-title="DEPORTES",TVC Derportes 2 HD
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K_RNyzUMXvG6j3AJpBf3Ank/ts
+#EXTINF:-1 tvg-name="[IZZI] S EVENTS 1"tvg-id=""tvg-logo="https://i.postimg.cc/R0RZpvBY/EVENTS.jpg"group-title="DEPORTES",[IZZI] S EVENTS 1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K-Cnqxjuulgr3732C67c_Ts/ts
+#EXTINF:-1 tvg-name="[IZZI] S EVENTS 2"tvg-id=""tvg-logo="https://i.postimg.cc/R0RZpvBY/EVENTS.jpg"group-title="DEPORTES",[IZZI] S EVENTS 2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KyY2O_xCw5EYFgTLW12D75s/ts
+#EXTINF:-1 tvg-name="[IZZI] S EVENTS 3"tvg-id=""tvg-logo="https://i.postimg.cc/R0RZpvBY/EVENTS.jpg"group-title="DEPORTES",[IZZI] S EVENTS 3
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K6Ql2yIJ6XEOwt84UHFTZOE/ts
+#EXTINF:-1 tvg-name="[IZZI] S EVENTS 4"tvg-id=""tvg-logo="https://i.postimg.cc/R0RZpvBY/EVENTS.jpg"group-title="DEPORTES",[IZZI] S EVENTS 4
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0LSuZ8r-MwPHfeoYA6Aph4/ts
+#EXTINF:-1 tvg-name="[IZZI] S EVENTS 5"tvg-id=""tvg-logo="https://i.postimg.cc/R0RZpvBY/EVENTS.jpg"group-title="DEPORTES",[IZZI] S EVENTS 5
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KysOZEmc3pjNpVSn8l3onZs/ts
+#EXTINF:-1 tvg-name="[IZZI] S SPORTS"tvg-id=""tvg-logo="https://i.postimg.cc/R0RZpvBY/EVENTS.jpg"group-title="DEPORTES",[IZZI] S SPORTS
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K4lHkHFDTzZfUcs94we8LSs/ts
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 1"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGATucQ52NkOOPfnvofksWlCcEvXIQZTqbPG0bkUIhAB.jpg"group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 1
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3Kww7JTw8sBm_D1nYbOL_IxA/ts
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 2"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGATucQ52NkOOPfnvofksWlCcEvXIQZTqbPG0bkUIhAB.jpg"group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 2
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K561uD5eNiy7s1KFYGNUTZM/ts
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 3"tvg-id=""tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JGATucQ52NkOOPfnvofksWlCcEvXIQZTqbPG0bkUIhAB.jpg"group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 3
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K0e3cV5LvDYDtaBxkrI4I-4/ts
+#EXTINF:-1 tvg-name="ITV DEPORTES"tvg-id=""tvg-logo="https://i.postimg.cc/c1g7HNtW/1745622778797.png"group-title="DEPORTES",ITV DEPORTES
+http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3K31rQZjkIyAaumsV86QIMPs/ts
+#EXTINF:-1 group-title="DEPORTES",0782:ECDF SD
+http://170.82.113.50:8899/play/a0j1/index.m3u8
