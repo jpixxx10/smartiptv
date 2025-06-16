@@ -2638,3 +2638,5 @@ https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="(no tvg-id)"tvg-logo="<img class="imagen-canales" src="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv-150x150.jpg" alt="Canal Retro Toons" title="Canal Retro Toons">"group-title="Serenotv",Canal Retrox tv
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="(no tvg-id)"tvg-logo="<img class="imagen-canales" src="src="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-tv-palmares-en-vivo-150x96.jpg"" alt="Canal Retro Toons" title="Canal Retro Toons">"group-title="Serenotv",Canal Retro tv palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
