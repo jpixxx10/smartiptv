@@ -2634,3 +2634,7 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/chunklist_w1032000968.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="(no tvg-id)"tvg-logo="https://serenotv.com/wp-content/webp-express/webp-images/uploads/2023/09/RETRO-TV-LOGO-315x315.jpg.webp"group-title="Serenotv",Canal Retrotv
 https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="(no tvg-id)"tvg-logo="<img class="imagen-canales" src="https://serenotv.com/wp-content/uploads/2025/05/unnamed-150x150.jpg" alt="Canal Retro Toons" title="Canal Retro Toons">"group-title="Serenotv",Canal Retrotoons
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="(no tvg-id)"tvg-logo="<img class="imagen-canales" src="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv-150x150.jpg" alt="Canal Retro Toons" title="Canal Retro Toons">"group-title="Serenotv",Canal Retrox tv
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
