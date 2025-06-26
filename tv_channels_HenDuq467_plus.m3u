@@ -39,8 +39,9 @@ http://tvlatino.club:2082/Abad71/Ejj5EjUBAnSK/485885.ts
 http://tvlatino.club:2082/Abad71/Ejj5EjUBAnSK/513982.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="▶️ COLOMBIA",LA KALLE #1
 http://tvlatino.club:2082/Abad71/Ejj5EjUBAnSK/342442.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="▶️ COLOMBIA",LA KALLE #2
-https://co-e5-p-e-tu2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/RRmIwzY8SeypJ5-icasjpw/stream/1ace271b-cd37-4a10-bc23-c8b9c2ece32b:MRN2/master.m3u8?aid=589b127df30bc52f54100dcb&uid=cC5qR3JBZhoX4eDHZkwvSxiT7PVnO41E&sid=tfkUkxEerptXpQsRQl0B8qORlUAnu7XY&pid=OBpEEenkJAP9W9X81fA6BDIdHDRrygxu&pid_dvr=zZLPpX1jHs1zdGZz9GHGTygrDR68CXNn&ref=https%3A%2F%2Flakalle.bluradio.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=1ace271b-cd37-4a10-bc23-c8b9c2ece32b%3AMRN2&es=co-e5-p-e-tu2.cdn.mdstrm.com&ote=1751062635950&ot=tgHWNXD9_Ss_Cnm8KPBLrQ&proto=https&pz=us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+#EXTVLCOPT:http-referrer=https://lakalle.bluradio.com/#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="▶️ COLOMBIA",LA KALLE #2
+https://co-e4-p-e-tu1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/RRmIwzY8SeypJ5-icasjpw/stream/83b1d99f-b743-42b1-8786-782fe414473f:TUL/master.m3u8?aid=589b127df30bc52f54100dcb&uid=rGwkUyDLke71AWMyJi5mZMXeGvcLu9XF&sid=HvzjtoecEcqXIZxsfpS7k76Wb9lX3TJn&pid=TUPM5PWnnKTxRO6uyN4mJf1xxHdf8S6y&pid_dvr=8pC5wX9czWNOkhdBphRyvnDWXi9wMKev&ref=https%3A%2F%2Flakalle.bluradio.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=83b1d99f-b743-42b1-8786-782fe414473f%3ATUL&es=co-e4-p-e-tu1.cdn.mdstrm.com&ote=1751063715443&ot=3jldt7r7WkAiutBin44rOg&proto=https&pz=us
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="▶️ COLOMBIA",NTN24  #2
 http://tvlatino.club:2082/Abad71/Ejj5EjUBAnSK/60761.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="▶️ COLOMBIA",RCN #1
