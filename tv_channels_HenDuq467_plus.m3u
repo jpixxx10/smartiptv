@@ -427,48 +427,12 @@ https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Suyai TV"tvg-id="1288"tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png"group-title="▶️ MEXICO2",Suyai TV | CL
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoM3uCL&password=JpunQr45z7&PlaylistM3UCL
-#EXTINF:-1 tvg-name="Fare Sport MX"tvg-id="1268"tvg-logo="https://cdn.m3u.cl/logo/1268_Fare_Sport_MX.png"group-title="▶️ MEXICO2",Fare Sport MX | MX
-https://eu1.servers10.com:8081/8140/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal Once Internacional"tvg-id="664"tvg-logo="https://cdn.m3u.cl/logo/664_Canal_Once_Internacional.png"group-title="▶️ MEXICO2",Canal Once Internacional | MX
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="15TV Sabinas"tvg-id="657"tvg-logo="https://cdn.m3u.cl/logo/657_15TV_Sabinas.png"group-title="▶️ MEXICO2",15TV Sabinas | MX
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="8 NTV"tvg-id="642"tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png"group-title="▶️ MEXICO2",8 NTV | MX
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="ADN 40"tvg-id="658"tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png"group-title="▶️ MEXICO2",ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 10 Cancun"tvg-id="659"tvg-logo="https://cdn.m3u.cl/logo/659_Canal_10_Cancun.png"group-title="▶️ MEXICO2",Canal 10 Cancun | MX
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal 10 Chiapas"tvg-id="660"tvg-logo="https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png"group-title="▶️ MEXICO2",Canal 10 Chiapas | MX
 https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 12.1 Colima"tvg-id="640"tvg-logo="https://cdn.m3u.cl/logo/640_Canal_12_1_Colima.png"group-title="▶️ MEXICO2",Canal 12.1 Colima | MX
-https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 15 Fresnillo"tvg-id="661"tvg-logo="https://cdn.m3u.cl/logo/661_Canal_15_Fresnillo.png"group-title="▶️ MEXICO2",Canal 15 Fresnillo | MX
-https://60ed5b6d0df78.streamlock.net:1936/lsac/ngrp:lsac_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 28 Nuevo Leon"tvg-id="644"tvg-logo="https://cdn.m3u.cl/logo/644_Canal_28_Nuevo_Leon.png"group-title="▶️ MEXICO2",Canal 28 Nuevo Leon | MX
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 4 Saltillo"tvg-id="663"tvg-logo="https://cdn.m3u.cl/logo/663_Canal_4_Saltillo.png"group-title="▶️ MEXICO2",Canal 4 Saltillo | MX
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 7 SLP"tvg-id="639"tvg-logo="https://cdn.m3u.cl/logo/639_Canal_7_SLP.png"group-title="▶️ MEXICO2",Canal 7 SLP | MX
-https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal Cultural Huauchinango"tvg-id="1171"tvg-logo="https://cdn.m3u.cl/logo/1171_Canal_Cultural_Huauchinango.png"group-title="▶️ MEXICO2",Canal Cultural Huauchinango | MX
-https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal Once Mexico"tvg-id="772"tvg-logo="https://cdn.m3u.cl/logo/772_Canal_Once_Mexico.png"group-title="▶️ MEXICO2",Canal Once Mexico | MX
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal Once Nacional"tvg-id="665"tvg-logo="https://cdn.m3u.cl/logo/665_Canal_Once_Nacional.png"group-title="▶️ MEXICO2",Canal Once Nacional | MX
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Central FM"tvg-id="634"tvg-logo="https://cdn.m3u.cl/logo/634_Central_FM.png"group-title="▶️ MEXICO2",Central FM | MX
-https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Enfoque de la Sierra"tvg-id="1119"tvg-logo="https://cdn.m3u.cl/logo/1119_Enfoque_de_la_Sierra.png"group-title="▶️ MEXICO2",Enfoque de la Sierra | MX
-https://90f2-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Genesis TV"tvg-id="645"tvg-logo="https://cdn.m3u.cl/logo/645_Genesis_TV.png"group-title="▶️ MEXICO2",Genesis TV | MX
-https://53c64a8009488.streamlock.net/genesis/smil:television.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="GikTVMX"tvg-id="1409"tvg-logo="https://cdn.m3u.cl/logo/1409_GikTVMX.png"group-title="▶️ MEXICO2",GikTVMX | MX
-https://pistream.ddns.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Impactovision"tvg-id="635"tvg-logo="https://cdn.m3u.cl/logo/635_Impactovision.webp"group-title="▶️ MEXICO2",Impactovision | MX
-https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Jalisco TV"tvg-id="637"tvg-logo="https://cdn.m3u.cl/logo/637_Jalisco_TV.png"group-title="▶️ MEXICO2",Jalisco TV | MX
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Mexiquense TV"tvg-id="652"tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png"group-title="▶️ MEXICO2",Mexiquense TV | MX
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Multimedios CDMX"tvg-id="667"tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png"group-title="▶️ MEXICO2",Multimedios CDMX | MX
@@ -479,40 +443,20 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Multimedios Monterrey"tvg-id="670"tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png"group-title="▶️ MEXICO2",Multimedios Monterrey | MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="MVM Noticias Oaxaca"tvg-id="671"tvg-logo="https://cdn.m3u.cl/logo/671_MVM_Noticias_Oaxaca.png"group-title="▶️ MEXICO2",MVM Noticias Oaxaca | MX
-https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Presumiendo Mexico"tvg-id="672"tvg-logo="https://cdn.m3u.cl/logo/672_Presumiendo_Mexico.png"group-title="▶️ MEXICO2",Presumiendo Mexico | MX
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="RCG 1 Saltillo"tvg-id="673"tvg-logo="https://cdn.m3u.cl/logo/673_RCG_1_Saltillo.png"group-title="▶️ MEXICO2",RCG 1 Saltillo | MX
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="RCG 2 Saltillo"tvg-id="674"tvg-logo="https://cdn.m3u.cl/logo/674_RCG_2_Saltillo.png"group-title="▶️ MEXICO2",RCG 2 Saltillo | MX
-https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="RCG 3 Saltillo"tvg-id="675"tvg-logo="https://cdn.m3u.cl/logo/675_RCG_3_Saltillo.png"group-title="▶️ MEXICO2",RCG 3 Saltillo | MX
-https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="RTQ Queretaro"tvg-id="676"tvg-logo="https://cdn.m3u.cl/logo/676_RTQ_Queretaro.png"group-title="▶️ MEXICO2",RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="SIZART Canal 24 Zacatecas"tvg-id="646"tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png"group-title="▶️ MEXICO2",SIZART Canal 24 Zacatecas | MX
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Telemax Hermosillo"tvg-id="679"tvg-logo="https://cdn.m3u.cl/logo/679_Telemax_Hermosillo.png"group-title="▶️ MEXICO2",Telemax Hermosillo | MX
-https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Teleplay"tvg-id="636"tvg-logo="https://cdn.m3u.cl/logo/636_Teleplay.png"group-title="▶️ MEXICO2",Teleplay | MX
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Teleritmo"tvg-id="680"tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png"group-title="▶️ MEXICO2",Teleritmo | MX
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Tempus Stream"tvg-id="1606"tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png"group-title="▶️ MEXICO2",Tempus Stream | MX
 https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Tlaxcala TV"tvg-id="647"tvg-logo="https://cdn.m3u.cl/logo/647_Tlaxcala_TV.png"group-title="▶️ MEXICO2",Tlaxcala TV | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Transmedia TV Morelia"tvg-id="681"tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png"group-title="▶️ MEXICO2",Transmedia TV Morelia | MX
-https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="TRC TV Campeche"tvg-id="683"tvg-logo="https://cdn.m3u.cl/logo/683_TRC_TV_Campeche.png"group-title="▶️ MEXICO2",TRC TV Campeche | MX
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="TV Lobo"tvg-id="638"tvg-logo="https://cdn.m3u.cl/logo/638_TV_Lobo.png"group-title="▶️ MEXICO2",TV Lobo | MX
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="TV4 Cultura"tvg-id="655"tvg-logo="https://cdn.m3u.cl/logo/655_TV4_Cultura.png"group-title="▶️ MEXICO2",TV4 Cultura | MX
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="TV4 Deportes"tvg-id="654"tvg-logo="https://cdn.m3u.cl/logo/654_TV4_Deportes.png"group-title="▶️ MEXICO2",TV4 Deportes | MX
-https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="TV4 Noticias"tvg-id="656"tvg-logo="https://cdn.m3u.cl/logo/656_TV4_Noticias.png"group-title="▶️ MEXICO2",TV4 Noticias | MX
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="TVP Culiacan"tvg-id="651"tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png"group-title="▶️ MEXICO2",TVP Culiacan | MX
@@ -527,8 +471,6 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="AMX Noticias"tvg-id="1042"tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_Noticias.png"group-title="▶️ MEXICO2",AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 66 El Canal de las Noticias"tvg-id="1174"tvg-logo="https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png"group-title="▶️ MEXICO2",Canal 66 El Canal de las Noticias | MX
-https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Alcance TV"tvg-id="865"tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png"group-title="▶️ MEXICO2",Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="PRIDEtv Latam"tvg-id="1692"tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png"group-title="▶️ MEXICO2",PRIDEtv Latam | CL
