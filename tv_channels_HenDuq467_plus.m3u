@@ -109,14 +109,8 @@ http://tvlatino.club:2082/Abad71/Ejj5EjUBAnSK/541454.ts
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal CNC Medellin"tvg-id="116"tvg-logo="https://cdn.m3u.cl/logo/116_Canal_CNC_Medellin.png"group-title="▶️ COLOMBIA2",Canal CNC Medellin | CO
 https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal CNC Pasto"tvg-id="117"tvg-logo="https://cdn.m3u.cl/logo/117_Canal_CNC_Pasto.png"group-title="▶️ COLOMBIA2",Canal CNC Pasto | CO
-http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal Institucional"tvg-id="120"tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png"group-title="▶️ COLOMBIA2",Canal Institucional | CO
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://cdn.m3u.cl/logo/119_Canal_Trece.png"group-title="▶️ COLOMBIA2",Canal Trece | CO
-https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal TRO"tvg-id="121"tvg-logo="https://cdn.m3u.cl/logo/121_Canal_TRO.png"group-title="▶️ COLOMBIA2",Canal TRO | CO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal Visión Dorada"tvg-id="122"tvg-logo="https://cdn.m3u.cl/logo/122_Canal_Vision_Dorada.png"group-title="▶️ COLOMBIA2",Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Cosmovisión"tvg-id="125"tvg-logo="https://cdn.m3u.cl/logo/125_Cosmovision.png"group-title="▶️ COLOMBIA2",Cosmovisión | CO
@@ -129,10 +123,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Tele Islas"tvg-id="137"tvg-logo="https://cdn.m3u.cl/logo/137_Tele_Islas.png"group-title="▶️ COLOMBIA2",Tele Islas | CO
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Telecafe"tvg-id="131"tvg-logo="https://cdn.m3u.cl/logo/131_Telecafe.png"group-title="▶️ COLOMBIA2",Telecafe | CO
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
-#EXTINF:-1 tvg-name="Telemedellin"tvg-id="136"tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png"group-title="▶️ COLOMBIA2",Telemedellin | CO
-https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR&PlaylistM3UCL
 #EXTINF:-1 tvg-name="Telepacífico"tvg-id="135"tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png"group-title="▶️ COLOMBIA2",Telepacífico | CO
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Zoom TV"tvg-id="140"tvg-logo="https://cdn.m3u.cl/logo/140_Zoom_TV.png"group-title="▶️ COLOMBIA2",Zoom TV | CO
@@ -143,20 +133,12 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Retro Plus TV"tvg-id="4"tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png"group-title="▶️ COLOMBIA2",Retro Plus TV | CL
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Tele Pasto"tvg-id="804"tvg-logo="https://cdn.m3u.cl/logo/804_Tele_Pasto.png"group-title="▶️ COLOMBIA2",Tele Pasto | CO
-https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="TV Peñol"tvg-id="860"tvg-logo="https://cdn.m3u.cl/logo/860_TV_Penol.png"group-title="▶️ COLOMBIA2",TV Peñol | CO
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Oasis TV"tvg-id="862"tvg-logo="https://cdn.m3u.cl/logo/862_Oasis_TV.png"group-title="▶️ COLOMBIA2",Oasis TV | CO
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Cristovision"tvg-id="874"tvg-logo="https://cdn.m3u.cl/logo/874_Cristovision.jpg"group-title="▶️ COLOMBIA2",Cristovision | CO
-https://liveingesta118.cdnmedia.tv/cristovisiontvlive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
 #EXTINF:-1 tvg-name="Mundo de la Musica TV"tvg-id="771"tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png"group-title="▶️ COLOMBIA2",Mundo de la Musica TV | CL
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Teleamiga"tvg-id="1614"tvg-logo="https://cdn.m3u.cl/logo/1614_Teleamiga.png"group-title="▶️ COLOMBIA2",Teleamiga | CO
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 12 Valledupar"tvg-id="114"tvg-logo="https://cdn.m3u.cl/logo/114_Canal_12_Valledupar.png"group-title="▶️ COLOMBIA2",Canal 12 Valledupar | CO
-https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmaBpKu1K3lYAAAA/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="▶️ MEXICO",3ABN PLANTA
 http://45.228.234.173:9999/play/a04s/index.m3u8
 #EXTINF:-1 group-title="▶️ MEXICO",A&E
