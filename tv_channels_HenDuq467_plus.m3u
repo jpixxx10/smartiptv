@@ -2605,6 +2605,5 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/39161
 #EXTINF:-1 group-title="Pluto tv" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&w=417&h=236&dpr=1&q=75" tvg-id="" channel_id="" tvg-archive="0",Pluto TV Cine Clásico
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/12453
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
-#EXTVLCOPT:http-referrer=https://pluto.tv/latam/live-tv/5de802659167b10009e7deba
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="203", Pluto TV Series Retro
+#EXTVLCOPT:http-referrer=https://pluto.tv/latam/live-tv/5de802659167b10009e7deba#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="203", Pluto TV Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
