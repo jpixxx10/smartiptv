@@ -1350,1068 +1350,296 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41484.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41488.ts
 #EXTINF:-1 tvg-name="Vevo 90 Music"tvg-id="(no tvg-id)"tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"tvg-chno=""group-title="MUSICA",Vevo 90 Music
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41489.ts
-#EXTINF:-1 tvg-name="DEPORTES HD  | Fox Sports 1 Chile HD"tvg-id="862"tvg-logo="http://playlist3456544.ddns.net:8080/images/edfa6757a2e6df3330f9ea2bc2c7aa70.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD  | Fox Sports 1 Chile HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/862
-#EXTINF:-1 tvg-name="DEPORTES HD | AFIZZIONADOS HD"tvg-id="4871"tvg-logo="http://playlist3456544.ddns.net:8080/images/48483c50de3f0592ace7dc6dbcbcdf0b.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | AFIZZIONADOS HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/4871
-#EXTINF:-1 tvg-name="DEPORTES HD | AYM SPORTS"tvg-id="1311"tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png/revision/latest?cb=20170917052727&path-prefix=es"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | AYM SPORTS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1311
-#EXTINF:-1 tvg-name="DEPORTES HD | Bein Sports Ñ HD"tvg-id="3518"tvg-logo="http://playlist3456544.ddns.net:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | Bein Sports Ñ HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3518
-#EXTINF:-1 tvg-name="DEPORTES HD | CLARO SPORTS SUR (L)"tvg-id="4872"tvg-logo="http://playlist3456544.ddns.net:8080/images/77d9ccddbf5811854c89360e9285785b.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | CLARO SPORTS SUR (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/4872
-#EXTINF:-1 tvg-name="DEPORTES HD | CLARO SPORTS MX HD"tvg-id="5559"tvg-logo="http://playlist3456544.ddns.net:8080/images/77d9ccddbf5811854c89360e9285785b.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | CLARO SPORTS MX HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/5559
-#EXTINF:-1 tvg-name="DEPORTES HD | DIRECTV SPORTS FIGHT"tvg-id="1523"tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png?v=637836254180000000"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | DIRECTV SPORTS FIGHT
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1523
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 1 MEXICO FHD"tvg-id="1315"tvg-logo="http://playlist3456544.ddns.net:8080/images/f5b09f2c23bef1ac767b3b40a734a4a0.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 1 MEXICO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1315
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 2 MEXICO FHD"tvg-id="1316"tvg-logo="http://playlist3456544.ddns.net:8080/images/5e55d598e0d894dc4a33c43b51d5932d.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 2 MEXICO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1316
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 3 FHD"tvg-id="1321"tvg-logo="http://playlist3456544.ddns.net:8080/images/7321a99dfb5e9ba071b0b77b1f4436a2.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 3 FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1321
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 3 MEXICO FHD"tvg-id="1317"tvg-logo="http://playlist3456544.ddns.net:8080/images/7321a99dfb5e9ba071b0b77b1f4436a2.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 3 MEXICO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1317
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN U FHD"tvg-id="1318"tvg-logo="http://playlist3456544.ddns.net:8080/images/731c52b87dec980d379ee64aed4771d0.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN U FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1318
-#EXTINF:-1 tvg-name="DEPORTES HD | Fox Sports 1 (COL) FHD"tvg-id="815"tvg-logo="http://playlist3456544.ddns.net:8080/images/784ad3666a72fa62335cab97a020081f.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | Fox Sports 1 (COL) FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/815
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS 2 FHD"tvg-id="1328"tvg-logo="http://playlist3456544.ddns.net:8080/images/85ce8c4de4de80540ee2758f598f8453.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX SPORTS 2 FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1328
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS 3 FHD"tvg-id="1329"tvg-logo="http://playlist3456544.ddns.net:8080/images/4a05586c5bd6acc6f2d9154f3a7b949c.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX SPORTS 3 FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1329
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS 3 MEXICO FHD"tvg-id="1326"tvg-logo="http://playlist3456544.ddns.net:8080/images/4a05586c5bd6acc6f2d9154f3a7b949c.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX SPORTS 3 MEXICO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1326
-#EXTINF:-1 tvg-name="DEPORTES HD | GOL TV INTERNACIONAL"tvg-id="1334"tvg-logo="http://playlist3456544.ddns.net:8080/images/7d6928d44babb79077981775da6451d8.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | GOL TV INTERNACIONAL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1334
-#EXTINF:-1 tvg-name="DEPORTES HD | GOLF CHANNEL LATINO"tvg-id="1330"tvg-logo="http://playlist3456544.ddns.net:8080/images/0b74007b0a60dbb11306cbdb42d7112a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | GOLF CHANNEL LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1330
-#EXTINF:-1 tvg-name="DEPORTES HD | MOVISTAR DEPORTES"tvg-id="1537"tvg-logo="http://playlist3456544.ddns.net:8080/images/bf19c80d6905259a3144617936459198.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | MOVISTAR DEPORTES
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1537
-#EXTINF:-1 tvg-name="DEPORTES HD | NBC GOLF MEXICO HD"tvg-id="1331"tvg-logo="http://playlist3456544.ddns.net:8080/images/0b74007b0a60dbb11306cbdb42d7112a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | NBC GOLF MEXICO HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1331
-#EXTINF:-1 tvg-name="DEPORTES HD | REAL MADRID TV"tvg-id="1332"tvg-logo="http://playlist3456544.ddns.net:8080/images/c0e591468fefdc7794aa14a9713415ca.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | REAL MADRID TV
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1332
-#EXTINF:-1 tvg-name="DEPORTES HD | TVC DEPORTES MEXICO"tvg-id="1333"tvg-logo="http://playlist3456544.ddns.net:8080/images/54a922e73a2f4526810c6c41a6ea921e.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TVC DEPORTES MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1333
-#EXTINF:-1 tvg-name="DEPORTES HD | SKY SPORTS BUNDESLIGA"tvg-id="37173"tvg-logo="http://playlist3456544.ddns.net:8080/images/19c93505afd68561f143fe968082b328.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | SKY SPORTS BUNDESLIGA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/37173
-#EXTINF:-1 tvg-name="DEPORTES HD | RED BULL TV"tvg-id="41226"tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | RED BULL TV
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41226
-#EXTINF:-1 tvg-name="DEPORTES HD |  UFC TV"tvg-id="45501"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD |  UFC TV
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/45501
-#EXTINF:-1 tvg-name="Deportes HD | ESPN 3 HD"tvg-id="98261"tvg-logo="http://playlist3456544.ddns.net:8080/images/23e20e30186ee1dd25e348574558d631.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN 3 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/98261
-#EXTINF:-1 tvg-name="DEPORTES HD | CLARO SPORTS (Guatemala)"tvg-id="98361"tvg-logo="http://playlist3456544.ddns.net:8080/images/77d9ccddbf5811854c89360e9285785b.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | CLARO SPORTS (Guatemala)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/98361
-#EXTINF:-1 tvg-name="Deportes HD | Claro Sports 1 HD"tvg-id="108653"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | Claro Sports 1 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108653
-#EXTINF:-1 tvg-name="Deportes HD | Claro Sports 3 HD"tvg-id="108655"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | Claro Sports 3 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108655
-#EXTINF:-1 tvg-name="Deportes HD | Claro Sports 4 HD"tvg-id="108656"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | Claro Sports 4 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108656
-#EXTINF:-1 tvg-name="GUATEMALA | CLARO SPORTS (E)"tvg-id="108937"tvg-logo="http://playlist3456544.ddns.net:8080/images/bb13a9ed63d3c43d53ecf60db1d5eb14.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",GUATEMALA | CLARO SPORTS (E)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108937
-#EXTINF:-1 tvg-name="DEPORTES | BEIN SPORTS 2 (Arabe)"tvg-id="109104"tvg-logo="http://playlist3456544.ddns.net:8080/images/0d62c1ad0ee4e6dd4bbe4250175fca53.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES | BEIN SPORTS 2 (Arabe)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/109104
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X1"tvg-id="110294"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X1
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110294
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X2"tvg-id="110295"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110295
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X3"tvg-id="110296"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X3
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110296
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X4"tvg-id="110297"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X4
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110297
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X5"tvg-id="110298"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X5
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110298
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X6"tvg-id="110299"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X6
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110299
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X7"tvg-id="110300"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X7
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110300
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X8"tvg-id="110301"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X8
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110301
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X9"tvg-id="110302"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X9
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110302
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X10"tvg-id="110303"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X10
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110303
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN X11"tvg-id="110304"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN X11
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110304
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN PLUS"tvg-id="111401"tvg-logo="http://playlist3456544.ddns.net:8080/images/c1b54acb744f829edb3a149459e98edc.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN PLUS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/111401
-#EXTINF:-1 tvg-name="Deportes HD | ESPN (CHILE)"tvg-id="146796"tvg-logo="http://playlist3456544.ddns.net:8080/images/0dc80e48e0604a4a9a66c1750052ab4d.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN (CHILE)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146796
-#EXTINF:-1 tvg-name="Deportes HD | ESPN 3 (CHILE)"tvg-id="146798"tvg-logo="http://playlist3456544.ddns.net:8080/images/7321a99dfb5e9ba071b0b77b1f4436a2.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN 3 (CHILE)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146798
-#EXTINF:-1 tvg-name="Deportes HD | ESPN 4 (CHILE)"tvg-id="146799"tvg-logo="http://playlist3456544.ddns.net:8080/images/18a9c10191a4cf1fcb179a445b0f989b.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN 4 (CHILE)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146799
-#EXTINF:-1 tvg-name="Deportes HD | DIRECTV SPORTS + (CHILE)"tvg-id="146801"tvg-logo="http://playlist3456544.ddns.net:8080/images/1cdb1a43c089b74eb979dd757d98821a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | DIRECTV SPORTS + (CHILE)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146801
-#EXTINF:-1 tvg-name="DEPORTES HD | DIRECTV SPORTS 1 (CHILE)(HD)"tvg-id="105605"tvg-logo="http://playlist3456544.ddns.net:8080/images/e6bdc48f12a6c91e908a7a45b76b0976.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | DIRECTV SPORTS 1 (CHILE)(HD)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/105605
-#EXTINF:-1 tvg-name="Deportes HD | DIRECTV SPORTS 2 (CHILE)"tvg-id="146800"tvg-logo="http://playlist3456544.ddns.net:8080/images/0363eb16c5f2f8a9c0b4bba20bd7f7e5.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | DIRECTV SPORTS 2 (CHILE)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146800
-#EXTINF:-1 tvg-name="AR: SSC Sport FHD"tvg-id="155011"tvg-logo="http://playlist3456544.ddns.net:8080/images/8cc75c45ea5ee78ba4b248bf0a6096d0.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",AR: SSC Sport FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/155011
-#EXTINF:-1 tvg-name="COL| ESPN 3 (L)"tvg-id="248774"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",COL| ESPN 3 (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/248774
-#EXTINF:-1 tvg-name="COL| Fox Sports 2 (L)"tvg-id="248836"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",COL| Fox Sports 2 (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/248836
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX DEPORTES FHD"tvg-id="1323"tvg-logo="http://playlist3456544.ddns.net:8080/images/1d2e198479f7e23e6382f2d1c1e9d56a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX DEPORTES FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1323
-#EXTINF:-1 tvg-name="PUERTO RICO | Wapa Deportes"tvg-id="159951"tvg-logo="https://d1cd2t8ij9653t.cloudfront.net/eyJidWNrZXQiOiJ3YXBhdHYtaW1hZ2VzIiwia2V5IjoicHJvZ3JhbXMvMjAxOS8wNi8yMDE5MDYxOTE2NTk1MjB3YXBhX2RlcG9ydGVzX2xvZ29fYmxhY2twbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjozMTUsImZpdCI6Imluc2lkZSJ9fX0="tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",PUERTO RICO | Wapa Deportes
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/159951
-#EXTINF:-1 tvg-name="DEPORTES HD | Bein Sports Ñ FHD"tvg-id="931"tvg-logo="http://playlist3456544.ddns.net:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | Bein Sports Ñ FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/931
-#EXTINF:-1 tvg-name="DEPORTES HD   | BEIN SPORTS (720)"tvg-id="86926"tvg-logo="http://playlist3456544.ddns.net:8080/images/99a4f97961728844d39ea77d62f6eb5b.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD   | BEIN SPORTS (720)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86926
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 4 (L)"tvg-id="117640"tvg-logo="http://playlist3456544.ddns.net:8080/images/94e9c6d7555b01c32155fc9cb6dd0215.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 4 (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/117640
-#EXTINF:-1 tvg-name="Paramount + Premier League"tvg-id="163615"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjqGKXzEkEGStS4cZ8WC5jIDWrE7cwe7XHfLHR1RfhgZ7D8_13Nt8dSTZJJcenLjCDsSt4hj8TmvqjA1v-FystydwUt9qG760S6OBTe4w5j4uoQBjT_9jKkXqV76_gGAlpj-A1TkQaWA5DSlNNJh2uJGTFHVLgEcxd5JZw6QKDtQnFSGZjylBBPb_02=w640-h360"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Paramount + Premier League
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/163615
-#EXTINF:-1 tvg-name="GUATEMALA | Claro Sports HD"tvg-id="164014"tvg-logo="http://playlist3456544.ddns.net:8080/images/bb13a9ed63d3c43d53ecf60db1d5eb14.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",GUATEMALA | Claro Sports HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/164014
-#EXTINF:-1 tvg-name="CO: DIRECTV SPORTS 2 (COLOMBIA) (1920) (Exclusivo) L"tvg-id="211601"tvg-logo="http://playlist3456544.ddns.net:8080/images/059a3e142c1a4bbbe0c664c870b1beeb.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",CO: DIRECTV SPORTS 2 (COLOMBIA) (1920) (Exclusivo) L
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/211601
-#EXTINF:-1 tvg-name="Peru | Liga 1"tvg-id="156358"tvg-logo="http://playlist3456544.ddns.net:8080/images/2182602ff6732cec0ec393a621b5a53a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Peru | Liga 1
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/156358
-#EXTINF:-1 tvg-name="SP: MX: TUDN (MOVIL)"tvg-id="110293"tvg-logo="http://playlist3456544.ddns.net:8080/images/1043bd2683b160f6cbeed7bb5e7bb80a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",SP: MX: TUDN (MOVIL)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/110293
-#EXTINF:-1 tvg-name="Deportes HD | ESPN (720) (MX)"tvg-id="86823"tvg-logo="http://playlist3456544.ddns.net:8080/images/4ae0831d95101e5b02d9a059f0c8ffcc.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN (720) (MX)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86823
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN Argentina"tvg-id="92871"tvg-logo="http://playlist3456544.ddns.net:8080/images/f5b09f2c23bef1ac767b3b40a734a4a0.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN Argentina
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/92871
-#EXTINF:-1 tvg-name="Deportes HD | Claro Sports 2 HD"tvg-id="108654"tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | Claro Sports 2 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108654
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS 2 MEXICO FHD"tvg-id="1325"tvg-logo="http://playlist3456544.ddns.net:8080/images/85ce8c4de4de80540ee2758f598f8453.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX SPORTS 2 MEXICO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1325
-#EXTINF:-1 tvg-name="DEPORTES HD | Fox Deportes HD"tvg-id="1299"tvg-logo="http://playlist3456544.ddns.net:8080/images/1d2e198479f7e23e6382f2d1c1e9d56a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | Fox Deportes HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1299
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS 1 MEXICO FHD"tvg-id="1324"tvg-logo="http://playlist3456544.ddns.net:8080/images/a65bd3402b7f1cae1ca8332629f31bae.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX SPORTS 1 MEXICO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1324
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS PREMIUM"tvg-id="3175"tvg-logo="http://playlist3456544.ddns.net:8080/images/dfdb6b2c21bfba7ba7ba24bf9b0c4c7b.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX SPORTS PREMIUM
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3175
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS PREMIUM MEX"tvg-id="131300"tvg-logo="http://playlist3456544.ddns.net:8080/images/8c5b9689091bebc73eeed7b43d5ba18f.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | FOX SPORTS PREMIUM MEX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/131300
-#EXTINF:-1 tvg-name="ECUADOR | ZAPPING OPC 1"tvg-id="246430"tvg-logo="https://www.ole.com.ar/2024/07/23/2q7pN6HnE_1290x760__1.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",ECUADOR | ZAPPING OPC 1
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/246430
-#EXTINF:-1 tvg-name="ECUADOR | ZAPPING OPC 2"tvg-id="246431"tvg-logo="https://www.ole.com.ar/2024/07/23/2q7pN6HnE_1290x760__1.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",ECUADOR | ZAPPING OPC 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/246431
-#EXTINF:-1 tvg-name="ECUADOR | ZAPPING OPC 3"tvg-id="246432"tvg-logo="https://www.ole.com.ar/2024/07/23/2q7pN6HnE_1290x760__1.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",ECUADOR | ZAPPING OPC 3
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/246432
-#EXTINF:-1 tvg-name="ECUADOR | ZAPPING OPC 4"tvg-id="246433"tvg-logo="https://www.ole.com.ar/2024/07/23/2q7pN6HnE_1290x760__1.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",ECUADOR | ZAPPING OPC 4
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/246433
-#EXTINF:-1 tvg-name="Deportes HD | ESPN 5"tvg-id="247003"tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN 5
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/247003
-#EXTINF:-1 tvg-name="COL| Claro Sport (L)"tvg-id="248775"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",COL| Claro Sport (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/248775
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 1 FHD"tvg-id="125385"tvg-logo="http://playlist3456544.ddns.net:8080/images/0dc80e48e0604a4a9a66c1750052ab4d.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 1 FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/125385
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 1 FHD (COLOMBIA)"tvg-id="98741"tvg-logo="http://playlist3456544.ddns.net:8080/images/fc4c659ab9b34bf735d4fef4743cd357.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 1 FHD (COLOMBIA)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/98741
-#EXTINF:-1 tvg-name="ESPN 2"tvg-id="96262"tvg-logo="http://playlist3456544.ddns.net:8080/images/a907600b2681d7c41363d29bf49f3b53.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",ESPN 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/96262
-#EXTINF:-1 tvg-name="COL | ESPN (L)"tvg-id="248835"tvg-logo=""tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",COL | ESPN (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/248835
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 2 FHD"tvg-id="1320"tvg-logo="http://playlist3456544.ddns.net:8080/images/5e55d598e0d894dc4a33c43b51d5932d.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 2 FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1320
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN 2"tvg-id="254069"tvg-logo="http://playlist3456544.ddns.net:8080/images/5e55d598e0d894dc4a33c43b51d5932d.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/254069
-#EXTINF:-1 tvg-name="DEPORTES HD  | Fox Sports 1 Premium HD"tvg-id="861"tvg-logo="http://playlist3456544.ddns.net:8080/images/edfa6757a2e6df3330f9ea2bc2c7aa70.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD  | Fox Sports 1 Premium HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/861
-#EXTINF:-1 tvg-name="Deportes HD | ESPN 6"tvg-id="260743"tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-61.jpg"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN 6
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/260743
-#EXTINF:-1 tvg-name="Deportes HD | ESPN 7"tvg-id="261045"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1200px-ESPN_7_logo.svg.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN 7
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/261045
-#EXTINF:-1 tvg-name="DEPORTES HD | ESPN DEPORTES FHD"tvg-id="1314"tvg-logo="http://playlist3456544.ddns.net:8080/images/ac1d8e9fcea881e47e0b99cce44fe92e.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | ESPN DEPORTES FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1314
-#EXTINF:-1 tvg-name="DEPORTES HD | TUDN HD"tvg-id="9462"tvg-logo="http://playlist3456544.ddns.net:8080/images/NHF8eDk4WLgRka8MP-k5ZtaPRf20DB7Z8qnZ2KFj-F0.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | TUDN HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/9462
-#EXTINF:-1 tvg-name="DEPORTES HD | DIRECTV SPORTS 1 (CHILE)(FHD)"tvg-id="105604"tvg-logo="http://playlist3456544.ddns.net:8080/images/e6bdc48f12a6c91e908a7a45b76b0976.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | DIRECTV SPORTS 1 (CHILE)(FHD)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/105604
-#EXTINF:-1 tvg-name="DEPORTES HD | DIRECTV SPORTS FHD"tvg-id="1313"tvg-logo="http://playlist3456544.ddns.net:8080/images/cf7e1a2ef1f43c236edc1892386e7201.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | DIRECTV SPORTS FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1313
-#EXTINF:-1 tvg-name="DEPORTES HD | DIRECTV SPORTS 2 FHD"tvg-id="1312"tvg-logo="http://playlist3456544.ddns.net:8080/images/5ad82a47d5347ae486bbc51f8f4ba364.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | DIRECTV SPORTS 2 FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1312
-#EXTINF:-1 tvg-name="Deportes HD | ESPN 5 (L)"tvg-id="267132"tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png"tvg-chno=""group-title="DEPORTES HD / SPORTS HD (SPA)",Deportes HD | ESPN 5 (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/267132
-#EXTINF:-1 tvg-name="DEPORTES | TUDN SD"tvg-id="1310"tvg-logo="http://www.tmsimg.com/assets/s89113_ll_h3_ac.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | TUDN SD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1310
-#EXTINF:-1 tvg-name="DEPORTES | BEIN SPORTS Ñ"tvg-id="5560"tvg-logo="http://playlist3456544.ddns.net:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | BEIN SPORTS Ñ
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/5560
-#EXTINF:-1 tvg-name="DEPORTES | CDO PREMIUM"tvg-id="1527"tvg-logo="http://playlist3456544.ddns.net:8080/images/556ca689fa82c1408ffd44630478fc85.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | CDO PREMIUM
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1527
-#EXTINF:-1 tvg-name="DEPORTES | CLARO SPORTS"tvg-id="1526"tvg-logo="http://playlist3456544.ddns.net:8080/images/bb13a9ed63d3c43d53ecf60db1d5eb14.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | CLARO SPORTS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1526
-#EXTINF:-1 tvg-name="DEPORTES | ESPN 2 MEXICO"tvg-id="1521"tvg-logo="http://playlist3456544.ddns.net:8080/images/5e55d598e0d894dc4a33c43b51d5932d.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN 2 MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1521
-#EXTINF:-1 tvg-name="DEPORTES | ESPN 3 MEXICO"tvg-id="1520"tvg-logo="http://playlist3456544.ddns.net:8080/images/7321a99dfb5e9ba071b0b77b1f4436a2.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN 3 MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1520
-#EXTINF:-1 tvg-name="DEPORTES | ESPN MEXICO"tvg-id="1522"tvg-logo="http://playlist3456544.ddns.net:8080/images/f5b09f2c23bef1ac767b3b40a734a4a0.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1522
-#EXTINF:-1 tvg-name="DEPORTES | ESPN NETWORK MEXICO"tvg-id="1513"tvg-logo="http://playlist3456544.ddns.net:8080/images/f5b09f2c23bef1ac767b3b40a734a4a0.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN NETWORK MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1513
-#EXTINF:-1 tvg-name="DEPORTES | ESPN PLUS MEXICO"tvg-id="1512"tvg-logo="http://playlist3456544.ddns.net:8080/images/c1b54acb744f829edb3a149459e98edc.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN PLUS MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1512
-#EXTINF:-1 tvg-name="DEPORTES | ESPN U MEXICO"tvg-id="1511"tvg-logo="http://playlist3456544.ddns.net:8080/images/731c52b87dec980d379ee64aed4771d0.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN U MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1511
-#EXTINF:-1 tvg-name="DEPORTES | FOX SPORTS 2 SUR"tvg-id="1530"tvg-logo="http://playlist3456544.ddns.net:8080/images/85ce8c4de4de80540ee2758f598f8453.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | FOX SPORTS 2 SUR
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1530
-#EXTINF:-1 tvg-name="DEPORTES | FOX SPORTS 3 MEXICO"tvg-id="1517"tvg-logo="http://playlist3456544.ddns.net:8080/images/4a05586c5bd6acc6f2d9154f3a7b949c.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | FOX SPORTS 3 MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1517
-#EXTINF:-1 tvg-name="DEPORTES | FOX SPORTS 3 SUR"tvg-id="1531"tvg-logo="http://playlist3456544.ddns.net:8080/images/4a05586c5bd6acc6f2d9154f3a7b949c.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | FOX SPORTS 3 SUR
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1531
-#EXTINF:-1 tvg-name="DEPORTES | FOX SPORTS MEXICO"tvg-id="1519"tvg-logo="http://playlist3456544.ddns.net:8080/images/a65bd3402b7f1cae1ca8332629f31bae.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | FOX SPORTS MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1519
-#EXTINF:-1 tvg-name="DEPORTES | FOX SPORTS SUR"tvg-id="1529"tvg-logo="http://playlist3456544.ddns.net:8080/images/a65bd3402b7f1cae1ca8332629f31bae.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | FOX SPORTS SUR
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1529
-#EXTINF:-1 tvg-name="DEPORTES | GOLF CHANNEL SUR"tvg-id="1535"tvg-logo="http://playlist3456544.ddns.net:8080/images/0b74007b0a60dbb11306cbdb42d7112a.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | GOLF CHANNEL SUR
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1535
-#EXTINF:-1 tvg-name="DEPORTES | GOLTV"tvg-id="1536"tvg-logo="http://playlist3456544.ddns.net:8080/images/1b97d7a585c86c6b27dd49867093f12a.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | GOLTV
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1536
-#EXTINF:-1 tvg-name="DEPORTES | VTV"tvg-id="1514"tvg-logo="http://playlist3456544.ddns.net:8080/images/cf61f7e309d2da31cb55f41a3a7eabdd.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | VTV
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1514
-#EXTINF:-1 tvg-name="DEPORTES* | GOLF CHANNEL MEXICO"tvg-id="1516"tvg-logo="http://playlist3456544.ddns.net:8080/images/0b74007b0a60dbb11306cbdb42d7112a.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES* | GOLF CHANNEL MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1516
-#EXTINF:-1 tvg-name="Deportes SD | TDN (720)"tvg-id="86821"tvg-logo="http://playlist3456544.ddns.net:8080/images/2ea5df8e90e101df5314348d55012b77.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | TDN (720)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86821
-#EXTINF:-1 tvg-name="Deportes SD | ESPN 2"tvg-id="86824"tvg-logo="http://playlist3456544.ddns.net:8080/images/aa7d893b444e62fe90e1b7b43d672db3.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | ESPN 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86824
-#EXTINF:-1 tvg-name="Deportes SD | ESPN 3"tvg-id="86825"tvg-logo="http://playlist3456544.ddns.net:8080/images/ca6324e8d87c7e312ecb66922638aa70.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | ESPN 3
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86825
-#EXTINF:-1 tvg-name="Deportes SD | Fox Sports"tvg-id="86826"tvg-logo="http://playlist3456544.ddns.net:8080/images/d6a848b1cad2bf9de2cee5a6b7cefe16.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | Fox Sports
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86826
-#EXTINF:-1 tvg-name="Deportes SD | FOX SPORTS HD (720)"tvg-id="86827"tvg-logo="http://playlist3456544.ddns.net:8080/images/21a768beea1784363aca57b358eabb89.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | FOX SPORTS HD (720)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86827
-#EXTINF:-1 tvg-name="Deportes SD | FOX SPORTS 2 (720)"tvg-id="86829"tvg-logo="http://playlistone.site:8080/images/843891c4905452a5524de5ada7b65a5c.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | FOX SPORTS 2 (720)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86829
-#EXTINF:-1 tvg-name="Deportes SD | FoxSport 3"tvg-id="86830"tvg-logo="http://playlistone.site:8080/images/72de8d704b59c2406b1d731d8dba6c0a.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | FoxSport 3
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86830
-#EXTINF:-1 tvg-name="Deportes SD | ADRENALINA"tvg-id="86835"tvg-logo="http://playlist3456544.ddns.net:8080/images/6b831cd9b3d62c7d5ea13171d40cb1f0.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | ADRENALINA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86835
-#EXTINF:-1 tvg-name="Deportes SD | Claro Sports 1"tvg-id="108657"tvg-logo=""tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | Claro Sports 1
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108657
-#EXTINF:-1 tvg-name="Deportes SD | Claro Sports 2"tvg-id="108658"tvg-logo=""tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | Claro Sports 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108658
-#EXTINF:-1 tvg-name="Deportes SD | Claro Sports 3"tvg-id="108659"tvg-logo=""tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | Claro Sports 3
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108659
-#EXTINF:-1 tvg-name="Deportes SD | Claro Sports 4"tvg-id="108660"tvg-logo=""tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | Claro Sports 4
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/108660
-#EXTINF:-1 tvg-name="DEPORTES SD  | BEIN SPORTS"tvg-id="86925"tvg-logo="http://playlist3456544.ddns.net:8080/images/e6b22ecd6d1e8a6a2b779ab71854444c.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES SD  | BEIN SPORTS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86925
-#EXTINF:-1 tvg-name="DEPORTES | ESPN SUR"tvg-id="1532"tvg-logo="http://playlist3456544.ddns.net:8080/images/f5b09f2c23bef1ac767b3b40a734a4a0.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN SUR
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1532
-#EXTINF:-1 tvg-name="Deportes SD | UTDN USA"tvg-id="86831"tvg-logo="http://playlist3456544.ddns.net:8080/images/b8b3bdeb411e26e8f2d49cf501010f62.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | UTDN USA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86831
-#EXTINF:-1 tvg-name="Deportes SD | UTDN Mx"tvg-id="86832"tvg-logo="http://playlist3456544.ddns.net:8080/images/78fec0c2a60792f0d37769c98e136692.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | UTDN Mx
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86832
-#EXTINF:-1 tvg-name="Deportes SD | FoxSport 2"tvg-id="86828"tvg-logo="http://playlist3456544.ddns.net:8080/images/8d05bd473f90e76cfadfc86342c49739.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | FoxSport 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86828
-#EXTINF:-1 tvg-name="DEPORTES* | FOX SPORTS 2 MEXICO"tvg-id="1518"tvg-logo="http://playlist3456544.ddns.net:8080/images/85ce8c4de4de80540ee2758f598f8453.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES* | FOX SPORTS 2 MEXICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1518
-#EXTINF:-1 tvg-name="DEPORTES | ESPN 3 SUR"tvg-id="1534"tvg-logo="http://playlist3456544.ddns.net:8080/images/7321a99dfb5e9ba071b0b77b1f4436a2.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN 3 SUR
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1534
-#EXTINF:-1 tvg-name="DEPORTES | ESPN 2 SUR"tvg-id="1533"tvg-logo="http://playlist3456544.ddns.net:8080/images/5e55d598e0d894dc4a33c43b51d5932d.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | ESPN 2 SUR
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1533
-#EXTINF:-1 tvg-name="Deportes SD | ESPN"tvg-id="86822"tvg-logo="http://playlist3456544.ddns.net:8080/images/69cfc454c26988dbf3fb7b0d5084f63f.jpg"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",Deportes SD | ESPN
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86822
-#EXTINF:-1 tvg-name="DEPORTES | DIRECTV SPORTS"tvg-id="1525"tvg-logo="http://playlist3456544.ddns.net:8080/images/cf7e1a2ef1f43c236edc1892386e7201.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | DIRECTV SPORTS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1525
-#EXTINF:-1 tvg-name="DEPORTES | DIRECTV SPORTS 2"tvg-id="1524"tvg-logo="http://playlist3456544.ddns.net:8080/images/109d6df74d1da24c8b8b2ff15017770c.png"tvg-chno=""group-title="DEPORTES SD / SPORTS SD (SPA)",DEPORTES | DIRECTV SPORTS 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1524 
-#EXTINF:-1 tvg-name="24/7 | JURASSIC PARK"tvg-id="29607"tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/jurassic-park-logo-historia-parque-jurasico.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | JURASSIC PARK
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/29607
-#EXTINF:-1 tvg-name="24/7 | SAW   (ES)"tvg-id="17381"tvg-logo="http://playlist3456544.ddns.net:8080/images/dac14bc6abec03e5617672e9fa7b82c2.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | SAW   (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/17381
-#EXTINF:-1 tvg-name="24/7  |  La Purga"tvg-id="29606"tvg-logo="http://img2.rtve.es/v/4943521?w=1600&preview=1547820875364.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  La Purga
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/29606
-#EXTINF:-1 tvg-name="24/7  |  Los originales"tvg-id="29605"tvg-logo="https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/the-originals.png"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  Los originales
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/29605
-#EXTINF:-1 tvg-name="24/7 Malcolm in the Middle"tvg-id="3786"tvg-logo="http://playlist3456544.ddns.net:8080/images/f1ec8aade8652ba291a9e4d17bf6cd82.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Malcolm in the Middle
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3786
-#EXTINF:-1 tvg-name="24/7 The Big Bang Theory"tvg-id="4625"tvg-logo="http://playlist3456544.ddns.net:8080/images/82905b4884ad108e02aeb94294a6c7df.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 The Big Bang Theory
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/4625
-#EXTINF:-1 tvg-name="24/7 | The Avengers (ES)"tvg-id="13433"tvg-logo="https://www.nme.com/wp-content/uploads/2019/04/Payoff_1-Sht_Online_v6_Domestic_Sm-1-e1552570783683-696x477.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | The Avengers (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13433
-#EXTINF:-1 tvg-name="24/7 | RAPIDOS Y FURIOSOS"tvg-id="13436"tvg-logo="http://playlist3456544.ddns.net:8080/images/1e788cfdec0dc29976d60a4d5e4bc828.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | RAPIDOS Y FURIOSOS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13436
-#EXTINF:-1 tvg-name="24/7 | chernobyl ( ES)"tvg-id="13396"tvg-logo="https://miro.medium.com/max/810/1*I5ur6yts6Ohw-IkKkbrehw.jpeg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | chernobyl ( ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13396
-#EXTINF:-1 tvg-name="24/7 | Harry Potter"tvg-id="13381"tvg-logo="https://e00-telva.uecdn.es/assets/multimedia/imagenes/2017/11/17/15109135627168.png"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | Harry Potter
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13381
-#EXTINF:-1 tvg-name="24/7 | JOHN WICK"tvg-id="17382"tvg-logo="http://158.69.24.110/posters/1551730667527.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | JOHN WICK
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/17382
-#EXTINF:-1 tvg-name="24/7 | MATRIX  ( ES)"tvg-id="13435"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/813dE2pH7XL._SY355_.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | MATRIX  ( ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13435
-#EXTINF:-1 tvg-name="24/7 | SHREK"tvg-id="17383"tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/88/3b/de/883bdec3-4072-841d-e2d0-6609fdc19544/mzm.jqiredrw.lsr/268x0w.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | SHREK
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/17383
-#EXTINF:-1 tvg-name="24/7  SPARTACUS"tvg-id="17380"tvg-logo="http://playlist3456544.ddns.net:8080/images/3c768f3d3ea5ec4536f85c813d71cc95.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  SPARTACUS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/17380
-#EXTINF:-1 tvg-name="24/7 | TOY STORY"tvg-id="17384"tvg-logo="http://158.69.24.110/posters/1549994138383.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | TOY STORY
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/17384
-#EXTINF:-1 tvg-name="24/7 | Saga X-MEN"tvg-id="29608"tvg-logo="https://portalgeek.co/wp-content/uploads/2019/09/XMEN.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | Saga X-MEN
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/29608
-#EXTINF:-1 tvg-name="24/7 | El Principel del Rap"tvg-id="35839"tvg-logo="https://i.pinimg.com/564x/f8/5e/77/f85e778bdff78423b6500eb8e534bf69.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | El Principel del Rap
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35839
-#EXTINF:-1 tvg-name="24/7 | Smallville"tvg-id="35851"tvg-logo="https://i.pinimg.com/564x/79/77/11/7977113dc9a83c2f319de188a233fe59.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | Smallville
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35851
-#EXTINF:-1 tvg-name="24/7 | The Big Bang Theory"tvg-id="35854"tvg-logo="http://playlist3456544.ddns.net:8080/images/c849656812f8e0c28627aafe17dfd26d.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | The Big Bang Theory
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35854
-#EXTINF:-1 tvg-name="24/7 RESIDENT EVIL ( ES)"tvg-id="42056"tvg-logo="https://underbrain.com/wp-content/uploads/resident-evil-saga.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 RESIDENT EVIL ( ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42056
-#EXTINF:-1 tvg-name="24/7 El Chavo del Ocho"tvg-id="42058"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 El Chavo del Ocho
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42058
-#EXTINF:-1 tvg-name="24/7 Better Call Saul (ES)"tvg-id="42061"tvg-logo="https://i.pinimg.com/564x/3d/9f/24/3d9f24c7a3bc3fafaa2eba69b5b2dad1.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Better Call Saul (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42061
-#EXTINF:-1 tvg-name="24/7 Spider-Man  (ES)"tvg-id="42062"tvg-logo="https://i.pinimg.com/564x/92/89/6b/92896b3f3b32814a8a7e1b2f9be9e34b.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Spider-Man  (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42062
-#EXTINF:-1 tvg-name="24/7 STAR WARZ (ES)"tvg-id="42063"tvg-logo="https://i.pinimg.com/564x/0c/fa/8a/0cfa8a2a8cc6b908bbe17884d390d858.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 STAR WARZ (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42063
-#EXTINF:-1 tvg-name="24/7 Alien  (ES)"tvg-id="42064"tvg-logo="http://playlist3456544.ddns.net:8080/images/5135af3e1b887aede97f7fd2becc2389.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Alien  (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42064
-#EXTINF:-1 tvg-name="24/7 Saga Transformers (ES)"tvg-id="42070"tvg-logo="https://i.pinimg.com/564x/bc/81/2a/bc812aa7eb525c6009495135bf4270c2.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Saga Transformers (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42070
-#EXTINF:-1 tvg-name="24/7 Películas infantiles"tvg-id="42878"tvg-logo="https://i.imgur.com/IZSvtW8.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Películas infantiles
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42878
-#EXTINF:-1 tvg-name="24/7 Películas de animación"tvg-id="42879"tvg-logo="http://playlist3456544.ddns.net:8080/images/10a324784d4d54563d3f2290ccd64516.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Películas de animación
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42879
-#EXTINF:-1 tvg-name="24/7 Películas de Terror"tvg-id="43368"tvg-logo="https://i.pinimg.com/564x/0c/66/06/0c6606b05f96ef9e0b8cd41ba449febd.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Películas de Terror
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/43368
-#EXTINF:-1 tvg-name="24/7 Películas de acción"tvg-id="43369"tvg-logo="https://i.imgur.com/ZeR2m7w.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Películas de acción
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/43369
-#EXTINF:-1 tvg-name="24/7 La familia P. Luche"tvg-id="43370"tvg-logo="https://i.pinimg.com/564x/49/69/32/4969320fe6dfa675370307410e986411.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 La familia P. Luche
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/43370
-#EXTINF:-1 tvg-name="24/7 Películas de Romance"tvg-id="43853"tvg-logo="https://i.imgur.com/GmKs5Fr.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Películas de Romance
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/43853
-#EXTINF:-1 tvg-name="24/7 iCarly ( ES)"tvg-id="67555"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Icarly-logo.svg/245px-Icarly-logo.svg.png"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 iCarly ( ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67555
-#EXTINF:-1 tvg-name="24/7 Los magos de Waverly Place"tvg-id="67556"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_de_Los_Hechiceros_de_Waverly_Place.png"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Los magos de Waverly Place
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67556
-#EXTINF:-1 tvg-name="24/7 El cuento de la criada"tvg-id="67557"tvg-logo="https://i.imgur.com/0K6cNSy.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 El cuento de la criada
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67557
-#EXTINF:-1 tvg-name="24/7 Star Trek: Picard"tvg-id="67558"tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Star Trek: Picard
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67558
-#EXTINF:-1 tvg-name="24/7 Curon"tvg-id="67559"tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1NTQ5MTAtMDgwZi00Njc2LTk5MGEtM2NmNDIxYTJiNzA2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Curon
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67559
-#EXTINF:-1 tvg-name="24/7 Sam y Cat"tvg-id="67560"tvg-logo="https://pics.filmaffinity.com/Sam_y_Cat_Serie_de_TV-103961529-large.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Sam y Cat
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67560
-#EXTINF:-1 tvg-name="24/7 Kenan & Kel"tvg-id="67561"tvg-logo="https://i.pinimg.com/originals/b7/66/90/b766904fd888a3b4f71be351af280dc8.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Kenan & Kel
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67561
-#EXTINF:-1 tvg-name="24/7 Hannah Montana"tvg-id="67563"tvg-logo="http://playlist3456544.ddns.net:8080/images/67187f09cf8b38dc48816458e15050a4.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Hannah Montana
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67563
-#EXTINF:-1 tvg-name="24/7 Stranger Things"tvg-id="67566"tvg-logo="https://i.imgur.com/RB8WGTW.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Stranger Things
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67566
-#EXTINF:-1 tvg-name="24/7 Into the Badlands"tvg-id="67567"tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUzMmNkMWMtNTI4OC00ZGY1LThlZmUtMDI5YjYyZDE2MzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Into the Badlands
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67567
-#EXTINF:-1 tvg-name="24/7 Warrior (ES)"tvg-id="67568"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obT6uoln7cA0pvQlqqoZ4IvjPml.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Warrior (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67568
-#EXTINF:-1 tvg-name="24/7 Hollywood"tvg-id="67569"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AvVBcuCpESqdQicuX7s4WOGo1V.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Hollywood
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67569
-#EXTINF:-1 tvg-name="24/7 Space Force"tvg-id="67570"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Space Force
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67570
-#EXTINF:-1 tvg-name="24/7 Historia de un crimen: La búsqueda"tvg-id="67571"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak2WSyjcX8CJIvQrRFV80ykOu3E.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Historia de un crimen: La búsqueda
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67571
-#EXTINF:-1 tvg-name="24/7 The Hangover (ES)"tvg-id="81713"tvg-logo="https://i.imgur.com/2zwCP3z.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 The Hangover (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/81713
-#EXTINF:-1 tvg-name="24/7:: Dragon Ball Z"tvg-id="101271"tvg-logo=""tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7:: Dragon Ball Z
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/101271
-#EXTINF:-1 tvg-name="24/7 The Walking Dead"tvg-id="3695"tvg-logo="http://playlist3456544.ddns.net:8080/images/78fdddbedcc3a0c3a78927515d625a13.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 The Walking Dead
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3695
-#EXTINF:-1 tvg-name="24/7 Los Pinguinos de madagascar (p)(1080)"tvg-id="3783"tvg-logo="http://playlist3456544.ddns.net:8080/images/7052268cae43b6dbd61a33c7beeb6af8.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Los Pinguinos de madagascar (p)(1080)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3783
-#EXTINF:-1 tvg-name="24/7 Two and a Half Men"tvg-id="4624"tvg-logo="http://playlist3456544.ddns.net:8080/images/fab4f5d87bf1df94d962e51dd16208bd.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Two and a Half Men
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/4624
-#EXTINF:-1 tvg-name="24/7 | Cantiflas"tvg-id="35825"tvg-logo="http://playlist3456544.ddns.net:8080/images/f5d78d095e9f59dfac70e542d565e32a.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | Cantiflas
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35825
-#EXTINF:-1 tvg-name="24/7 | Games of Thrones"tvg-id="35840"tvg-logo="https://i.pinimg.com/564x/a8/93/8b/a8938b2f7577816ffeef1d17889efc5f.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | Games of Thrones
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35840
-#EXTINF:-1 tvg-name="24/7 La casa de papel"tvg-id="41215"tvg-logo="http://playlist3456544.ddns.net:8080/images/982c66f9727a9c4358ad412f17e02ba6.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 La casa de papel
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41215
-#EXTINF:-1 tvg-name="24/7 Breaking Bad"tvg-id="41216"tvg-logo="http://playlist3456544.ddns.net:8080/images/ea53db630b6e195a375e37053b80ad85.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Breaking Bad
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41216
-#EXTINF:-1 tvg-name="24/7 El Zorro"tvg-id="42055"tvg-logo="http://playlist3456544.ddns.net:8080/images/723d56a6763f3384836501af825819a3.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 El Zorro
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42055
-#EXTINF:-1 tvg-name="24/7 Alf"tvg-id="42057"tvg-logo="http://playlist3456544.ddns.net:8080/images/ff6b162bb75afa36a8d193f735d08cae.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Alf
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/42057
-#EXTINF:-1 tvg-name="24/7 Yo Soy Betty la fea"tvg-id="80727"tvg-logo="http://playlist3456544.ddns.net:8080/images/25627e5089bf2240723daaa7aceb20fe.png"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Yo Soy Betty la fea
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/80727
-#EXTINF:-1 tvg-name="24/7 Basado en Hechos Reales"tvg-id="81278"tvg-logo="https://i.imgur.com/gFomGP6.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Basado en Hechos Reales
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/81278
-#EXTINF:-1 tvg-name="24/7 | Mr Bean"tvg-id="35845"tvg-logo="http://playlist3456544.ddns.net:8080/images/b1b14a430fd46fee0c0d3fa51a91e74f.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | Mr Bean
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35845
-#EXTINF:-1 tvg-name="24/7 Art Attack"tvg-id="247100"tvg-logo="https://seeklogo.com/images/A/art_attack-logo-B00E965322-seeklogo.com.png"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Art Attack
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/247100
-#EXTINF:-1 tvg-name="24/7 | LA CASA DE LOS FAMOSOS - CAM"tvg-id="212048"tvg-logo="https://media.telemundo52.com/2023/11/9fa96e4f3cba02f9_org-1.jpg?quality=85&strip=all&resize=1200%2C675"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | LA CASA DE LOS FAMOSOS - CAM
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/212048
-#EXTINF:-1 tvg-name="24/7 La Casa de los Famosos All Starts"tvg-id="255392"tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-12/La-Casa-de-los-Famosos-All-Stars-e285fd.jpg"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 La Casa de los Famosos All Starts
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/255392
-#EXTINF:-1 tvg-name="24/7 La Casa de los Famosos Colombia"tvg-id="257761"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtoWRMFcN760BKo7jHTo8DyXG0rKIpnQvOkA&s"tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 La Casa de los Famosos Colombia
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/257761
-#EXTINF:-1 tvg-name="24/7 Bluey"tvg-id="261237"tvg-logo=""tvg-chno=""group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Bluey
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/261237
-#EXTINF:-1 tvg-name="24/7  |  Teen Titans Go"tvg-id="13384"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nRWZRLTJL._RI_.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  |  Teen Titans Go
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13384
-#EXTINF:-1 tvg-name="24/7  |  Tom y Jerry"tvg-id="13383"tvg-logo="http://playlist3456544.ddns.net:8080/images/2f9868289abd653405efbe04b04ea0bd.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  |  Tom y Jerry
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13383
-#EXTINF:-1 tvg-name="24/7 Dragon Ball Super"tvg-id="3729"tvg-logo="http://playlist3456544.ddns.net:8080/images/66f02207e167633e3425e509d5448fff.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Dragon Ball Super
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3729
-#EXTINF:-1 tvg-name="24/7 Los Picapiedra"tvg-id="4623"tvg-logo="http://playlist3456544.ddns.net:8080/images/653ab734ea4b993cd879e9aa28b12295.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los Picapiedra
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/4623
-#EXTINF:-1 tvg-name="24/7 Pokémon"tvg-id="3712"tvg-logo="https://i.pinimg.com/564x/3d/76/31/3d763132c30ac83eb777293699bf60a7.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Pokémon
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3712
-#EXTINF:-1 tvg-name="24/7 Scooby-Doo (p)(1080)"tvg-id="3797"tvg-logo="https://d2lv662meabn0u.cloudfront.net/boomerang/dynamic/show/00000000/914/cba96468044d1d510c7616f30fe5d653e9d70dea_1576257349.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Scooby-Doo (p)(1080)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3797
-#EXTINF:-1 tvg-name="24/7 | Batman del futuro"tvg-id="13432"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/6609/NOV980167._SX1280_QL80_TTD_.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Batman del futuro
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13432
-#EXTINF:-1 tvg-name="24/7 | Ben 10"tvg-id="13397"tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Ben 10
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13397
-#EXTINF:-1 tvg-name="24/7 | CANTINFLAS (M)"tvg-id="3652"tvg-logo="http://playlist3456544.ddns.net:8080/images/26633faa8894cb639182b4edfd15d44b.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | CANTINFLAS (M)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3652
-#EXTINF:-1 tvg-name="24/7 | Dinosaurios (M)"tvg-id="3649"tvg-logo="https://laverdadnoticias.com/__export/1579567095199/sites/laverdad/img/2020/01/20/dinosaurios_funko.jpg_356075924.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Dinosaurios (M)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3649
-#EXTINF:-1 tvg-name="24/7 | Dragon ball GT (M)"tvg-id="3659"tvg-logo="https://i.pinimg.com/564x/f8/5d/3b/f85d3bd25ae48b3803102ae3431dd7d4.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Dragon ball GT (M)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3659
-#EXTINF:-1 tvg-name="24/7 | LA PANTERA ROSA"tvg-id="13442"tvg-logo="https://as01.epimg.net/us/imagenes/2019/09/01/tikitakas/1567366572_278747_1567366685_noticia_normal_recorte1.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | LA PANTERA ROSA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13442
-#EXTINF:-1 tvg-name="24/7 | Los Simpsons (TEMPARADA 1 AL 10)"tvg-id="3648"tvg-logo="http://playlist3456544.ddns.net:8080/images/6f5cdca873153683fa5d9267db9b41ad.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Los Simpsons (TEMPARADA 1 AL 10)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3648
-#EXTINF:-1 tvg-name="Los caballeros del zodiaco 24/7"tvg-id="13376"tvg-logo="http://playlist3456544.ddns.net:8080/images/8db7e1d3fc82612a431d526e98ede7f0.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",Los caballeros del zodiaco 24/7
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13376
-#EXTINF:-1 tvg-name="24/7 | La Pequeña LuLu"tvg-id="35818"tvg-logo="https://i.pinimg.com/564x/d8/e1/4a/d8e14a0c52882e3c5c7ff1a1ef1e0e7d.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | La Pequeña LuLu
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35818
-#EXTINF:-1 tvg-name="24/7 | Los super campeones"tvg-id="35819"tvg-logo="http://playlist3456544.ddns.net:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Los super campeones
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35819
-#EXTINF:-1 tvg-name="24/7 | Garfield"tvg-id="35821"tvg-logo="https://i.pinimg.com/564x/5d/ac/70/5dac7058d51781b6163f21241a17a01d.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Garfield
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35821
-#EXTINF:-1 tvg-name="24/7 | Family Guy"tvg-id="35822"tvg-logo="http://playlist3456544.ddns.net:8080/images/33cd1cdc1bb3ba684517b017759a332f.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Family Guy
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35822
-#EXTINF:-1 tvg-name="24/7 | Dinosaurios"tvg-id="35833"tvg-logo="https://i.pinimg.com/originals/59/44/c9/5944c91c8f75766b58afb21769f8d3c7.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Dinosaurios
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35833
-#EXTINF:-1 tvg-name="24/7 | Doraemon"tvg-id="35834"tvg-logo="https://docs.ficomic.com/IMAGES_29/doraemon-miniatura.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Doraemon
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35834
-#EXTINF:-1 tvg-name="24/7 | Dragon Ball"tvg-id="35837"tvg-logo="https://holatelcel.com/wp-content/uploads/2020/03/dragon-ball-2.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Dragon Ball
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35837
-#EXTINF:-1 tvg-name="24/7 | El Pajaro Loco"tvg-id="35838"tvg-logo="https://i.pinimg.com/originals/c5/20/b5/c520b5af14357c416470750c22f58cb7.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | El Pajaro Loco
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35838
-#EXTINF:-1 tvg-name="24/7 | Hey Arnold"tvg-id="35841"tvg-logo="https://static-1.ivoox.com/audios/2/3/1/9/2711562589132_XXL.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Hey Arnold
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35841
-#EXTINF:-1 tvg-name="24/7 | Looney Tunes"tvg-id="35843"tvg-logo="http://playlist3456544.ddns.net:8080/images/f399faff66a3cf75d2009c558abb787e.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Looney Tunes
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35843
-#EXTINF:-1 tvg-name="24/7 | Los Picapiedra"tvg-id="35844"tvg-logo="http://playlist3456544.ddns.net:8080/images/653ab734ea4b993cd879e9aa28b12295.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Los Picapiedra
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35844
-#EXTINF:-1 tvg-name="24/7 | One Punch Man"tvg-id="35847"tvg-logo="https://i.pinimg.com/564x/38/6a/42/386a42c0ac0548d7d64dd0b2543bfd6c.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | One Punch Man
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35847
-#EXTINF:-1 tvg-name="24/7 | Ranma 1/2"tvg-id="35849"tvg-logo="http://playlist3456544.ddns.net:8080/images/c5f6efa5198a2b68d056ea11d8b4d73b.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Ranma 1/2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35849
-#EXTINF:-1 tvg-name="24/7 | Yu-Gi-Oh"tvg-id="35857"tvg-logo="https://i.pinimg.com/originals/7c/16/2b/7c162b6d385180179b64c01a2cfc7cb7.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Yu-Gi-Oh
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35857
-#EXTINF:-1 tvg-name="24/7 Dave el bárbaro"tvg-id="41197"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipzGJybXsUyqP78Wn6zC1XXbyRy.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Dave el bárbaro
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41197
-#EXTINF:-1 tvg-name="24/7 Danny Phantom"tvg-id="41198"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Danny Phantom
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41198
-#EXTINF:-1 tvg-name="24/7 La máscara"tvg-id="41202"tvg-logo="https://i.imgur.com/2fI3Xz0.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 La máscara
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41202
-#EXTINF:-1 tvg-name="24/7 X Men, La Serie Animada"tvg-id="41205"tvg-logo="http://playlist3456544.ddns.net:8080/images/babad33dba758243d53b90b95fb6c1e6.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",La Serie Animada
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41205
-#EXTINF:-1 tvg-name="24/7 La liga de la justicia"tvg-id="41208"tvg-logo="http://playlist3456544.ddns.net:8080/images/a99d753080ac42c8d29d8db0a08496c9.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 La liga de la justicia
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41208
-#EXTINF:-1 tvg-name="24/7 Liga de la Justicia Ilimitada"tvg-id="41209"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRRvCUREeqqnp3hHdqep83eQjdP.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Liga de la Justicia Ilimitada
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41209
-#EXTINF:-1 tvg-name="24/7 Street Sharks"tvg-id="41332"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Street Sharks
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41332
-#EXTINF:-1 tvg-name="24/7 Death Note"tvg-id="41333"tvg-logo="https://i.pinimg.com/564x/dd/d4/4f/ddd44fddf1a383f92780a11cf8b980a9.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Death Note
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41333
-#EXTINF:-1 tvg-name="24/7 El proyecto Z"tvg-id="41334"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61RE64an8qL._SL1000_.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 El proyecto Z
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41334
-#EXTINF:-1 tvg-name="24/7 Los 4 Fantásticos"tvg-id="41335"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los 4 Fantásticos
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41335
-#EXTINF:-1 tvg-name="24/7 Spawn"tvg-id="41337"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Spawn
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41337
-#EXTINF:-1 tvg-name="24/7 Static Shock"tvg-id="41338"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY8CtEWhQ2MKJQJc9Kx116HxVEA.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Static Shock
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41338
-#EXTINF:-1 tvg-name="24/7 Iron Man: Anime (ES)"tvg-id="41340"tvg-logo="https://mlstaticquic-a.akamaihd.net/D_NQ_NP_854811-MEC20630767060_032016-V.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Iron Man: Anime (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41340
-#EXTINF:-1 tvg-name="24/7 Silvestre Y Piolín"tvg-id="41341"tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/24/09/38/246217.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Silvestre Y Piolín
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41341
-#EXTINF:-1 tvg-name="24/7 G.I. Joe"tvg-id="41343"tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE3ODc0ZWUtNWU5Ni00YzA2LWExMDktNTIyMTQ3YmIwNjM5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 G.I. Joe
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41343
-#EXTINF:-1 tvg-name="24/7 Gasparin y sus amigos"tvg-id="41344"tvg-logo="https://www.lacartoons.com/system/series/portadas/000/000/009/original/s-l300.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Gasparin y sus amigos
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41344
-#EXTINF:-1 tvg-name="24/7  Jimmy Neutrón"tvg-id="41345"tvg-logo="https://i.pinimg.com/originals/9a/2a/6d/9a2a6d9dea4eb78911e2fedc7171234b.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  Jimmy Neutrón
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41345
-#EXTINF:-1 tvg-name="24/7 Teen Titans (ES)"tvg-id="41364"tvg-logo="https://i.pinimg.com/564x/fb/f0/47/fbf04735aa2f4025e249c6872368104c.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Teen Titans (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41364
-#EXTINF:-1 tvg-name="24/7 Johnny Test (ES)"tvg-id="41365"tvg-logo="https://i.pinimg.com/564x/58/48/a1/5848a17e7e5973a8c6a12e78bf5e36d5.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Johnny Test (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41365
-#EXTINF:-1 tvg-name="24/7 Transformers ( ES)"tvg-id="41366"tvg-logo="http://playlist3456544.ddns.net:8080/images/a8653d155eec212b5abfe46e627bae53.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Transformers ( ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41366
-#EXTINF:-1 tvg-name="24/7 Spider-Man ( ES)"tvg-id="41367"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIBuyai7QtNVZuLEn3eeQiyb50C.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Spider-Man ( ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41367
-#EXTINF:-1 tvg-name="24/7 Superman: La serie animada"tvg-id="41368"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Superman: La serie animada
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41368
-#EXTINF:-1 tvg-name="24/7 Sonic X ( ES)"tvg-id="41894"tvg-logo="https://i.pinimg.com/564x/ca/5e/4c/ca5e4c8c3da7875cb07f88f1caf27c07.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Sonic X ( ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41894
-#EXTINF:-1 tvg-name="24/7 Gravity Falls (ES)"tvg-id="41896"tvg-logo="http://playlist3456544.ddns.net:8080/images/1903bcd87909cb6b1443decf6d52d082.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Gravity Falls (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41896
-#EXTINF:-1 tvg-name="24/7 ThunderCats (ES)"tvg-id="45219"tvg-logo="https://i.pinimg.com/originals/91/ed/32/91ed3266f76790058de45b9c85ffea33.png"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 ThunderCats (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/45219
-#EXTINF:-1 tvg-name="24/7 Los misterios de Moville"tvg-id="67552"tvg-logo="https://pics.filmaffinity.com/moville_mysteries_tv_series-293137444-large.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los misterios de Moville
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67552
-#EXTINF:-1 tvg-name="24/7  Billy y Mandy (ES)"tvg-id="67553"tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/16/13/06/231194.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  Billy y Mandy (ES)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67553
-#EXTINF:-1 tvg-name="24/7 Los padrinos mágicos"tvg-id="67554"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los padrinos mágicos
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67554
-#EXTINF:-1 tvg-name="24/7 Dora, la exploradora"tvg-id="67562"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0SqSh62sYM3zPphjVPnicd2jYj.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",la exploradora
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67562
-#EXTINF:-1 tvg-name="24/7 Peppa Pig"tvg-id="67564"tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Peppa Pig
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67564
-#EXTINF:-1 tvg-name="24/7 Garfield Y Amigos"tvg-id="67565"tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Garfield Y Amigos
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/67565
-#EXTINF:-1 tvg-name="24/7 futurama"tvg-id="3771"tvg-logo="http://158.69.24.110/posters/1528312398473.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 futurama
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3771
-#EXTINF:-1 tvg-name="24/7 | BATMAN SERIE ANIMADA"tvg-id="13431"tvg-logo="http://playlist3456544.ddns.net:8080/images/a06875057a6b34c5941145c311f03819.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | BATMAN SERIE ANIMADA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/13431
-#EXTINF:-1 tvg-name="24/7 South Park (p)(480)"tvg-id="3799"tvg-logo="http://playlist3456544.ddns.net:8080/images/db7a123818a65b0038be6117cbcd1a7a.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 South Park (p)(480)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3799
-#EXTINF:-1 tvg-name="24/7 Pocoyo"tvg-id="3670"tvg-logo="http://playlist3456544.ddns.net:8080/images/f023e8173ef43199179d7c7fd32d578e.png"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Pocoyo
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3670
-#EXTINF:-1 tvg-name="Super Campeones 24/7"tvg-id="5753"tvg-logo="http://playlist3456544.ddns.net:8080/images/f1b3ce942c81fba22a4ad9cedce281e0.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",Super Campeones 24/7
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/5753
-#EXTINF:-1 tvg-name="24/7 | Bob Esponja"tvg-id="35824"tvg-logo="http://playlist3456544.ddns.net:8080/images/b7fae40f3de9fe3fdce0a9335650b3d2.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Bob Esponja
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35824
-#EXTINF:-1 tvg-name="24/7 | Dragon Ball GT"tvg-id="35835"tvg-logo="http://playlist3456544.ddns.net:8080/images/975ce527c0ffc87a1058ac34da9caabc.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Dragon Ball GT
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35835
-#EXTINF:-1 tvg-name="24/7 |  Dragon Ball Z - Saga de Freezer"tvg-id="35836"tvg-logo="http://playlist3456544.ddns.net:8080/images/a6f062d982ede881180798c7f1d9f8e3.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 |  Dragon Ball Z - Saga de Freezer
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35836
-#EXTINF:-1 tvg-name="24/7 | Pokemon"tvg-id="35848"tvg-logo="http://playlist3456544.ddns.net:8080/images/2f2d4d4b449db9853e934aa0f4a4febf.jpeg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Pokemon
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35848
-#EXTINF:-1 tvg-name="24/7 PINKY Y CEREBRO"tvg-id="41214"tvg-logo="http://playlist3456544.ddns.net:8080/images/7c62108e0d8c52a41c83057479ca3899.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 PINKY Y CEREBRO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41214
-#EXTINF:-1 tvg-name="24/7 Coraje"tvg-id="41200"tvg-logo="http://playlist3456544.ddns.net:8080/images/2d99b453a0c76e7bde4b47f47287f0a4.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Coraje
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41200
-#EXTINF:-1 tvg-name="24/7 Naruto"tvg-id="4622"tvg-logo="http://playlist3456544.ddns.net:8080/images/3b3816f5ed13d530c7f473a4670360bf.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Naruto
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/4622
-#EXTINF:-1 tvg-name="24/7 | Super Campeones"tvg-id="35853"tvg-logo="http://playlist3456544.ddns.net:8080/images/668fc87897cfe58bd682f91deef98335.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | Super Campeones
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35853
-#EXTINF:-1 tvg-name="24/7 | South Park"tvg-id="35852"tvg-logo="http://playlist3456544.ddns.net:8080/images/063c747b5c2449a1e1a576c58f58661d.jpg"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 | South Park
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/35852
-#EXTINF:-1 tvg-name="24/7 El Chapulin Colorado Animado (p)(480)"tvg-id="82368"tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4e/PosterChapulinAnimado.jpg/revision/latest/top-crop/width/360/height/450?cb=20160104002357&path-prefix=es"tvg-chno=""group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 El Chapulin Colorado Animado (p)(480)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/82368
-#EXTINF:-1 tvg-name="CINE HD | AMC HD"tvg-id="1000"tvg-logo="https://cablego.com.pe/cache/biglogos/AMC.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | AMC HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1000
-#EXTINF:-1 tvg-name="CINE HD | CINECANAL HD"tvg-id="1039"tvg-logo="https://cablego.com.pe/cache/biglogos/CINECANAL.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | CINECANAL HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1039
-#EXTINF:-1 tvg-name="CINE HD | CINEMAX (MX) HD"tvg-id="1216"tvg-logo="http://playlist3456544.ddns.net:8080/images/f349c2b1ba9bfbb70ee4615b1939a3a6.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | CINEMAX (MX) HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1216
-#EXTINF:-1 tvg-name="CINE HD | DE PELICULA"tvg-id="3441"tvg-logo="https://cablego.com.pe/cache/biglogos/DEPELICULA.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | DE PELICULA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/3441
-#EXTINF:-1 tvg-name="CINE HD | DE PELICULA PLUS HD"tvg-id="1043"tvg-logo="https://i.imgur.com/eZXf8fL.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | DE PELICULA PLUS HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1043
-#EXTINF:-1 tvg-name="CINE HD | STAR ACTION (Dual audio)"tvg-id="1047"tvg-logo="http://playlist3456544.ddns.net:8080/images/056fe92146c166978c1f294914f1e9fe.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STAR ACTION (Dual audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1047
-#EXTINF:-1 tvg-name="CINE HD | Universal Comedy"tvg-id="1210"tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | Universal Comedy
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1210
-#EXTINF:-1 tvg-name="CINE HD | STAR FUN"tvg-id="1208"tvg-logo="http://playlist3456544.ddns.net:8080/images/1a387fd0193c7d8deeeef9d3218aa3bf.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STAR FUN
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1208
-#EXTINF:-1 tvg-name="CINE HD | STAR FUN (Dual audio)"tvg-id="1053"tvg-logo="http://playlist3456544.ddns.net:8080/images/d69ab3ab8f8e0794d50de0ce548693e5.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STAR FUN (Dual audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1053
-#EXTINF:-1 tvg-name="CINE HD | STAR CHANNEL HD"tvg-id="1207"tvg-logo="https://cablego.com.pe/cache/biglogos/FOXCHANNEL.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STAR CHANNEL HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1207
-#EXTINF:-1 tvg-name="CINE HD | STAR SERIES HD"tvg-id="1209"tvg-logo="http://playlist3456544.ddns.net:8080/images/e74fb776cb10555f2ddcd0c2386fbdd8.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STAR SERIES HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1209
-#EXTINF:-1 tvg-name="CINE HD | FX (MX) FHD"tvg-id="1012"tvg-logo="https://cablego.com.pe/cache/biglogos/FX.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | FX (MX) FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1012
-#EXTINF:-1 tvg-name="CINE HD | GOLDEN PLUS HD"tvg-id="1061"tvg-logo="http://playlist3456544.ddns.net:8080/images/15c8caae5a195cfebe9a802c35187926.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | GOLDEN PLUS HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1061
-#EXTINF:-1 tvg-name="CINE HD | GOLDEN PREMIER HD"tvg-id="1062"tvg-logo="http://playlist3456544.ddns.net:8080/images/0d1cb7a35144bd9008065449330999ea.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | GOLDEN PREMIER HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1062
-#EXTINF:-1 tvg-name="CINE HD | HBO 2 HD"tvg-id="1065"tvg-logo="http://playlist3456544.ddns.net:8080/images/d0d402185a4d2a6fe7f512e0c624afc8.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO 2 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1065
-#EXTINF:-1 tvg-name="CINE HD | HBO FAMILY"tvg-id="1219"tvg-logo="http://playlist3456544.ddns.net:8080/images/88805386a04b3043f8d511e50b8c1916.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO FAMILY
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1219
-#EXTINF:-1 tvg-name="CINE HD | HBO HD (LAT)"tvg-id="1064"tvg-logo="http://playlist3456544.ddns.net:8080/images/d125c86a8e07ea7e518160444f9bc4fd.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO HD (LAT)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1064
-#EXTINF:-1 tvg-name="CINE HD | HBO HD Latino"tvg-id="18722"tvg-logo="http://playlist3456544.ddns.net:8080/images/d125c86a8e07ea7e518160444f9bc4fd.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO HD Latino
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/18722
-#EXTINF:-1 tvg-name="CINE HD | HBO Plus"tvg-id="1218"tvg-logo="http://playlist3456544.ddns.net:8080/images/c8d3a30b15f49d7dd7996472a13e0dd7.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO Plus
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1218
-#EXTINF:-1 tvg-name="CINE HD | HBO SIGNATURE"tvg-id="1217"tvg-logo="http://playlist3456544.ddns.net:8080/images/cd6055d89726db58b8283e800a502697.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO SIGNATURE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1217
-#EXTINF:-1 tvg-name="CINE HD | HBO Pop"tvg-id="1223"tvg-logo="http://playlist3456544.ddns.net:8080/images/f1de6be8471f2365dfe5abff2ab70aae.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO Pop
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1223
-#EXTINF:-1 tvg-name="CINE HD | MOREMAX"tvg-id="1205"tvg-logo="http://playlist3456544.ddns.net:8080/images/dc740d2074693e92c2b3d6c872ee5ff2.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | MOREMAX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1205
-#EXTINF:-1 tvg-name="CINE HD | OUTERMAX"tvg-id="1204"tvg-logo="http://playlist3456544.ddns.net:8080/images/c58481ec8747c70ac16417a9e0aac4e9.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | OUTERMAX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1204
-#EXTINF:-1 tvg-name="CINE HD | PARAMOUNT CHANNEL HD"tvg-id="1019"tvg-logo="https://cablego.com.pe/cache/biglogos/PARAMOUNTCH.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | PARAMOUNT CHANNEL HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1019
-#EXTINF:-1 tvg-name="CINE HD | SHOWTIME BEYOND"tvg-id="1202"tvg-logo="http://playlist3456544.ddns.net:8080/images/3cfb0bc63003d6204a57544772e3c189.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | SHOWTIME BEYOND
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1202
-#EXTINF:-1 tvg-name="CINE HD | SHOWTIME HD"tvg-id="1200"tvg-logo="http://playlist3456544.ddns.net:8080/images/1cd504c9124e6c1f3987aab4750f43ad.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | SHOWTIME HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1200
-#EXTINF:-1 tvg-name="CINE HD | SONY HD"tvg-id="1022"tvg-logo="https://cablego.com.pe/cache/biglogos/SONY.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | SONY HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1022
-#EXTINF:-1 tvg-name="CINE HD | SPACE HD"tvg-id="1024"tvg-logo="http://playlist3456544.ddns.net:8080/images/9ad23317fd3d3bdab7a5634d279c2f02.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | SPACE HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1024
-#EXTINF:-1 tvg-name="CINE HD | STARZ CINEMA HD"tvg-id="1197"tvg-logo="http://playlist3456544.ddns.net:8080/images/add55753552367ae70c37c3d35fcfc0c.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ CINEMA HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1197
-#EXTINF:-1 tvg-name="CINE HD | STARZ EDGE"tvg-id="1194"tvg-logo="http://playlist3456544.ddns.net:8080/images/96ffc2af3cb4c84f07ba5a211a95c613.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ EDGE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1194
-#EXTINF:-1 tvg-name="CINE HD | STARZ ENCORE ACTION"tvg-id="1193"tvg-logo="http://playlist3456544.ddns.net:8080/images/1478d08b8b4a150df4ee8a2c8fa9eb60.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ ENCORE ACTION
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1193
-#EXTINF:-1 tvg-name="CINE HD | STARZ ENCORE CLASSIC"tvg-id="1192"tvg-logo="http://playlist3456544.ddns.net:8080/images/425c238d5e9e7cb6617db9d461fc3dcd.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ ENCORE CLASSIC
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1192
-#EXTINF:-1 tvg-name="CINE HD | STARZ ENCORE FAMILY HD"tvg-id="1191"tvg-logo="http://playlist3456544.ddns.net:8080/images/a3fd0d1f00181cf7ba107f1433021a63.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ ENCORE FAMILY HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1191
-#EXTINF:-1 tvg-name="CINE HD | STARZ ENCORE SUSPENSE"tvg-id="1189"tvg-logo="http://playlist3456544.ddns.net:8080/images/f423f6304583fd948901376de8cc167d.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ ENCORE SUSPENSE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1189
-#EXTINF:-1 tvg-name="CINE HD | STARZ ENCORE WESTERN"tvg-id="1188"tvg-logo="http://playlist3456544.ddns.net:8080/images/f45c8cb33898ea3bc2896975d50a823e.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ ENCORE WESTERN
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1188
-#EXTINF:-1 tvg-name="CINE HD | STARZ HD"tvg-id="1195"tvg-logo="http://playlist3456544.ddns.net:8080/images/3136cc4ae1b9c264770cdf11aba09a8a.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | STARZ HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1195
-#EXTINF:-1 tvg-name="CINE HD | Studio Universal HD"tvg-id="2771"tvg-logo="ttps://cablego.com.pe/cache/biglogos/STUDIOUNIVERSAL.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | Studio Universal HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/2771
-#EXTINF:-1 tvg-name="CINE HD | USA NETWORK"tvg-id="17596"tvg-logo="http://playlist3456544.ddns.net:8080/images/c7923835f5d227e25c9dc295f5930c3f.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | USA NETWORK
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/17596
-#EXTINF:-1 tvg-name="CINE HD | TNT NOVELAS"tvg-id="1225"tvg-logo="http://playlist3456544.ddns.net:8080/images/f05036b6b4958cca33f76e3a62b683b1.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | TNT NOVELAS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1225
-#EXTINF:-1 tvg-name="CINE HD | TNT HD Dual"tvg-id="1078"tvg-logo="http://playlist3456544.ddns.net:8080/images/e14d4b09d3c55a1b969234e6c6822912.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | TNT HD Dual
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1078
-#EXTINF:-1 tvg-name="CINE HD | TNT SERIES HD"tvg-id="1033"tvg-logo="http://playlist3456544.ddns.net:8080/images/62274046f4640081510ae7e97123dffb.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | TNT SERIES HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1033
-#EXTINF:-1 tvg-name="CINE HD | UNIVERSAL CHANNEL (MX)"tvg-id="1080"tvg-logo="http://playlist3456544.ddns.net:8080/images/9a948a08d28afc62256bcdd249d7fff0.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | UNIVERSAL CHANNEL (MX)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1080
-#EXTINF:-1 tvg-name="CINE HD | WARNER CHANNEL HD (Dual Audio)"tvg-id="1034"tvg-logo="https://cablego.com.pe/cache/biglogos/WARNERCHANNEL.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | WARNER CHANNEL HD (Dual Audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1034
-#EXTINF:-1 tvg-name="CINE | CINECANAL"tvg-id="1233"tvg-logo="https://cablego.com.pe/cache/biglogos/CINECANAL.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE | CINECANAL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1233
-#EXTINF:-1 tvg-name="CINE | CINEMAX"tvg-id="1234"tvg-logo=""tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE | CINEMAX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1234
-#EXTINF:-1 tvg-name="CINE HD | AZ CINEMA HD"tvg-id="1035"tvg-logo="https://cablego.com.pe/cache/biglogos/AZCINEMA.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | AZ CINEMA HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1035
-#EXTINF:-1 tvg-name="CINE HD | HBO Xtreme HD"tvg-id="41129"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO Xtreme HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/41129
-#EXTINF:-1 tvg-name="CINE HD | FX FHD ( DUAL AUDIO)"tvg-id="72509"tvg-logo="http://playlist3456544.ddns.net:8080/images/62d6db4705dbc517ea3cc001996089d8.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | FX FHD ( DUAL AUDIO)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/72509
-#EXTINF:-1 tvg-name="CINE HD | DE PELICULA CLASICO"tvg-id="88251"tvg-logo=""tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | DE PELICULA CLASICO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/88251
-#EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL PREMIER"tvg-id="121044"tvg-logo=""tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE FHD | UNIVERSAL PREMIER
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121044
-#EXTINF:-1 tvg-name="CINE HD | GOLDEN PREMIER"tvg-id="121353"tvg-logo="http://playlist3456544.ddns.net:8080/images/0d1cb7a35144bd9008065449330999ea.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | GOLDEN PREMIER
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121353
-#EXTINF:-1 tvg-name="CINE HD | TNT (MX)"tvg-id="121358"tvg-logo="http://playlist3456544.ddns.net:8080/images/e14d4b09d3c55a1b969234e6c6822912.jpg"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | TNT (MX)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121358
-#EXTINF:-1 tvg-name="CINE HD | UNIVERSAL COMEDY (Dual Audio)"tvg-id="146802"tvg-logo="http://playlist3456544.ddns.net:8080/images/b313e86d91350b381c8b0659ab83dc4e.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | UNIVERSAL COMEDY (Dual Audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146802
-#EXTINF:-1 tvg-name="CINE HD | UNIVERSAL CRIME (Dual Audio)"tvg-id="146803"tvg-logo="http://playlist3456544.ddns.net:8080/images/dd34512d510408f2f014c03a90eb19bb.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | UNIVERSAL CRIME (Dual Audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146803
-#EXTINF:-1 tvg-name="CINE HD | UNIVERSAL PREMIERE (Dual Audio)"tvg-id="146804"tvg-logo="http://playlist3456544.ddns.net:8080/images/16a73c2559248fcc3516793a5e15b70e.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | UNIVERSAL PREMIERE (Dual Audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146804
-#EXTINF:-1 tvg-name="CINE HD | UNIVERSAL REALITY (Dual Audio)"tvg-id="146805"tvg-logo="http://playlist3456544.ddns.net:8080/images/97a17df875bf9e590ab2f20a08744a79.png"tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | UNIVERSAL REALITY (Dual Audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146805
-#EXTINF:-1 tvg-name="CINE HD| TNT COL(L)"tvg-id="248839"tvg-logo=""tvg-chno=""group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD| TNT COL(L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/248839
-#EXTINF:-1 tvg-name="CINE HD | CINECANAL HD"tvg-id="1039"tvg-logo="https://cablego.com.pe/cache/biglogos/CINECANAL.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE HD | CINECANAL HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1039
-#EXTINF:-1 tvg-name="CINE | HBO Xtreme"tvg-id="1070"tvg-logo="http://playlist3456544.ddns.net:8080/images/bcfc30f15d2159a972fe1c7f7fef463f.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | HBO Xtreme
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1070
-#EXTINF:-1 tvg-name="CINE | A&E"tvg-id="1585"tvg-logo="https://cablego.com.pe/cache/biglogos/AandEMUNDO.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | A&E
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1585
-#EXTINF:-1 tvg-name="CINE | AMC"tvg-id="999"tvg-logo="https://cablego.com.pe/cache/biglogos/AMC.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | AMC
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/999
-#EXTINF:-1 tvg-name="CINE | AXN"tvg-id="1232"tvg-logo="https://cablego.com.pe/cache/biglogos/AXN.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | AXN
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1232
-#EXTINF:-1 tvg-name="CINE | CINECANAL"tvg-id="1233"tvg-logo="https://cablego.com.pe/cache/biglogos/CINECANAL.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | CINECANAL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1233
-#EXTINF:-1 tvg-name="CINE | CINEMA DINAMITA"tvg-id="1265"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | CINEMA DINAMITA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1265
-#EXTINF:-1 tvg-name="CINE | CINEMAX"tvg-id="1234"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | CINEMAX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1234
-#EXTINF:-1 tvg-name="CINE | DE PELICULA PLUS"tvg-id="1042"tvg-logo="http://playlist3456544.ddns.net:8080/images/b0237322ccf7440561d083998ad7cabb.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | DE PELICULA PLUS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1042
-#EXTINF:-1 tvg-name="CINE | EUROPA EUROPA"tvg-id="1266"tvg-logo="https://cablego.com.pe/cache/biglogos/EUROPAEUROPA.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | EUROPA EUROPA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1266
-#EXTINF:-1 tvg-name="CINE | Star channel"tvg-id="1239"tvg-logo="https://cablego.com.pe/cache/biglogos/FOXCHANNEL.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | Star channel
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1239
-#EXTINF:-1 tvg-name="CINE | FX"tvg-id="1248"tvg-logo="https://cablego.com.pe/cache/biglogos/FX.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | FX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1248
-#EXTINF:-1 tvg-name="CINE | FXM"tvg-id="1249"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | FXM
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1249
-#EXTINF:-1 tvg-name="CINE | GOLDEN"tvg-id="1250"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | GOLDEN
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1250
-#EXTINF:-1 tvg-name="CINE | GOLDEN EDGE"tvg-id="1251"tvg-logo="https://cablego.com.pe/cache/biglogos/GOLDENEDGE.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | GOLDEN EDGE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1251
-#EXTINF:-1 tvg-name="CINE | HBO"tvg-id="1252"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | HBO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1252
-#EXTINF:-1 tvg-name="CINE | HBO 2"tvg-id="1253"tvg-logo="http://playlist3456544.ddns.net:8080/images/8bbec3f55e5a288433416a546ae88e16.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | HBO 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1253
-#EXTINF:-1 tvg-name="CINE | HBO FAMILY"tvg-id="1255"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | HBO FAMILY
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1255
-#EXTINF:-1 tvg-name="CINE | HBO PLUS"tvg-id="1256"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | HBO PLUS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1256
-#EXTINF:-1 tvg-name="CINE | HBO SIGNATURE"tvg-id="1212"tvg-logo="http://playlist3456544.ddns.net:8080/images/cd6055d89726db58b8283e800a502697.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | HBO SIGNATURE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1212
-#EXTINF:-1 tvg-name="CINE | HBO MUNDI"tvg-id="1257"tvg-logo="http://playlist3456544.ddns.net:8080/images/6d1a063fdfa89eade28d16d8da04902d.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | HBO MUNDI
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1257
-#EXTINF:-1 tvg-name="CINE | PARAMOUNT CHANNEL"tvg-id="1258"tvg-logo="https://cablego.com.pe/cache/biglogos/PARAMOUNTCH.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | PARAMOUNT CHANNEL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1258
-#EXTINF:-1 tvg-name="CINE | SONY"tvg-id="1259"tvg-logo="https://cablego.com.pe/cache/biglogos/SONY.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | SONY
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1259
-#EXTINF:-1 tvg-name="CINE | SPACE"tvg-id="1260"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | SPACE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1260
-#EXTINF:-1 tvg-name="CINE | STAR TVE"tvg-id="2513"tvg-logo="http://playlist3456544.ddns.net:8080/images/85aa737ccc40f40d7b241fe20f230cf5.jpg"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | STAR TVE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/2513
-#EXTINF:-1 tvg-name="CINE | TBS"tvg-id="1261"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | TBS
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1261
-#EXTINF:-1 tvg-name="CINE | TCM"tvg-id="1262"tvg-logo=""tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | TCM
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1262
-#EXTINF:-1 tvg-name="CINE | TNT"tvg-id="1263"tvg-logo="http://playlist3456544.ddns.net:8080/images/2cd7b6fe50f2b28a28a4ad595458ec15.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | TNT
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1263
-#EXTINF:-1 tvg-name="CINE | TNT SERIES"tvg-id="1032"tvg-logo="http://playlist3456544.ddns.net:8080/images/62274046f4640081510ae7e97123dffb.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | TNT SERIES
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1032
-#EXTINF:-1 tvg-name="CINE | CINE LATINO"tvg-id="49337"tvg-logo="http://playlist3456544.ddns.net:8080/images/9ad69daff7c1da860d9f0b13602b11fe.png"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | CINE LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/49337
-#EXTINF:-1 tvg-name="CINE | EUROCHANNEL"tvg-id="146942"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20150310173519"tvg-chno=""group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | EUROCHANNEL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/146942
-#EXTINF:-1 tvg-name="CINE |Cinema 01"tvg-id="32673"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 01
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32673
-#EXTINF:-1 tvg-name="CINE |Cinema 02"tvg-id="32674"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 02
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32674
-#EXTINF:-1 tvg-name="CINE |Cinema 03"tvg-id="32675"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 03
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32675
-#EXTINF:-1 tvg-name="CINE |Cinema 04"tvg-id="32676"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 04
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32676
-#EXTINF:-1 tvg-name="CINE |Cinema 05"tvg-id="32677"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 05
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32677
-#EXTINF:-1 tvg-name="CINE |Cinema 06"tvg-id="32678"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 06
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32678
-#EXTINF:-1 tvg-name="CINE |Cinema 07"tvg-id="32679"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 07
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32679
-#EXTINF:-1 tvg-name="CINE |Cinema 08"tvg-id="32680"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 08
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32680
-#EXTINF:-1 tvg-name="CINE |Cinema 09"tvg-id="32681"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 09
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32681
-#EXTINF:-1 tvg-name="CINE |Cinema 10"tvg-id="32682"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 10
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32682
-#EXTINF:-1 tvg-name="CINE |Cinema 11"tvg-id="32683"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 11
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32683
-#EXTINF:-1 tvg-name="CINE |Cinema 12"tvg-id="32684"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 12
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32684
-#EXTINF:-1 tvg-name="CINE |Cinema 13"tvg-id="32685"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 13
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32685
-#EXTINF:-1 tvg-name="CINE |Cinema 14"tvg-id="32686"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 14
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32686
-#EXTINF:-1 tvg-name="CINE |Cinema 15"tvg-id="32687"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 15
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32687
-#EXTINF:-1 tvg-name="CINE |Cinema 16"tvg-id="32688"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 16
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32688
-#EXTINF:-1 tvg-name="CINE |Cinema 17"tvg-id="32689"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 17
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32689
-#EXTINF:-1 tvg-name="CINE |Cinema 18"tvg-id="32690"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 18
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32690
-#EXTINF:-1 tvg-name="CINE |Cinema 19"tvg-id="32691"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 19
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32691
-#EXTINF:-1 tvg-name="CINE |Cinema 20"tvg-id="32692"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 20
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32692
-#EXTINF:-1 tvg-name="CINE |Cinema 21"tvg-id="32693"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 21
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32693
-#EXTINF:-1 tvg-name="CINE |Cinema 22"tvg-id="32694"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 22
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32694
-#EXTINF:-1 tvg-name="CINE |Cinema 23"tvg-id="32695"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 23
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32695
-#EXTINF:-1 tvg-name="CINE |Cinema 24"tvg-id="32696"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 24
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32696
-#EXTINF:-1 tvg-name="CINE |Cinema 25"tvg-id="32697"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 25
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32697
-#EXTINF:-1 tvg-name="CINE |Cinema 26"tvg-id="32698"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 26
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32698
-#EXTINF:-1 tvg-name="CINE |Cinema 27"tvg-id="32699"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 27
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32699
-#EXTINF:-1 tvg-name="CINE |Cinema 28"tvg-id="32700"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 28
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32700
-#EXTINF:-1 tvg-name="CINE |Cinema 29"tvg-id="32701"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 29
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32701
-#EXTINF:-1 tvg-name="CINE |Cinema 30"tvg-id="32702"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 30
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32702
-#EXTINF:-1 tvg-name="CINE |Cinema 31"tvg-id="32703"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 31
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32703
-#EXTINF:-1 tvg-name="CINE |Cinema 32"tvg-id="32704"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 32
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32704
-#EXTINF:-1 tvg-name="CINE |Cinema 33"tvg-id="32705"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 33
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32705
-#EXTINF:-1 tvg-name="CINE |Cinema 34"tvg-id="32706"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 34
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32706
-#EXTINF:-1 tvg-name="CINE |Cinema 35"tvg-id="32707"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 35
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32707
-#EXTINF:-1 tvg-name="CINE |Cinema 36"tvg-id="32708"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 36
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32708
-#EXTINF:-1 tvg-name="CINE |Cinema 37"tvg-id="32709"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 37
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/32709
-#EXTINF:-1 tvg-name="CINE |Cinema 38"tvg-id="147083"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 38
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147083
-#EXTINF:-1 tvg-name="CINE |Cinema 39"tvg-id="147084"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 39
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147084
-#EXTINF:-1 tvg-name="CINE |Cinema 40"tvg-id="147085"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 40
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147085
-#EXTINF:-1 tvg-name="CINE |Cinema 41"tvg-id="147086"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 41
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147086
-#EXTINF:-1 tvg-name="CINE |Cinema 42"tvg-id="147087"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 42
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147087
-#EXTINF:-1 tvg-name="CINE |Cinema 43"tvg-id="147088"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 43
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147088
-#EXTINF:-1 tvg-name="CINE |Cinema 44"tvg-id="147089"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 44
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147089
-#EXTINF:-1 tvg-name="CINE |Cinema 45"tvg-id="147090"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 45
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147090
-#EXTINF:-1 tvg-name="CINE |Cinema 46"tvg-id="147091"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 46
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147091
-#EXTINF:-1 tvg-name="CINE |Cinema 47"tvg-id="147092"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 47
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147092
-#EXTINF:-1 tvg-name="CINE |Cinema 48"tvg-id="147093"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 48
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147093
-#EXTINF:-1 tvg-name="CINE |Cinema 49"tvg-id="147094"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 49
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147094
-#EXTINF:-1 tvg-name="CINE |Cinema 50"tvg-id="147095"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 50
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147095
-#EXTINF:-1 tvg-name="CINE |Cinema 51"tvg-id="147096"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 51
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147096
-#EXTINF:-1 tvg-name="CINE |Cinema 52"tvg-id="147097"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 52
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147097
-#EXTINF:-1 tvg-name="CINE |Cinema 53"tvg-id="147098"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 53
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147098
-#EXTINF:-1 tvg-name="CINE |Cinema 54"tvg-id="147099"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 54
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147099
-#EXTINF:-1 tvg-name="CINE |Cinema 55"tvg-id="147100"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 55
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147100
-#EXTINF:-1 tvg-name="CINE |Cinema 56"tvg-id="147101"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 56
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147101
-#EXTINF:-1 tvg-name="CINE |Cinema 57"tvg-id="147102"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 57
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147102
-#EXTINF:-1 tvg-name="CINE | Cinema 58"tvg-id="147103"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE | Cinema 58
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147103
-#EXTINF:-1 tvg-name="CINE |Cinema 59"tvg-id="147104"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 59
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147104
-#EXTINF:-1 tvg-name="CINE |Cinema 60"tvg-id="147105"tvg-logo="http://playlist3456544.ddns.net:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg"tvg-chno=""group-title="CINE 24/7 (ESP) | CINEMA 24/7 (SPA)",CINE |Cinema 60
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/147105
-#EXTINF:-1 tvg-name="PREMIUM | HISTORY 2 HD"tvg-id="97416"tvg-logo="https://cablego.com.pe/cache/biglogos/HISTORY2.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HISTORY 2 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/97416
-#EXTINF:-1 tvg-name="PREMIUM | A&E (Latino) HD"tvg-id="996"tvg-logo="https://cablego.com.pe/cache/biglogos/AandEMUNDO.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | A&E (Latino) HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/996
-#EXTINF:-1 tvg-name="PREMIUM | A&E HD Latino"tvg-id="997"tvg-logo="https://cablego.com.pe/cache/biglogos/AandEMUNDO.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | A&E HD Latino
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/997
-#EXTINF:-1 tvg-name="PREMIUM | A&E HD (MX)"tvg-id="86931"tvg-logo="https://cablego.com.pe/cache/biglogos/AandEMUNDO.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | A&E HD (MX)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86931
-#EXTINF:-1 tvg-name="PREMIUM | AXN LATINO"tvg-id="1002"tvg-logo="http://playlist3456544.ddns.net:8080/images/88e61af5358cbf5f32bb448395834776.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | AXN LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1002
-#EXTINF:-1 tvg-name="PREMIUM | AXN HD Mexico"tvg-id="1003"tvg-logo="http://playlist3456544.ddns.net:8080/images/88e61af5358cbf5f32bb448395834776.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | AXN HD Mexico
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1003
-#EXTINF:-1 tvg-name="PREMIUM | ANIMAL PLANET LATINO HD"tvg-id="969"tvg-logo="http://playlist3456544.ddns.net:8080/images/2c25a502c7683ba7aed55c8b7ec68f3e.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | ANIMAL PLANET LATINO HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/969
-#EXTINF:-1 tvg-name="PREMIUM | ANIMAL PLANET HD"tvg-id="970"tvg-logo="https://cablego.com.pe/cache/biglogos/ANIMALPLANET.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | ANIMAL PLANET HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/970
-#EXTINF:-1 tvg-name="PREMIUM | COMEDY CENTRAL MX HD"tvg-id="1004"tvg-logo="http://playlist3456544.ddns.net:8080/images/d4b918182dbb2a38b113e8e44f5b826c.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | COMEDY CENTRAL MX HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1004
-#EXTINF:-1 tvg-name="PREMIUM | COMEDY CENTRAL HD"tvg-id="1005"tvg-logo="http://playlist3456544.ddns.net:8080/images/d4b918182dbb2a38b113e8e44f5b826c.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | COMEDY CENTRAL HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1005
-#EXTINF:-1 tvg-name="PREMIUM | DISTRITO COMEDIA"tvg-id="1007"tvg-logo="https://cablego.com.pe/cache/biglogos/DISTRITOCOMEDIA.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISTRITO COMEDIA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1007
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY CHANNEL"tvg-id="971"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYCHANNEL.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY CHANNEL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/971
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY CHANNEL HD"tvg-id="972"tvg-logo="http://playlist3456544.ddns.net:8080/images/78176d5ef6246c3706111f55e66fee85.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY CHANNEL HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/972
-#EXTINF:-1 tvg-name="PREMIUM | HGTV MX"tvg-id="973"tvg-logo="http://playlist3456544.ddns.net:8080/images/8e3e9bc0cc70a19c3a4da6b8c7559c4f.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HGTV MX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/973
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY H&H"tvg-id="974"tvg-logo="http://playlist3456544.ddns.net:8080/images/244049e8bfe02922a59b9e5ee7b1f08c.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY H&H
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/974
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY H&H HD"tvg-id="975"tvg-logo="http://playlist3456544.ddns.net:8080/images/244049e8bfe02922a59b9e5ee7b1f08c.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY H&H HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/975
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY ID"tvg-id="976"tvg-logo="http://playlist3456544.ddns.net:8080/images/b15bddc96a62e8a4e8c2ef8be29c07e4.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY ID
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/976
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY ID MX HD"tvg-id="977"tvg-logo="http://playlist3456544.ddns.net:8080/images/b15bddc96a62e8a4e8c2ef8be29c07e4.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY ID MX HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/977
-#EXTINF:-1 tvg-name="PREMIUM | ID HD (Dual Audio) Latino"tvg-id="7926"tvg-logo="http://playlist3456544.ddns.net:8080/images/c3bef1793c2ba906300dca19525b3cac.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | ID HD (Dual Audio) Latino
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7926
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY SCIENCE HD"tvg-id="978"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYSCIENCE.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY SCIENCE HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/978
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY THEATER HD"tvg-id="980"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/HD_Theater.png/revision/latest?cb=20200209133800&path-prefix=es"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY THEATER HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/980
-#EXTINF:-1 tvg-name="PREMIUM | Discovery TLC Latino HD"tvg-id="981"tvg-logo="http://playlist3456544.ddns.net:8080/images/1e790de681d2a3919b330b54bd73f484.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Discovery TLC Latino HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/981
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY TURBO HD"tvg-id="982"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYTURBO.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY TURBO HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/982
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY WORLD FHD"tvg-id="983"tvg-logo="http://playlist3456544.ddns.net:8080/images/f17d87c6cc9afaa652b307415035e605.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY WORLD FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/983
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY WORLD HD"tvg-id="984"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYWORLD.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY WORLD HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/984
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY CHANNEL LATINO"tvg-id="7915"tvg-logo="http://playlist3456544.ddns.net:8080/images/c3a60bde7004aa91422ee65adcec0049.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY CHANNEL LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7915
-#EXTINF:-1 tvg-name="PREMIUM | HGTV LATINO"tvg-id="7916"tvg-logo="http://playlist3456544.ddns.net:8080/images/8e3e9bc0cc70a19c3a4da6b8c7559c4f.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HGTV LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7916
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY H&H LATINO HD"tvg-id="7917"tvg-logo="http://playlist3456544.ddns.net:8080/images/1134d93bae87b4561db1a5803942e0d4.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY H&H LATINO HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7917
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY SCIENCE LATINO FHD"tvg-id="7918"tvg-logo="http://playlist3456544.ddns.net:8080/images/5ff47dc9f1333a1a410fe4789d945c9e.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY SCIENCE LATINO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7918
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY TURBO LATINO FHD"tvg-id="7919"tvg-logo="http://playlist3456544.ddns.net:8080/images/bd9270c33b48fd30d59b3c18c1244b42.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY TURBO LATINO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7919
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY THEATER LATINO FHD"tvg-id="7920"tvg-logo="http://playlist3456544.ddns.net:8080/images/e485ae878978bce1de4227e25a793b92.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY THEATER LATINO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7920
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY WORLD LATINO FHD"tvg-id="7921"tvg-logo="http://playlist3456544.ddns.net:8080/images/ad76b4d8336d84729b2eb3b3d40ac76a.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY WORLD LATINO FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7921
-#EXTINF:-1 tvg-name="PREMIUM | Discovery TLC HD (MX)"tvg-id="7931"tvg-logo="http://playlist3456544.ddns.net:8080/images/d018146bd4b48997c18734748263ac09.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Discovery TLC HD (MX)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7931
-#EXTINF:-1 tvg-name="PREMIUM | Discovery Familia HD"tvg-id="43852"tvg-logo="http://playlist3456544.ddns.net:8080/images/17513f321e08509e9884812da36909f5.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Discovery Familia HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/43852
-#EXTINF:-1 tvg-name="PREMIUM | Nat Geo (LAT) HD"tvg-id="7929"tvg-logo="http://playlist3456544.ddns.net:8080/images/7c2dd768283318b6d4206c4290dac485.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Nat Geo (LAT) HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7929
-#EXTINF:-1 tvg-name="PREMIUM | Nat Geo (MX) FHD"tvg-id="990"tvg-logo="http://playlist3456544.ddns.net:8080/images/b8b539a2b810bd5628234e93d09b34cc.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Nat Geo (MX) FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/990
-#EXTINF:-1 tvg-name="PREMIUM | Nat Geo Latino FHD"tvg-id="991"tvg-logo="http://playlist3456544.ddns.net:8080/images/b8b539a2b810bd5628234e93d09b34cc.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Nat Geo Latino FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/991
-#EXTINF:-1 tvg-name="PREMIUM | LOVE NATURAL  HD"tvg-id="7930"tvg-logo="https://cablego.com.pe/cache/biglogos/LOVENATURE.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | LOVE NATURAL  HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7930
-#EXTINF:-1 tvg-name="PREMIUM |  Nat Geo Mundo SD"tvg-id="44228"tvg-logo=""tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM |  Nat Geo Mundo SD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/44228
-#EXTINF:-1 tvg-name="PREMIUM | HISTORY CHANNEL FHD"tvg-id="989"tvg-logo="https://cablego.com.pe/cache/biglogos/HISTORYCHANNEL.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HISTORY CHANNEL FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/989
-#EXTINF:-1 tvg-name="PREMIUM | History Channel FHD Latino"tvg-id="7925"tvg-logo="http://playlist3456544.ddns.net:8080/images/1473a64c28a18505311cb1f89b96b29b.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | History Channel FHD Latino
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7925
-#EXTINF:-1 tvg-name="PREMIUM | HISTORY EN ESPANOL | UHD"tvg-id="82621"tvg-logo="http://playlist3456544.ddns.net:8080/images/4e53626d0b7e7d63f2f05cd11b74351c.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HISTORY EN ESPANOL | UHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/82621
-#EXTINF:-1 tvg-name="PREMIUM | H2 HD"tvg-id="987"tvg-logo="http://playlist3456544.ddns.net:8080/images/4d5e5e69b4a1fb98399eb43903f44dda.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | H2 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/987
-#EXTINF:-1 tvg-name="PREMIUM | STAR CHANNEL HD Latino ( Dual audio)"tvg-id="1010"tvg-logo="http://playlist3456544.ddns.net:8080/images/0627c4d2aab144d33721fbe66c50de63.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | STAR CHANNEL HD Latino ( Dual audio)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1010
-#EXTINF:-1 tvg-name="PREMIUM | EL GOURMET FHD"tvg-id="985"tvg-logo="http://playlist3456544.ddns.net:8080/images/28f4af6803a22e5e49aebe830565f48a.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | EL GOURMET FHD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/985
-#EXTINF:-1 tvg-name="PREMIUM | EL GOURMET LATINO"tvg-id="7922"tvg-logo="http://playlist3456544.ddns.net:8080/images/bada03590d64a33156dc35cf4ab48cbc.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | EL GOURMET LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7922
-#EXTINF:-1 tvg-name="PREMIUM |  Universal Channel HD (MX)"tvg-id="86424"tvg-logo="https://cablego.com.pe/cache/biglogos/UNIVERSAL.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM |  Universal Channel HD (MX)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86424
-#EXTINF:-1 tvg-name="PREMIUM | E! ENTERTAINMENT HD"tvg-id="1008"tvg-logo="http://playlist3456544.ddns.net:8080/images/13c1e7a62a2c009c10704d3903e4c84e.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | E! ENTERTAINMENT HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1008
-#EXTINF:-1 tvg-name="PREMIUM | HOLA TV"tvg-id="1015"tvg-logo="http://playlist3456544.ddns.net:8080/images/82d3d0b0e74dc3b40ce4a15f416868bc.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HOLA TV
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1015
-#EXTINF:-1 tvg-name="PREMIUM | I SAT"tvg-id="1016"tvg-logo="http://playlist3456544.ddns.net:8080/images/925f1add8d09496fe5ecb452e5157c35.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | I SAT
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1016
-#EXTINF:-1 tvg-name="PREMIUM | LIFETIME HD"tvg-id="1017"tvg-logo="https://cablego.com.pe/cache/biglogos/LIFETIME.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | LIFETIME HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1017
-#EXTINF:-1 tvg-name="PREMIUM | MAS CHIC HD"tvg-id="1018"tvg-logo="https://cablego.com.pe/cache/biglogos/MASCHIC.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | MAS CHIC HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1018
-#EXTINF:-1 tvg-name="PREMIUM | PASIONES HD"tvg-id="1020"tvg-logo="https://cablego.com.pe/cache/biglogos/PASIONES.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | PASIONES HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1020
-#EXTINF:-1 tvg-name="PREMIUM | FILM & ARTS HD"tvg-id="1045"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | FILM & ARTS HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1045
-#EXTINF:-1 tvg-name="PREMIUM | SUNDANCE HD"tvg-id="1075"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/SUNDANCE_CHANNEL_HD_2014.png/revision/latest/scale-to-width-down/1200?cb=20210424042813&path-prefix=es"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | SUNDANCE HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/1075
-#EXTINF:-1 tvg-name="PREMIUM | I SAT LATINO"tvg-id="7927"tvg-logo="http://playlist3456544.ddns.net:8080/images/925f1add8d09496fe5ecb452e5157c35.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | I SAT LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7927
-#EXTINF:-1 tvg-name="PREMIUM | MAS CHIC LATINO HD"tvg-id="7928"tvg-logo="http://playlist3456544.ddns.net:8080/images/acbc731b2c459656b72498d5d811ed30.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | MAS CHIC LATINO HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7928
-#EXTINF:-1 tvg-name="PREMIUM | Unicable Latino HD"tvg-id="7932"tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/53/Unicable.png/revision/latest?cb=20160211074125&path-prefix=es"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Unicable Latino HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7932
-#EXTINF:-1 tvg-name="PREMIUM | Wobi Latino SD"tvg-id="7933"tvg-logo="http://playlist3456544.ddns.net:8080/images/28cf49aadd94971fff469be545030b7a.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Wobi Latino SD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/7933
-#EXTINF:-1 tvg-name="PREMIUM | WOBI"tvg-id="995"tvg-logo="http://playlist3456544.ddns.net:8080/images/0ea401bfeff4e436ae507c8fad0cfeb4.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | WOBI
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/995
-#EXTINF:-1 tvg-name="PREMIUM | EUROPA EUROPA"tvg-id="82456"tvg-logo="https://cablego.com.pe/cache/biglogos/EUROPAEUROPA.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | EUROPA EUROPA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/82456
-#EXTINF:-1 tvg-name="PREMIUM | TruTV (MX) HD"tvg-id="38481"tvg-logo="http://playlist3456544.ddns.net:8080/images/afcb595942ec1f6bcc1ff786cf8b39dd.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | TruTV (MX) HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/38481
-#EXTINF:-1 tvg-name="PREMIUM |  TruTV SD"tvg-id="38480"tvg-logo="http://playlist3456544.ddns.net:8080/images/afcb595942ec1f6bcc1ff786cf8b39dd.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM |  TruTV SD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/38480
-#EXTINF:-1 tvg-name="PREMIUM | HGTV"tvg-id="87311"tvg-logo="https://cablego.com.pe/cache/biglogos/HGTV.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HGTV
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/87311
-#EXTINF:-1 tvg-name="PREMIUM| MTV LATINO"tvg-id="87341"tvg-logo="http://playlist3456544.ddns.net:8080/images/4e8e9fe67158ba38911cad2ec3cd8cb9.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM| MTV LATINO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/87341
-#EXTINF:-1 tvg-name="PREMIUM |  Universal CINEMA HD"tvg-id="118286"tvg-logo="http://playlist3456544.ddns.net:8080/images/630c653e5ce11f3fb95f3ad6d566fefd.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM |  Universal CINEMA HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/118286
-#EXTINF:-1 tvg-name="PREMIUM | Universal COMEDY HD"tvg-id="118287"tvg-logo="http://playlist3456544.ddns.net:8080/images/88c35bec53f76cd8265d93f191985558.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Universal COMEDY HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/118287
-#EXTINF:-1 tvg-name="PREMIUM | Universal CRIME HD"tvg-id="118288"tvg-logo="http://playlist3456544.ddns.net:8080/images/4cf70ab40878d2bf59a4cf7aba7cf208.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | Universal CRIME HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/118288
-#EXTINF:-1 tvg-name="PREMIUM |  Universal PREMIERE HD"tvg-id="118289"tvg-logo="http://playlist3456544.ddns.net:8080/images/3a633ff646ce90de75f35df2cd8e442e.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM |  Universal PREMIERE HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/118289
-#EXTINF:-1 tvg-name="PREMIUM |  Universal REALITY HD"tvg-id="118290"tvg-logo="http://playlist3456544.ddns.net:8080/images/c5425097d8a3a1e59e1fb9a36b02c884.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM |  Universal REALITY HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/118290
-#EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL CRIMEN OESTE"tvg-id="121041"tvg-logo=""tvg-chno=""group-title="PREMIUM HD (SPA)",CINE FHD | UNIVERSAL CRIMEN OESTE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121041
-#EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL PREMIERE"tvg-id="121042"tvg-logo=""tvg-chno=""group-title="PREMIUM HD (SPA)",CINE FHD | UNIVERSAL PREMIERE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121042
-#EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL PREMIER OESTE"tvg-id="121043"tvg-logo=""tvg-chno=""group-title="PREMIUM HD (SPA)",CINE FHD | UNIVERSAL PREMIER OESTE
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121043
-#EXTINF:-1 tvg-name="PREMIUM | National Geographic"tvg-id="121352"tvg-logo="http://playlist3456544.ddns.net:8080/images/b8b539a2b810bd5628234e93d09b34cc.jpg"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | National Geographic
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121352
-#EXTINF:-1 tvg-name="PREMIUM | HISTORY2 HD"tvg-id="121361"tvg-logo="https://cablego.com.pe/cache/biglogos/HISTORY2.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | HISTORY2 HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/121361
-#EXTINF:-1 tvg-name="PREMIUM | FOOD NETWORK HD"tvg-id="164371"tvg-logo="https://cablego.com.pe/cache/biglogos/FOODNETWORK.png"tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | FOOD NETWORK HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/164371
-#EXTINF:-1 tvg-name="PREMIUM | DISCOVERY ID COL (L)"tvg-id="248840"tvg-logo=""tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM | DISCOVERY ID COL (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/248840
-#EXTINF:-1 tvg-name="PREMIUM| DISCOVERY CHANNEL COL (L)"tvg-id="248841"tvg-logo=""tvg-chno=""group-title="PREMIUM HD (SPA)",PREMIUM| DISCOVERY CHANNEL COL (L)
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/248841
-#EXTINF:-1 tvg-name="LAT SD: Animal Planet"tvg-id="86721"tvg-logo="https://cablego.com.pe/cache/biglogos/ANIMALPLANET.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Animal Planet
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86721
-#EXTINF:-1 tvg-name="LAT HD: A&E"tvg-id="86722"tvg-logo="https://cablego.com.pe/cache/biglogos/AandEMUNDO.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: A&E
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86722
-#EXTINF:-1 tvg-name="LAT SD: A&E"tvg-id="86723"tvg-logo="https://cablego.com.pe/cache/biglogos/AandEMUNDO.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: A&E
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86723
-#EXTINF:-1 tvg-name="LAT HD: AXN HD"tvg-id="86724"tvg-logo="https://cablego.com.pe/cache/biglogos/AXN.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: AXN HD
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86724
-#EXTINF:-1 tvg-name="LAT SD: AXN"tvg-id="86725"tvg-logo="https://cablego.com.pe/cache/biglogos/AXN.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: AXN
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86725
-#EXTINF:-1 tvg-name="LAT SD:Comedy Central"tvg-id="86726"tvg-logo="http://playlist3456544.ddns.net:8080/images/e282d59d7b254836aff1351d338ac7ad.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD:Comedy Central
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86726
-#EXTINF:-1 tvg-name="LAT HD: SONY"tvg-id="86727"tvg-logo="https://cablego.com.pe/cache/biglogos/SONY.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: SONY
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86727
-#EXTINF:-1 tvg-name="LAT SD: Sony"tvg-id="86728"tvg-logo="https://cablego.com.pe/cache/biglogos/SONY.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Sony
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86728
-#EXTINF:-1 tvg-name="LAT HD: WARNER"tvg-id="86729"tvg-logo="http://playlist3456544.ddns.net:8080/images/8738fa0ff9cfac5d22f5f6208d815870.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: WARNER
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86729
-#EXTINF:-1 tvg-name="LAT SD:!E"tvg-id="86731"tvg-logo="http://playlist3456544.ddns.net:8080/images/28eac341b60d27dfa4e0b1eca640028b.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD:!E
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86731
-#EXTINF:-1 tvg-name="LAT HD: FX"tvg-id="86732"tvg-logo="https://cablego.com.pe/cache/biglogos/FX.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: FX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86732
-#EXTINF:-1 tvg-name="LAT SD: FX"tvg-id="86733"tvg-logo="https://cablego.com.pe/cache/biglogos/FX.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: FX
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86733
-#EXTINF:-1 tvg-name="LAT HD: UNIVERSAL"tvg-id="86734"tvg-logo="https://cablego.com.pe/cache/biglogos/UNIVERSAL.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: UNIVERSAL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86734
-#EXTINF:-1 tvg-name="LAT SD: Universal"tvg-id="86735"tvg-logo="https://cablego.com.pe/cache/biglogos/UNIVERSAL.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Universal
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86735
-#EXTINF:-1 tvg-name="LAT SD: USA"tvg-id="86736"tvg-logo="http://playlist3456544.ddns.net:8080/images/c7923835f5d227e25c9dc295f5930c3f.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: USA
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86736
-#EXTINF:-1 tvg-name="LAT SD: Discovery Channel"tvg-id="86737"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYCHANNEL.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Discovery Channel
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86737
-#EXTINF:-1 tvg-name="LAT HD: Discovery ID"tvg-id="86738"tvg-logo="http://playlist3456544.ddns.net:8080/images/c497d9fa23d3546fd3d0bb5d7365e65b.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: Discovery ID
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86738
-#EXTINF:-1 tvg-name="LAT SD: Discovery ID"tvg-id="86739"tvg-logo="http://playlist3456544.ddns.net:8080/images/96b2d5a2d041a1668f978960bec376cf.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Discovery ID
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86739
-#EXTINF:-1 tvg-name="LAT SD: Discovery TLC"tvg-id="86740"tvg-logo="http://playlist3456544.ddns.net:8080/images/af2a5850e16bc09f6494a7b39be3e9a0.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Discovery TLC
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86740
-#EXTINF:-1 tvg-name="LAT HD: Discovery H&H"tvg-id="86741"tvg-logo="http://playlist3456544.ddns.net:8080/images/e61574d12e650e3a4081899f8380fa14.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: Discovery H&H
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86741
-#EXTINF:-1 tvg-name="LAT SD: Discovery h&h"tvg-id="86742"tvg-logo="http://playlist3456544.ddns.net:8080/images/d8c28c8f9d6ff447d4dcde3009606364.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Discovery h&h
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86742
-#EXTINF:-1 tvg-name="LAT SD: Discovery Theater"tvg-id="86743"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYTHEATER.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Discovery Theater
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86743
-#EXTINF:-1 tvg-name="LAT SD: Discovery Turbo"tvg-id="86744"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYTURBO.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Discovery Turbo
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86744
-#EXTINF:-1 tvg-name="LAT SD:Discovery Kids"tvg-id="86745"tvg-logo="https://cablego.com.pe/cache/biglogos/DISCOVERYKIDS.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD:Discovery Kids
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86745
-#EXTINF:-1 tvg-name="LAT HD: STAR CHANNEL"tvg-id="86746"tvg-logo="https://cablego.com.pe/cache/biglogos/FOXCHANNEL.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: STAR CHANNEL
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86746
-#EXTINF:-1 tvg-name="LAT SD: star channel"tvg-id="86747"tvg-logo="https://cablego.com.pe/cache/biglogos/FOXCHANNEL.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: star channel
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86747
-#EXTINF:-1 tvg-name="LAT SD: Universal Crime"tvg-id="86750"tvg-logo="http://playlist3456544.ddns.net:8080/images/daeeb9253b7ce18efc2ca4c52e86248f.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Universal Crime
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86750
-#EXTINF:-1 tvg-name="LAT SD: Star Action"tvg-id="86752"tvg-logo="http://playlistplus.site:8080/images/1c8b1b79851c562dc60daf0f280994db.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Star Action
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86752
-#EXTINF:-1 tvg-name="LAT SD: Star Hits"tvg-id="86753"tvg-logo="http://playlist3456544.ddns.net:8080/images/281c542f9dea471967e8b186c2240d76.png"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: Star Hits
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86753
-#EXTINF:-1 tvg-name="LAT HD: HBO"tvg-id="86757"tvg-logo="http://playlist3456544.ddns.net:8080/images/165b00e1fed0eb665e91ee8d7b45d9b1.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT HD: HBO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86757
-#EXTINF:-1 tvg-name="LAT SD: HBO"tvg-id="86758"tvg-logo="http://playlist3456544.ddns.net:8080/images/f2cb46599a050de83f4f9fdfd5bcd31c.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: HBO
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86758
-#EXTINF:-1 tvg-name="LAT SD: HBO 2"tvg-id="86759"tvg-logo="http://playlist3456544.ddns.net:8080/images/ff9a9bf206719413deeb4e6cf0a50b9c.jpg"tvg-chno=""group-title="PREMIUM SD (SPA)",LAT SD: HBO 2
-http://megafull.site:8080/Hhuatay/c9x7pLJJ1e/86759
+#EXTINF:-1 tvg-name="MX| CANAL DE LAS ESTRELLAS INTERNACIONAL  FHD*"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/1a95dfa07a29b03d585934f077e7c85c.png"group-title="|LIVE| MEXICO",MX| CANAL DE LAS ESTRELLAS INTERNACIONAL  FHD*
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47554.ts
+#EXTINF:-1 tvg-name="MX| CANAL DE LAS ESTRELLAS FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b15c919ea2656eb10414e6e6001d61e1.png"group-title="|LIVE| MEXICO",MX| CANAL DE LAS ESTRELLAS FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47555.ts
+#EXTINF:-1 tvg-name="MX| CANAL DE LAS ESTRELLAS HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b15c919ea2656eb10414e6e6001d61e1.png"group-title="|LIVE| MEXICO",MX| CANAL DE LAS ESTRELLAS HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47556.ts
+#EXTINF:-1 tvg-name="MX| CANAL DE LAS ESTRELLAS -2HRS"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/0ed9404d458cfd868328bc7a08eb4e5f.png"group-title="|LIVE| MEXICO",MX| CANAL DE LAS ESTRELLAS -2HRS
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47557.ts
+#EXTINF:-1 tvg-name="MX| CANAL DE LAS ESTRELLAS FHD -2HRS"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/0ed9404d458cfd868328bc7a08eb4e5f.png"group-title="|LIVE| MEXICO",MX| CANAL DE LAS ESTRELLAS FHD -2HRS
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47558.ts
+#EXTINF:-1 tvg-name="MX| ESTRELLA TV HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/48f424e339b356a77597470b11e6a6cd.png"group-title="|LIVE| MEXICO",MX| ESTRELLA TV HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47559.ts
+#EXTINF:-1 tvg-name="MX| ESTRELLA TV NEWS HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9dc6eb525846b336736a0ee066abedda.png"group-title="|LIVE| MEXICO",MX| ESTRELLA TV NEWS HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47560.ts
+#EXTINF:-1 tvg-name="MX| AZTECA UNO HD**"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png"group-title="|LIVE| MEXICO",MX| AZTECA UNO HD**
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47561.ts
+#EXTINF:-1 tvg-name="MX| AZTECA UNO HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png"group-title="|LIVE| MEXICO",MX| AZTECA UNO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47562.ts
+#EXTINF:-1 tvg-name="MX| AZTECA UNO FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png"group-title="|LIVE| MEXICO",MX| AZTECA UNO FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47563.ts
+#EXTINF:-1 tvg-name="MX| AZTECA UNO -1HR"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/52ee6dd4808e79c7b995338185314bc8.png"group-title="|LIVE| MEXICO",MX| AZTECA UNO -1HR
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47564.ts
+#EXTINF:-1 tvg-name="MX| AZTECA INTERACIONAL HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/c5654575b4ff37f9637df3e04e86738d.png"group-title="|LIVE| MEXICO",MX| AZTECA INTERACIONAL HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47565.ts
+#EXTINF:-1 tvg-name="MX| AZTECA 7 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/636a6f6179e4e10e43d4324225382a1b.png"group-title="|LIVE| MEXICO",MX| AZTECA 7 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47566.ts
+#EXTINF:-1 tvg-name="MX| AZTECA 7 HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/636a6f6179e4e10e43d4324225382a1b.png"group-title="|LIVE| MEXICO",MX| AZTECA 7 HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47567.ts
+#EXTINF:-1 tvg-name="MX| AZTECA 7"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/636a6f6179e4e10e43d4324225382a1b.png"group-title="|LIVE| MEXICO",MX| AZTECA 7
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47568.ts
+#EXTINF:-1 tvg-name="MX| AZTECA DEPORTES HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/8a0cf830a01361e10fcf2cd61677670b.png"group-title="|LIVE| MEXICO",MX| AZTECA DEPORTES HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47569.ts
+#EXTINF:-1 tvg-name="MX| IMAGEN TV FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/f8bc7bb05f3275b810bfe807df15e42c.png"group-title="|LIVE| MEXICO",MX| IMAGEN TV FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47570.ts
+#EXTINF:-1 tvg-name="MX| UNICABLE HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png"group-title="|LIVE| MEXICO",MX| UNICABLE HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47571.ts
+#EXTINF:-1 tvg-name="MX| EL NUEVE HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/f39000bb0ac7d3696fa6a302c6feec8e.png"group-title="|LIVE| MEXICO",MX| EL NUEVE HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47572.ts
+#EXTINF:-1 tvg-name="MX| UNICABLE"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png"group-title="|LIVE| MEXICO",MX| UNICABLE
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47573.ts
+#EXTINF:-1 tvg-name="MX| BITME FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/8fdcaf15d7cb14bd280e8614a61395de.png"group-title="|LIVE| MEXICO",MX| BITME FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47574.ts
+#EXTINF:-1 tvg-name="MX| FORO TV FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/467675b33c1fcae34c8fc4eb0f32d73e.png"group-title="|LIVE| MEXICO",MX| FORO TV FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47575.ts
+#EXTINF:-1 tvg-name="MX| CANAL 5 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png"group-title="|LIVE| MEXICO",MX| CANAL 5 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47576.ts
+#EXTINF:-1 tvg-name="MX| CANAL 5 HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png"group-title="|LIVE| MEXICO",MX| CANAL 5 HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47577.ts
+#EXTINF:-1 tvg-name="MX| ADN 40 HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/108439a9c39119adc303e1c9fcadab96.png"group-title="|LIVE| MEXICO",MX| ADN 40 HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47578.ts
+#EXTINF:-1 tvg-name="MX| ADN SD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/108439a9c39119adc303e1c9fcadab96.png"group-title="|LIVE| MEXICO",MX| ADN SD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47579.ts
+#EXTINF:-1 tvg-name="MX| AZTECA CORAZON HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/16e585dccdfb39e4cbe261069442a3f0.png"group-title="|LIVE| MEXICO",MX| AZTECA CORAZON HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47580.ts
+#EXTINF:-1 tvg-name="MX| AZTECA MUNDO HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b35288e9aeae9b6825c3ad249cbc710b.png"group-title="|LIVE| MEXICO",MX| AZTECA MUNDO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47581.ts
+#EXTINF:-1 tvg-name="MX| AZTECA CINEMA HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/d0f72476c82eeab8a8c39202faedcdd1.png"group-title="|LIVE| MEXICO",MX| AZTECA CINEMA HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47582.ts
+#EXTINF:-1 tvg-name="MX| GALA TV HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/0be5ec4d3e50e71331ad00e08b28949e.png"group-title="|LIVE| MEXICO",MX| GALA TV HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47583.ts
+#EXTINF:-1 tvg-name="MX| TL NOVELAS MEXICO HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/92c4cf9df4c01b73f7e757e78ae60841.png"group-title="|LIVE| MEXICO",MX| TL NOVELAS MEXICO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47584.ts
+#EXTINF:-1 tvg-name="MX| AZTECA CLICK HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9e93de2fdecb9e11443c6ca0cf42b5e8.png"group-title="|LIVE| MEXICO",MX| AZTECA CLICK HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47585.ts
+#EXTINF:-1 tvg-name="MX| TELEVISA MONTERREY HD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Televisa_logo.svg/1200px-Televisa_logo.svg.png"group-title="|LIVE| MEXICO",MX| TELEVISA MONTERREY HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47586.ts
+#EXTINF:-1 tvg-name="MX| CANAL 8 MONTERREY HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/d1a9fd82767d95ab1bd829489e64249b.png"group-title="|LIVE| MEXICO",MX| CANAL 8 MONTERREY HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47587.ts
+#EXTINF:-1 tvg-name="MX| E! ENTRETENIMIENTO HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/ec12a8b7e005a91bd7dd67cef960610b.png"group-title="|LIVE| MEXICO",MX| E! ENTRETENIMIENTO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47588.ts
+#EXTINF:-1 tvg-name="MX| TELEVISA BAJIO FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/d1a9fd82767d95ab1bd829489e64249b.png"group-title="|LIVE| MEXICO",MX| TELEVISA BAJIO FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47589.ts
+#EXTINF:-1 tvg-name="MX| COMEDY CENTRAL FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/a2ea1d444c40c1d91e1e941262dc5807.png"group-title="|LIVE| MEXICO",MX| COMEDY CENTRAL FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47590.ts
+#EXTINF:-1 tvg-name="MX| TELEFORMULA HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/a7a7f77d5db129e456db369ca6aebd70.png"group-title="|LIVE| MEXICO",MX| TELEFORMULA HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47591.ts
+#EXTINF:-1 tvg-name="MX| CANAL ONCE HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b64eb8c33dfbcd714ae17308b74a419d.png"group-title="|LIVE| MEXICO",MX| CANAL ONCE HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47592.ts
+#EXTINF:-1 tvg-name="MX| MILEMIUN TV HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/a53f718d20371f1c5ecfecd62f801a58.png"group-title="|LIVE| MEXICO",MX| MILEMIUN TV HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47593.ts
+#EXTINF:-1 tvg-name="MX| MAS CHIC HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/4583826aba9b84f3f492c74be1c611d5.png"group-title="|LIVE| MEXICO",MX| MAS CHIC HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47594.ts
+#EXTINF:-1 tvg-name="MX| MULTIMEDIOS HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/d5672d833508688d0c2a35d9c1fa35e3.png"group-title="|LIVE| MEXICO",MX| MULTIMEDIOS HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47595.ts
+#EXTINF:-1 tvg-name="MX| MULTIMEDIOS MONTERREY HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/89806ab4baa45f4c408095d567cb14d7.jpg"group-title="|LIVE| MEXICO",MX| MULTIMEDIOS MONTERREY HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47596.ts
+#EXTINF:-1 tvg-name="MX| ADRENALINA HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/3c44228bf3cf14c1bcbf35bae42d3006.png"group-title="|LIVE| MEXICO",MX| ADRENALINA HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47597.ts
+#EXTINF:-1 tvg-name="MX| AYM SPORTS HD"tvg-id="(no tvg-id)"tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png"group-title="|LIVE| MEXICO",MX| AYM SPORTS HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47598.ts
+#EXTINF:-1 tvg-name="MX| TVC DEPORTES HD"tvg-id="(no tvg-id)"tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png"group-title="|LIVE| MEXICO",MX| TVC DEPORTES HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47599.ts
+#EXTINF:-1 tvg-name="MX| TUDN FHD"tvg-id="(no tvg-id)"tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png"group-title="|LIVE| MEXICO",MX| TUDN FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47600.ts
+#EXTINF:-1 tvg-name="MX| TUDN HD"tvg-id="(no tvg-id)"tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png"group-title="|LIVE| MEXICO",MX| TUDN HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47601.ts
+#EXTINF:-1 tvg-name="MX| FOX SPORTS PREMIUN MX*"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/c93628b3e8562e6f09a1e5d78d17932d.png"group-title="|LIVE| MEXICO",MX| FOX SPORTS PREMIUN MX*
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47602.ts
+#EXTINF:-1 tvg-name="MX| FOX SPORTS PREMIUN MX"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/c93628b3e8562e6f09a1e5d78d17932d.png"group-title="|LIVE| MEXICO",MX| FOX SPORTS PREMIUN MX
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47603.ts
+#EXTINF:-1 tvg-name="MX| FOX SPORTS 1 HD*+*"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/33e2c8fbcd98106aa9c0082787d63b86.png"group-title="|LIVE| MEXICO",MX| FOX SPORTS 1 HD*+*
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47604.ts
+#EXTINF:-1 tvg-name="MX| FOX SPORTS 1 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/33e2c8fbcd98106aa9c0082787d63b86.png"group-title="|LIVE| MEXICO",MX| FOX SPORTS 1 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47605.ts
+#EXTINF:-1 tvg-name="MX| FOX SPORTS 2 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png"group-title="|LIVE| MEXICO",MX| FOX SPORTS 2 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47606.ts
+#EXTINF:-1 tvg-name="MX| FOX SPORTS 3 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png"group-title="|LIVE| MEXICO",MX| FOX SPORTS 3 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47607.ts
+#EXTINF:-1 tvg-name="MX| FOX SPORTS 3 HD*+*"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png"group-title="|LIVE| MEXICO",MX| FOX SPORTS 3 HD*+*
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47608.ts
+#EXTINF:-1 tvg-name="MX| ESPN XTRA HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/d688e8b94c87a33b3923265cf071c16e.png"group-title="|LIVE| MEXICO",MX| ESPN XTRA HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47609.ts
+#EXTINF:-1 tvg-name="MX| ESPN 1 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png"group-title="|LIVE| MEXICO",MX| ESPN 1 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47610.ts
+#EXTINF:-1 tvg-name="MX| ESPN 2 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png"group-title="|LIVE| MEXICO",MX| ESPN 2 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47611.ts
+#EXTINF:-1 tvg-name="MX| ESPN 3 FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/4ce8f6ad68bf634e2332d766d587880c.png"group-title="|LIVE| MEXICO",MX| ESPN 3 FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47612.ts
+#EXTINF:-1 tvg-name="MX| DISTRITO COMEDIA FHD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/83638af2c9b6018508790b0acde5e5e0.png"group-title="|LIVE| MEXICO",MX| DISTRITO COMEDIA FHD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47613.ts
+#EXTINF:-1 tvg-name="MX| RMS MUSICA HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png"group-title="|LIVE| MEXICO",MX| RMS MUSICA HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47614.ts
+#EXTINF:-1 tvg-name="MX| MTV HITS HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/a1a316d311d307df209a0618cf5dba59.png"group-title="|LIVE| MEXICO",MX| MTV HITS HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47615.ts
+#EXTINF:-1 tvg-name="MX| TELEHIT PLUS HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/41f742fe33ed29ce51863f236bd6c73b.png"group-title="|LIVE| MEXICO",MX| TELEHIT PLUS HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47616.ts
+#EXTINF:-1 tvg-name="MX| GLITZ HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/bbef87f04893002faf996bf9ac704d57.png"group-title="|LIVE| MEXICO",MX| GLITZ HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47617.ts
+#EXTINF:-1 tvg-name="MXVIP| Canal 5 Televisa"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png"group-title="|LIVE| MEXICO",MXVIP| Canal 5 Televisa
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47618.ts
+#EXTINF:-1 tvg-name="MXVIP| Azteca 7"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9f5e3a9ee4f7941da620b1e0b7dc6d47.png"group-title="|LIVE| MEXICO",MXVIP| Azteca 7
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47619.ts
+#EXTINF:-1 tvg-name="MXVIP| Azteca Cinema"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/d0f72476c82eeab8a8c39202faedcdd1.png"group-title="|LIVE| MEXICO",MXVIP| Azteca Cinema
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47620.ts
+#EXTINF:-1 tvg-name="MXVIP| Azteca Mundo"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b35288e9aeae9b6825c3ad249cbc710b.png"group-title="|LIVE| MEXICO",MXVIP| Azteca Mundo
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47621.ts
+#EXTINF:-1 tvg-name="MXVIP| Tl Novelas"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/ed97e71b6d555de6d0215e20a35941fa.png"group-title="|LIVE| MEXICO",MXVIP| Tl Novelas
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47622.ts
+#EXTINF:-1 tvg-name="MXVIP| Fox"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/33120bd8d6e4d68e15e4ec54b106be4e.png"group-title="|LIVE| MEXICO",MXVIP| Fox
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47623.ts
+#EXTINF:-1 tvg-name="MXVIP| HBO Plus"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png"group-title="|LIVE| MEXICO",MXVIP| HBO Plus
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47624.ts
+#EXTINF:-1 tvg-name="MXVIP| HBO Family"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png"group-title="|LIVE| MEXICO",MXVIP| HBO Family
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47625.ts
+#EXTINF:-1 tvg-name="MXVIP| HBO Signature"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b3e591e103c4d3fa2b0f5c1bf9611135.png"group-title="|LIVE| MEXICO",MXVIP| HBO Signature
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47626.ts
+#EXTINF:-1 tvg-name="MX| GOLDEN MULTIPLEX -1HR"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/e234e71e395d37e5d4b0bab02da28839.png"group-title="|LIVE| MEXICO",MX| GOLDEN MULTIPLEX -1HR
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47627.ts
+#EXTINF:-1 tvg-name="MX| GOLDEN MULTIPLEX HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/e234e71e395d37e5d4b0bab02da28839.png"group-title="|LIVE| MEXICO",MX| GOLDEN MULTIPLEX HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47628.ts
+#EXTINF:-1 tvg-name="MXVIP| Golden"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png"group-title="|LIVE| MEXICO",MXVIP| Golden
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47629.ts
+#EXTINF:-1 tvg-name="MXVIP| Golden Plus"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png"group-title="|LIVE| MEXICO",MXVIP| Golden Plus
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47630.ts
+#EXTINF:-1 tvg-name="MXVIP| Golden Edge"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/7133ff7d6453e99ba04e7b7a89d0da47.png"group-title="|LIVE| MEXICO",MXVIP| Golden Edge
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47631.ts
+#EXTINF:-1 tvg-name="MXVIP| Cinecanal"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png"group-title="|LIVE| MEXICO",MXVIP| Cinecanal
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47632.ts
+#EXTINF:-1 tvg-name="MXVIP| TNT"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9bced7d15a68e61ed4b544972615355c.png"group-title="|LIVE| MEXICO",MXVIP| TNT
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47633.ts
+#EXTINF:-1 tvg-name="MXVIP| AMC"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/503cdbf879614b704e79e70ec54a55f7.png"group-title="|LIVE| MEXICO",MXVIP| AMC
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47634.ts
+#EXTINF:-1 tvg-name="MXVIP| TCM"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/35ea90f53b9ab170a70143cd66830ac8.png"group-title="|LIVE| MEXICO",MXVIP| TCM
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47635.ts
+#EXTINF:-1 tvg-name="MXVIP| FXM"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/64a3d5c608ac577800e36b1151e32d56.png"group-title="|LIVE| MEXICO",MXVIP| FXM
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47636.ts
+#EXTINF:-1 tvg-name="MXVIP| FX"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/d0cc3a30cddd81a9d2392307f0e1061d.png"group-title="|LIVE| MEXICO",MXVIP| FX
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47637.ts
+#EXTINF:-1 tvg-name="MXVIP| Space"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png"group-title="|LIVE| MEXICO",MXVIP| Space
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47638.ts
+#EXTINF:-1 tvg-name="MXVIP| Comedy Central"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/7b0f9fb3e0a776a7b4b88be555a7f64d.png"group-title="|LIVE| MEXICO",MXVIP| Comedy Central
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47639.ts
+#EXTINF:-1 tvg-name="MXVIP| Paramount Channel"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/c6e4c7cd969b554647e613d820e2abbd.png"group-title="|LIVE| MEXICO",MXVIP| Paramount Channel
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47640.ts
+#EXTINF:-1 tvg-name="MXVIP| Sony"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png"group-title="|LIVE| MEXICO",MXVIP| Sony
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47641.ts
+#EXTINF:-1 tvg-name="MXVIP| Warner"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png"group-title="|LIVE| MEXICO",MXVIP| Warner
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47642.ts
+#EXTINF:-1 tvg-name="MXVIP| Distrito Comedia"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/83638af2c9b6018508790b0acde5e5e0.png"group-title="|LIVE| MEXICO",MXVIP| Distrito Comedia
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47643.ts
+#EXTINF:-1 tvg-name="MXVIP| Adrenalina TV"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/3c44228bf3cf14c1bcbf35bae42d3006.png"group-title="|LIVE| MEXICO",MXVIP| Adrenalina TV
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47644.ts
+#EXTINF:-1 tvg-name="MXVIP| Nick"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/dbe20313e007928ef4e9990347a2e424.png"group-title="|LIVE| MEXICO",MXVIP| Nick
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47645.ts
+#EXTINF:-1 tvg-name="MXVIP| Nick Toons"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9b37f14f4c74b8195a04a7705c7e2c74.png"group-title="|LIVE| MEXICO",MXVIP| Nick Toons
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47646.ts
+#EXTINF:-1 tvg-name="MXVIP| Tooncast"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/2ed5b63ca7b41ebb07fd82f963d0963d.png"group-title="|LIVE| MEXICO",MXVIP| Tooncast
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47647.ts
+#EXTINF:-1 tvg-name="MXVIP| Boomerang"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png"group-title="|LIVE| MEXICO",MXVIP| Boomerang
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47648.ts
+#EXTINF:-1 tvg-name="MXVIP| Discovery Turbo"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/306bb49a5594573218e8770f24e166c7.png"group-title="|LIVE| MEXICO",MXVIP| Discovery Turbo
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47649.ts
+#EXTINF:-1 tvg-name="MXVIP| Discovery Theater"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/e283234df4e07ea91bc55e080f2eb7cb.png"group-title="|LIVE| MEXICO",MXVIP| Discovery Theater
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47650.ts
+#EXTINF:-1 tvg-name="MXVIP| Discovery Investigation"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9f904b148baf3b3a2f6ab8ff77501cf8.png"group-title="|LIVE| MEXICO",MXVIP| Discovery Investigation
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47651.ts
+#EXTINF:-1 tvg-name="MXVIP| Discovery H&H"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/79d786b1edff84838db507be252126db.png"group-title="|LIVE| MEXICO",MXVIP| Discovery H&H
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47652.ts
+#EXTINF:-1 tvg-name="MXVIP| Discovery World"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/39d3df884071b88be8e10e772633b4c6.png"group-title="|LIVE| MEXICO",MXVIP| Discovery World
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47653.ts
+#EXTINF:-1 tvg-name="MXVIP| NatGeo"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/7d5e2d8a9f079219fc5fa6ea184d2327.png"group-title="|LIVE| MEXICO",MXVIP| NatGeo
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47654.ts
+#EXTINF:-1 tvg-name="MXVIP| History 2"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/487fd6056faadb1d0eb127a0ed49d482.png"group-title="|LIVE| MEXICO",MXVIP| History 2
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47655.ts
+#EXTINF:-1 tvg-name="MXVIP| Animal Planet"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/1b39f29d6f36176cbdb53e916821c8a6.png"group-title="|LIVE| MEXICO",MXVIP| Animal Planet
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47656.ts
+#EXTINF:-1 tvg-name="MXVIP| TUDN  HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png"group-title="|LIVE| MEXICO",MXVIP| TUDN  HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47657.ts
+#EXTINF:-1 tvg-name="MX| CANAL 10 CANCUN HD"tvg-id="(no tvg-id)"tvg-logo=""group-title="|LIVE| MEXICO",MX| CANAL 10 CANCUN HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47658.ts
+#EXTINF:-1 tvg-name="MX| TELEMAX HD"tvg-id="(no tvg-id)"tvg-logo=""group-title="|LIVE| MEXICO",MX| TELEMAX HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47659.ts
+#EXTINF:-1 tvg-name="Nickelodeon HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/107/LOGO/m/0"group-title="|LIVE| MEXICO",Nickelodeon HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47660.ts
+#EXTINF:-1 tvg-name="Disney XD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/1355/LOGO/m/0"group-title="|LIVE| MEXICO",Disney XD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47661.ts
+#EXTINF:-1 tvg-name="Disney Jr"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/1354/LOGO/m/0"group-title="|LIVE| MEXICO",Disney Jr
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47662.ts
+#EXTINF:-1 tvg-name="VH1"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/295/LOGO/m/0"group-title="|LIVE| MEXICO",VH1
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47663.ts
+#EXTINF:-1 tvg-name="HBO Signature"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/166/LOGO/m/0"group-title="|LIVE| MEXICO",HBO Signature
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47664.ts
+#EXTINF:-1 tvg-name="Golden Premier Este"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/324/LOGO/m/0"group-title="|LIVE| MEXICO",Golden Premier Este
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47665.ts
+#EXTINF:-1 tvg-name="Discovery Theater"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0"group-title="|LIVE| MEXICO",Discovery Theater
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47666.ts
+#EXTINF:-1 tvg-name="Discovery World"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/302/LOGO/m/0"group-title="|LIVE| MEXICO",Discovery World
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47667.ts
+#EXTINF:-1 tvg-name="Warner HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/55/LOGO/m/0"group-title="|LIVE| MEXICO",Warner HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47668.ts
+#EXTINF:-1 tvg-name="Lifetime HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/1ba11dc32bceb1372ca8b9d028beb969.png"group-title="|LIVE| MEXICO",Lifetime HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47669.ts
+#EXTINF:-1 tvg-name="TNT HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/152/LOGO/m/0"group-title="|LIVE| MEXICO",TNT HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47670.ts
+#EXTINF:-1 tvg-name="FX HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/59/LOGO/m/0"group-title="|LIVE| MEXICO",FX HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47671.ts
+#EXTINF:-1 tvg-name="Distrito Comedia"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/73/LOGO/m/0"group-title="|LIVE| MEXICO",Distrito Comedia
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47672.ts
+#EXTINF:-1 tvg-name="AXN HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/60/LOGO/m/0"group-title="|LIVE| MEXICO",AXN HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47673.ts
+#EXTINF:-1 tvg-name="Sony HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/285/LOGO/m/0"group-title="|LIVE| MEXICO",Sony HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47674.ts
+#EXTINF:-1 tvg-name="Telehit HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/74/LOGO/m/0"group-title="|LIVE| MEXICO",Telehit HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47675.ts
+#EXTINF:-1 tvg-name="Natgeo Wild HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/118/LOGO/m/0"group-title="|LIVE| MEXICO",Natgeo Wild HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47676.ts
+#EXTINF:-1 tvg-name="History Channel HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/304/LOGO/m/0"group-title="|LIVE| MEXICO",History Channel HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47677.ts
+#EXTINF:-1 tvg-name="TLC"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/66/LOGO/m/0"group-title="|LIVE| MEXICO",TLC
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47678.ts
+#EXTINF:-1 tvg-name="H2"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/123/LOGO/m/0"group-title="|LIVE| MEXICO",H2
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47679.ts
+#EXTINF:-1 tvg-name="Universal HD"tvg-id="(no tvg-id)"tvg-logo="https://www.izzigo.tv/images/ch/322/LOGO/m/0"group-title="|LIVE| MEXICO",Universal HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47680.ts
+#EXTINF:-1 tvg-name="Cinemax"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/b1aa730a2bad90bf64a6dbc4b1918d94.png"group-title="|LIVE| MEXICO",Cinemax
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47681.ts
+#EXTINF:-1 tvg-name="Cinecanal"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/3c2020133ca908d149298b20723d3f77.png"group-title="|LIVE| MEXICO",Cinecanal
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47682.ts
+#EXTINF:-1 tvg-name="Golden Edge"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/92e7748d4c303c47d507704e2ccba63b.png"group-title="|LIVE| MEXICO",Golden Edge
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47683.ts
+#EXTINF:-1 tvg-name="Space HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/8fcdad15bb44fd8be6762a605960dd48.png"group-title="|LIVE| MEXICO",Space HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47684.ts
+#EXTINF:-1 tvg-name="Studio Universal"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/2d060e2bf1fed88807438adb6ae8577d.png"group-title="|LIVE| MEXICO",Studio Universal
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47685.ts
+#EXTINF:-1 tvg-name="Paramount"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/f75fbac761079100a1dfe820b333d12b.png"group-title="|LIVE| MEXICO",Paramount
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47686.ts
+#EXTINF:-1 tvg-name="ESPN"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/439fdf6d95d52e1dcd52773fa6a92b15.png"group-title="|LIVE| MEXICO",ESPN
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47687.ts
+#EXTINF:-1 tvg-name="Fox Sports 3"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/ba15d4cc448971e0b4d34e9d74be2e52.png"group-title="|LIVE| MEXICO",Fox Sports 3
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47688.ts
+#EXTINF:-1 tvg-name="MX| ITV DEPORTES HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/eb2edbba2fb37664f36331446c2fb509.png"group-title="|LIVE| MEXICO",MX| ITV DEPORTES HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47689.ts
+#EXTINF:-1 tvg-name="MX| RCG 1 SALTILLO HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg"group-title="|LIVE| MEXICO",MX| RCG 1 SALTILLO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47690.ts
+#EXTINF:-1 tvg-name="MX| RTQ QUERETARO HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/436dea622017ee59e466193a0a7be418.png"group-title="|LIVE| MEXICO",MX| RTQ QUERETARO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47691.ts
+#EXTINF:-1 tvg-name="MX| TV4.1 MEXICO HD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Canal_TV4_Lota.png"group-title="|LIVE| MEXICO",MX| TV4.1 MEXICO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47692.ts
+#EXTINF:-1 tvg-name="MX| TV4.3 MEXICO HD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Canal_TV4_Lota.png"group-title="|LIVE| MEXICO",MX| TV4.3 MEXICO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47693.ts
+#EXTINF:-1 tvg-name="MX| TVP CULIACAN MEXICO HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/56b0b3382f30f7691fd31369d73a0c5d.png"group-title="|LIVE| MEXICO",MX| TVP CULIACAN MEXICO HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47694.ts
+#EXTINF:-1 tvg-name="MX| TVP LOS MOCHIS HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/56b0b3382f30f7691fd31369d73a0c5d.png"group-title="|LIVE| MEXICO",MX| TVP LOS MOCHIS HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47695.ts
+#EXTINF:-1 tvg-name="MX| TVP MAZATLAN HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/56b0b3382f30f7691fd31369d73a0c5d.png"group-title="|LIVE| MEXICO",MX| TVP MAZATLAN HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47696.ts
+#EXTINF:-1 tvg-name="MX| TVP OBREGON HD"tvg-id="(no tvg-id)"tvg-logo="http://miarea.vip:8080/images/56b0b3382f30f7691fd31369d73a0c5d.png"group-title="|LIVE| MEXICO",MX| TVP OBREGON HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47697.ts
+#EXTINF:-1 tvg-name="MX| CANAL 33 TIJUANA HD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_33_El_Salvador_2010.png"group-title="|LIVE| MEXICO",MX| CANAL 33 TIJUANA HD
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47698.ts
 #EXTINF:-1 tvg-name="24/7  Cine Terror 3"tvg-id=""tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/peliculas-terror-hbo-coronavirus-1584445749.jpg?crop=0.530xw:1.00xh;0.236xw,0&resize=640:*"tvg-chno=""group-title="24/7 ESPAÑOL",24/7  Cine Terror 3
 http://lotv.plus:80/play/ynM0FBAjSeV09X3XnwJ3KzY53_jVpBewDtRXaNMGOGg/ts
 #EXTINF:-1 tvg-name="24/7 Alerta Aeropuerto"tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/283F9B8A9140C82F02ACEA1C49A03052AA7CFEEEDE2821BBD35C79E2DC02AA3A/scale?width=506&aspectRatio=2.00&format=jpeg"tvg-chno=""group-title="24/7 ESPAÑOL",24/7 Alerta Aeropuerto
