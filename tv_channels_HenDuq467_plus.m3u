@@ -418,6 +418,14 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="PRIDEtv Latam"tvg-id="1692"tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png"tvg-chno=""group-title="▶️ MEXICO2",PRIDEtv Latam | CL
 https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b87fae8b98e6377363375486d6308f6.webp"tvg-chno=""group-title="▶️ MEXICO2",Televisa Guadalajara En Vivo
+https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index_4.m3u8?hdntl=exp=1751090974~acl=/*~data=hdntl~hmac=4aaf7dcd1cc3a67d9ceb6e574990f327e7bc1926498bff09be6dac19f7595c6c&
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp"tvg-chno=""group-title="▶️ MEXICO2",Canal Once En Vivo
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1098304.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp"tvg-chno=""group-title="▶️ MEXICO2",Pelimex En Vivo
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/cb563d167d6c65909bc83878d4f962ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa56852db80148b6f4adafb8c2360625f5c98435ee3b24af2fae90913d93aa2ac194b947b58e68314c9c94dbb86dc46c816827ef814cbc3a4de8545e020a0598a6f5ca98939581fbaaf3bfbea52bad5976b309d03502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a59d3c66bcfe542ed5baf1ba2e85ca1effeb788a4b9c5b638530e939fd9aefe2532af72faafecd36773d9f2113875c07ed9302a3494fc817ceea543c0e673d5e53b5950a1e05d675ff15ab3c3ad33041649020f140fe2040d250f834fab996c940bd27fa7da121b912c2ea2b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a1375e6837930bb49d9aa1440806ede5c4b195006f496a412079e188d079958acf3e0e56900354075a2457c7549839a543236609c611d4a00c0ef525293fe9aa3a1d172ca1c1bf8588c1d906d25bd6dcf62d202b5301eb64e547ba5f2e2f3fc8e861517503f4230c1d2b95120f7aaa/67/960x540_2048000/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.televisiongratishd2.com/imge/canal5.png""group-title="▶️ MEXICO2",CANAL 5
+https://live.saohgdasregions.fun:9092/MTg2LjAuMTI3LjQ4/2_.m3u8?token=BujQOJ_UIHWMZjqigxvS2w&expires=1751020026&__PROXY_IDENTIFIER__=true
 #EXTINF:-1 tvg-name="---------24/7-------"tvg-id="(no tvg-id)"tvg-logo="https://audioforo.com/wp-content/uploads/2015/01/Full-HD-logo-1-1.jpg"tvg-chno=""group-title="24/7",---------24/7-------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12822.ts
 #EXTINF:-1 tvg-name="CINE ACCION 01"tvg-id="(no tvg-id)"tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg"tvg-chno=""group-title="24/7",CINE ACCION 01
@@ -2672,7 +2680,4 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576568.ts
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576569.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIX | CANAL 5" tvg-logo="http://www.tmsimg.com/assets/s16463_ll_h3_aa.png" group-title="ZONA VIX",VIX | CANAL 5
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576570.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIX | CINE DE ORO" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQH0Zh5dyRS-Mg/company-logo_200_200/company-logo_200_200/0/1723135767103/vix_corporate_logo?e=2147483647&v=beta&t=MqleKzlbLStOnv4Pw2fpffiouXWLuc1AbzJDmjjZhuM" group-title="ZONA VIX",VIX | CINE DE ORO
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576571.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIX | CINE RETRO" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQH0Zh5dyRS-Mg/company-logo_200_200/company-logo_200_200/0/1723135767103/vix_corporate_logo?e=2147483647&v=beta&t=MqleKzlbLStOnv4Pw2fpffiouXWLuc1AbzJDmjjZhuM" group-title="ZONA VIX",VIX | CINE RETRO
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576572.ts
+
