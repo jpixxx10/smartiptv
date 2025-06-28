@@ -1511,26 +1511,6 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/254869.ts
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/21776.ts
 #EXTINF:-1 tvg-name="EC | TELEAMAZONAS SIERRA HD"tvg-id="(no tvg-id)"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Teleamazonas2021.png/revision/latest/scale-to-width-down/250?cb=20210701011047&path-prefix=es"group-title="ECUADOR",EC | TELEAMAZONAS SIERRA HD
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/177093.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 1"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png"group-title="TUDN",TUD | TUDNXTRA 1
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10212.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 10"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra10n_c.png"group-title="TUDN",TUD | TUDNXTRA 10
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10213.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 11"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra11n_c.png"group-title="TUDN",TUD | TUDNXTRA 11
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10214.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 2"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra2n_c.png"group-title="TUDN",TUD | TUDNXTRA 2
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10215.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 3"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra3n_c.png"group-title="TUDN",TUD | TUDNXTRA 3
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10216.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 4"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra4n_c.png"group-title="TUDN",TUD | TUDNXTRA 4
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10217.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 5"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra5n_c.png"group-title="TUDN",TUD | TUDNXTRA 5
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10218.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 6"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra6_c.png"group-title="TUDN",TUD | TUDNXTRA 6
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10219.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 7"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra7n_c.png"group-title="TUDN",TUD | TUDNXTRA 7
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10220.ts
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 8"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra8n_c.png"group-title="TUDN",TUD | TUDNXTRA 8
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10221.ts
 #EXTINF:-1 tvg-name="TUD | TUDNXTRA 9"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra9n_c.png"group-title="TUDN",TUD | TUDNXTRA 9
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/10222.ts
 #EXTINF:-1 tvg-name="TUD  | TUDN USA"tvg-id="tudnu.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD  | TUDN USA
