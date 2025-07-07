@@ -1639,14 +1639,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14132.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18442.ts
 #EXTINF:-1 tvg-name="MarÍa VisiÓn"tvg-id="(no tvg-id)"tvg-logo=""group-title="RELIGIOSO",MarÍa VisiÓn
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18443.ts
-#EXTINF:-1 tvg-name="Canal 5 HD MEX"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png"group-title="MEXICO",Canal 5 HD MEX
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22398.ts
-#EXTINF:-1 tvg-name="Azteca Uno HD"tvg-id="(no tvg-id)"tvg-logo="https://www.foromedios.com/uploads/monthly_2017_10/large.Azteca_Trece_Coming_Azteca_Uno.png.db5cccf967ae812b9b5999e8b7ead435.png"group-title="MEXICO",Azteca Uno HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41943.ts
-#EXTINF:-1 tvg-name="Azteca Corazon"tvg-id="(no tvg-id)"tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png"group-title="MEXICO",Azteca Corazon
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/95755.ts
-#EXTINF:-1 tvg-name="Azteca 7 HD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png"group-title="MEXICO",Azteca 7 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/95756.ts
 #EXTINF:-1 tvg-name="---------CHILE---------"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"group-title="CHILE",---------CHILE---------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14305.ts
 #EXTINF:-1 tvg-name="MEGA SD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png"group-title="CHILE",MEGA SD
