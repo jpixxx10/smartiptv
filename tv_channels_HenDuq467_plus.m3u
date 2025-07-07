@@ -350,81 +350,19 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/chunklist_w1032000968.m3u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="XTREMA TV",Xtrema retro cartoons
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-----URUGUAY------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png" group-title="URUGUAY",-----URUGUAY------
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12816.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY",CANAL 4 SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14181.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 4 SD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY",CANAL 4 SD 1
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12384.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 5 TNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_Televisi%C3%B3n_Nacional_Uruguay.png" group-title="URUGUAY",CANAL 5 TNU
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/103306.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 11 PUNTA DEL ESTE SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal11-324x160.png" group-title="URUGUAY",CANAL 11 PUNTA DEL ESTE SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18083.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 11 Plus" tvg-logo="https://drive.google.com/file/d/1LZWYLCcU2cPuGlb4xDVflsKbXrwjHw6b/view?usp=sharing" group-title="URUGUAY",Canal 11 Plus
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/42184.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png" group-title="URUGUAY",CANAL 10 SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12385.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 LA TELE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Canal_12_2004.jpg" group-title="URUGUAY",12 LA TELE SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18008.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 12 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="URUGUAY",CANAL 12 SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12747.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12748.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV PLUS SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17808.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV PLUS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV PLUS 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/19218.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Efusiva TV" tvg-logo="https://pbs.twimg.com/profile_images/826860693303468033/WrFjQ7X5.jpg" group-title="URUGUAY",Efusiva TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/19215.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autonoma TV" tvg-logo="http://179.27.100.146:8195/atnmtv/logo.png" group-title="URUGUAY",Autonoma TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/102997.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL A+V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LogoA%2BVUruguay20102017.png" group-title="URUGUAY",CANAL A+V
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/15019.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RBTV Canal 38" tvg-logo="http://www.lagomerin.com.uy/images/rbtv-digital.jpg" group-title="URUGUAY",RBTV Canal 38
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41608.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 12 Melo" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-12-melo-324x160.png" group-title="URUGUAY",Canal 12 Melo
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/19217.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 7 DE MALDONADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal7TWnlhy.png" group-title="URUGUAY",CANAL 7 DE MALDONADO
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14262.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 11 PUNTA DEL ESTE HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal11-324x160.png" group-title="URUGUAY",CANAL 11 PUNTA DEL ESTE HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/15075.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARDINAL TV" tvg-logo="https://www.ipuntotv.com/IMAGES/CardinalTV-logo.jpg" group-title="URUGUAY",CARDINAL TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14005.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CIUDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/83/20200331121528%21TVCiudad_logo_2020.png/120px-TVCiudad_logo_2020.png" group-title="URUGUAY",TV CIUDAD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/92316.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY",CANAL 4 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/102292.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png" group-title="URUGUAY",CANAL 10 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14184.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10 SAETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png" group-title="URUGUAY",CANAL 10 SAETA HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12772.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 LA TELE HD" tvg-logo="https://www.uypress.net/imgnoticias/201807/W260/76866.png" group-title="URUGUAY",12 LA TELE HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12753.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY",CANAL 12 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14183.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14260.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV PLUS HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/13461.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS URUGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="URUGUAY",STAR PLUS URUGUAY
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/86845.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV SPORTS URUGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="URUGUAY",DIRECTV SPORTS URUGUAY
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22979.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maroñas" tvg-logo="https://www.maronas.com.uy/public/web/img/og-logo.png" group-title="URUGUAY",Maroñas
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/99502.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="--------FUTBOL FIN DE SEMANA------" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/1200px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="FÚTBOL Y EVENTOS",--------FUTBOL FIN DE SEMANA------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12824.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paraguay  Uruguay 5 junio 2025 20:00 Estadio Defensores del Chaco" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=158&dpr=2&image=https%3A%2F%2Fcdn.bolivia.com%2Fsdi%2F2025%2F03%2F21%2Ftodo-sobre-el-partido-bolivia-vs-uruguay-por-las-eliminatorias-1279125.jpg" group-title="FÚTBOL Y EVENTOS",Paraguay  Uruguay 5 junio 2025 20:00 Estadio Defensores del Chaco
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTOS 1" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=158&dpr=2&image=https%3A%2F%2Fcdn.bolivia.com%2Fsdi%2F2025%2F03%2F21%2Ftodo-sobre-el-partido-bolivia-vs-uruguay-por-las-eliminatorias-1279125.jpg" group-title="FÚTBOL Y EVENTOS",EVENTOS 1
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14259.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA LIBERTADORES 2" tvg-logo="https://img.planetafobal.com/2016/12/nuevo-logo-copa-conmebol-libertadores-bridgestone-2017.jpg" group-title="FÚTBOL Y EVENTOS",COPA LIBERTADORES 2
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14130.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ecuador  Brasil 5 junio 2025 20:00 Estadio Monumental Banco Pichincha" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",Ecuador  Brasil 5 junio 2025 20:00 Estadio Monumental Banco Pichincha
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTOS 2" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",EVENTOS 2
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/19219.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chile  Argentina 5 junio 2025 22:00 Estadio Nacional de Santiago" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",Chile  Argentina 5 junio 2025 22:00 Estadio Nacional de Santiago
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTOS 3" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",EVENTOS 3
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17809.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colombia  Perú 6 junio 2025 17:30 Metropolitano de Barranquilla" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",Colombia  Perú 6 junio 2025 17:30 Metropolitano de Barranquilla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTOS 4" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",EVENTOS 4
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24334.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venezuela  Bolivia 6 junio 2025 19:00 Monumental de Maturín" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",Venezuela  Bolivia 6 junio 2025 19:00 Monumental de Maturín
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTOS 5" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",EVENTOS 5
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/45144.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTOS 6" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="FÚTBOL Y EVENTOS",EVENTOS 6
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17807.ts
@@ -756,8 +694,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11753.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12018.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES",Cartoonito HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11714.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://www.sccpre.cat/mypng/detail/128-1283921_disney-channel-logo-disney-channel-logo-2016.png" group-title="INFANTILES",DISNEY CHANNEL SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11718.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/6c6fe-dk.png?w=218" group-title="INFANTILES",DISCOVERY KIDS SD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11768.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lolly kids" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=150b6c&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flollykids.png" group-title="INFANTILES",Lolly kids
@@ -810,130 +746,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17783.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16438.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV KIDS" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="INFANTILES",TV KIDS
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17774.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-------BRASIL-----" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" group-title="BRASIL",-------BRASIL-----
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12817.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO HD SP" tvg-logo="https://inevent.com/es/images/clients/globo.png" group-title="BRASIL",GLOBO HD SP
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12413.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RJ HD" tvg-logo="https://inevent.com/es/images/clients/globo.png" group-title="BRASIL",GLOBO RJ HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12416.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Rbs_tv_logo.jpg" group-title="BRASIL",GLOBO RBS TV PORTO ALEGRE HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/23399.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO NEWS" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAABI1BMVEX///+6FBW6FBf///23FRf7//+1AACuAAC7FBbmtbf+6uj///y6FBOyAAC4AAD//f/grajDWFjWm5y2MjH/8e26DQ314d2zNTrBQkC7DwTAEhnevbWqAADqvL79/fPntrfMb3OvFBjUkI22Hyu0Ixv/+vTAAADDZWewAAn57OaiAADu0srz3O" group-title="BRASIL",GLOBO NEWS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12428.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="BRASIL",GNT HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24793.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORD SAN PABLO" tvg-logo="https://elselloactualidadcristiana.com/wp-content/uploads/2020/01/unnamed.jpg" group-title="BRASIL",RECORD SAN PABLO
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12432.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Logo_of_Rede_Record.png/220px-Logo_of_Rede_Record.png" group-title="BRASIL",RECORD HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12427.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDS NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Record-news.jpg/revision/latest?cb=20120916104700" group-title="BRASIL",RECORDS NEWS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12435.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT HD" tvg-logo="https://logonoid.com/images/sbt-logo.png" group-title="BRASIL",SBT HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12425.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDETV" tvg-logo="https://img2.freepng.es/20181122/jzv/kisspng-redetv-recife-logo-tv-cultura-5bf69ffacc3170.9778257915428894668364.jpg" group-title="BRASIL",REDETV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12511.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAND HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_da_Rede_Bandeirantes.PNG" group-title="BRASIL",BAND HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12421.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="BRASIL",BAND NEWS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12431.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.jpeg" group-title="BRASIL",VIVA HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17721.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTISHOW" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2016/10/25/660x290/b_1200x680/premio-multishow-2016-assista-ao-vivo_940251.jpg" group-title="BRASIL",MULTISHOW
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22752.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhkNTA3ZDYtNTcwZC00NDU5LWFmYTktYzc5YmE3ZTNlMWJmXkEyXkFqcGdeQXVyNjk1MzA2Njk@._V1_.jpg" group-title="BRASIL",COMEDY CENTRAL BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/39643.ts
-#EXTINF:-1 tvg-id="BR | A&E" tvg-name="A&E HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/188px-A%26E_Network_logo.svg.png" group-title="BRASIL",A&E HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88187.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/300px-2018_Animal_Planet_logo.svg.png" group-title="BRASIL",ANIMAL PLANET HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88188.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CIVILIZACION HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/480px-Discovery_Civilization_logo.svg.png" group-title="BRASIL",DISCOVERY CIVILIZACION HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88190.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL H&H HD_BR" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="BRASIL",DISCOVERY CHANNEL H&H HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88191.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE HD_BR" tvg-logo="https://w7.pngwing.com/pngs/917/937/png-transparent-discovery-science-discovery-channel-television-channel-civilization-network-television-text-logo.png" group-title="BRASIL",DISCOVERY SCIENCE HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88192.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TURBO HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="BRASIL",DISCOVERY TURBO HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88193.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD HD_BR" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="BRASIL",DISCOVERY WORLD HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88194.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Channel HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="BRASIL",Star Channel HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88195.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2 HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="BRASIL",HBO 2 HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88196.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="BRASIL",HBO FAMILY HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88197.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRASIL",HBO SIGNATURE HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88198.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY 2 HD_BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="BRASIL",HISTORY 2 HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88199.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY HD_BR" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhURDxAWFhUVFxoXFhgVGBYVEBUXGBUZGhgXFxgYHygiGBolHxgYIjElJSorMC4uGB8zODUtNygtMC0BCgoKDg0OGxAQGi8lICUtLS0vMisvLSstLSstLysvLi0tNS0rLS0tLS0vLS0tKy0rLS0tLS0tKy0tLS0tLTUtLf/AABEIALwBDAMBIgACEQEDEQH/x" group-title="BRASIL",HISTORY HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88200.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY HD_BR" tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="BRASIL",SONY HD_BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/88201.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS HD" tvg-logo="https://lzd-img-global.slatic.net/g/p/916e9b369a685e4807b704a0662ca5c7.jpg_1200x1200q80.jpg_.webp" group-title="BRASIL",UFC FIGHT PASS HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/45143.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMBATE" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_combate2008.jpg" group-title="BRASIL",COMBATE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12436.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE CLUBES 24 hr" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL",PREMIERE CLUBES 24 hr
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12494.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL",PREMIERE 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12489.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL",PREMIERE 3
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12490.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL",PREMIERE 4
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12491.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL",PREMIERE 5
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12492.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 6" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="BRASIL",PREMIERE 6
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14347.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="BRASIL",PREMIERE 7
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14348.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="BRASIL",ESPN BRASIL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12509.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png" group-title="BRASIL",ESPN 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16881.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="BRASIL",Espn 3
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/34856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN EXTRA BR" tvg-logo="https://www.satlogo.com/hires/ee/espn_extra_lam.png" group-title="BRASIL",ESPN EXTRA BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/15217.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="BRASIL",FOX SPORTS BR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12515.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRASIL",FOX SPORTS 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16883.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SporTV_HD.png/revision/latest?cb=20180304145548" group-title="BRASIL",SPORT TV HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12774.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV2" tvg-logo="https://i2.wp.com/s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="BRASIL",SPORT TV2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12434.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 3" tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1856&pfdrid_c=true" group-title="BRASIL",SPORT TV 3
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14182.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/Logos_telecine_action_2.jpg/revision/latest?cb=20141222204644" group-title="BRASIL",TELECINE ACTION
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12483.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="BRASIL",TELECINE CULT
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12484.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="BRASIL",TELECINE FUN
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12485.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="BRASIL",TELECINE PIPOCA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12488.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE PREMIUM" tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="BRASIL",TELECINE PREMIUM
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12486.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE TOUCH" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="BRASIL",TELECINE TOUCH
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12487.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FISH TV" tvg-logo="http://english.amazoniafishing.com.br/wp-content/uploads/2018/12/logo-grande-fish-tv.jpg" group-title="BRASIL",FISH TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12437.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OFF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="BRASIL",OFF HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12530.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Record TV" tvg-logo="http://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png" group-title="BRASIL",Record TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41761.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="BRASIL",Band Sport HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/96369.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="NBA VIP",-------DEPORTES ARGENTINA HD-------
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14306.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA VIP",NBA TV HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/15000.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA VIP 1" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASYAAACrCAMAAAD8Q8FaAAABLFBMVEUXQ3b///8MfrcPbqUWYK3m5+4IOnBYbZVdcJgMfLYWS34VQnYRZ50UUYTdIzfn6e8OPnNKbZXq8PQNdKwzVIITWIutvdCDka//9PHtnJr08fSvwODcHDHS4e84kcI1bbXS1OB0hKXT2+RdeJuap7+rs8cmUH9ofKCKmLPFzejIzNpBdri9wt" group-title="NBA VIP",NBA VIP 1
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11973.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Versus NBA" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png" group-title="NBA VIP",Versus NBA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11974.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SUR" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/espn-tv-logo-photo-5.png" group-title="DEPORTES ARGENTINA HD",ESPN SUR
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/20324.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 SUR_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 SUR_
@@ -968,142 +780,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16278.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11873.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN PREMIUN" tvg-logo="https://pbs.twimg.com/media/FQ4BJa-VgAALksB.jpg" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUN
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16453.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 1 HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="CANADA",TSN 1 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/21459.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png" group-title="CANADA",TSN 2 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/21460.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" group-title="CANADA",TSN 3
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/21461.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yrrvpq1433380019.png" group-title="CANADA",TSN 4
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16955.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="CANADA",CBC
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18005.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/CHCH_HD.PNG/220px-CHCH_HD.PNG" group-title="CANADA",CHCH HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55305.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OMNI East" tvg-logo="" group-title="CANADA",OMNI East
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55306.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network HD" tvg-logo="https://png.pngitem.com/pimgs/s/156-1569713_fight-network-logo-hd-png-download.png" group-title="CANADA",Fight Network HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55310.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBAL TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/1200px-Globaltoronto.svg.png" group-title="CANADA",GLOBAL TORONTO
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55311.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peachtree" tvg-logo="https://www.thebguide.com/wp-content/uploads/2017/03/PEACHTREE-TV-LOGO.png" group-title="CANADA",Peachtree
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55315.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Treehouse" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/treehouse-tv-logo-png-transparent.png" group-title="CANADA",Treehouse
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55317.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSNET ONTARIO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70398_h15_ab.png" group-title="CANADA",SPORTSNET ONTARIO
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/61061.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS 2" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="CANADA",RDS 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/61065.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSNET WORLD" tvg-logo="https://download.logo.wine/logo/Sportsnet_World/Sportsnet_World-Logo.wine.png" group-title="CANADA",SPORTSNET WORLD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/69550.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="" group-title="CANADA",A&E
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90296.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC" tvg-logo="" group-title="CANADA",ABC
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90297.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="CANADA",ANIMAL PLANET
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90301.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD" tvg-logo="" group-title="CANADA",BBC WORLD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90303.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CITY TV" tvg-logo="" group-title="CANADA",CITY TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90307.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMT" tvg-logo="" group-title="CANADA",CMT
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90308.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="" group-title="CANADA",CNBC
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90309.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="CANADA",CNN
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90310.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOKING CHANNEL" tvg-logo="" group-title="CANADA",COOKING CHANNEL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90312.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CP24" tvg-logo="" group-title="CANADA",CP24
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90313.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRAVE3" tvg-logo="" group-title="CANADA",CRAVE3
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90316.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRAVE4" tvg-logo="" group-title="CANADA",CRAVE4
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90317.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV2" tvg-logo="" group-title="CANADA",CTV2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90318.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OMNI 2" tvg-logo="" group-title="CANADA",OMNI 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90319.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEJAVIEW" tvg-logo="" group-title="CANADA",DEJAVIEW
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90320.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV VANCOUVER" tvg-logo="" group-title="CANADA",CTV VANCOUVER
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90321.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV NEWS" tvg-logo="" group-title="CANADA",CTV NEWS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90322.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV SCIFI" tvg-logo="" group-title="CANADA",CTV SCIFI
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90323.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CITY TORONTO" tvg-logo="" group-title="CANADA",CITY TORONTO
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90324.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY" tvg-logo="" group-title="CANADA",DISNEY
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90327.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEYJR" tvg-logo="" group-title="CANADA",DISNEYJR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90328.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIY NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/1200px-DIY_Network_logo.svg.png" group-title="CANADA",DIY NETWORK
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90329.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAMILY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Family_Jr._logo.svg/1280px-Family_Jr._logo.svg.png" group-title="CANADA",FAMILY JR
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90333.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOOD NETWORK CA" tvg-logo="https://w7.pngwing.com/pngs/573/578/png-transparent-logo-food-network-foodnetwork-food-science-food-text-label-thumbnail.png" group-title="CANADA",FOOD NETWORK CA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90336.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME TV" tvg-logo="" group-title="CANADA",GAME TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90339.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBAL" tvg-logo="" group-title="CANADA",GLOBAL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90340.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLF" tvg-logo="" group-title="CANADA",GOLF
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90341.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 1" tvg-logo="" group-title="CANADA",HBO 1
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90342.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HS 00" tvg-logo="" group-title="CANADA",HS 00
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90347.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HS 90" tvg-logo="" group-title="CANADA",HS 90
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90348.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="" group-title="CANADA",LIFETIME
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90349.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX" tvg-logo="" group-title="CANADA",MAX
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90350.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="CANADA",MOVIETIME
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90352.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="CANADA",MTV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90353.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSNET ONE" tvg-logo="https://download.logo.wine/logo/Sportsnet_One/Sportsnet_One-Logo.wine.png" group-title="CANADA",SPORTSNET ONE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90356.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSNET EAST" tvg-logo="" group-title="CANADA",SPORTSNET EAST
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90357.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLN" tvg-logo="" group-title="CANADA",OLN
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90362.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OMNI 1" tvg-logo="" group-title="CANADA",OMNI 1
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90363.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="CANADA",E! ENTERTAINMENT
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90364.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRISE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/2560px-Prise_2_logo_%282018%29.svg.png" group-title="CANADA",PRISE 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90370.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SILVER SCREEN CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/1200px-Silverscreenclassics.svg.png" group-title="CANADA",SILVER SCREEN CLASSICS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90371.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="CANADA",YES TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90372.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES NETWORK" tvg-logo="https://img.mlbstatic.com/opprops-images/image/upload/t_16x9/w_2208/opprops/qtk1lv6ymaqmx1zkqpxy.png" group-title="CANADA",YES NETWORK
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90373.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="CANADA",LOVE NATURE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90375.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELETOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Teletoon_logo_2007.svg/2560px-Teletoon_logo_2007.svg.png" group-title="CANADA",TELETOON
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90377.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="CANADA",SMITHSONIAN CHANNEL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90378.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TREE HOUSE" tvg-logo="https://seeklogo.com/images/T/treehouse-logo-5C3BBBD458-seeklogo.com.png" group-title="CANADA",TREE HOUSE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90379.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXX" tvg-logo="https://download.logo.wine/logo/FXX_(Canadian_TV_channel)/FXX_(Canadian_TV_channel)-Logo.wine.png" group-title="CANADA",FXX
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90380.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IFC" tvg-logo="" group-title="CANADA",IFC
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90386.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COTTAGE LIFE" tvg-logo="https://res.cloudinary.com/blue-ant/image/upload/v1569272009/CL-Logo/cottagelifelogo.png" group-title="CANADA",COTTAGE LIFE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90388.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ici RDI NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ici_Tele_logo.png/223px-Ici_Tele_logo.png" group-title="CANADA",Ici RDI NEWS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90389.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/TVA_Sports_%28logo%2C_2021%29.svg/1200px-TVA_Sports_%28logo%2C_2021%29.svg.png" group-title="CANADA",TVA SPORTS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90392.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSNET 360" tvg-logo="https://download.logo.wine/logo/Sportsnet_360/Sportsnet_360-Logo.wine.png" group-title="CANADA",SPORTSNET 360
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90393.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="CANADA",AMC
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90394.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------DEPORTES ESPAÑA------" tvg-logo="" group-title="DEPORTES ESPAÑA",------DEPORTES ESPAÑA------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12836.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT SP" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="DEPORTES ESPAÑA",BEIN SPORT SP
@@ -1560,40 +1236,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/39172.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/39173.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dog el cazarrecompensas" tvg-logo="" group-title="ENTRETENIMIENTOS",Dog el cazarrecompensas
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/39175.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="--------TELENOVELAS-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_de_Telenovela.png" group-title="TELENOVELAS",--------TELENOVELAS-------
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12835.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="kanal d drama" tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="TELENOVELAS",kanal d drama
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17434.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="TELENOVELAS",TNT Novelas
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11623.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DE LAS ESTRELLAS SD" tvg-logo="https://adminweb.onlycable.es/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="TELENOVELAS",CANAL DE LAS ESTRELLAS SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11954.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA CORAZON SD" tvg-logo="https://masmediatv.es/images/2020/canales-azcorazon.png" group-title="TELENOVELAS",AZTECA CORAZON SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11955.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN Novelas" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipfuuc8AqD1eXWUOfdkJQTRDk36UlLNtwyRc57R1P2orDjn5bYNyaJmb_owpChyTAxHhFeQCgQNPURKtINIlFYngvD2uBuvT8L44qs4mUIGxU8LDBz6-v89agAFMluWVhJE00UNdJvseomlDGhjEOcOprg_6KvbokiVMnQSjz6UCwbsd8Dq2aKVBVX/s257/rcn-n" group-title="TELENOVELAS",RCN Novelas
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11963.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELENOVELAS SD" tvg-logo="https://yt3.ggpht.com/a/AGF-l79YQNoOLVrcz6fDSmLP_h0yC4NQcld4cplRuw=s900-mo-c-c0xffffffff-rj-k-no" group-title="TELENOVELAS",TELENOVELAS SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11960.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DE LAS ESTRELLAS HD" tvg-logo="https://adminweb.onlycable.es/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="TELENOVELAS",CANAL DE LAS ESTRELLAS HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11952.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TL NOVELAS UNIVISION HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQSEhIQEBIWFhUQExIVFxQWFREVGBcXFxYWFxUXFRgaHy0gGBonGxYXITEhJSorLjAuFyAzODUsNyktLisBCgoKDg0OGxAQGjUlHiE3NzcrNzQ3LS8sMisrMis4NTc1NS8tNzA2Ny03Ly0tNisrKy0rKy8tLS0rLS0rLS0tMP/AABEIAKcBLQMBIgACEQEDEQH/x" group-title="TELENOVELAS",TL NOVELAS UNIVISION HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11964.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV Novelas Turcas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/1200px-Atv_logo_2010.svg.png" group-title="TELENOVELAS",ATV Novelas Turcas
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11961.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA CORAZON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="TELENOVELAS",AZTECA CORAZON HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11956.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Telemundo Telenovelas" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="TELENOVELAS",Pluto TV Telemundo Telenovelas
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16538.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SNT (Paraguay)" tvg-logo="http://cdn.snt.com.py/sites/common/img/logo_snt.png" group-title="TELENOVELAS",SNT (Paraguay)
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16902.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony One Novelas" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/Series_Sony_One_Novelas_Circle.png" group-title="TELENOVELAS",Sony One Novelas
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/102502.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Estrellas -2 Hrs" tvg-logo="https://editorialtelevisa.brightspotcdn.com/dims4/default/fefb621/2147483647/strip/true/crop/1200x676+0+12/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2F87%2F4d6923624ef8b6d4e7e6cb3" group-title="TELENOVELAS",Las Estrellas -2 Hrs
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/109632.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 02 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 02 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12053.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 03 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 03 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12054.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 04 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 04 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12055.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 05 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 05 PPV
@@ -1608,60 +1250,20 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12059.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12060.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 10 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 10 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12061.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 11 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 11 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12062.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 12 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 12 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12063.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 13 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 13 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12064.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 14 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 14 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12065.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 15 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 15 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12066.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 16 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 16 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12067.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 17 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 17 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12068.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 18 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 18 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12069.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 19 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 19 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12070.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 20 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 20 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12071.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 21 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 21 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12072.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 22 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 22 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12073.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 23 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 23 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12074.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 24 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 24 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12075.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 25 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 25 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12076.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 26 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 26 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12077.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 27 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 27 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12078.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 28 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 28 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12079.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 29 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 29 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12080.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 30 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 30 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12081.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 31 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 31 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12082.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 32 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 32 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12083.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 33 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 33 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12084.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 34 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 34 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12085.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 35 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 35 PPV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12086.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 36 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="PPV FHD",Cinema 36 PPV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12087.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANT TV" tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",ANT TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14028.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="PERU",ATV
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14029.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/1200px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="PERU",AMERICA TV
@@ -1710,166 +1312,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18000.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18001.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/1200px-Telemedellin.svg.png" group-title="COLOMBIA",TELEMEDELLIN
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18002.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Miami" tvg-logo="http://factreal.wordpress.com/files/2009/10/cbs4.jpg" group-title="USA",CBS Miami
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16848.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WBFS Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MyTV33.svg/2560px-MyTV33.svg.png" group-title="USA",WBFS Miami
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="USA",ABC MIAMI
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16867.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="USA",TELEMUNDO MIAMI
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12743.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO 52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="USA",TELEMUNDO 52
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12742.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC WTVJDT - MIAMI/FORT LAUDERDALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/1200px-WTVJ_%282012_-_Flat%29.svg.png" group-title="USA",NBC WTVJDT - MIAMI/FORT LAUDERDALE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16854.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA",UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16849.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="USA",Animal Planet
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16866.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="USA",National Geographic
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16864.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="USA",TENNIS CHANNEL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16865.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL USA" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg" group-title="USA",DISCOVERY CHANNEL USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16860.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="USA",Cartoon Network
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16847.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="USA",Disney XD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fishing Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA",World Fishing Network HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16855.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="USA",MLB NETWORK
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16861.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD:ESPN" tvg-logo="https://i.pinimg.com/originals/c6/9a/d0/c69ad0b9b100baa3e42e0cd4373b19a7.png" group-title="USA",HD:ESPN
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24633.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD:ESPN 2" tvg-logo="https://www.logolynx.com/images/logolynx/e0/e035728cb8bab598fbba5861ef68c0ad.png" group-title="USA",HD:ESPN 2
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24634.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn 3" tvg-logo="https://www.pesdish.com/wp-content/uploads/2016/07/acmax.png" group-title="USA",Espn 3
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24445.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN News" tvg-logo="https://archive.org/download/EspnNews/espn%20news.png" group-title="USA",ESPN News
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24444.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg" group-title="USA",NHL NETWORK
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16863.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABY TV" tvg-logo="http://pequelia.republica.com/files/2010/03/baby_tv.jpg" group-title="USA",BABY TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16911.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teen Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="USA",Teen Nick
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16950.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/OneSoccer_logo.svg/1200px-OneSoccer_logo.svg.png" group-title="USA",ONE SOCCER
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16951.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/1200px-Discovery_Family_logo.svg.png" group-title="USA",DISCOVERY FAMILY CHANNEL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16961.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="USA",TLC
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16966.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA NETWORK" tvg-logo="https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg" group-title="USA",USA NETWORK
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18566.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo International" tvg-logo="https://www.newslinereport.com/online/nota_distincin-para-telemundo-internacional-durante-los-dari-awards.jpg" group-title="USA",Telemundo International
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18567.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime" tvg-logo="https://i.pinimg.com/originals/96/18/20/9618206da4f4b46df30d03aace0f081c.jpg" group-title="USA",Showtime
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22546.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="USA",CNBC World HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22613.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2 USA" tvg-logo="https://www.ilovesatellitetv.com/images/hbo-2.jpg" group-title="USA",HBO 2 USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22617.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! ENTERTAINMENT TELEVISION" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/e1-1-logo-black-and-white.png" group-title="USA",E! ENTERTAINMENT TELEVISION
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22618.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epix HD" tvg-logo="https://seeklogo.com/images/E/epix-tv-network-logo-8FFA240096-seeklogo.com.png" group-title="USA",Epix HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22619.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/XEd15.jpg" group-title="USA",HBO Signature
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22621.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History HD USA" tvg-logo="https://logo-all.ru/uploads/posts/2018-11/0_history_channel_logo.jpg" group-title="USA",History HD USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/22623.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS WFOR-TV  MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WFOR-TV_CBS_4.svg/220px-WFOR-TV_CBS_4.svg.png" group-title="USA",CBS WFOR-TV  MIAMI
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24443.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD:Discovery Channel" tvg-logo="https://www.pngfind.com/pngs/m/431-4313621_discovery-channel-hd-png-download.png" group-title="USA",HD:Discovery Channel
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24630.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN HD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266879_cnn-hd.jpg" group-title="USA",CNN HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24629.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="USA",TNT HD USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/24678.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="USA",Discovery Life
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55375.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount" tvg-logo="https://w7.pngwing.com/pngs/165/577/png-transparent-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-blue-thumbnail.png" group-title="USA",Paramount
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/55377.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports" tvg-logo="https://seeklogo.com/images/C/cbs-sports-logo-5DF461F39C-seeklogo.com.png" group-title="USA",CBS Sports
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66869.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNDANCE" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png" group-title="USA",SUNDANCE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66871.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="USA",SONY MOVIE CHANNEL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66872.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FREE FORM" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA",FREE FORM
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66873.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX EAST" tvg-logo="https://www.pngfind.com/pngs/m/204-2047747_cinemax-logo-hd-png-download.png" group-title="USA",CINEMAX EAST
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66878.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOKING CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/2560px-Cooking_Channel.svg.png" group-title="USA",COOKING CHANNEL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66879.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COZI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1200px-Cozi_TV_logo.svg.png" group-title="USA",COZI TV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66880.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX HITS" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/EPIXH-logo.png" group-title="USA",EPIX HITS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66881.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="USA",FOX NEWS
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66883.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV USA" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hgtv-logo-png-transparent.png" group-title="USA",HGTV USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66884.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://w7.pngwing.com/pngs/97/535/png-transparent-investigation-discovery-television-show-television-channel-logo-investigation-discovery-television-text-television-documentary.png" group-title="USA",INVESTIGATION DISCOVERY
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66885.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="https://w7.pngwing.com/pngs/689/805/png-transparent-national-geographic-society-nat-geo-wild-television-channel-others-television-text-rectangle.png" group-title="USA",NAT GEO WILD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66887.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="USA",NAT GEO
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/66888.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIMáS Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/WAMI69_Logo_2021.png" group-title="USA",UNIMáS Miami
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/73699.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RACING AMERICA" tvg-logo="https://photos.smugmug.com/RA-Logos-/i-THPBPLq/1/23e7ccf0/L/RacingAmerica-Logo-FullColor-L.png" group-title="USA",RACING AMERICA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/90110.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Family USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/1200px-Starz_2008.png" group-title="USA",Starz Family USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100046.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/1200px-Starz_2008.png" group-title="USA",Starz Encore USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100047.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Black USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/1200px-Starz_2008.png" group-title="USA",Starz Encore Black USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100048.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Action USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/1200px-Starz_2008.png" group-title="USA",Starz Encore Action USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100049.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Edge USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/1200px-Starz_2008.png" group-title="USA",Starz Edge USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100050.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Comedy USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/1200px-Starz_2008.png" group-title="USA",Starz Comedy USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100051.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/1200px-Starz_2008.png" group-title="USA",Starz Cinema USA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100052.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epix2 HD" tvg-logo="https://seeklogo.com/images/E/epix-tv-network-logo-8FFA240096-seeklogo.com.png" group-title="USA",Epix2 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100053.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT TENNIS HD" tvg-logo="https://pbs.twimg.com/profile_images/1752313472325431296/jr-YrkR6_400x400.png" group-title="USA",SKY SPORT TENNIS HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SportsNet One HD" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="USA",SportsNet One HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100055.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSNET 360" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="USA",SPORTSNET 360
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/100056.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 1 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101363.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 2 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101364.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 3 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101365.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 4 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101366.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 5 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101367.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 6 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101368.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 7 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101369.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 8 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101370.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 9 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101371.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 10 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101372.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 11 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101373.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 12 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101374.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB 13 HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101375.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAVO EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="USA",BRAVO EAST
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/103301.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------MUSICA-------" tvg-logo="https://sinfoniafantastica.wordpress.com/files/2008/08/musica.jpg" group-title="MUSICA",------MUSICA-------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12815.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_HTV_2009.jpg" group-title="MUSICA",HTV  HD
@@ -1982,18 +1424,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/39718.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41641.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POLSAT 1" tvg-logo="" group-title="INTERNACIONALES",POLSAT 1
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/41642.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN ESPAÑOL HD" tvg-logo="https://secure.gravatar.com/blavatar/b238e5839cd6b86e354c397f8c58c295?s=200&ts=1559688083" group-title="NOTICIA",CNN ESPAÑOL HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11815.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/240px-BBC_World_News_red.svg.png" group-title="NOTICIA",BBC WORLD SD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11825.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE 24  HD" tvg-logo="https://www.talkwalker.com/Pictures/Brands/small/csm-france24-talkwalker-d017ac7be6..png" group-title="NOTICIA",FRANCE 24  HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11817.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN INTERNACIONAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/200?cb=20091201161552" group-title="NOTICIA",CNN INTERNACIONAL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14131.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41TyeSZdDAL.png" group-title="NOTICIA",DW
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELESUR HD" tvg-logo="http://www.prensario.net/Multimedios/imgs/5984_468.jpg" group-title="NOTICIA",TELESUR HD
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11876.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="---------24/7-------" tvg-logo="https://audioforo.com/wp-content/uploads/2015/01/Full-HD-logo-1-1.jpg" group-title="24/7",---------24/7-------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12822.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ACCION 01" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",CINE ACCION 01
@@ -2010,11 +1440,11 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/74602.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/74603.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El mentalista" tvg-logo="" group-title="24/7",El mentalista
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/74604.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE: Animación 03" tvg-logo="" group-title="24/7",CINE: Animación 03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Club" tvg-logo="" group-title="24/7",Cine Club
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/74605.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE: Familiar 01" tvg-logo="" group-title="24/7",CINE: Familiar 01
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/74606.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE: Familiar 02" tvg-logo="" group-title="24/7",CINE: Familiar 02
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE: ORO" tvg-logo="" group-title="24/7",CINE: ORO
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/74607.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Laboratorio de Dexter [1 - 4T]" tvg-logo="" group-title="24/7",El Laboratorio de Dexter [1 - 4T]
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/74608.ts
@@ -2112,13 +1542,13 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16423.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16424.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson (Temporadas 1-5)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 1-5)
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/38573.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson (Temporadas 12-17)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 12-17)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sin senos sí hay paraíso" tvg-logo="" group-title="24/7",Sin senos sí hay paraíso
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/38574.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson (Temporadas 18-21)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 18-21)
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/38575.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson (Temporadas 22-26)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 22-26)
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/38576.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson (Temporadas 27-30)" tvg-logo="" group-title="24/7",Los Simpson (Temporadas 27-30)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sin Senos no hay Paraíso" tvg-logo="" group-title="24/7",Sin Senos no hay Paraíso
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/38577.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SD:EL CHAVO DEL 8" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",SD:EL CHAVO DEL 8
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16425.ts
@@ -2226,7 +1656,7 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/73715.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/73716.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ranma ½ HD" tvg-logo="" group-title="24/7",Ranma ½ HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/73717.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS 2023" tvg-logo="" group-title="24/7",ESTRENOS 2023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Romantico" tvg-logo="" group-title="24/7",Cine Romantico
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101814.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peliculas Inframundo" tvg-logo="" group-title="24/7",Peliculas Inframundo
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/101815.ts
@@ -2284,45 +1714,3 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/61038.ts
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/61039.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10 - EL SALVADOR-" tvg-logo="https://pbs.twimg.com/profile_images/1610321782292070403/66xclGre_400x400.jpg" group-title="El SALVADOR",CANAL 10 - EL SALVADOR-
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/61040.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUYAPA" tvg-logo="" group-title="HONDURAS",SUYAPA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/70845.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECADENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/800px-Telecadena7y42018.png" group-title="HONDURAS",TELECADENA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/70846.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/800px-Canal_5_HN_logo_2019.png" group-title="HONDURAS",CANAL 5
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/70847.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" group-title="HONDURAS",HCH
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/70848.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/640px-Canal_11_HN_logo_2010.png" group-title="HONDURAS",CANAL 11
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/70849.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELESISTEMA" tvg-logo="https://cdn.mitvstatic.com/channels/hn_telesistema-hondureno_m.png" group-title="HONDURAS",TELESISTEMA
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/70850.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV" tvg-logo="https://seeklogo.com/images/V/VTV-logo-5E155FA946-seeklogo.com.png" group-title="HONDURAS",VTV
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/70851.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CX 20 RADIO MONTECARLO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Radio_Monte_Carlo.jpg/245px-Radio_Monte_Carlo.jpg" group-title="RADIOS EN VIVO",CX 20 RADIO MONTECARLO
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/13054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RADIO CARVE" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMODhISEg4QDxEVFxUWFhYWEBUQEhgSFxEiFxkVGBYYICkgGBomGxgVITEhJSkrLi4uGCAzODMsNyktLi4BCgoKDg0OGxAQGy0lHyUtNystLS8tLS0tLS0tNy0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLf/AABEIAMgAyAMBEQACEQEDEQH/x" group-title="RADIOS EN VIVO",RADIO CARVE
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/13055.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RADIO CERO 104.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Radiocero.jpeg/220px-Radiocero.jpeg" group-title="RADIOS EN VIVO",RADIO CERO 104.3
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/13056.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="970 AM RADIO UNIVERSAL" tvg-logo="" group-title="RADIOS EN VIVO",970 AM RADIO UNIVERSAL
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14187.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Océano FM" tvg-logo="" group-title="RADIOS EN VIVO",Océano FM
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14192.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clarin AM 580" tvg-logo="" group-title="RADIOS EN VIVO",Clarin AM 580
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/15338.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fortaleza vs. Vélez | martes 12/8 a las 19hs en el Arena Castelão" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Fortaleza vs. Vélez | martes 12/8 a las 19hs en el Arena Castelão
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136009.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atlético Nacional vs. Sao Paulo | martes 12/8 a las 21.30hs en el Atanasio Girardot" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Atlético Nacional vs. Sao Paulo | martes 12/8 a las 21.30hs en el Atanasio Girardot
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136010.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peñarol vs. Racing | martes 12/8 a las 21.30hs en el Campeón del Siglo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Peñarol vs. Racing | martes 12/8 a las 21.30hs en el Campeón del Siglo
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136011.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cerro Porteño vs. Estudiantes | miércoles 13/8 a las 19hs en La Nueva Olla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Cerro Porteño vs. Estudiantes | miércoles 13/8 a las 19hs en La Nueva Olla
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136012.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flamengo vs. Internacional | miércoles 13/8 a las 21.30hs en el Maracaná" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Flamengo vs. Internacional | miércoles 13/8 a las 21.30hs en el Maracaná
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136013.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Botafogo vs. Liga de Quito | jueves 14/8 a las 19hs en el Olímpico Nilton Santos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Botafogo vs. Liga de Quito | jueves 14/8 a las 19hs en el Olímpico Nilton Santos
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136014.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Libertad vs. River | jueves 14/8 a las 21.30hs en el Defensores del Chaco" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Libertad vs. River | jueves 14/8 a las 21.30hs en el Defensores del Chaco
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136015.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universitario vs. Palmeiras | jueves 14/8 a las 21.30hs en el Monumental U" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="OCTAVOS DE FINAL COPA LIBERTADORES 2025",Universitario vs. Palmeiras | jueves 14/8 a las 21.30hs en el Monumental U
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/136016.ts
