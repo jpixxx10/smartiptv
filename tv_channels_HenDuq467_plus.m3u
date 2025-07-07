@@ -1161,916 +1161,244 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576568.ts
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576569.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ZONA VIX",VIX  CANAL 5
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576570.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",A and E i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158672.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",A and E LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278390.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",A and E P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278388.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",A and E HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278389.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AdultSwim P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278391.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AdultSwim HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278392.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AMC i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158670.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AMC P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278393.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AMC HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278394.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AXN i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158671.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AXN LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278387.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AXN P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278385.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",AXN HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278386.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Comedy Central P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278409.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Comedy Central HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278410.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Familia i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165457.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Home and Health i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165458.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Home and Health LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278412.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Home and Health P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278395.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Home and Health HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278411.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery TLC LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278441.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery TLC P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278407.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery TLC HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278413.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Turbo HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165462.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Turbo P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278396.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Discovery Turbo HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278414.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Distrito Comedia P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278415.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Distrito Comedia HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278416.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",E! i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158678.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",E! LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278419.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",E! P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278417.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",E! HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278418.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",El Gourmet i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158679.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",El Gourmet LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278422.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",El Gourmet P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278420.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",El Gourmet
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278421.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Estrella Tv i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158680.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Europa Europa i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158681.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Europa Europa HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278399.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Euro Channel P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278423.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Film y Arts i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158682.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Food Network i HD
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/298274.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Food Network i.
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166446.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Food Network LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278425.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Food Network P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278401.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",FX i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158684.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",FX i.
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158782.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",FX LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278428.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",FX P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278426.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",FX HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278427.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278705.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Albuquerque Santa Fe P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278706.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Atlanta P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278707.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Austin P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278708.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Cleveland P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278709.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Dallas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278710.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Fresno P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278711.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Houston P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278712.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision LA P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278713.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Las Vegas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278714.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Miami i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158686.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Miami P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278715.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision New York i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158685.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision New York P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278716.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Philadelphia P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278717.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Phoenix P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278718.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Raleigh P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278719.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Sacramento i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158687.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Sacramento P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278720.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision Salt Lake P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278721.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision San Antonio P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278722.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Galavision San Francisco P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278723.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Garage Tv P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278397.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",HGTV LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278431.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",HGTV P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278429.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",HGTV HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278430.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Hola Tv i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158688.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Hola Tv P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278398.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",HTV P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278402.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",KANAL D Drama HD I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/KANALDDramaHDI.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Lifetime LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278434.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Lifetime P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278432.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Lifetime HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278433.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Mas Chic P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278435.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",MVS Tv P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278358.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Pasiones i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158691.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Pasiones HD I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/296579.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Pasiones LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278436.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Pasiones HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278403.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Sony HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/159201.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Sony LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278437.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Sony P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278404.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Sony HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278405.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278440.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278438.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278439.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166927.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel HD i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166928.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel HD i op3
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166929.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel HD i op4
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166930.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Star Channel FHD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158692.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Syfy i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158694.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",TCM P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278406.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278665.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Atlanta P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278659.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Boston i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158738.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Boston P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278660.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Chicago i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158735.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Chicago P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278662.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Connecticut i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158730.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Charlotte P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278681.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Dallas i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158739.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Dallas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278674.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Denver i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158747.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Denver P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278663.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo East i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158748.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Fresno P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278675.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Houston i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165253.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Houston P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278664.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Inter i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165233.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Inter i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165234.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Internacional P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278685.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Laredo TX i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158746.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Laredo P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278666.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Las Vegas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278667.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Los Angeles i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158732.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Los Angeles P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278661.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo McAllen i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166084.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo 40 Mc Allen Tx P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278657.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo 51 Miami P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278680.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo New Orleans i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158737.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo New Orleans P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278668.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo 47 New York P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278678.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Newjersey P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278669.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Nueva Inglaterra i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158745.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Ohio P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278684.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Orlando P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278682.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Phoenix P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278670.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Philadelphia i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158736.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo 54 Raleigh P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278658.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Sacramento i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158733.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo 33 Sacramento P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278656.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Salt Lake City i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158744.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo 20 Salt Lake P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278677.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo San Antonio i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158728.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo San Antonio P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278671.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo San Diego i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158731.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo San Diego 20 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278672.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo San Francisco i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158743.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo 48 San Francisco P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278679.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Tampa P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278676.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Tuscon i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158742.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Washington i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158740.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Wisconsin P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278673.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Telemundo Wshintong 44 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278683.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",TNT Novelas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278408.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",TNT Series i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165451.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",TNT Series LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278444.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",TNT Series P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278442.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",TNT Series HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278443.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unicable LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278447.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unicable P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278445.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unicable HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278446.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158761.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Albuquerque Santa Fe P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278724.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Atlanta i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158760.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Austin i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158758.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Austin P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278725.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Cleveland P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278726.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Dallas i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158752.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Fresno P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278727.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Houston P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278728.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Los Angeles i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158753.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas LA P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278737.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Las Vegas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278729.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Miami i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158750.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Miami P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278730.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas New York i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158749.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas New York P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278731.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Philadelphia i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158756.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Phoenix i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158762.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Phoenix P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278732.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Porterville i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158754.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Raleigh P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278733.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Sacramento i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158759.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Sacramento P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278734.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Salt Lake P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278735.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas San Antonio i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158755.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas San Antonio P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278736.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Unimas Tucson i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158751.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Atlanta P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278693.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Chicago i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158770.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Chicago P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278701.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Dallas i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158773.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Dallas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278694.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univison 23 KUVN Dallas Fort Worth I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/299488.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Denver i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158763.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Fresno P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278703.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Fort Worth TX i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158766.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Green Valley i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158772.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Houston i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158769.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Houston P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278697.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Los Angeles i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158775.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision LA 34 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278688.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Las Vegas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278698.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Miami i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158768.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Miami P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278699.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision 48 Mcallen TX P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278686.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision 42 Nashville P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278692.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Network i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158767.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision New York i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158774.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision New York P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278702.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Orlando P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278704.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Philadelphia i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158771.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Phoenix P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278687.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision 40 Raleigh P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278691.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Sacramento i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158765.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Sacramento P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278700.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Salt Lake i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158764.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Salt Lake P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278696.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision San Diego i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158777.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision San Francisco P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278695.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Seattle i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158776.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Seattle P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278689.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision Washington DC HD I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/298919.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Univision TL Novelas P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278690.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",USA Latino P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278451.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",USA Latino HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278452.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Warner Tv HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165455.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Warner LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278455.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Warner P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278453.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Warner HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278454.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Adrenalina Sports i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158795.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Adrenalina Sports Network P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278572.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Adrenalina Sports Network HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278573.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",AyM Sports i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158797.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",AYM Sports LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278562.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",AYM Sports P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278574.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",AYM Sports HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278575.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Azteca Deportes P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278576.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Azteca Deportes HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278577.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Arizona i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158810.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Detroit i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158809.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Florida i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158808.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Great Lakes i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158814.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Indiana i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158812.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Kansas City i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158811.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Midwest i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158807.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports New Orleans i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158816.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports North i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158806.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Ohio i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158805.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Oklahoma i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158815.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports San Diego i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158804.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports SoCal i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158813.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports South i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158801.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Southeast i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158803.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Southwest i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158802.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Sun i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158800.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports West i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158799.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bally Sports Wisconsin i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158798.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Esp p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279422.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Esp p op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279420.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Esp i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158817.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Eng p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/161161.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Eng i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158818.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Eng i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/161291.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Eng i op3
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/161273.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Extra Esp i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/161181.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports Extra Eng p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279421.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports 4 p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279415.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports 5 p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279416.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports 6 p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279417.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports 7 p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279418.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Bein Sports 8 p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279419.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Caza y Pesca i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158820.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Claro Sports i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/167183.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Claro Sports LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278557.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Claro Sports P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278554.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Claro Sports HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278556.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Combate TV I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/296573.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",DAZN 2 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158823.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",DAZN F1 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/167874.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",DAZN F1 p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278827.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",DAZN F1 p op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278826.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports F1 p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278909.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports F1 HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286221.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports F1 HD i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286223.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",DAZN La Liga i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158825.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158826.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278589.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278578.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278588.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 2 SD p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/159320.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 2 HD p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/277642.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 2 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158827.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 3 LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278581.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 3 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278579.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 3 HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278580.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 3 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158828.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 4 LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278584.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 4 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278582.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 4 HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278583.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 4 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158829.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 5 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278558.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 6 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278566.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN 7 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278567.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN Deportes i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158831.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN Extra i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158830.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN Extra LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278587.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN Extra P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278585.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN Extra HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278586.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ESPN Premium i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158832.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158833.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278595.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports MX HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278597.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports MX P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278596.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports 2 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158834.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports 2 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278590.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports 2 HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278591.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports 3 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158835.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports 3 LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278592.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports 3 MX HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278594.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports Premium i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158836.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports Premium LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278599.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Sports Premium HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278598.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Fox Deportes i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158838.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Golf Channel MX p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278568.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Golf Channel ENG p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/279455.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Golf Channel ENG i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158839.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Golf Channel ENG i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/161279.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",ITV Deportes I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/296572.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Movistar Golf p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278851.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Movistar Golf i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/167627.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Golf UK p
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278906.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Golf UK i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/163452.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Latin American Sports P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278555.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",MLB Network i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158840.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",NBA Tv i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158843.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",NFL Network i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158841.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",NFL Red Zone i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158842.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",NHL Network i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158844.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Red Bull TV P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278569.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Arena HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286222.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Calcio HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286226.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Bundes HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/281188.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Football HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286228.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports La Liga HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/281187.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Premier League HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/164433.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports 24 It HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286220.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports 24 It HD i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286224.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports 24 It HD i op3
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286225.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports News HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286227.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",SKY Sports Mix HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286229.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Tennis Channel i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158845.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TNT Sports i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158846.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN MX i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158848.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278560.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278561.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278559.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN USA i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/162308.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN VIX i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286081.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 1 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/298920.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 2 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286083.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 3 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286084.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 4 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286085.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 5 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286086.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 6 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286087.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 7 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286088.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 8 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286089.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 9 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286090.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 10 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286091.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TUDN Xtra 11 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286092.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TVC Deportes i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158850.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TVC Deportes LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278565.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TVC Deportes P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278563.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TVC Deportes HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278564.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TVC Deportes 2 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158566.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TVG i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158851.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TVG2 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158852.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",TyC Sports i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/285432.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",UFC TV i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158853.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",WWE Network i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158854.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Zona TUDN i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286080.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Zona TUDN MX P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278570.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",Zona TUDN USA P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278571.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DEPORTES",World Fishing Network HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/296577.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Animal Planet P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278616.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Animal Planet HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278617.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Channel SD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166472.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Channel SD i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166561.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Channel HD i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166560.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Channel HD i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/166473.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Channel LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278620.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Channel P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278618.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Channel HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278619.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery ID i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165459.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Investigation Discovery LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278635.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Investigation Discovery P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278633.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Investigation Discovery HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278634.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Science i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165460.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Science P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278621.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Theater i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165461.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Theather P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278622.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery Theather HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278623.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery World i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/165463.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery World LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278626.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery World P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278624.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Discovery World HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278625.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158861.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286611.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278632.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278628.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278630.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278631.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History 2 i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158862.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History 2 LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278627.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",History 2 P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278629.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Love Nature I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/296574.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",NatGeo i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158863.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Nat Geo LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278638.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Nat Geo P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278636.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Nat Geo HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278637.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",NatGeo Mundo i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158865.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",NatGeo Mundo i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/161262.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",Travelxp HD I
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/296575.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="CULTURALES",WOBI P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278639.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Bandamax LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278605.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Bandamax P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278603.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Bandamax HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278604.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",EXA TV P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278606.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",MTV LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278611.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",MTV P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278601.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",MTV HITS P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278602.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",MTV Live LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278610.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",MTV Live P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278608.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",MTV Live HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278609.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Telehit Plus P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278615.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Telehit Plus LQ P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278614.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Telehit Plus HD P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278612.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Telehit Urbano P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278613.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",Teleritmo P
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278600.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo 2k i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286232.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo 70s i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286233.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo 80s i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286234.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo 90s i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286235.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo Country i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286236.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo Iconos Latinos i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286237.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo Latino i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286238.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo Pop i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286239.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo RyB i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286240.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo RyB i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286241.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo Retro Rock i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286244.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo Reggaeton y Trap i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286242.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo True School HipHop i
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286245.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="MÚSICA",vevo True School HipHop i op2
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/286246.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tigosports.png" , Tigo Sports HD (Honduras)
+https://bigboss.bemtv.cn/STREAM/16182/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tigosports.png" , Tigo Sports HD (Costa Rica)
+https://otakon.bemtv.cn/STREAM/7495/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/tigosports.png", Tigo Sports 2 - (Costa Rica)
+https://otakon.bemtv.cn/STREAM/23195/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tigosports.png" , Tigo Sports HD (Panama)
+https://bigboss.bemtv.cn/STREAM/13118/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/futv.png", FuTV HD
+https://bigboss.bemtv.cn/STREAM/22555/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/skysportsmx.png" , Sky Sports 1 HD
+https://otakon.bemtv.cn/STREAM/12249/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://logos.com/logo.png" , Sky Sports 2
+https://bigboss.bemtv.cn/STREAM/22637/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/skysportsmx.png" , Sky Sports 16 HD
+https://bigboss.bemtv.cn/STREAM/8458/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/skysportsmx.png" , Sky Sports 21
+https://bigboss.bemtv.cn/STREAM/22638/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/skysportsmx.png" , Sky Sports 24 HD
+https://otakon.bemtv.cn/STREAM/8468/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/futv.png", FuTV +HD
+https://bigboss.bemtv.cn/STREAM/22556/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tdmas.png" , TD+ HD
+https://bigboss.bemtv.cn/STREAM/8110 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tdmas2.png" , TD+ 2 HD
+https://bigboss.bemtv.cn/STREAM/11178/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/cable_onda_sports_pa_1.png" , Cable Onda Sports HD
+https://otakon.bemtv.cn/STREAM/8671/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/cos2.png" , Cable Onda Sports FC HD
+https://otakon.bemtv.cn/STREAM/8711/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/ser_tv_pa.png" , Ser TV Deportes
+https://otakon.bemtv.cn/STREAM/23627/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportsmax-jm.png" , SportMax 1 HD
+https://otakon.bemtv.cn/STREAM/22392/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportsmax-jm.png" , SportMax 2 HD
+https://otakon.bemtv.cn/STREAM/22393/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/cdn_sports_max_do.png" , CDN SportsMax
+https://bigboss.bemtv.cn/STREAM/1734/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/movistar-la-liga.png", Movistar - La Liga HD
+https://otakon.bemtv.cn/STREAM/458/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/be_in_sports_us.png" , Bein Sports USA
+https://bigboss.bemtv.cn/STREAM/1716/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/be_in_sports_espanol.png" , Bein Sports \u0 :-1 group-title="⚽ DEPORTES"0 :-1 group-title="⚽ DEPORTES"d1
+https://otakon.bemtv.cn/STREAM/130 :-1 group-title="⚽ DEPORTES"39/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/bein-xtra.png", Bein Sports XTRA \u0 :-1 group-title="⚽ DEPORTES"0 :-1 group-title="⚽ DEPORTES"d1
+https://otakon.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"72/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/WuMd_CEo.png" , Gol Peru HD
+https://metalgear.bemtv.cn/STREAM/7669/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/WuMd_CEo.png" , Gol Peru
+https://bigboss.bemtv.cn/STREAM/22867/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/movistar-deportes.png", Movistar Deportes - PE
+https://metalgear.bemtv.cn/STREAM/7668/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/liga1-max.png", Liga 1 MAX HD
+https://otakon.bemtv.cn/STREAM/22989/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/liga1-peru.png", Liga 1 HD
+https://otakon.bemtv.cn/STREAM/22991/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/golf_channel_us.png" , Golf Channel
+https://bigboss.bemtv.cn/STREAM/10 :-1 group-title="⚽ DEPORTES"0 :-1 group-title="⚽ DEPORTES"7/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/win-sportplusco.png", Win Sports+ HD
+https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/win-sportco.png", Win Sports HD
+https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/claro_sports_mx.png" , Claro Sports HD
+https://otakon.bemtv.cn/STREAM/8515/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/claro_sports_mx.png" , Claro Sports 2
+https://metalgear.bemtv.cn/STREAM/22868/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/cdo_cl_basico.png" , CDO Basico
+https://metalgear.bemtv.cn/STREAM/10 :-1 group-title="⚽ DEPORTES"18/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png", CDO Premium
+https://otakon.bemtv.cn/STREAM/23290 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnthd.png" , TNT Sports HD
+https://metalgear.bemtv.cn/STREAM/1160 :-1 group-title="⚽ DEPORTES"4/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt2.png" , TNT Sports 2 HD
+https://otakon.bemtv.cn/STREAM/22614/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt2.png" , TNT Sports 2
+https://otakon.bemtv.cn/STREAM/386/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt3.png" , TNT Sports 3 HD
+https://metalgear.bemtv.cn/STREAM/21842/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt3.png" , TNT Sports 3
+https://bigboss.bemtv.cn/STREAM/412/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports HD
+https://otakon.bemtv.cn/STREAM/160 :-1 group-title="⚽ DEPORTES"59/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports
+https://bigboss.bemtv.cn/STREAM/22877/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports Int HD
+https://bigboss.bemtv.cn/STREAM/6810 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tntsport.png" , TNT Sports HD (ARG)
+https://otakon.bemtv.cn/STREAM/10 :-1 group-title="⚽ DEPORTES"914/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tudn.png" , TUDN HD - EEUU
+https://bigboss.bemtv.cn/STREAM/1735/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_deportes_us.png" , Fox Deportes HD
+https://bigboss.bemtv.cn/STREAM/1736/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium HD (Chile)
+https://metalgear.bemtv.cn/STREAM/40 :-1 group-title="⚽ DEPORTES"9/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 7 HD
+https://metalgear.bemtv.cn/STREAM/8518/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 6 HD
+https://bigboss.bemtv.cn/STREAM/11464/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox-sports.png" , Fox Sports Premium HD (Mexico)
+https://metalgear.bemtv.cn/STREAM/11463/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" , Fox Sports HD (Mexico)
+https://bigboss.bemtv.cn/STREAM/22883/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" , Fox Sports 2 HD (Mexico)
+https://otakon.bemtv.cn/STREAM/22890 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" , Fox Sports 3 HD (Mexico)
+https://otakon.bemtv.cn/STREAM/22891/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD BR
+https://metalgear.bemtv.cn/STREAM/8326/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium HD (ARG)
+https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN MX
+https://metalgear.bemtv.cn/STREAM/23624/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" , Fox Sports 2 HD (ARG)
+https://otakon.bemtv.cn/STREAM/22892/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (Norte)
+https://bigboss.bemtv.cn/STREAM/711/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (Sur)
+https://metalgear.bemtv.cn/STREAM/10 :-1 group-title="⚽ DEPORTES"923/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (ARG)
+https://otakon.bemtv.cn/STREAM/474/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (ARG)
+https://otakon.bemtv.cn/STREAM/22612/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 MX
+https://metalgear.bemtv.cn/STREAM/23625/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Colombia)
+https://otakon.bemtv.cn/STREAM/130 :-1 group-title="⚽ DEPORTES"20 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Norte)
+https://bigboss.bemtv.cn/STREAM/588/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/1160 :-1 group-title="⚽ DEPORTES"5/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 MX
+https://metalgear.bemtv.cn/STREAM/23626/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (ARG)
+https://otakon.bemtv.cn/STREAM/22651/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (Norte)
+https://bigboss.bemtv.cn/STREAM/70 :-1 group-title="⚽ DEPORTES"8/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/11468/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn4.png" , ESPN 4 HD (Norte)
+https://bigboss.bemtv.cn/STREAM/466/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/22872/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_deportes.png" , ESPN Deportes HD
+https://bigboss.bemtv.cn/STREAM/732/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD (Norte)
+https://otakon.bemtv.cn/STREAM/1160 :-1 group-title="⚽ DEPORTES"8/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_br.png" , ESPN 1 HD BR
+https://otakon.bemtv.cn/STREAM/8322/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 2 HD BR
+https://metalgear.bemtv.cn/STREAM/8324/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD BR
+https://metalgear.bemtv.cn/STREAM/22838/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn4.png" , ESPN 4 HD BR
+https://metalgear.bemtv.cn/STREAM/8328/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 6 HD BR
+https://metalgear.bemtv.cn/STREAM/8320 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="524" tvg-logo="http://meta.nordvpn.best/nba_tv_us.png" , NBA TV HD
+https://otakon.bemtv.cn/STREAM/90 :-1 group-title="⚽ DEPORTES"83/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/ecuadorcdf.png" , Ecuador CDF HD
+https://metalgear.bemtv.cn/STREAM/8122/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/band_sports.png" , Band Sports HD
+https://metalgear.bemtv.cn/STREAM/8318/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportv_br.png" , Sport TV HD
+https://metalgear.bemtv.cn/STREAM/8316/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportv2_br.png" , Sport TV 2 HD
+https://metalgear.bemtv.cn/STREAM/8314/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportv3_br.png" , Sport TV 3 HD
+https://metalgear.bemtv.cn/STREAM/8312/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png" , Premiere Clubes HD
+https://otakon.bemtv.cn/STREAM/830 :-1 group-title="⚽ DEPORTES"7/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png" , Premiere 2 HD
+https://metalgear.bemtv.cn/STREAM/830 :-1 group-title="⚽ DEPORTES"6/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png" , Premiere 3 HD
+https://metalgear.bemtv.cn/STREAM/830 :-1 group-title="⚽ DEPORTES"4/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png" , Premiere 4 HD
+https://metalgear.bemtv.cn/STREAM/830 :-1 group-title="⚽ DEPORTES"2/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png" , Premiere 5 HD
+https://metalgear.bemtv.cn/STREAM/830 :-1 group-title="⚽ DEPORTES"0 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png" , Premiere 6 HD
+https://metalgear.bemtv.cn/STREAM/8298/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png" , Premiere 7 HD
+https://metalgear.bemtv.cn/STREAM/8297/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/combate_tv_br.png" , Combate HD
+https://metalgear.bemtv.cn/STREAM/830 :-1 group-title="⚽ DEPORTES"9/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png" , Copa DSports ARG
+https://metalgear.bemtv.cn/STREAM/22645/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png" , Copa DSports CO
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png" , Copa DSports PE
+https://otakon.bemtv.cn/STREAM/21240 :-1 group-title="⚽ DEPORTES"/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png" , COPA DSports PY
+https://otakon.bemtv.cn/STREAM/22995/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png" , COPA Gol TV - EC HD
+https://otakon.bemtv.cn/STREAM/22997/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png" , Copa Gol TV - SUR HD
+https://metalgear.bemtv.cn/STREAM/22982/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png" , COPA G4 HD
+https://otakon.bemtv.cn/STREAM/22998/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/golplay-hd.png", Gol Play HD
+https://metalgear.bemtv.cn/STREAM/22814/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/vix.png" , VIX+ HD
+https://otakon.bemtv.cn/STREAM/22894/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/dazn1.png", DAZN 1
+https://otakon.bemtv.cn/STREAM/22992/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/dazn2.png", DAZN 2
+https://otakon.bemtv.cn/STREAM/22993/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/dazn3.png", DAZN 3
+https://otakon.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"76/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="https://meta.nordvpn.best/daznlaliga.png", DAZN LaLiga
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"77/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/movistar-golf.png", Movistar - Golf I
+https://otakon.bemtv.cn/STREAM/12243/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/movistar-vamos.png", Movistar Vamos
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"14/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/movistar-ligadecampeones.png", Movistar - Liga de Campeones 1
+https://bigboss.bemtv.cn/STREAM/881/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/movistar-ligadecampeones.png", Movistar - Liga de Campeones 2
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"15/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/movistar-la-liga.png", Movistar - La Liga 2
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"16/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/deportes1-movistar.png", Movistar - Deportes I
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"18/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/eurosport1.png", Eurosport 1
+https://metalgear.bemtv.cn/STREAM/22813/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/eurosport2.png", Eurosport 2
+https://metalgear.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"19/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/daznf1.png", DAZN F1
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"21/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" , Fox Sports 3 HD (ARG)
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"22/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" , Fox Sports HD (ARG)
+https://bigboss.bemtv.cn/STREAM/230 :-1 group-title="⚽ DEPORTES"23/playlist.m3u8
+#EXTINF:-1 :-1 group-title="⚽ DEPORTES" tvg-logo="http://meta.nordvpn.best/ufcpass.png", UFC Fight BR
+https://metalgear.bemtv.cn/STREAM/22962/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/via_x_cl.png" , Via X E-Sports
+https://bigboss.bemtv.cn/STREAM/22816/playlist.m3u8
+#EXTINF:0 :-1 group-title="⚽ DEPORTES" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tennis_channel.png" , Tennis Channel
+https://otakon.bemtv.cn/STREAM/130 :-1 group-title="⚽ DEPORTES"21/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="​📺 Series Rakuten",Vive Kanal D Drama
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=12&ads_content_genre=soap-opera&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=744bba4c-a0d5-4573-9a7c-ddb85eeb5910&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="​📺 Series Rakuten",Merlí
