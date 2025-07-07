@@ -1,4 +1,100 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="canalc.co" tvg-name="CO | CANAL C" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_C_Cali.png/revision/latest/scale-to-width-down/1200?cb=20210501193138&path-prefix=es" group-title="COLOMBIA",CO | CANAL C
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/254860.ts
+#EXTINF:-1 tvg-id="canaltrece.co" tvg-name="CO | TRECE COLOMBIA HD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2005-2012-logo-CF87FBA249-seeklogo.com.png" group-title="COLOMBIA",CO | TRECE COLOMBIA HD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/186613.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | BUENÍSIMA RADIO TV" tvg-logo="https://ibb.co/QHF6Rb9" group-title="COLOMBIA",CO | BUENÍSIMA RADIO TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/502445.ts
+#EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="CO | CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA",CO | CABLE NOTICIAS
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/53259.ts
+#EXTINF:-1 tvg-id="calitv.co" tvg-name="CO | CALI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_CaliTV.png" group-title="COLOMBIA",CO | CALI TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/100565.ts
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="CO | CANAL CAPITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",CO | CANAL CAPITAL HD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12832.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | CANAL INSTITUCIONAL" tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png" group-title="COLOMBIA",CO | CANAL INSTITUCIONAL
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/552800.ts
+#EXTINF:-1 tvg-id="canaltro.co" tvg-name="CO | CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNG" group-title="COLOMBIA",CO | CANAL TRO
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/215911.ts
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO | CANAL UNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",CO | CANAL UNO HD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/242016.ts
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO | CANAL UNO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",CO | CANAL UNO SD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439823.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | CANICA TV" tvg-logo="https://apphome.digital/images/canicatv.jpg" group-title="COLOMBIA",CO | CANICA TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/503455.ts
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO | CARACOL FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Caracol_2003.png/revision/latest/scale-to-width-down/340?cb=20200209130328&path-prefix=es" group-title="COLOMBIA",CO | CARACOL FHD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/46257.ts
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO | CARACOL HD OP2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Caracol_2003.png/revision/latest/scale-to-width-down/340?cb=20200209130328&path-prefix=es" group-title="COLOMBIA",CO | CARACOL HD OP2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/167983.ts
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO | CARACOL HD ⭐️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Caracol_2003.png/revision/latest/scale-to-width-down/340?cb=20200209130328&path-prefix=es" group-title="COLOMBIA",CO | CARACOL HD ⭐️
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/190520.ts
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="CO | CARACOL INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Caracol_Internacional_2017.png" group-title="COLOMBIA",CO | CARACOL INTERNACIONAL
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/211350.ts
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | CARACOL SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Caracol_2003.png/revision/latest/scale-to-width-down/340?cb=20200209130328&path-prefix=es" group-title="COLOMBIA",CO | CARACOL SD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/55619.ts
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO | CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="COLOMBIA",CO | CITY TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12837.ts
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO | CITY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="COLOMBIA",CO | CITY TV SD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439822.ts
+#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="CO | CLARO SPORTS 2" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="COLOMBIA",CO | CLARO SPORTS 2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/164261.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | HERMANDAD SALSERA" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUSEhMVFRUXFhYaFxcYFRcdGBgeFRcWGBgXHxgaHCggGBolHRUWITEjKCkrLi4wFx8zODMtNygtLisBCgoKDg0OGxAQGy8mHSUyMi0vLS0tLS8tLy0tLS0tLS0wMC0tLS0vLS8tLS8tLi0tLS0vLS0tLS0tLS0tLS0tLf/AABEIALcBEwMBIgACEQEDEQH/x" group-title="COLOMBIA",CO | HERMANDAD SALSERA
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/552796.ts
+#EXTINF:-1 tvg-id="nuestratelenoticias24.co" tvg-name="CO | NTN 24" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/NTN24_Logo.png/320px-NTN24_Logo.png" group-title="COLOMBIA",CO | NTN 24
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9483.ts
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="COLOMBIA",CO | RCN FHD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/214145.ts
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO | RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="COLOMBIA",CO | RCN HD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/259372.ts
+#EXTINF:-1 tvg-id="rcnnuestratele.co" tvg-name="CO | RCN IINTERNACIONAL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest/scale-to-width-down/200?cb=20210307132823&path-prefix=es" group-title="COLOMBIA",CO | RCN IINTERNACIONAL HD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/215912.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | RCN MAS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg" group-title="COLOMBIA",CO | RCN MAS
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/552797.ts
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1200px-RCN_Novelas_logo_2019.png" group-title="COLOMBIA",CO | RCN NOVELAS
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9907.ts
+#EXTINF:-1 tvg-id="rcnnuestratele.co" tvg-name="CO | RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",CO | RCN NUESTRA TELE
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/55815.ts
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN SD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="COLOMBIA",CO | RCN SD ⭐️
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12847.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | RED +" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPEhUPDxAQDxAQEBIQDxAQDxAPDw8QFRUWFhUWFRUYHSggGBolGxUVIjEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGi0mICUtLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKwBJAMBEQACEQEDEQH/x" group-title="COLOMBIA",CO | RED +
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/552799.ts
+#EXTINF:-1 tvg-id="senal.co" tvg-name="CO | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",CO | SEÑAL COLOMBIA
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12841.ts
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="CO | TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",CO | TELEANTIOQUIA
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/35873.ts
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="CO | TELEANTIOQUIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",CO | TELEANTIOQUIA SD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/546620.ts
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO | TELECAFÉ" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="COLOMBIA",CO | TELECAFÉ
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12843.ts
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO | TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA",CO | TELECARIBE
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12844.ts
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO | TELEMEDELLÍN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Telemedell%C3%ADn_2011.png" group-title="COLOMBIA",CO | TELEMEDELLÍN
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12845.ts
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO | TELEPACÍFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA",CO | TELEPACÍFICO
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12846.ts
+#EXTINF:-1 tvg-id="tv.agro.co" tvg-name="CO | TV AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/2560px-TV_Agro_logo.svg.png" group-title="COLOMBIA",CO | TV AGRO
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/53260.ts
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="COLOMBIA",CO | WIN SPORTS HD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/395945.ts
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | WIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="COLOMBIA",CO | WIN SPORTS SD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12851.ts
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COLOMBIA",CO | WIN SPORTS+ FHD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12840.ts
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COLOMBIA",CO | WIN SPORTS+ HD
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/395946.ts
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COLOMBIA",CO | WIN SPORTS+ HD OP2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/479415.ts
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS+ SD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COLOMBIA",CO | WIN SPORTS+ SD OP2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/505449.ts
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS+ SD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COLOMBIA",CO | WIN SPORTS+ SD ⭐️
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/12759.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | CRISTOVISIÓN" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_05/large.cristovision-logo-F1F91F837B-seeklogo_com.png.bfcb87f1ddba347e7a178bf34f99fbb3.png" group-title="COLOMBIA",CO | CRISTOVISIÓN
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/565139.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | CARACOL HD2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20170516011642" group-title="COLOMBIA",CO | CARACOL HD2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/224163.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | LA KALLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20210218135608&path-prefix=es" group-title="COLOMBIA",CO | LA KALLE
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/608369.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CO | RCN HD2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/RCN_HD2_2016-0.png/revision/latest?cb=20210307125110&path-prefix=es" group-title="COLOMBIA",CO | RCN HD2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/552798.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.png"group-title="▶️ COLOMBIA2",Cali TV  CO
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.m3u.cl/logo/116_Canal_CNC_Medellin.png"group-title="▶️ COLOMBIA2",Canal CNC Medellin  CO
