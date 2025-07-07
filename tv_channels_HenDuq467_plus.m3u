@@ -1161,87 +1161,87 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576568.ts
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576569.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ZONA VIX",VIX  CANAL 5
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576570.ts
-#EXTINF:0,group-title="ES",RTVE La1
+#EXTINF:0,group-title="ESPAÑA2",RTVE La1
 http://185.189.225.150:85/TVE/index.m3u8
-#EXTINF:0,group-title="ES",RTVE La2
+#EXTINF:0,group-title="ESPAÑA2",RTVE La2
 http://185.189.225.150:85/TV2/index.m3u8
-#EXTINF:0,group-title="ES",Antena 3
+#EXTINF:0,group-title="ESPAÑA2",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:0,group-title="ES",Cuatro
+#EXTINF:0,group-title="ESPAÑA2",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
-#EXTINF:0,group-title="ES",TeleCinco
+#EXTINF:0,group-title="ESPAÑA2",TeleCinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:0,group-title="ES",La Sexta
+#EXTINF:0,group-title="ESPAÑA2",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:0,group-title="ES",RTVE 24h
+#EXTINF:0,group-title="ESPAÑA2",RTVE 24h
 http://185.189.225.150:85/24horas/index.m3u8
-#EXTINF:0,group-title="ES",8 Madrid
+#EXTINF:0,group-title="ESPAÑA2",8 Madrid
 http://185.189.225.150:85/8madrid/index.m3u8
-#EXTINF:0,group-title="ES",AMC
+#EXTINF:0,group-title="ESPAÑA2",AMC
 http://185.189.225.150:85/AMC/index.m3u8
-#EXTINF:0,group-title="ES",AXN
+#EXTINF:0,group-title="ESPAÑA2",AXN
 http://185.189.225.150:85/AXN/index.m3u8
-#EXTINF:0,group-title="ES",BabyTV
+#EXTINF:0,group-title="ESPAÑA2",BabyTV
 http://185.189.225.150:85/BabyTV/index.m3u8
-#EXTINF:0,group-title="ES",BOM Cine
+#EXTINF:0,group-title="ESPAÑA2",BOM Cine
 http://185.189.225.150:85/BOM/index.m3u8
-#EXTINF:0,group-title="ES",Boing ES
+#EXTINF:0,group-title="ESPAÑA2",Boing ES
 http://185.189.225.150:85/boing/index.m3u8
-#EXTINF:0,group-title="ES",Calle 13
+#EXTINF:0,group-title="ESPAÑA2",Calle 13
 http://185.189.225.150:85/calle13/index.m3u8
-#EXTINF:0,group-title="ES",Comedy Central
+#EXTINF:0,group-title="ESPAÑA2",Comedy Central
 http://185.189.225.150:85/comedycentral/index.m3u8
-#EXTINF:0,group-title="ES",FDF
+#EXTINF:0,group-title="ESPAÑA2",FDF
 http://185.189.225.150:85/fdf/index.m3u8
-#EXTINF:0,group-title="ES",Mega
+#EXTINF:0,group-title="ESPAÑA2",Mega
 http://185.189.225.150:85/mega/index.m3u8
-#EXTINF:0,group-title="ES",Nat Geo Wild
+#EXTINF:0,group-title="ESPAÑA2",Nat Geo Wild
 http://185.189.225.150:85/natgeowild/index.m3u8
-#EXTINF:0,group-title="ES",Neox
+#EXTINF:0,group-title="ESPAÑA2",Neox
 http://185.189.225.150:85/neox/index.m3u8
-#EXTINF:0,group-title="ES",Nickelodeon
+#EXTINF:0,group-title="ESPAÑA2",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:0,group-title="ES",Nova
+#EXTINF:0,group-title="ESPAÑA2",Nova
 http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:0,group-title="ES",Odisea
+#EXTINF:0,group-title="ESPAÑA2",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
-#EXTINF:0,group-title="ES",Paramount
+#EXTINF:0,group-title="ESPAÑA2",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:0,group-title="ES",Somos
+#EXTINF:0,group-title="ESPAÑA2",Somos
 http://185.189.225.150:85/somos/index.m3u8
-#EXTINF:0,group-title="ES",SYFY
+#EXTINF:0,group-title="ESPAÑA2",SYFY
 http://185.189.225.150:85/syfy/index.m3u8
-#EXTINF:0,group-title="ES",TV3
+#EXTINF:0,group-title="ESPAÑA2",TV3
 http://185.189.225.150:85/tv3/index.m3u8
-#EXTINF:0,group-title="ES",BBC1
+#EXTINF:0,group-title="ESPAÑA2",BBC1
 http://185.189.225.150:85/BBC1/index.m3u8
-#EXTINF:0,group-title="EU",EuroSport 1 ES
+#EXTINF:0,group-title="ESPAÑA2",EuroSport 1 ES
 http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:0,group-title="EU",EuroSport 2 ES
+#EXTINF:0,group-title="ESPAÑA2",EuroSport 2 ES
 http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0,group-title="ES",MTV Espana
+#EXTINF:0,group-title="ESPAÑA2",MTV Espana
 http://185.189.225.150:85/MTV/index.m3u8
-#EXTINF:0,group-title="ES",MTV Hits
+#EXTINF:0,group-title="ESPAÑA2",MTV Hits
 http://185.189.225.150:85/MTVHits/index.m3u8
-#EXTINF:0,group-title="ES",MTV Club
+#EXTINF:0,group-title="ESPAÑA2",MTV Club
 http://185.189.225.150:85/MTVClub/index.m3u8
-#EXTINF:0,group-title="ES",MTV 80s
+#EXTINF:0,group-title="ESPAÑA2",MTV 80s
 http://185.189.225.150:85/MTV80s/index.m3u8
-#EXTINF:0,group-title="ES",MTV 90s
+#EXTINF:0,group-title="ESPAÑA2",MTV 90s
 http://185.189.225.150:85/MTV90s/index.m3u8
-#EXTINF:0,group-title="ES",MTV 00s
+#EXTINF:0,group-title="ESPAÑA2",MTV 00s
 http://185.189.225.150:85/MTV00s/index.m3u8
-#EXTINF:0,group-title="ES",3CAT
+#EXTINF:0,group-title="ESPAÑA2",3CAT
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:0,group-title="ES",CLAN
+#EXTINF:0,group-title="ESPAÑA2",CLAN
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
-#EXTINF:0,group-title="ES",TDP
+#EXTINF:0,group-title="ESPAÑA2",TDP
 http://92.118.251.84:8080/tdp/index.m3u8
-#EXTINF:0,group-title="ES",TEN
+#EXTINF:0,group-title="ESPAÑA2",TEN
 http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:0,group-title="ES",TeleMadrid
+#EXTINF:0,group-title="ESPAÑA2",TeleMadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:0,group-title="ES",TV Galicia
+#EXTINF:0,group-title="ESPAÑA2",TV Galicia
 https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="​📺 Series Rakuten",Vive Kanal D Drama
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=12&ads_content_genre=soap-opera&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=744bba4c-a0d5-4573-9a7c-ddb85eeb5910&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -1703,55 +1703,55 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/19120.m3u8
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18164.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SERIES FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="CANALES DE SERIE",TNT SERIES FHD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11613.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 Series HD" tvg-logo="https://seeklogo.com/images/A/atres-series-logo-3BA3503760-seeklogo.com.png" group-title="ESPAÑA",A3 Series HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 Series HD" tvg-logo="https://seeklogo.com/images/A/atres-series-logo-3BA3503760-seeklogo.com.png" group-title="ESPAÑA2",A3 Series HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16539.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",TVE 24H
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA2",TVE 24H
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17895.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",LA SEXTA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA2",LA SEXTA
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/18003.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3 HD" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA",ANTENA 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3 HD" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA2",ANTENA 3 HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11826.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 3 Int HD" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/01/52095_1_51635.jpg" group-title="ESPAÑA",Antena 3 Int HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 3 Int HD" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/01/52095_1_51635.jpg" group-title="ESPAÑA2",Antena 3 Int HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/20878.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="ESPAÑA",TVE LA 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="ESPAÑA2",TVE LA 1 HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11907.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE LA 2 HD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="ESPAÑA",TVE LA 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE LA 2 HD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="ESPAÑA2",TVE LA 2 HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12107.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALLE 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/856px-Calle13_logo.svg.png" group-title="ESPAÑA",CALLE 13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALLE 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/856px-Calle13_logo.svg.png" group-title="ESPAÑA2",CALLE 13
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/15003.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX" tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="ESPAÑA",DMAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX" tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="ESPAÑA2",DMAX
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/38849.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecinco HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA",Telecinco HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecinco HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA2",Telecinco HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12108.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL COCINA" tvg-logo="https://programacion.tv/images/canal-cocina.png" group-title="ESPAÑA",CANAL COCINA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL COCINA" tvg-logo="https://programacion.tv/images/canal-cocina.png" group-title="ESPAÑA2",CANAL COCINA
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12114.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR ACCION" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMREhMTEBMVEhUVFxkSFxYQFhAYFhcXFxcWFhUYFRUYHSkgGBslGxcTITEhJSkrMC4uFx8/ODMvNygtLisBCgoKDg0OGxAQGy4mICYtLS8tLy0rMC0uLS8tLy0vLS8tLy03LS8vLy0tLS8tLy0tLy0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/x" group-title="ESPAÑA",MOVISTAR ACCION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR ACCION" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMREhMTEBMVEhUVFxkSFxYQFhAYFhcXFxcWFhUYFRUYHSkgGBslGxcTITEhJSkrMC4uFx8/ODMvNygtLisBCgoKDg0OGxAQGy4mICYtLS8tLy0rMC0uLS8tLy0vLS8tLy03LS8vLy0tLS8tLy0tLy0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/x" group-title="ESPAÑA2",MOVISTAR ACCION
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12112.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL SUR" tvg-logo="https://elcorreoweb.es/binrepository/canal-sur_20401336_20200327184036.jpg" group-title="ESPAÑA",CANAL SUR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL SUR" tvg-logo="https://elcorreoweb.es/binrepository/canal-sur_20401336_20200327184036.jpg" group-title="ESPAÑA2",CANAL SUR
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12100.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORIA" tvg-logo="https://i.blogs.es/e5008e/canal_historia/450_1000.gif" group-title="ESPAÑA",HISTORIA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORIA" tvg-logo="https://i.blogs.es/e5008e/canal_historia/450_1000.gif" group-title="ESPAÑA2",HISTORIA
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12111.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Movistar_estrenos.png" group-title="ESPAÑA",MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Movistar_estrenos.png" group-title="ESPAÑA2",MOVISTAR ESTRENOS
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12110.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Toros tv" tvg-logo="https://plazatoros.tv/assets-new/images/features/feature1.png" group-title="ESPAÑA",Canal Toros tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Toros tv" tvg-logo="https://plazatoros.tv/assets-new/images/features/feature1.png" group-title="ESPAÑA2",Canal Toros tv
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12101.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuatro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png" group-title="ESPAÑA",Cuatro HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuatro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png" group-title="ESPAÑA2",Cuatro HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14414.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="ESPAÑA",Divinity
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="ESPAÑA2",Divinity
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12109.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ODISEA" tvg-logo="http://afindemes.republica.com/files/2011/03/ciclo_de_documentales_gratis_en_madrid-450x265.jpg" group-title="ESPAÑA",ODISEA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ODISEA" tvg-logo="http://afindemes.republica.com/files/2011/03/ciclo_de_documentales_gratis_en_madrid-450x265.jpg" group-title="ESPAÑA2",ODISEA
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12499.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO HD ES" tvg-logo="https://i.pinimg.com/originals/e0/f7/83/e0f7833a4fe03f0e6efe79b72403dba7.jpg" group-title="ESPAÑA",NAT GEO HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO HD ES" tvg-logo="https://i.pinimg.com/originals/e0/f7/83/e0f7833a4fe03f0e6efe79b72403dba7.jpg" group-title="ESPAÑA2",NAT GEO HD ES
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/23029.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD HD ES" tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg" group-title="ESPAÑA",NAT GEO WILD HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD HD ES" tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg" group-title="ESPAÑA2",NAT GEO WILD HD ES
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/23030.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nova_Television_Logo.svg/1280px-Nova_Television_Logo.svg.png" group-title="ESPAÑA",NOVA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nova_Television_Logo.svg/1280px-Nova_Television_Logo.svg.png" group-title="ESPAÑA2",NOVA
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/38383.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA",FDF HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA2",FDF HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/64118.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMO" tvg-logo="https://www.navarratelevision.es/media/IMG/2024/5EEC18F1-A0C2-975E-A892DCBCA1590E20.JPG" group-title="ESPAÑA",COSMO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMO" tvg-logo="https://www.navarratelevision.es/media/IMG/2024/5EEC18F1-A0C2-975E-A892DCBCA1590E20.JPG" group-title="ESPAÑA2",COSMO
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/103437.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Neox_2010.svg/1280px-Neox_2010.svg.png" group-title="ESPAÑA",Neox HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Neox_2010.svg/1280px-Neox_2010.svg.png" group-title="ESPAÑA2",Neox HD
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/103442.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="---------INFANTILES---------" tvg-logo="https://senadis.files.wordpress.com/2016/03/infantiles.jpg" group-title="INFANTILES",---------INFANTILES---------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12811.m3u8
