@@ -349,10 +349,10 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w427389404.
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/chunklist_w1032000968.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="XTREMA TV",Xtrema retro cartoons
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
-#EXTINF:-1 tvg-name="Eventos 4 Dazn 4"tvg-id="(no tvg-id)"tvg-logo="https://espnpressroom.com/latinamerica/files/2022/03/STAR_CampeonatoUruguayo_mz.jpg"group-title="DEPORTES",Eventos 4 Dazn 4
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14405.ts
 #EXTINF:-1 tvg-name="--------DEPORTES-------"tvg-id="(no tvg-id)"tvg-logo="https://www.iptvmexico.com.mx/wp-content/uploads/2017/10/iptv-player-latino.jpg?x80798"group-title="DEPORTES",--------DEPORTES-------
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12813.ts
+#EXTINF:-1 tvg-name="Eventos 4 Dazn 4"tvg-id="(no tvg-id)"tvg-logo="https://espnpressroom.com/latinamerica/files/2022/03/STAR_CampeonatoUruguayo_mz.jpg"group-title="DEPORTES",Eventos 4 Dazn 4
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/14405.ts
 #EXTINF:-1 tvg-name="TV Max"tvg-id="(no tvg-id)"tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png"group-title="DEPORTES",TV Max
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/20320.ts
 #EXTINF:-1 tvg-name="FOX SPORTS PREMIUM SUR"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png"group-title="DEPORTES",FOX SPORTS PREMIUM SUR
