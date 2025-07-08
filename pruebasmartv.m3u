@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png",------------- SMARTIPTV ---------------
+#EXTINF:0 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
 #EXTINF:0,VEN - GLOBOVISION SD
 #EXTGRP:VENEZUELA
 http://tv.nstvlatino.com:8080/mariasuazo/123456/18600
