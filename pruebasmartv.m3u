@@ -1,1357 +1,1377 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="All",------------- SMARTIPTV ---------------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="ARGENTINA",------------- SMARTIPTV ---------------
 https://i.postimg.cc/X7THnVFK/smartiptv.png
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdQrPbC6/globovision.jpg"group-title="VENEZUELA",VEN - GLOBOVISION SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18600
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s28Fsf0z/Logo-Meridiano-TV-Venezuela.png"group-title="VENEZUELA",VEN - MERIDIANO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51411
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z4xkVBM/Promar-Television.png"group-title="VENEZUELA",VEN - PROMAR SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18599
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65NX8365/images.png"group-title="VENEZUELA",VEN - TELESUR
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1161239
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qJD4jX1/Televen-logo.png"group-title="VENEZUELA",VEN - TELEVEN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51413
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZK8tn3f/LOGO-HORIZONTAL-text.png"group-title="VENEZUELA",VEN - TLT
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51414
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnwFwwWW/TVes-logo.png"group-title="VENEZUELA",VEN - TVES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18597
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzQyz86D/Venevision-Plus-Logo-2016.png"group-title="VENEZUELA",VEN - VALE TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51409
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QN7DN53y/250px-Logo-de-VALE-TV.png"group-title="VENEZUELA",VEN - VENEVISION
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18595
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzQyz86D/Venevision-Plus-Logo-2016.png"group-title="VENEZUELA",VEN - VENEVISION PLUS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18593
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf1GnjbG/Venezolana-de-Televisi-n-2018-svg.png"group-title="VENEZUELA",VEN - VENEZOLANA DE TELEVISION
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18596
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28YszKT1/Vivetv.png"group-title="VENEZUELA",VEN - VIVE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51410
-#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",VEN - VIVO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18598
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU  - A+V
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51359
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - 1000 x HORA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/34605
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CAMPO TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1245655
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 10
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1218122
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 10 ᶠʰ ᵈ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155782
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 10 ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18567
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 11 PUNTA DEL ESTE HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1139100
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 4 ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8334
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 4 ˢ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18261
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 5 URUGUAY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/19351
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 7 PUNTA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1195549
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 8 ARTIGAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1197331
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CARDINAL TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1219848
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - DIRECTV URUGUAY ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1237806
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - ESPN URUGUAY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240256
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - ESPN URUGUAY ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156002
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - GOL TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1137832
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - LA RED
-http://tv.nstvlatino.com:8080/mariasuazo/123456/35428
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - MAROÑAS ENTERTAIMENT
-http://tv.nstvlatino.com:8080/mariasuazo/123456/31618
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - PPV URUGUAY 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155780
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - PPV URUGUAY 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43600
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - PPV URUGUAY 4
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156974
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TELE 12
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18578
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TELE 12 ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18731
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TELE 8 MERCEDES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1195552
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TV CIUDAD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/16136
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TV CIUDAD ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/19352
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/22204
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3802
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV Plus
-http://tv.nstvlatino.com:8080/mariasuazo/123456/52513
-#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV Plus ᴴ ᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/19354
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINE INFANTIL 03
-http://tv.nstvlatino.com:8080/mariasuazo/123456/29415
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 05 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8005
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 09 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8001
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 10 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8000
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 11 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7999
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 12 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7998
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 13 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7997
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 14 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7996
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 20 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7990
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 22 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7988
-#EXTINF:-1 tvg-logo=""group-title="PPV CINE",PPV - CINEMA 24 FHD (ES).
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7986
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - AMERICA TV SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1068850
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - ATV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8333
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - ATV PLUS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7449
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - CANAL N
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7825
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - CANAL N FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1169263
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - GOL PERU FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1123136
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - GOL PERU SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8329
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - L1 MAX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1230397
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - LATINA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/56273
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - LIGA 1 MAX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1151341
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - LIGA1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1151342
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - MOVISTAR DEPORTES FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1092642
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - PANAMERICANA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1169262
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - PERU MAGICO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8323
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - TV PLUS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54853
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - WILLAX TELEVISIÓN HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1085372
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU- LATINA FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1087195
-#EXTINF:-1 tvg-logo=""group-title="PERU",PERU- WILLAX TELEVISIÓN SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1105664
-#EXTINF:-1 tvg-logo=""group-title="PERU",PR- WIPR
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1087193
-#EXTINF:-1 tvg-logo=""group-title="PERU",PR-MEGA TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43872
-#EXTINF:-1 tvg-logo=""group-title="PERU",PR-TELEMUNDO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43875
-#EXTINF:-1 tvg-logo=""group-title="PERU",PR-WAPA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43870
-#EXTINF:-1 tvg-logo=""group-title="PERU",PR-WAPA AMERICA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43871
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - BANDAMAX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156056
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - CONCERT CHANNEL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/23236
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - HTV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51395
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - M6 MUSIC
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7823
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MC 90's
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1197330
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV 00s HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1167670
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4083
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV HITS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156057
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV LIVE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156058
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV LIVE FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4096
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MUSIC TOP
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156060
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - Telehit  PLUS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1167671
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - TELEHIT URBANO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3960
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - VH1 CLASSIC
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4133
-#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS -STINGRAY CONCERTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1167672
-#EXTINF:-1 tvg-logo=""group-title="MOVIE PELICULAS",Personal Assistant - 2020
-http://tv.nstvlatino.com:8080/movie/mariasuazo/123456/1096399.mkv
-#EXTINF:-1 tvg-logo=""group-title="MOVIE PELICULAS",Personal Assistant (2020)
-http://tv.nstvlatino.com:8080/movie/mariasuazo/123456/1099078.mkv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7NwCXSc/Adn40-2022.png"group-title="MEXICO",MX - ADN 40
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4025
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRpXpK3B/Azteca72024.png"group-title="MEXICO",MX - AZTECA 7
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155863
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N8pbZXC/Azteca-uno-2023.png"group-title="MEXICO",MX - AZTECA UNO HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155859
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkVX6KLr/Canal-2-Las-Estrellas-2017-svg.png"group-title="MEXICO",MX - EL CANAL DE LAS ESTRELLAS SUR
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4030
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0hRWZ8d/Canal-5-Mexico-logo-2014-svg.png"group-title="MEXICO",MX - CANAL 5
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155866
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tZF53rF/cl-az-cinema-m.png"group-title="MEXICO",MX - AZ CINEMA FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4086
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbQcJ9F/co-az-corazon-m.png"group-title="MEXICO",MX - AZ CORAZON
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4026
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nt0BC5j/Image-of-Canal-11.png"group-title="MEXICO",MX - ONCE TV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4035
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1dWgNSY/Ingenio-tv-logo.png"group-title="MEXICO",MX - CANAL 5 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4028
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ6Cwvk7/Logo-de-Grupo-Televisa-svg.png"group-title="MEXICO",MX - TELEVISA MTY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4066
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PnrfHbN/Logo-Imagen-Televisi-n-2016.png"group-title="MEXICO",MX - IMAGEN TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15zqzTwv/Logo-Imagen-Televisi-n-2016-1.png"group-title="MEXICO",MX - EL CANAL DE LAS ESTRELLAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1239363
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjyRXmWJ/Logo-Tv-UNAM.png"group-title="MEXICO",MX - TV UNAM
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18574
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13knJ3Td/Multimedios-Canal-Seis-Logo-svg.png"group-title="MEXICO",MX - MULTIMEDIOS MONTERREY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4125
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9k4Bytf/N-Foro-2024-svg.png"group-title="MEXICO",MX -  FORO TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155870
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVJwqRt/Nueve-2018-logo.png"group-title="MEXICO",MX - GALA TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4031
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydPD1Xdq/Once-ni-as-y-ni-os-2020-svg.png"group-title="MEXICO",MX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/47697
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnkVVccr/Tlnovelas-logo-2021.png"group-title="MEXICO",MX - TLN TELENOVELAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4130
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NfWp8mn/TUDN-Logo-svg.png"group-title="MEXICO",MX - TUDN MX FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1105665
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTkVsdQF/tv4.png"group-title="MEXICO",MX - TV4
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33367
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15Tf3z9z/TVCDeportes.png"group-title="MEXICO",MX - TVC
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4105
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVsm3Z4z/TV-Azteca-Coraz-n-logo-svg.png"group-title="MEXICO",MX - CORAZON HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155857
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LrhSQJ8/Unicable-logo-svg.png"group-title="MEXICO",MX - UNICABLE HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155852
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYCXG0Jk/Uno-tv.jpg"group-title="MEXICO",MX - UNO MVS TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/6022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4m3860D/woodside.jpg"group-title="MEXICO",MX - TELEFORMULA FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4036
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9k4Bytf/N-Foro-2024-svg.png"group-title="MEXICO",MX -  FORO TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155869
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9k4Bytf/N-Foro-2024-svg.png"group-title="MEXICO",MX - FORO TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4029
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRpXpK3B/Azteca72024.png"group-title="MEXICO",MX - AZTECA 7 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4027
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13knJ3Td/Multimedios-Canal-Seis-Logo-svg.png"group-title="MEXICO",MX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4034
-#EXTINF:-1 tvg-logo=""group-title="MEXICO",MX - TV MAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33365
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LrhSQJ8/Unicable-logo-svg.png"group-title="MEXICO",MX - UNICABLE FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4052
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PnrfHbN/Logo-Imagen-Televisi-n-2016.png"group-title="MEXICO",MX- IMAGEN TV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1124600
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1dWgNSY/Ingenio-tv-logo.png"group-title="MEXICO",MX - CANAL 5 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155865
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13knJ3Td/Multimedios-Canal-Seis-Logo-svg.png"group-title="MEXICO",MX - MULTIMEDIOS MONTERREY FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4033
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",ADN TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1179875
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",Canal 9 Bío Bío
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1179877
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",HON - TDTV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1195000
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",HON -CANAL 5 TVC EL LIDER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1202577
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT -  TELEMUNDO SAN DIEGO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1172655
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - AMERICA TEVE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/48119
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CBS BOSTON
-http://tv.nstvlatino.com:8080/mariasuazo/123456/45550
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CBS SAN DIEGO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1172656
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CNN EN ESPAÑOL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4014
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CNN USA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33360
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - ESTRELLA TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/41188
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - GALAVISION HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3793
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - NBC  BOSTON
-http://tv.nstvlatino.com:8080/mariasuazo/123456/45551
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - NBC SAN DIEGO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1172657
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - NEWS 12 NEW JERSEY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1160043
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - PASIONES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/49168
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 39 DALLAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/30216
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 44 CHICAGO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/30215
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 47
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8209
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 47 NEW YORK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/30213
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 48 SAN FRANCISCO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18780
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 51 MIAMI
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18779
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 52 LOS ANGELES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18778
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 60 SAN ANTONIO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18777
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO BOSTON
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3794
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO DENVER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18570
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO HOUSTON
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18776
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO INTERNACIONAL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43189
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO LAS VEGAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18775
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO MIAMI
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156210
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO PHILADELPHIA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43289
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS DALLAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3795
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS DENVER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18572
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS LOS ANGELES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18774
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS MIAMI
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18773
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS NEW YORK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18772
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION CHICAGO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/47679
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION DALLAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18559
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION DENVER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18565
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3796
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION LAS VEGAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18563
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION LOS ANGELES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18564
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - Univision Miami HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156213
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - Univision New York HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156211
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION NOTICIAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18568
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION SAN FRANCISCO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18560
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION TELENOVELAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090591
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT- TELEMUNDO ORLANDO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1118963
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT- TELEMUNDO TAMPA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1070040
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT- UNIVISION ATLANTA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/56303
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT -UNIVISION HOUSTON FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1176174
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT-USA-PASIONES(2)
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1085156
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",SLV - TIGO SPORTS EL SALVADOR
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1183125
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",UCV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1179876
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",US.SP - ACC NETWORK  HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1178225
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",US.SP - ESPN USA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1205951
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",US.SP - FOX DEPORTES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1202578
-#EXTINF:-1 tvg-logo=""group-title="LATINOS",USA: CNBC
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1190391
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF -  BABY TV HQ FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4116
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF  - DISNEY JR
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1144260
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF -  TOONCAST
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155861
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - BABY FIRST
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155858
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - BABY FIRST FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4088
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - BABY TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3798
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - CARTOON NETWORK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155850
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - CARTOON NETWORK FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4063
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - CARTOONITO FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4061
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - CARTOONITO HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155854
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - DISCOVERY KIDS FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4072
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - DISCOVERY KIDS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155851
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - DISNEY CHANNEL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4004
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - DISNEY JR FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4111
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - Movistsar DISNEY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1219850
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - NICKELODEON FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4058
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - NICKELODEON HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155856
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - TEEN NICK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4140
-#EXTINF:-1 tvg-logo=""group-title="INFANTILES",INF - TOONCAST FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4051
-#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/17183
-#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/17182
-#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 4
-http://tv.nstvlatino.com:8080/mariasuazo/123456/17174
-#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 5
-http://tv.nstvlatino.com:8080/mariasuazo/123456/16135
-#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 6
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4203
-#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 7
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7992
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - BAR TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156045
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - BARCA TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156046
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - BEIN SPORTS LA LIGA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156047
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - DAZN 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53380
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - GOL PLAY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156048
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - LA LIGA TV BAR FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51343
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR DEPORTES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156051
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR F1 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156055
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR LA LIGA TV 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1115758
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR+ DEPORTES 2 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090600
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR+ GOLF
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156052
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR+ LA LIGA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1216075
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - REAL MADRID TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156054
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - TELEDEPORTE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156053
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - VAMOS +
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156050
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/34608
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1089977
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN 4
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1169266
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN F1 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1143419
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN LA LIGA 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1205959
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN LA LIGA 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1205960
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - EUROSPORT 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/41816
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - EUROSPORT 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51352
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR  #VAMOS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51453
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR F1 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53028
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR LA LIGA HYPERMOTION
-http://tv.nstvlatino.com:8080/mariasuazo/123456/32365
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR LA LIGA HYPERMOTION 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1238792
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR PLUS+ 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1238793
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR+ DEPORTES 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1220199
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR+ LIGA DE CAMPEONES FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/16717
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR+ LIGA DE CAMPEONES HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156049
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES  - MOVISTAR COMEDIA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156026
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - #0 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156036
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - A3 INTERNACIONAL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156011
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - A3 SERIES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/35495
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - A3 SERIES INT.
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3961
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - AMC
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1230270
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ANDALUCIA TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156016
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ANTENA 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/35494
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ANTENA 3 INT.
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4108
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - AXN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1230271
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - BABY TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156043
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - BOING
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156035
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CALLE 13 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/17192
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CANAL COCINA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156034
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CAZA Y PESCA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156033
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - Cazavisión ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1167790
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CLAN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4131
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CLAN TVE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156032
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - COMEDY CENTRAL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156042
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - COSMO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4177
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - DECASA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1158754
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - DIVINITY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156031
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ENERGY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156037
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - FDF
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156214
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - FOX LIFE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156044
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - HISTORIA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156022
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - HOLLYWOOD HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156021
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - IBERALIA TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156023
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA 1 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53894
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA 1 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1195550
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156030
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA CUATRO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/17191
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA SEXTA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156020
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MEGA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156019
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MOVISTAR ACCION
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156027
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MOVISTAR ESTRENOS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156025
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MOVISTAR SERIES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/6027
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - NEOX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156029
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - NOVA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156038
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - PANDA ODISEA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156028
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - PARAMOUNT NETWORK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1230272
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TAQUILLA 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156039
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TAQUILLA 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156040
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TAQUILLA 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156041
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TCM HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156018
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TELECINCO HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156017
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TELEMADRID
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1074083
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TOROS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156127
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TV GALICIA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54155
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - WARNER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1230273
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ESP -  TCM FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4106
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ESP - BE MAD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/32619
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ESP - TVE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/32620
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT -  E! ENTERTAINMENT HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155867
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT -  EL GARAGE HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155864
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - BITME
-http://tv.nstvlatino.com:8080/mariasuazo/123456/47698
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - COCINA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1153332
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4039
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - Comedy Central HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155872
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - DISCOVERY TURBO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155871
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - DISCOVERY TURBO FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4075
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - DISTRITO COMEDIA FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4040
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - E! ENTERTAINMENT FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4041
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EL GARAGE TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4016
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EL GOURMET FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4042
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EL GOURMET HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155868
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EWTN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/34609
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - FOOD NETWORK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4146
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - FOOD NETWORK FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4057
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - HOLA TV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4046
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - HOLA TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155874
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - LIFETIME HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155873
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - MAS CHIC FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4047
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - TRU TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155879
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - WOBI TV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4107
-#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT -WOBI
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4134
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1086208
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - CANAL UNO SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53452
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - DIRECTV SPORTS + FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53490
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - DIRECTV SPORTS 2 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53489
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - DIRECTV SPORTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/23239
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - ECUADOR TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53453
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - ECUAVISA FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53455
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - ECUAVISA SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8084
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - EL CANAL DEL FÚTBOL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1092640
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - GOL TV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53381
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - GOL TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53491
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - GOL TV SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/25753
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - RTS SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53457
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TC TELEVISION FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53458
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TC TELEVISION HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7533
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TELEAMAZONAS FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7532
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TELEAMAZONAS SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53459
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TVC FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53460
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD -  BEIN SPORTS EXTRA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1220117
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD -  ESPN 7 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/42456
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - AYM SPORTS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156008
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - AZTECA DEPORTES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1172659
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - BEIN SPORTS Ñ HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155904
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - BEIN SPORTS XTRA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1178336
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - CLARO SPORTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/12011
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS 2 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1091367
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS 2 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/32882
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS 2 SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/32881
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1091366
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7863
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS PLUS FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1091368
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS PLUS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/27879
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS PLUS SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8520
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33512
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147316
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147317
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147318
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 4
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147319
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 5
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147320
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 6
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147321
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 1 MX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155892
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 1 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155888
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 1 SUR SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33469
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 2 BRASIL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1159096
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 2 MX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1118923
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 2 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43637
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 BRASIL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1159093
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 MX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155903
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155890
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 SUR SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43639
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 BRASIL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147322
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 MX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4120
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 MX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1238020
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1118360
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 SUR SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18580
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 5 BRASIL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1245776
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 5 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1198287
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 5 SUR SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1245731
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 6 BRASIL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1159094
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 6 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1197851
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN CHILE HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1080110
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN CHILE SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1080111
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN DEPORTES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155891
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN PREMIUM SUR FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7940
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN PREMIUM SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43638
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 HD CHILE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155912
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 HD MEX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156755
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 SD (CHILE)
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1095232
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1208267
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 2 HD MEX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156756
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 2 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/16139
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 MX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4008
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 MX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156757
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 SUR HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33475
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 SUR SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43640
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS PREMIUM FHD (MX)
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1126417
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOL TV FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1092639
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOL TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156009
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOL TV SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1092653
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOLF LATIN AMERICA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33363
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - SKY SPORTS LA LIGA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1229625
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TUDN DEPORTES FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3962
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TUDN DEPORTES HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4117
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TVC DEPORTES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4139
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TYC SPORTS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8247
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - UFC  NETWORK FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4082
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - UFC LIVE HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/53372
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - UNIVISION TUDN USA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156010
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - VIX LO MEJOR DE LIGA MX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1158436
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1232146
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS PREMIUM HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1232148
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS PREMIUM SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1232147
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1232145
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC  - DISCOVERY WORLD FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4076
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - ANIMAL PLANET
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155797
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - ANIMAL PLANET FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4067
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY CHANNEL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155807
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - DISCOVERY CHANNEL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4069
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY HOME & HEALTH
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155816
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - DISCOVERY HOME & HEALTH FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4070
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY ID
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4123
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - DISCOVERY ID FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156012
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY SCIENCE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155818
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY THEATER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4119
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - DISCOVERY THEATER FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4073
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY TLC
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155820
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY WORLD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155812
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DW EN ESPANOL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155821
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - FILM & ARTS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3966
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - HGTV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155823
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - HISPAN TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33481
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - HISTORY CHANEL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4093
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - HISTORY CHANEL HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155804
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - LOVE NATURE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1207483
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - NATGEO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4126
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - NATGEO FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4097
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - NATGEO WILD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1239171
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - RT ESPAÑOL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155802
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MYC - TLC FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4074
-#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC- DISCOVERY EN ESPAÑOL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/56304
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJfJHSKC/Cable-Noticias-logo-svg.png"group-title="COLOMBIA",COL - CABLE NOTICIAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155805
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJy0MkpY/Canal-RCN2023.png"group-title="COLOMBIA",COL - RCN FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155793
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJy0MkpY/Canal-RCN2023.png"group-title="COLOMBIA",COL - RCN HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4002
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJy0MkpY/Canal-RCN2023.png"group-title="COLOMBIA",COL- RCN SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1087192
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DywzgTMT/Caracol-TV2025.png"group-title="COLOMBIA",COL - CARACOL HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155783
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1X93bhRD/Canal-Telecaribe.png"group-title="COLOMBIA",COL - TELECARIBE HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43625
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxv8HQWt/Caracol-Internacional2025.png"group-title="COLOMBIA",COL - CARACOL INTERNACIONAL  HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1208182
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DywzgTMT/Caracol-TV2025.png"group-title="COLOMBIA",COL - CARACOL SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155787
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvp8pH6g/ESPN-wordmark-svg.png"group-title="COLOMBIA",COL - ESPN COLOMBIA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119288
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wYsSY1/LOGO-TELEPACIFICO.png"group-title="COLOMBIA",COL - TELEPACIFICO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/47693
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y62TCvX/NTN24-logo-svg.png"group-title="COLOMBIA",COL - NTN 24
-http://tv.nstvlatino.com:8080/mariasuazo/123456/41815
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvHZ6QXx/RCN-Novelas-logo-2019.png"group-title="COLOMBIA",COL - RCN NOVELAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155809
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw6j2Qg/Se-al-Colombia-logo-svg.png"group-title="COLOMBIA",COL - SEÑAL COLOMBIA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155811
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBkJCtwv/Teleantioquia-2024-Nuevo.png"group-title="COLOMBIA",COL - TELEANTIOQUIA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155801
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7dN451/Win-F-tbol-logo-svg.png"group-title="COLOMBIA",COL - WIN + FUTBOL  FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/16724
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7dN451/Win-F-tbol-logo-svg.png"group-title="COLOMBIA",COL - WIN + FUTBOL  HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54738
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j29cYZf/Win-Sports-nuevo-logo-svg.png"group-title="COLOMBIA",COL - WIN SPORTS FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155795
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j29cYZf/Win-Sports-nuevo-logo-svg.png"group-title="COLOMBIA",COL - WIN SPORTS + SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/16723
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - 24 HORAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/23237
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CANAL 13
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3853
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CANAL 13 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1145137
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CHILEVISION
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155836
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CHILEVISION HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155835
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CNN CHILE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155843
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - ESPN CHILE HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1068348
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - ESTADIO TNT
-http://tv.nstvlatino.com:8080/mariasuazo/123456/6979
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - MEGA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155842
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - MEGA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155841
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - REC TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155840
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TELETRAK HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3854
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/16138
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS 2 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1129864
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS 2 HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1129865
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1068349
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TV+
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1094403
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TV+ HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/30700
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TVN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155817
-#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE-TNT SPORTS FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1160041
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 -  PINGUINOS DE MADAGASCAR
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241354
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - ALERTA AEROPUERTO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1216363
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - ALF
-http://tv.nstvlatino.com:8080/mariasuazo/123456/44721
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - BAYWATCH
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1216362
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - BEN 10
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1179682
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - BOB ESPONJA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241329
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - CANTINFLAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1144258
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - CAPITAN TUBASA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147194
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - CASO CERRADO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240991
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DON GATO Y SU PANDILLA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241328
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DORA LA EXPLORADORA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241331
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DRAGON BALL GT
-http://tv.nstvlatino.com:8080/mariasuazo/123456/44344
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DRAGON BALL SUPER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/29406
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - EL GALLO CLAUDIO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241333
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - EL OSO YOGUI
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240988
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - EL PAJARO LOCO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241336
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - FUTURAMA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/29407
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - GARFIELD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18577
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - HE-MAN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241338
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA CASA DE MICKEY MOUSE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1214748
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA PANTERA ROSA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241340
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA ROSA DE GUADALUPE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1215899
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA VACA Y EL POLLITO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1140316
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS 3 CHIFLADOS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240984
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS EXPEDIENTES X
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1216365
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS MAGNIFICOS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240985
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS OSOS GUMMI
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240987
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS PICAPIEDRAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1141388
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS PITUFOS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241341
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS SIMPSON HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/29412
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS SUPERSONICOS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241342
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - MACGYVER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240986
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - MALCOM
-http://tv.nstvlatino.com:8080/mariasuazo/123456/44818
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - MAYDAY CATÁSTROFES AÉREAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1233031
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PATO AVENTURAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241343
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PAW PATROL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241344
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PEPPA PIG
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241351
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PINKY Y CEREBRO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1240990
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - POCOYO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241356
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - SCOOBY DOO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/44723
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - THE BIG BANG THEORY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/46491
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - THUNDERCATS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1241357
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - TOM Y JERRY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/46490
-#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 EL CHAVO DEL OCHO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18576
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - INDIE PLEX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8142
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - MORE MAX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8143
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - MOVIE MAX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8144
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - MOVIEPLEX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8145
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - OUTERMAX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8146
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - RETROPLEX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8147
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - SHOTIME WEST HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8141
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - SHOW TIME HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8138
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - SHOWTIME BEYOND HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8139
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - SHOWTIME EAST
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8140
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - STARZ CINEMA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8136
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - STARZ COMEDY HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8135
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - STARZ ENCORE ACTION HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8128
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - STARZ ENCORE BLACK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8127
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - STARZ IN BLACK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8126
-#EXTINF:-1 tvg-logo=""group-title="CANAL PELICULAS",CINP - STARZ KIDS & FAMILY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8133
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hxyrqcc5/322cb20d598c3a1557eae559eefc9000.jpg"group-title="CANAL CINEMA",CINE - CLARO CINEMA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4145
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cC7rJpcL/640px-Cinelatino-logo.png"group-title="CANAL CINEMA",CINE - CINE LATINO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4136
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG4c3bTq/A-E-cine.png"group-title="CANAL CINEMA",CINE - A&E FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4037
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp98jSbX/amazonpr.png"group-title="CANAL CINEMA",CINE - CINE AMAZON PRIME
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1200682
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44pKwcTR/amc.png"group-title="CANAL CINEMA",CINE - AMC
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4118
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzW4bpQ/axn.png"group-title="CANAL CINEMA",CINE - AXN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155784
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44pKwcTR/amc.png"group-title="CANAL CINEMA",CINE - AMC FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4085
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzW4bpQ/axn.png"group-title="CANAL CINEMA",CINE - AXN FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4038
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28m1t5zb/Canal-DHE-logo-svg.png"group-title="CANAL CINEMA",CINE - DHE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/24180
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVRWxzFP/cine-canal.png"group-title="CANAL CINEMA",CINE - CINECANAL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4068
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zzj1nfT/Cinemax-LA-logo.png"group-title="CANAL CINEMA",CINE - CINEMAX
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1068350
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5S8GyMK/De-Pelicula-Plus-Logo.png"group-title="CANAL CINEMA",CINE - DE PELICULA PLUS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155788
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yXrrd7D/De-pelicula-logo.png"group-title="CANAL CINEMA",CINE - DE PELICULA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155786
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R03ht6T8/disney.png"group-title="CANAL CINEMA",CINE - DISNEY+
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1202811
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGHj1DyG/dreamw.png"group-title="CANAL CINEMA",CINE - CINEMA DREAMWORKS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1161849
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85MCy29m/festival-de-films-cinemania.png"group-title="CANAL CINEMA",CINE - CINE MANIA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1148843
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJz4bhX1/fx-tv-channel-logo-png-seeklogo-307536.png"group-title="CANAL CINEMA",CINE - FX FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4044
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgkgxzKD/goldenp.png"group-title="CANAL CINEMA",CINE - GOLDEN PLUS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1148196
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - VOLVER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7978
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TYC SPORTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155819
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TYC SPORTS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43633
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TV PUBLICA ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8183
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TV PUBLICA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155822
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TNT SPORTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155814
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TNT SPORTS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33457
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18766
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TELEFE ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51071
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TELEFE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155824
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - NET TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155827
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - NET TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/23229
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - LN+
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7976
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1234882
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 2 ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090740
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 2 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090741
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 1 ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090738
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090739
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN PREMIUM ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8330
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN PREMIUM
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4193
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 2 ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1089695
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1089694
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 1 ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090736
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090737
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ENCUENTRO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7974
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL TRECE ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51070
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL TRECE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7431
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL NUEVE ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51072
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL NUEVE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155825
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL GARAGE TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7975
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - DEPORTV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/29348
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - CIUDAD MAGAZINE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3787
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - CINE AR
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7981
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - CANAL 26
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155833
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - C5N
+http://tv.nstvlatino.com:8080/mariasuazo/123456/17901
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - AMERICA SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155830
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - AMERICA HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155829
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - A24 ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51073
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - A24
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155831
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="BOLIVIA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - UNITEL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/52619
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - TIGO SPORTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54735
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - TIGO SPORTS 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54736
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - RTP
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54734
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - BOLIVIA TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54732
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - ATB
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54730
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL -  BOLIVISION TV ⁽ᴴᴰ⁾
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54733
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="CANAL CINEMA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - WARNER FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4053
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - WARNER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155808
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL REALITY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119205
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL PREMIER OESTE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119201
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL PREMIER ESTE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119204
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CRIME OESTE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119200
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CRIME ESTE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119203
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL COMEDY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119202
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CINEMA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119206
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CHANNEL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4054
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CHANNEL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156005
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT SERIES FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4050
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT SERIES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156004
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4103
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4010
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TERROR TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1180736
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TCM
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155806
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TBS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4011
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SYFY FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4049
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SYFY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3958
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SUNDANCE TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4101
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STUDIO UNIVERSAL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4100
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STUDIO UNIVERSAL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155803
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STAR CHANNEL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4022
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STAR CHANNEL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4121
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SPACE FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4099
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SONY MOVIES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1143816
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SONY FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4048
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SONY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155800
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - PARAMOUNT NETWORK HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155799
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - PARAMOUNT NETWORK
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4065
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - PANICO TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7436
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - NETFLIX TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1188392
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - NETFLIX PELICULAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1235129
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - MULTIPREMIER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1188239
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - MULTICINEMA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1148845
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - MORBID TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33364
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO XTREME FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8226
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO XTREME
+http://tv.nstvlatino.com:8080/mariasuazo/123456/44341
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO SIGNATURE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155796
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO POP FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8246
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO POP
+http://tv.nstvlatino.com:8080/mariasuazo/123456/47445
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLnz0Hyt/hbo-plus.png"group-title="CANAL CINEMA",CINE - HBO PLUS + FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4109
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1XnprbN/png-transparent-hbo-max-logo-black-thumbnail.png"group-title="CANAL CINEMA",CINE - HBO PLUS +
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4003
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq8fJGXn/hbo-mundi.png"group-title="CANAL CINEMA",CINE - HBO MUNDI
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1143815
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD63Jf1R/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"group-title="CANAL CINEMA",CINE - HBO HD (DUAL AUDIO)
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1173791
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD63Jf1R/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"group-title="CANAL CINEMA",CINE - HBO FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4112
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x0NX4T1/hbo-family.png"group-title="CANAL CINEMA",CINE - HBO FAMILY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4017
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJKT9T4Y/HBO-2-Logo-Poland.png"group-title="CANAL CINEMA",CINE - HBO 2 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4095
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJKT9T4Y/HBO-2-Logo-Poland.png"group-title="CANAL CINEMA",CINE - HBO 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155794
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD63Jf1R/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"group-title="CANAL CINEMA",CINE - HBO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155792
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMjvZXbS/goldenprem.png"group-title="CANAL CINEMA",CINE - GOLDEN PREMIERE
 http://tv.nstvlatino.com:8080/mariasuazo/123456/4091
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgkgxzKD/goldenp.png"group-title="CANAL CINEMA",CINE - GOLDEN PLUS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1148196
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R0tDZp9/Golden-Edge-Logo-2020.png"group-title="CANAL CINEMA",CINE - GOLDEN EDGE
 http://tv.nstvlatino.com:8080/mariasuazo/123456/1155791
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHQmzSz5/Golden-logo.png"group-title="CANAL CINEMA",CINE - GOLDEN
 http://tv.nstvlatino.com:8080/mariasuazo/123456/1155790
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x0NX4T1/hbo-family.png"group-title="CANAL CINEMA",CINE - HBO FAMILY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4017
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq8fJGXn/hbo-mundi.png"group-title="CANAL CINEMA",CINE - HBO MUNDI
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1143815
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLnz0Hyt/hbo-plus.png"group-title="CANAL CINEMA",CINE - HBO PLUS + FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4109
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJKT9T4Y/HBO-2-Logo-Poland.png"group-title="CANAL CINEMA",CINE - HBO 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155794
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1TTtprT/network-cinemadinamita.png"group-title="CANAL CINEMA",CINE - CINEMA DINAMITA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4142
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYRys9hr/Paramount-Plus-svg.png"group-title="CANAL CINEMA",CINE - CINE PARAMOUNT+
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1200683
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hssp58Y2/peliplus.png"group-title="CANAL CINEMA",CINE - CINE PLUS PELICULAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1235131
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD63Jf1R/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"group-title="CANAL CINEMA",CINE - HBO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155792
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1XnprbN/png-transparent-hbo-max-logo-black-thumbnail.png"group-title="CANAL CINEMA",CINE - HBO PLUS +
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4003
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVgvzW8H/png-transparent-superman-comic-book-dc-comics-logo-cross-shaped-comics-white-heroes-thumbnail.png"group-title="CANAL CINEMA",CINE - CINEMA DC UNIVERSE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1161848
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tv11wgx/star.png"group-title="CANAL CINEMA",CINE - CINE STAR+
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1200684
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE BELICO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1147993
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE CIENCIA FICCION
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1242145
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE CLASICO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1161847
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE EN ACCION
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1180733
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE ESTRENOS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1245187
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE SAGAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1180734
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE SUSPENSO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155781
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINECANAL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155785
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA DIGITAL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1202401
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE -  CINE VAMPIROS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1185762
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA FAMILIA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156760
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA MARVEL STUDIOS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/44728
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA ROBOTS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1202400
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - A&E
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156013
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMAX FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4110
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJz4bhX1/fx-tv-channel-logo-png-seeklogo-307536.png"group-title="CANAL CINEMA",CINE - FX HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155789
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJz4bhX1/fx-tv-channel-logo-png-seeklogo-307536.png"group-title="CANAL CINEMA",CINE - FX FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4044
 #EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - EUROPA EUROPA
 http://tv.nstvlatino.com:8080/mariasuazo/123456/33359
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - FX HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155789
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO 2 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4095
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4112
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO HD (DUAL AUDIO)
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1173791
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO POP
-http://tv.nstvlatino.com:8080/mariasuazo/123456/47445
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO POP FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8246
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO SIGNATURE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155796
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO XTREME
-http://tv.nstvlatino.com:8080/mariasuazo/123456/44341
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - HBO XTREME FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8226
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - MORBID TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33364
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - MULTICINEMA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1148845
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - MULTIPREMIER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1188239
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - NETFLIX PELICULAS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1235129
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - NETFLIX TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1188392
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - PANICO TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7436
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - PARAMOUNT NETWORK
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4065
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - PARAMOUNT NETWORK HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155799
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SONY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155800
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SONY FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4048
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SONY MOVIES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1143816
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SPACE FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4099
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STAR CHANNEL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4121
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STAR CHANNEL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4022
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STUDIO UNIVERSAL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155803
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - STUDIO UNIVERSAL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4100
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SUNDANCE TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4101
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SYFY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3958
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - SYFY FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4049
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TBS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4011
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TCM
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155806
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TERROR TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1180736
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4010
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4103
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT SERIES
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156004
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - TNT SERIES FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4050
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CHANNEL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1156005
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CHANNEL FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4054
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CINEMA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119206
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL COMEDY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119202
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CRIME ESTE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119203
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL CRIME OESTE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119200
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL PREMIER ESTE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119204
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL PREMIER OESTE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119201
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - UNIVERSAL REALITY
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1119205
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - WARNER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155808
-#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - WARNER FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4053
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL -  BOLIVISION TV ⁽ᴴᴰ⁾
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54733
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - ATB
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54730
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - BOLIVIA TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54732
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - RTP
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54734
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - TIGO SPORTS 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54736
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - TIGO SPORTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/54735
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOL - UNITEL
-http://tv.nstvlatino.com:8080/mariasuazo/123456/52619
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - A24
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155831
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - A24 ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51073
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - AMERICA HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155829
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - AMERICA SD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155830
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - C5N
-http://tv.nstvlatino.com:8080/mariasuazo/123456/17901
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - CANAL 26
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155833
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - CINE AR
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7981
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - CIUDAD MAGAZINE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/3787
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - DEPORTV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/29348
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL GARAGE TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7975
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL NUEVE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155825
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL NUEVE ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51072
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL TRECE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7431
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - EL TRECE ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51070
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ENCUENTRO
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7974
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090737
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 1 ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090736
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 2
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1089694
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN 2 ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1089695
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN PREMIUM
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4193
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - ESPN PREMIUM ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8330
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 1
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090739
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 1 ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090738
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 2 FHD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090741
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 2 ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1090740
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - FOX SPORTS 3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1234882
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - LN+
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7976
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - NET TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/23229
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - NET TV HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155827
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TELEFE
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155824
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TELEFE ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/51071
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TN
-http://tv.nstvlatino.com:8080/mariasuazo/123456/18766
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TNT SPORTS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/33457
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TNT SPORTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155814
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TV PUBLICA
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155822
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TV PUBLICA ᴴᴰ
-http://tv.nstvlatino.com:8080/mariasuazo/123456/8183
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TYC SPORTS
-http://tv.nstvlatino.com:8080/mariasuazo/123456/43633
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - TYC SPORTS HD
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155819
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ARG - VOLVER
-http://tv.nstvlatino.com:8080/mariasuazo/123456/7978
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R03ht6T8/disney.png"group-title="CANAL CINEMA",CINE - DISNEY+
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1202811
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28m1t5zb/Canal-DHE-logo-svg.png"group-title="CANAL CINEMA",CINE - DHE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/24180
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5S8GyMK/De-Pelicula-Plus-Logo.png"group-title="CANAL CINEMA",CINE - DE PELICULA PLUS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155788
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yXrrd7D/De-pelicula-logo.png"group-title="CANAL CINEMA",CINE - DE PELICULA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155786
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hxyrqcc5/322cb20d598c3a1557eae559eefc9000.jpg"group-title="CANAL CINEMA",CINE - CLARO CINEMA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4145
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zzj1nfT/Cinemax-LA-logo.png"group-title="CANAL CINEMA",CINE - CINEMAX FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4110
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zzj1nfT/Cinemax-LA-logo.png"group-title="CANAL CINEMA",CINE - CINEMAX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1068350
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA ROBOTS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1202400
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA MARVEL STUDIOS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/44728
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA FAMILIA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156760
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGHj1DyG/dreamw.png"group-title="CANAL CINEMA",CINE - CINEMA DREAMWORKS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1161849
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1TTtprT/network-cinemadinamita.png"group-title="CANAL CINEMA",CINE - CINEMA DINAMITA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4142
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINEMA DIGITAL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1202401
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVgvzW8H/png-transparent-superman-comic-book-dc-comics-logo-cross-shaped-comics-white-heroes-thumbnail.png"group-title="CANAL CINEMA",CINE - CINEMA DC UNIVERSE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1161848
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVRWxzFP/cine-canal.png"group-title="CANAL CINEMA",CINE - CINECANAL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4068
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVRWxzFP/cine-canal.png"group-title="CANAL CINEMA",CINE - CINECANAL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155785
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE SUSPENSO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155781
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tv11wgx/star.png"group-title="CANAL CINEMA",CINE - CINE STAR+
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1200684
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE SAGAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1180734
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hssp58Y2/peliplus.png"group-title="CANAL CINEMA",CINE - CINE PLUS PELICULAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1235131
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYRys9hr/Paramount-Plus-svg.png"group-title="CANAL CINEMA",CINE - CINE PARAMOUNT+
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1200683
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85MCy29m/festival-de-films-cinemania.png"group-title="CANAL CINEMA",CINE - CINE MANIA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1148843
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cC7rJpcL/640px-Cinelatino-logo.png"group-title="CANAL CINEMA",CINE - CINE LATINO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4136
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE ESTRENOS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1245187
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE EN ACCION
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1180733
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE CLASICO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1161847
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE CIENCIA FICCION
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1242145
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE - CINE BELICO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147993
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp98jSbX/amazonpr.png"group-title="CANAL CINEMA",CINE - CINE AMAZON PRIME
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1200682
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzW4bpQ/axn.png"group-title="CANAL CINEMA",CINE - AXN FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4038
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzW4bpQ/axn.png"group-title="CANAL CINEMA",CINE - AXN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155784
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44pKwcTR/amc.png"group-title="CANAL CINEMA",CINE - AMC FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4085
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44pKwcTR/amc.png"group-title="CANAL CINEMA",CINE - AMC
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4118
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG4c3bTq/A-E-cine.png"group-title="CANAL CINEMA",CINE - A&E FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4037
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG4c3bTq/A-E-cine.png"group-title="CANAL CINEMA",CINE - A&E
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156013
+#EXTINF:-1 tvg-logo=""group-title="CANAL CINEMA",CINE -  CINE VAMPIROS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1185762
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="CANALES 247",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 EL CHAVO DEL OCHO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18576
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - TOM Y JERRY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/46490
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - THUNDERCATS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241357
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - THE BIG BANG THEORY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/46491
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - SCOOBY DOO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/44723
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - POCOYO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241356
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PINKY Y CEREBRO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240990
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PEPPA PIG
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241351
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PAW PATROL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241344
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - PATO AVENTURAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241343
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - MAYDAY CATÁSTROFES AÉREAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1233031
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - MALCOM
+http://tv.nstvlatino.com:8080/mariasuazo/123456/44818
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - MACGYVER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240986
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS SUPERSONICOS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241342
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS SIMPSON HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/29412
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS PITUFOS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241341
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS PICAPIEDRAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1141388
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS OSOS GUMMI
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240987
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS MAGNIFICOS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240985
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS EXPEDIENTES X
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1216365
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LOS 3 CHIFLADOS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240984
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA VACA Y EL POLLITO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1140316
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA ROSA DE GUADALUPE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1215899
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA PANTERA ROSA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241340
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - LA CASA DE MICKEY MOUSE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1214748
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - HE-MAN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241338
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - GARFIELD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18577
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - FUTURAMA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/29407
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - EL PAJARO LOCO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241336
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - EL OSO YOGUI
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240988
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - EL GALLO CLAUDIO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241333
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DRAGON BALL SUPER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/29406
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DRAGON BALL GT
+http://tv.nstvlatino.com:8080/mariasuazo/123456/44344
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DORA LA EXPLORADORA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241331
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - DON GATO Y SU PANDILLA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241328
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - CASO CERRADO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240991
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - CAPITAN TUBASA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147194
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - CANTINFLAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1144258
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - BOB ESPONJA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241329
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - BEN 10
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1179682
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - BAYWATCH
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1216362
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - ALF
+http://tv.nstvlatino.com:8080/mariasuazo/123456/44721
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 - ALERTA AEROPUERTO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1216363
+#EXTINF:-1 tvg-logo=""group-title="CANALES 247",24/7 -  PINGUINOS DE MADAGASCAR
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1241354
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="CHILE",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE-TNT SPORTS FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1160041
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TVN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155817
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TV+ HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/30700
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TV+
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1094403
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1068349
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS 2 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1129865
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS 2 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1129864
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TNT SPORTS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/16138
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - TELETRAK HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3854
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - REC TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155840
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - MEGA HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155841
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - MEGA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155842
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - ESTADIO TNT
+http://tv.nstvlatino.com:8080/mariasuazo/123456/6979
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - ESPN CHILE HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1068348
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CNN CHILE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155843
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CHILEVISION HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155835
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CHILEVISION
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155836
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CANAL 13 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1145137
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - CANAL 13
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3853
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE - 24 HORAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/23237
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="COLOMBIA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJy0MkpY/Canal-RCN2023.png"group-title="COLOMBIA",COL- RCN SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1087192
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j29cYZf/Win-Sports-nuevo-logo-svg.png"group-title="COLOMBIA",COL - WIN SPORTS FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155795
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j29cYZf/Win-Sports-nuevo-logo-svg.png"group-title="COLOMBIA",COL - WIN SPORTS + SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/16723
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7dN451/Win-F-tbol-logo-svg.png"group-title="COLOMBIA",COL - WIN + FUTBOL  HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54738
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7dN451/Win-F-tbol-logo-svg.png"group-title="COLOMBIA",COL - WIN + FUTBOL  FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/16724
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wYsSY1/LOGO-TELEPACIFICO.png"group-title="COLOMBIA",COL - TELEPACIFICO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/47693
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1X93bhRD/Canal-Telecaribe.png"group-title="COLOMBIA",COL - TELECARIBE HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43625
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBkJCtwv/Teleantioquia-2024-Nuevo.png"group-title="COLOMBIA",COL - TELEANTIOQUIA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155801
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw6j2Qg/Se-al-Colombia-logo-svg.png"group-title="COLOMBIA",COL - SEÑAL COLOMBIA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155811
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvHZ6QXx/RCN-Novelas-logo-2019.png"group-title="COLOMBIA",COL - RCN NOVELAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155809
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJy0MkpY/Canal-RCN2023.png"group-title="COLOMBIA",COL - RCN HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4002
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJy0MkpY/Canal-RCN2023.png"group-title="COLOMBIA",COL - RCN FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155793
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y62TCvX/NTN24-logo-svg.png"group-title="COLOMBIA",COL - NTN 24
+http://tv.nstvlatino.com:8080/mariasuazo/123456/41815
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvp8pH6g/ESPN-wordmark-svg.png"group-title="COLOMBIA",COL - ESPN COLOMBIA HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1119288
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DywzgTMT/Caracol-TV2025.png"group-title="COLOMBIA",COL - CARACOL SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155787
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxv8HQWt/Caracol-Internacional2025.png"group-title="COLOMBIA",COL - CARACOL INTERNACIONAL  HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1208182
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DywzgTMT/Caracol-TV2025.png"group-title="COLOMBIA",COL - CARACOL HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155783
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJfJHSKC/Cable-Noticias-logo-svg.png"group-title="COLOMBIA",COL - CABLE NOTICIAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155805
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="CULTURA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg"group-title="CULTURA",MyC- DISCOVERY EN ESPAÑOL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/56304
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png"group-title="CULTURA",MYC - TLC FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4074
+#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - RT ESPAÑOL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155802
+#EXTINF:-1 tvg-logo="https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg"group-title="CULTURA",MyC - NATGEO WILD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1239171
+#EXTINF:-1 tvg-logo="https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg"group-title="CULTURA",MYC - NATGEO FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4097
+#EXTINF:-1 tvg-logo="https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg"group-title="CULTURA",MyC - NATGEO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4126
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg"group-title="CULTURA",MYC - LOVE NATURE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1207483
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91"group-title="CULTURA",MyC - HISTORY CHANEL HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155804
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91"group-title="CULTURA",MYC - HISTORY CHANEL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4093
+#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - HISPAN TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33481
+#EXTINF:-1 tvg-logo="https://www.bluestarcooking.com/wp-content/uploads/2019/11/th_HGTV-1.jpg"group-title="CULTURA",MyC - HGTV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155823
+#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - FILM & ARTS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3966
+#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DW EN ESPANOL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155821
+#EXTINF:-1 tvg-logo=""group-title="CULTURA",MyC - DISCOVERY WORLD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155812
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png"group-title="CULTURA",MyC - DISCOVERY TLC
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155820
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5aJp5Glx0Ok/WjhSalNfPDI/AAAAAAAACHw/mJRtB4XD1YMMXi7H1JbN_mtaPniJg09-QCLcBGAs/s1600/dt1.png"group-title="CULTURA",MYC - DISCOVERY THEATER FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4073
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5aJp5Glx0Ok/WjhSalNfPDI/AAAAAAAACHw/mJRtB4XD1YMMXi7H1JbN_mtaPniJg09-QCLcBGAs/s1600/dt1.png"group-title="CULTURA",MyC - DISCOVERY THEATER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4119
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_discovery-science_m.png"group-title="CULTURA",MyC - DISCOVERY SCIENCE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155818
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png"group-title="CULTURA",MYC - DISCOVERY ID FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156012
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png"group-title="CULTURA",MyC - DISCOVERY ID
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4123
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png"group-title="CULTURA",MYC - DISCOVERY HOME & HEALTH FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4070
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png"group-title="CULTURA",MyC - DISCOVERY HOME & HEALTH
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155816
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg"group-title="CULTURA",MYC - DISCOVERY CHANNEL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4069
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg"group-title="CULTURA",MyC - DISCOVERY CHANNEL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155807
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1"group-title="CULTURA",MYC - ANIMAL PLANET FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4067
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1"group-title="CULTURA",MyC - ANIMAL PLANET
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155797
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png"group-title="CULTURA",MYC  - DISCOVERY WORLD FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4076
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="DEPORTES",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1232145
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS PREMIUM SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1232147
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS PREMIUM HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1232148
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT SPORTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1232146
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - VIX LO MEJOR DE LIGA MX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1158436
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - UNIVISION TUDN USA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156010
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - UFC LIVE HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53372
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - UFC  NETWORK FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4082
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TYC SPORTS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8247
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TVC DEPORTES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4139
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TUDN DEPORTES HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4117
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - TUDN DEPORTES FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3962
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - SKY SPORTS LA LIGA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1229625
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOLF LATIN AMERICA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33363
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOL TV SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1092653
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOL TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156009
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - GOL TV FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1092639
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS PREMIUM FHD (MX)
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1126417
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 SUR SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43640
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33475
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 MX HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156757
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 3 MX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4008
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 2 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/16139
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 2 HD MEX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156756
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1208267
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 SD (CHILE)
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1095232
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 HD MEX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156755
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - FOX SPORTS 1 HD CHILE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155912
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN PREMIUM SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43638
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN PREMIUM SUR FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7940
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN DEPORTES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155891
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN CHILE SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1080111
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN CHILE HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1080110
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 6 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1197851
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 6 BRASIL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1159094
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 5 SUR SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1245731
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 5 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1198287
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 5 BRASIL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1245776
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 SUR SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18580
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1118360
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 MX HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1238020
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 MX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4120
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 4 BRASIL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147322
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 SUR SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43639
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155890
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 MX HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155903
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 3 BRASIL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1159093
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 2 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43637
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 2 MX HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1118923
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 2 BRASIL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1159096
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 1 SUR SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33469
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 1 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155888
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ESPN 1 MX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155892
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 6
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147321
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 5
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147320
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 4
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147319
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147318
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147317
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - ELEVEN SPORTS 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1147316
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33512
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS PLUS SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8520
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS PLUS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/27879
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS PLUS FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1091368
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7863
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1091366
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS 2 SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/32881
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS 2 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/32882
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - DIRECTV SPORTS 2 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1091367
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - CLARO SPORTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/12011
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - BEIN SPORTS XTRA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1178336
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - BEIN SPORTS Ñ HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155904
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - AZTECA DEPORTES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1172659
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD - AYM SPORTS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156008
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD -  ESPN 7 SUR HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/42456
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",LD -  BEIN SPORTS EXTRA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1220117
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="ECUADOR",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TVC FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53460
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TELEAMAZONAS SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53459
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TELEAMAZONAS FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7532
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TC TELEVISION HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7533
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - TC TELEVISION FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53458
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - RTS SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53457
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - GOL TV SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/25753
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - GOL TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53491
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - GOL TV FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53381
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - EL CANAL DEL FÚTBOL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1092640
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - ECUAVISA SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8084
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - ECUAVISA FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53455
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - ECUADOR TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53453
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - DIRECTV SPORTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/23239
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - DIRECTV SPORTS 2 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53489
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - DIRECTV SPORTS + FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53490
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECU - CANAL UNO SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53452
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1086208
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="ENTRETENIMIENTO",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT -WOBI
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4134
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - WOBI TV FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4107
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - TRU TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155879
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - MAS CHIC FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4047
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - LIFETIME HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155873
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - HOLA TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155874
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - HOLA TV FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4046
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - FOOD NETWORK FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4057
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - FOOD NETWORK
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4146
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EWTN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/34609
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EL GOURMET HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155868
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EL GOURMET FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4042
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - EL GARAGE TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4016
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - E! ENTERTAINMENT FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4041
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - DISTRITO COMEDIA FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4040
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - DISCOVERY TURBO FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4075
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - DISCOVERY TURBO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155871
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - Comedy Central HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155872
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4039
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - COCINA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1153332
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT - BITME
+http://tv.nstvlatino.com:8080/mariasuazo/123456/47698
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT -  EL GARAGE HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155864
+#EXTINF:-1 tvg-logo=""group-title="ENTRETENIMIENTO",ENT -  E! ENTERTAINMENT HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155867
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="ESPAÑA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ESP - TVE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/32620
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ESP - BE MAD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/32619
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ESP -  TCM FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4106
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - WARNER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1230273
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TV GALICIA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54155
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TOROS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156127
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TELEMADRID
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1074083
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TELECINCO HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156017
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TCM HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156018
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TAQUILLA 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156041
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TAQUILLA 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156040
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - TAQUILLA 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156039
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - PARAMOUNT NETWORK
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1230272
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - PANDA ODISEA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156028
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - NOVA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156038
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - NEOX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156029
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MOVISTAR SERIES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/6027
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MOVISTAR ESTRENOS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156025
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MOVISTAR ACCION
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156027
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - MEGA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156019
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA SEXTA HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156020
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA CUATRO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/17191
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156030
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA 1 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1195550
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - LA 1 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53894
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - IBERALIA TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156023
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - HOLLYWOOD HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156021
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - HISTORIA HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156022
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - FOX LIFE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156044
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - FDF
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156214
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ENERGY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156037
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - DIVINITY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156031
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - DECASA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1158754
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - COSMO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4177
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - COMEDY CENTRAL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156042
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CLAN TVE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156032
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CLAN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4131
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - Cazavisión ᴴᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1167790
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CAZA Y PESCA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156033
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CANAL COCINA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156034
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - CALLE 13 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/17192
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - BOING
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156035
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - BABY TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156043
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - AXN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1230271
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ANTENA 3 INT.
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4108
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ANTENA 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/35494
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - ANDALUCIA TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156016
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - AMC
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1230270
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - A3 SERIES INT.
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3961
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - A3 SERIES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/35495
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - A3 INTERNACIONAL FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156011
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES - #0 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156036
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",ES  - MOVISTAR COMEDIA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="ESPAÑA DEP",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR+ LIGA DE CAMPEONES HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156049
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR+ LIGA DE CAMPEONES FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/16717
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR+ DEPORTES 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1220199
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR PLUS+ 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1238793
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR LA LIGA HYPERMOTION 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1238792
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR LA LIGA HYPERMOTION
+http://tv.nstvlatino.com:8080/mariasuazo/123456/32365
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR F1 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53028
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - MOVISTAR  #VAMOS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51453
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - EUROSPORT 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51352
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - EUROSPORT 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/41816
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN LA LIGA 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1205960
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN LA LIGA 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1205959
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN F1 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1143419
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN 4
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1169266
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1089977
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D - DAZN 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/34608
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - VAMOS +
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156050
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - TELEDEPORTE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156053
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - REAL MADRID TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156054
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR+ LA LIGA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1216075
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR+ GOLF
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156052
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR+ DEPORTES 2 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090600
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR LA LIGA TV 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1115758
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR F1 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156055
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - MOVISTAR DEPORTES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156051
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - LA LIGA TV BAR FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51343
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - GOL PLAY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156048
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - DAZN 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/53380
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - BEIN SPORTS LA LIGA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156047
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - BARCA TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156046
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA DEP",ESP D  - BAR TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156045
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="EVENTOS",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 7
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7992
+#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 6
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4203
+#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 5
+http://tv.nstvlatino.com:8080/mariasuazo/123456/16135
+#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 4
+http://tv.nstvlatino.com:8080/mariasuazo/123456/17174
+#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/17182
+#EXTINF:-1 tvg-logo=""group-title="EVENTOS",USV - EVENTOS CANAL 2
+http://tv.nstvlatino.com:8080/mariasuazo/123456/17183
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="EVENTOS",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="INFANTILES",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png"group-title="INFANTILES",INF - TOONCAST FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4051
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/TNCK.png"group-title="INFANTILES",INF - TEEN NICK
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4140
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png"group-title="INFANTILES",INF - NICKELODEON HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155856
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png"group-title="INFANTILES",INF - NICKELODEON FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4058
+#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/detail/128-1283921_disney-channel-logo-disney-channel-logo-2016.png"group-title="INFANTILES",INF - Movistsar DISNEY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1219850
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440"group-title="INFANTILES",INF - DISNEY JR FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4111
+#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/detail/128-1283921_disney-channel-logo-disney-channel-logo-2016.png"group-title="INFANTILES",INF - DISNEY CHANNEL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4004
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/6c6fe-dk.png?w=218"group-title="INFANTILES",INF - DISCOVERY KIDS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155851
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/6c6fe-dk.png?w=218"group-title="INFANTILES",INF - DISCOVERY KIDS FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4072
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png"group-title="INFANTILES",INF - CARTOONITO HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155854
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png"group-title="INFANTILES",INF - CARTOONITO FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4061
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/589a41e25aa6293a4aac48ab.png"group-title="INFANTILES",INF - CARTOON NETWORK FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4063
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/589a41e25aa6293a4aac48ab.png"group-title="INFANTILES",INF - CARTOON NETWORK
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155850
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidOs5faVDw7rACJTQxB_daBKbr0-EiMq1u-HbFLA8IWFG7EMU"group-title="INFANTILES",INF - BABY TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3798
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png"group-title="INFANTILES",INF - BABY FIRST FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4088
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png"group-title="INFANTILES",INF - BABY FIRST
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155858
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png"group-title="INFANTILES",INF -  TOONCAST
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155861
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440"group-title="INFANTILES",INF  - DISNEY JR
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1144260
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidOs5faVDw7rACJTQxB_daBKbr0-EiMq1u-HbFLA8IWFG7EMU"group-title="INFANTILES",INF -  BABY TV HQ FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4116
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="INFANTILES",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="LATINOS",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",USA: CNBC
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1190391
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",US.SP - FOX DEPORTES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1202578
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",US.SP - ESPN USA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1205951
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",US.SP - ACC NETWORK  HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1178225
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",UCV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1179876
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",SLV - TIGO SPORTS EL SALVADOR
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1183125
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT-USA-PASIONES(2)
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1085156
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT -UNIVISION HOUSTON FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1176174
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT- UNIVISION ATLANTA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/56303
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT- TELEMUNDO TAMPA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1070040
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT- TELEMUNDO ORLANDO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1118963
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION TELENOVELAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1090591
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION SAN FRANCISCO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18560
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION NOTICIAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18568
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - Univision New York HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156211
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - Univision Miami HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156213
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION LOS ANGELES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18564
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION LAS VEGAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18563
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3796
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION DENVER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18565
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION DALLAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18559
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIVISION CHICAGO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/47679
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS NEW YORK
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18772
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS MIAMI
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18773
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS LOS ANGELES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18774
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS DENVER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18572
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - UNIMAS DALLAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3795
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO PHILADELPHIA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43289
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO MIAMI
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156210
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO LAS VEGAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18775
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO INTERNACIONAL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43189
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO HOUSTON
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18776
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO DENVER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18570
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO BOSTON
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3794
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 60 SAN ANTONIO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18777
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 52 LOS ANGELES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18778
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 51 MIAMI
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18779
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 48 SAN FRANCISCO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18780
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 47 NEW YORK
+http://tv.nstvlatino.com:8080/mariasuazo/123456/30213
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 47
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8209
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 44 CHICAGO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/30215
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - TELEMUNDO 39 DALLAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/30216
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - PASIONES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/49168
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - NEWS 12 NEW JERSEY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1160043
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - NBC SAN DIEGO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1172657
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - NBC  BOSTON
+http://tv.nstvlatino.com:8080/mariasuazo/123456/45551
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - GALAVISION HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3793
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - ESTRELLA TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/41188
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CNN USA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33360
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CNN EN ESPAÑOL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4014
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CBS SAN DIEGO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1172656
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - CBS BOSTON
+http://tv.nstvlatino.com:8080/mariasuazo/123456/45550
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT - AMERICA TEVE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/48119
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",LAT -  TELEMUNDO SAN DIEGO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1172655
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",HON -CANAL 5 TVC EL LIDER
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1202577
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",HON - TDTV FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1195000
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",Canal 9 Bío Bío
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1179877
+#EXTINF:-1 tvg-logo=""group-title="LATINOS",ADN TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1179875
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="LATINOS",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="MEXICO",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYCXG0Jk/Uno-tv.jpg"group-title="MEXICO",MX - UNO MVS TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/6022
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LrhSQJ8/Unicable-logo-svg.png"group-title="MEXICO",MX - UNICABLE HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155852
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LrhSQJ8/Unicable-logo-svg.png"group-title="MEXICO",MX - UNICABLE FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4052
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15Tf3z9z/TVCDeportes.png"group-title="MEXICO",MX - TVC
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4105
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTkVsdQF/tv4.png"group-title="MEXICO",MX - TV4
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33367
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjyRXmWJ/Logo-Tv-UNAM.png"group-title="MEXICO",MX - TV UNAM
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18574
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",MX - TV MAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/33365
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NfWp8mn/TUDN-Logo-svg.png"group-title="MEXICO",MX - TUDN MX FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1105665
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnkVVccr/Tlnovelas-logo-2021.png"group-title="MEXICO",MX - TLN TELENOVELAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4130
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ6Cwvk7/Logo-de-Grupo-Televisa-svg.png"group-title="MEXICO",MX - TELEVISA MTY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4066
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4m3860D/woodside.jpg"group-title="MEXICO",MX - TELEFORMULA FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4036
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydPD1Xdq/Once-ni-as-y-ni-os-2020-svg.png"group-title="MEXICO",MX - ONCE TV NIÑOS Y NIÑAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/47697
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nt0BC5j/Image-of-Canal-11.png"group-title="MEXICO",MX - ONCE TV FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4035
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13knJ3Td/Multimedios-Canal-Seis-Logo-svg.png"group-title="MEXICO",MX - MULTIMEDIOS MONTERREY PLUS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4034
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13knJ3Td/Multimedios-Canal-Seis-Logo-svg.png"group-title="MEXICO",MX - MULTIMEDIOS MONTERREY FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4033
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13knJ3Td/Multimedios-Canal-Seis-Logo-svg.png"group-title="MEXICO",MX - MULTIMEDIOS MONTERREY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4125
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PnrfHbN/Logo-Imagen-Televisi-n-2016.png"group-title="MEXICO",MX - IMAGEN TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVJwqRt/Nueve-2018-logo.png"group-title="MEXICO",MX - GALA TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4031
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9k4Bytf/N-Foro-2024-svg.png"group-title="MEXICO",MX - FORO TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4029
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkVX6KLr/Canal-2-Las-Estrellas-2017-svg.png"group-title="MEXICO",MX - EL CANAL DE LAS ESTRELLAS SUR
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4030
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15zqzTwv/Logo-Imagen-Televisi-n-2016-1.png"group-title="MEXICO",MX - EL CANAL DE LAS ESTRELLAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1239363
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVsm3Z4z/TV-Azteca-Coraz-n-logo-svg.png"group-title="MEXICO",MX - CORAZON HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155857
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1dWgNSY/Ingenio-tv-logo.png"group-title="MEXICO",MX - CANAL 5 HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155865
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1dWgNSY/Ingenio-tv-logo.png"group-title="MEXICO",MX - CANAL 5 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4028
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0hRWZ8d/Canal-5-Mexico-logo-2014-svg.png"group-title="MEXICO",MX - CANAL 5
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155866
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N8pbZXC/Azteca-uno-2023.png"group-title="MEXICO",MX - AZTECA UNO HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155859
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRpXpK3B/Azteca72024.png"group-title="MEXICO",MX - AZTECA 7 FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4027
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRpXpK3B/Azteca72024.png"group-title="MEXICO",MX - AZTECA 7
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155863
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbQcJ9F/co-az-corazon-m.png"group-title="MEXICO",MX - AZ CORAZON
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tZF53rF/cl-az-cinema-m.png"group-title="MEXICO",MX - AZ CINEMA FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4086
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7NwCXSc/Adn40-2022.png"group-title="MEXICO",MX - ADN 40
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4025
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9k4Bytf/N-Foro-2024-svg.png"group-title="MEXICO",MX -  FORO TV HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155869
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9k4Bytf/N-Foro-2024-svg.png"group-title="MEXICO",MX -  FORO TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155870
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="MEXICO",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="MUSICA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS -STINGRAY CONCERTS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1167672
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - VH1 CLASSIC
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4133
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - TELEHIT URBANO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3960
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - Telehit  PLUS HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1167671
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MUSIC TOP
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156060
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV LIVE FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4096
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV LIVE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156058
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV HITS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156057
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4083
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MTV 00s HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1167670
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - MC 90's
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1197330
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - M6 MUSIC
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7823
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - HTV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51395
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - CONCERT CHANNEL
+http://tv.nstvlatino.com:8080/mariasuazo/123456/23236
+#EXTINF:-1 tvg-logo=""group-title="MUSICA",MUS - BANDAMAX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156056
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="MUSICA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="PERU",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="PERU",PR-WAPA AMERICA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43871
+#EXTINF:-1 tvg-logo=""group-title="PERU",PR-WAPA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43870
+#EXTINF:-1 tvg-logo=""group-title="PERU",PR-TELEMUNDO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43875
+#EXTINF:-1 tvg-logo=""group-title="PERU",PR-MEGA TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43872
+#EXTINF:-1 tvg-logo=""group-title="PERU",PR- WIPR
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1087193
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU- WILLAX TELEVISIÓN SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1105664
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU- LATINA FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1087195
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - WILLAX TELEVISIÓN HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1085372
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - TV PLUS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/54853
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - PERU MAGICO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8323
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - PANAMERICANA HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1169262
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - MOVISTAR DEPORTES FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1092642
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - LIGA1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1151342
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - LIGA 1 MAX
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1151341
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - LATINA HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/56273
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - L1 MAX HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1230397
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - GOL PERU SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8329
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - GOL PERU FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1123136
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - CANAL N FHD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1169263
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - CANAL N
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7825
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - ATV PLUS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7449
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - ATV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8333
+#EXTINF:-1 tvg-logo=""group-title="PERU",PERU - AMERICA TV SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1068850
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="PERU",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="PPV CINE",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 24 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7986
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 22 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7988
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 20 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7990
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 14 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7996
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 13 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7997
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 12 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7998
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 11 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/7999
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 10 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8000
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 09 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8001
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINEMA 05 FHD (ES).
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8005
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyPLmKn/pelis.jpg"group-title="PPV CINE",PPV - CINE INFANTIL 03
+http://tv.nstvlatino.com:8080/mariasuazo/123456/29415
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="PPV CINE",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="URUGUAY",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV Plus ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/19354
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV Plus
+http://tv.nstvlatino.com:8080/mariasuazo/123456/52513
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/3802
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - VTV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/22204
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TV CIUDAD ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/19352
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TV CIUDAD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/16136
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TELE 8 MERCEDES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1195552
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TELE 12 ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18731
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - TELE 12
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18578
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - PPV URUGUAY 4
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156974
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - PPV URUGUAY 3
+http://tv.nstvlatino.com:8080/mariasuazo/123456/43600
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - PPV URUGUAY 1
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155780
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - MAROÑAS ENTERTAIMENT
+http://tv.nstvlatino.com:8080/mariasuazo/123456/31618
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - LA RED
+http://tv.nstvlatino.com:8080/mariasuazo/123456/35428
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - GOL TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1137832
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - ESPN URUGUAY ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1156002
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - ESPN URUGUAY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1240256
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - DIRECTV URUGUAY ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1237806
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CARDINAL TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1219848
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 8 ARTIGAS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1197331
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 7 PUNTA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1195549
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 5 URUGUAY
+http://tv.nstvlatino.com:8080/mariasuazo/123456/19351
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 4 ˢ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18261
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 4 ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/8334
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 11 PUNTA DEL ESTE HD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1139100
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 10 ᴴ ᴰ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18567
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 10 ᶠʰ ᵈ
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1155782
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CANAL 10
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1218122
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - CAMPO TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1245655
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU - 1000 x HORA
+http://tv.nstvlatino.com:8080/mariasuazo/123456/34605
+#EXTINF:-1 tvg-logo=""group-title="URUGUAY",URU  - A+V
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51359
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="URUGUAY",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="VENEZUELA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",VEN - VIVO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18598
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28YszKT1/Vivetv.png"group-title="VENEZUELA",VEN - VIVE
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51410
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf1GnjbG/Venezolana-de-Televisi-n-2018-svg.png"group-title="VENEZUELA",VEN - VENEZOLANA DE TELEVISION
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18596
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzQyz86D/Venevision-Plus-Logo-2016.png"group-title="VENEZUELA",VEN - VENEVISION PLUS
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18593
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QN7DN53y/250px-Logo-de-VALE-TV.png"group-title="VENEZUELA",VEN - VENEVISION
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18595
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzQyz86D/Venevision-Plus-Logo-2016.png"group-title="VENEZUELA",VEN - VALE TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51409
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnwFwwWW/TVes-logo.png"group-title="VENEZUELA",VEN - TVES
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18597
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZK8tn3f/LOGO-HORIZONTAL-text.png"group-title="VENEZUELA",VEN - TLT
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51414
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qJD4jX1/Televen-logo.png"group-title="VENEZUELA",VEN - TELEVEN
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51413
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65NX8365/images.png"group-title="VENEZUELA",VEN - TELESUR
+http://tv.nstvlatino.com:8080/mariasuazo/123456/1161239
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z4xkVBM/Promar-Television.png"group-title="VENEZUELA",VEN - PROMAR SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18599
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s28Fsf0z/Logo-Meridiano-TV-Venezuela.png"group-title="VENEZUELA",VEN - MERIDIANO
+http://tv.nstvlatino.com:8080/mariasuazo/123456/51411
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdQrPbC6/globovision.jpg"group-title="VENEZUELA",VEN - GLOBOVISION SD
+http://tv.nstvlatino.com:8080/mariasuazo/123456/18600
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="VENEZUELA",------------- SMARTIPTV ---------------
+https://i.postimg.cc/X7THnVFK/smartiptv.png
