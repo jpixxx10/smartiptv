@@ -2082,43 +2082,6 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47696.m3u8
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47697.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX| CANAL 33 TIJUANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_33_El_Salvador_2010.png" group-title="|LIVE| MEXICO",MX| CANAL 33 TIJUANA HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47698.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 1"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png"group-title="TUDN",TUD | TUDNXTRA 1
-http://netlevel.online:8080/live/Javier41/NXECJ/10212.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 10"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra10n_c.png"group-title="TUDN",TUD | TUDNXTRA 10
-http://netlevel.online:8080/live/Javier41/NXECJ/10213.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 11"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra11n_c.png"group-title="TUDN",TUD | TUDNXTRA 11
-http://netlevel.online:8080/live/Javier41/NXECJ/10214.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 2"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra2n_c.png"group-title="TUDN",TUD | TUDNXTRA 2
-http://netlevel.online:8080/live/Javier41/NXECJ/10215.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 3"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra3n_c.png"group-title="TUDN",TUD | TUDNXTRA 3
-http://netlevel.online:8080/live/Javier41/NXECJ/10216.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 4"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra4n_c.png"group-title="TUDN",TUD | TUDNXTRA 4
-http://netlevel.online:8080/live/Javier41/NXECJ/10217.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 5"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra5n_c.png"group-title="TUDN",TUD | TUDNXTRA 5
-http://netlevel.online:8080/live/Javier41/NXECJ/10218.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 6"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra6_c.png"group-title="TUDN",TUD | TUDNXTRA 6
-http://netlevel.online:8080/live/Javier41/NXECJ/10219.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 7"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra7n_c.png"group-title="TUDN",TUD | TUDNXTRA 7
-http://netlevel.online:8080/live/Javier41/NXECJ/10220.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 8"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra8n_c.png"group-title="TUDN",TUD | TUDNXTRA 8
-http://netlevel.online:8080/live/Javier41/NXECJ/10221.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDNXTRA 9"tvg-id="(no tvg-id)"tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra9n_c.png"group-title="TUDN",TUD | TUDNXTRA 9
-http://netlevel.online:8080/live/Javier41/NXECJ/10222.m3u8
-#EXTINF:-1 tvg-name="TUD  | TUDN USA"tvg-id="tudnu.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD  | TUDN USA
-http://netlevel.online:8080/live/Javier41/NXECJ/166029.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDN MEX SD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD | TUDN MEX SD
-http://netlevel.online:8080/live/Javier41/NXECJ/218637.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDN MX HD"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD | TUDN MX HD
-http://netlevel.online:8080/live/Javier41/NXECJ/456663.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDN USA FHD"tvg-id="tu.deportes.network.mexico.cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD | TUDN USA FHD
-http://netlevel.online:8080/live/Javier41/NXECJ/242045.m3u8
-#EXTINF:-1 tvg-name="TUD | TUDN USA HD"tvg-id="tu.deportes.network.u.s.mx"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD | TUDN USA HD
-http://netlevel.online:8080/live/Javier41/NXECJ/185148.m3u8
-#EXTINF:-1 tvg-name="TUD | ZONA TUDN"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD | ZONA TUDN
-http://netlevel.online:8080/live/Javier41/NXECJ/456662.m3u8
-#EXTINF:-1 tvg-name="TUD | ZONA TUDN USA"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"group-title="TUDN",TUD | ZONA TUDN USA
-http://netlevel.online:8080/live/Javier41/NXECJ/456664.m3u8
 #EXTINF:-1 tvg-name="BO | TIGO SPORTS 1 HD"tvg-id="(no tvg-id)"tvg-logo="https://play-lh.googleusercontent.com/ATDzhvgLEh3EvWctHOUoyuvkNU-NgisI8mTTCmzJEvnfsuOVtFGOqLH0MrK2B2DyhZvT"group-title="BOLIVIA",BO | TIGO SPORTS 1 HD
 http://netlevel.online:8080/live/Javier41/NXECJ/485252.m3u8
 #EXTINF:-1 tvg-name="BO | TIGO SPORTS 2 HD"tvg-id="(no tvg-id)"tvg-logo="https://play-lh.googleusercontent.com/ATDzhvgLEh3EvWctHOUoyuvkNU-NgisI8mTTCmzJEvnfsuOVtFGOqLH0MrK2B2DyhZvT"group-title="BOLIVIA",BO | TIGO SPORTS 2 HD
