@@ -495,121 +495,135 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="COLOMBIA",------------- SMARTIPTV ---------------
 https://i.postimg.cc/X7THnVFK/smartiptv.png
-#EXTINF:0 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="COLOMBIA2",------------- SMARTIPTV ---------------
+#EXTINF:0 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="|LIVE| COLOMBIA",------------- SMARTIPTV ---------------
 https://i.postimg.cc/X7THnVFK/smartiptv.png
-#EXTINF:-1 group-title="COLOMBIA2",COL| CABLE NOTICIAS HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47511
-#EXTINF:-1 group-title="COLOMBIA2",COL| CABLENOTICIAS FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47512
-#EXTINF:-1 group-title="COLOMBIA2",COL| CALI TV
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47535
-#EXTINF:-1 group-title="COLOMBIA2",COL| CANAL TRECE HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47491
-#EXTINF:-1 group-title="COLOMBIA2",COL| CANAL UNO FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47492
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL 1080P *
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47495
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL COLOMBIA HD*
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47502
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL FHD *
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47496
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL ᴴᴰ  +
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47493
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL HD *^
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47494
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL HD2*
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47497
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL INTERNACIONAL HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47501
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL INTERNACIONAL HD**
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47500
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL NOTICIAS HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47499
-#EXTINF:-1 group-title="COLOMBIA2",COL| CARACOL SD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47498
-#EXTINF:-1 group-title="COLOMBIA2",COL| CITY TV  FHD**
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47514
-#EXTINF:-1 group-title="COLOMBIA2",COL| CITY TV HD+*+
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47513
-#EXTINF:-1 group-title="COLOMBIA2",COL| CLARO SPORTS 2 COLOMBIA HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47515
-#EXTINF:-1 group-title="COLOMBIA2",COL| CONCERT CHANNEL HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47545
-#EXTINF:-1 group-title="COLOMBIA2",COL| DIRECTV SPORT FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47523
-#EXTINF:-1 group-title="COLOMBIA2",COL| DIRECTV SPORTS +
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47525
-#EXTINF:-1 group-title="COLOMBIA2",COL| DIRECTV SPORTS 1 HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47524
-#EXTINF:-1 group-title="COLOMBIA2",COL| EL GOURMET HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47544
-#EXTINF:-1 group-title="COLOMBIA2",COL| ESPN 1 FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47529
-#EXTINF:-1 group-title="COLOMBIA2",COL| ESPN 2 FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47530
-#EXTINF:-1 group-title="COLOMBIA2",COL| ESPN 3 FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47531
-#EXTINF:-1 group-title="COLOMBIA2",COL| FARRA MUSIC
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47541
-#EXTINF:-1 group-title="COLOMBIA2",COL| FOX SPORTS 1 FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47526
-#EXTINF:-1 group-title="COLOMBIA2",COL| FOX SPORTS 2 FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47527
-#EXTINF:-1 group-title="COLOMBIA2",COL| FOX SPORTS 3 FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47528
-#EXTINF:-1 group-title="COLOMBIA2",COL| HOLA TV HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47543
-#EXTINF:-1 group-title="COLOMBIA2",COL| LA KALLE HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47540
-#EXTINF:-1 group-title="COLOMBIA2",COL| MUSICA URBANA HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47542
-#EXTINF:-1 group-title="COLOMBIA2",COL| NTN24 HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47510
-#EXTINF:-1 group-title="COLOMBIA2",COL| RCN 2 HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47503
-#EXTINF:-1 group-title="COLOMBIA2",COL| RCN FHD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47506
-#EXTINF:-1 group-title="COLOMBIA2",COL| RCN INTERNACIONAL HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47508
-#EXTINF:-1 group-title="COLOMBIA2",COL| RCN NACIONAL HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47507
-#EXTINF:-1 group-title="COLOMBIA2",COL| RCN NOVELAS HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47509
-#EXTINF:-1 group-title="COLOMBIA2",COL| RCN NUESTRA TELE HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47505
-#EXTINF:-1 group-title="COLOMBIA2",COL| RCN NUESTRA TELE HD **
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47504
-#EXTINF:-1 group-title="COLOMBIA2",COL| RIGO LA SERIE
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47553
-#EXTINF:-1 group-title="COLOMBIA2",COL| SENAL COLOMBIA
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47536
-#EXTINF:-1 group-title="COLOMBIA2",COL| TELEANTIOQUIA HD**
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47534
-#EXTINF:-1 group-title="COLOMBIA2",COL| TELECAFE HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47538
-#EXTINF:-1 group-title="COLOMBIA2",COL| TELECARIBE HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47533
-#EXTINF:-1 group-title="COLOMBIA2",COL| TELEMEDELLIN
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47532
-#EXTINF:-1 group-title="COLOMBIA2",COL| TELEPACIFICO HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47539
-#EXTINF:-1 group-title="COLOMBIA2",COL| TV AGRO HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47537
-#EXTINF:-1 group-title="COLOMBIA2",COL| WIN SPORTS + HD
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47520
-#EXTINF:-1 group-title="COLOMBIA2",COL| WIN SPORTS FHD *
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47518
-#EXTINF:-1 group-title="COLOMBIA2",COL| WIN SPORTS FHD ***
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47516
-#EXTINF:-1 group-title="COLOMBIA2",COL| WIN SPORTS FHD COL
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47517
-#EXTINF:-1 group-title="COLOMBIA2",COL| WIN SPORTS PLUS (EXCLUSIVO)
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47519
-#EXTINF:-1 group-title="COLOMBIA2",COL| WIN SPORTS PLUS FHD**
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47521
-#EXTINF:-1 group-title="COLOMBIA2",COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)
-http://alexyatvcasa.xyz:8080/Duenaip79/fHC5ca7/47522
-#EXTINF:0 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="COLOMBIA2",------------- SMARTIPTV ---------------
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CANAL TRECE HD" tvg-logo="http://miarea.vip:8080/images/31f9323354c54563c819a13460fcdd10.png" group-title="|LIVE| COLOMBIA",COL| CANAL TRECE HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47491.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CANAL UNO FHD" tvg-logo="http://miarea.vip:8080/images/aef865b3877e46eb98bf3c1dc9b8720b.png" group-title="|LIVE| COLOMBIA",COL| CANAL UNO FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47492.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL ᴴᴰ  +" tvg-logo="http://miarea.vip:8080/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="|LIVE| COLOMBIA",COL| CARACOL ᴴᴰ  +
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47493.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL HD *^" tvg-logo="http://miarea.vip:8080/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="|LIVE| COLOMBIA",COL| CARACOL HD *^
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47494.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL 1080P *" tvg-logo="http://miarea.vip:8080/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="|LIVE| COLOMBIA",COL| CARACOL 1080P *
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47495.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL FHD *" tvg-logo="http://miarea.vip:8080/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="|LIVE| COLOMBIA",COL| CARACOL FHD *
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47496.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL HD2*" tvg-logo="http://miarea.vip:8080/images/8f5ba24a6b4e83ef8790c5896337662f.png" group-title="|LIVE| COLOMBIA",COL| CARACOL HD2*
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47497.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL SD" tvg-logo="http://miarea.vip:8080/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="|LIVE| COLOMBIA",COL| CARACOL SD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47498.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png" group-title="|LIVE| COLOMBIA",COL| CARACOL NOTICIAS HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47499.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL INTERNACIONAL HD**" tvg-logo="http://miarea.vip:8080/images/78b441ffd4d75e6c4d52be53f96570f7.png" group-title="|LIVE| COLOMBIA",COL| CARACOL INTERNACIONAL HD**
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47500.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL INTERNACIONAL HD" tvg-logo="http://miarea.vip:8080/images/78b441ffd4d75e6c4d52be53f96570f7.png" group-title="|LIVE| COLOMBIA",COL| CARACOL INTERNACIONAL HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47501.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CARACOL COLOMBIA HD*" tvg-logo="http://miarea.vip:8080/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="|LIVE| COLOMBIA",COL| CARACOL COLOMBIA HD*
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47502.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RCN 2 HD" tvg-logo="http://miarea.vip:8080/images/0bfc9fd98e8fd4b4997ef31f571e4057.png" group-title="|LIVE| COLOMBIA",COL| RCN 2 HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47503.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RCN NUESTRA TELE HD **" tvg-logo="http://miarea.vip:8080/images/8dc7d2f8e1f3b300a5561b9ff8ef94ed.png" group-title="|LIVE| COLOMBIA",COL| RCN NUESTRA TELE HD **
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47504.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RCN NUESTRA TELE HD" tvg-logo="http://miarea.vip:8080/images/8dc7d2f8e1f3b300a5561b9ff8ef94ed.png" group-title="|LIVE| COLOMBIA",COL| RCN NUESTRA TELE HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47505.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RCN FHD" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="|LIVE| COLOMBIA",COL| RCN FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47506.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RCN NACIONAL HD" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="|LIVE| COLOMBIA",COL| RCN NACIONAL HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47507.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RCN INTERNACIONAL HD" tvg-logo="http://miarea.vip:8080/images/ea82410c7a9991816b5eeeebe195e20a.png" group-title="|LIVE| COLOMBIA",COL| RCN INTERNACIONAL HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47508.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RCN NOVELAS HD" tvg-logo="http://miarea.vip:8080/images/e82e285ac46ff0b2298e693b8bafded6.jpg" group-title="|LIVE| COLOMBIA",COL| RCN NOVELAS HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47509.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| NTN24 HD" tvg-logo="http://miarea.vip:8080/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png" group-title="|LIVE| COLOMBIA",COL| NTN24 HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47510.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CABLE NOTICIAS HD" tvg-logo="http://miarea.vip:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="|LIVE| COLOMBIA",COL| CABLE NOTICIAS HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47511.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CABLENOTICIAS FHD" tvg-logo="http://miarea.vip:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="|LIVE| COLOMBIA",COL| CABLENOTICIAS FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47512.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CITY TV HD+*+" tvg-logo="http://miarea.vip:8080/images/6edbd94d99e17ccfb294a78dd017eea9.png" group-title="|LIVE| COLOMBIA",COL| CITY TV HD+*+
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47513.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CITY TV  FHD**" tvg-logo="http://miarea.vip:8080/images/6edbd94d99e17ccfb294a78dd017eea9.png" group-title="|LIVE| COLOMBIA",COL| CITY TV  FHD**
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47514.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CLARO SPORTS 2 COLOMBIA HD" tvg-logo="http://miarea.vip:8080/images/4fdc819ddad328932b0cf92d4c602ad5.png" group-title="|LIVE| COLOMBIA",COL| CLARO SPORTS 2 COLOMBIA HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47515.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| WIN SPORTS FHD ***" tvg-logo="http://miarea.vip:8080/images/b573a8bf9d14a96e8d43cb8446b8d178.png" group-title="|LIVE| COLOMBIA",COL| WIN SPORTS FHD ***
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47516.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| WIN SPORTS FHD COL" tvg-logo="http://miarea.vip:8080/images/b573a8bf9d14a96e8d43cb8446b8d178.png" group-title="|LIVE| COLOMBIA",COL| WIN SPORTS FHD COL
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47517.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| WIN SPORTS FHD *" tvg-logo="http://miarea.vip:8080/images/b573a8bf9d14a96e8d43cb8446b8d178.png" group-title="|LIVE| COLOMBIA",COL| WIN SPORTS FHD *
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47518.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| WIN SPORTS PLUS (EXCLUSIVO)" tvg-logo="http://miarea.vip:8080/images/2fde1d52ea2f9e64d582f46834db4f18.png" group-title="|LIVE| COLOMBIA",COL| WIN SPORTS PLUS (EXCLUSIVO)
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47519.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| WIN SPORTS + HD" tvg-logo="http://miarea.vip:8080/images/2fde1d52ea2f9e64d582f46834db4f18.png" group-title="|LIVE| COLOMBIA",COL| WIN SPORTS + HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47520.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| WIN SPORTS PLUS FHD**" tvg-logo="http://miarea.vip:8080/images/2fde1d52ea2f9e64d582f46834db4f18.png" group-title="|LIVE| COLOMBIA",COL| WIN SPORTS PLUS FHD**
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47521.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)" tvg-logo="http://miarea.vip:8080/images/2fde1d52ea2f9e64d582f46834db4f18.png" group-title="|LIVE| COLOMBIA",COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47522.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| DIRECTV SPORT FHD" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="|LIVE| COLOMBIA",COL| DIRECTV SPORT FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47523.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| DIRECTV SPORTS 1 HD" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="|LIVE| COLOMBIA",COL| DIRECTV SPORTS 1 HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47524.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| DIRECTV SPORTS +" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="|LIVE| COLOMBIA",COL| DIRECTV SPORTS +
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47525.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| FOX SPORTS 1 FHD" tvg-logo="http://miarea.vip:8080/images/21821372ecbd5fd8a34934376b694d9b.png" group-title="|LIVE| COLOMBIA",COL| FOX SPORTS 1 FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47526.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| FOX SPORTS 2 FHD" tvg-logo="http://miarea.vip:8080/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="|LIVE| COLOMBIA",COL| FOX SPORTS 2 FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47527.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| FOX SPORTS 3 FHD" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="|LIVE| COLOMBIA",COL| FOX SPORTS 3 FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47528.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| ESPN 1 FHD" tvg-logo="http://miarea.vip:8080/images/0e7a92ac946f146eac61871f4b3d018b.png" group-title="|LIVE| COLOMBIA",COL| ESPN 1 FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47529.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| ESPN 2 FHD" tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="|LIVE| COLOMBIA",COL| ESPN 2 FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47530.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| ESPN 3 FHD" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="|LIVE| COLOMBIA",COL| ESPN 3 FHD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47531.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| TELEMEDELLIN" tvg-logo="http://miarea.vip:8080/images/584196bc8c1c31c8315e79485a7c42af.png" group-title="|LIVE| COLOMBIA",COL| TELEMEDELLIN
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47532.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| TELECARIBE HD" tvg-logo="http://miarea.vip:8080/images/e5c4156e858e48d0bd50ee6d9e3ff4c6.png" group-title="|LIVE| COLOMBIA",COL| TELECARIBE HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47533.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| TELEANTIOQUIA HD**" tvg-logo="http://miarea.vip:8080/images/016ccc08faf515b0565ad810ca7a70c0.png" group-title="|LIVE| COLOMBIA",COL| TELEANTIOQUIA HD**
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47534.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CALI TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png" group-title="|LIVE| COLOMBIA",COL| CALI TV
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47535.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| SENAL COLOMBIA" tvg-logo="http://miarea.vip:8080/images/9c9f4666edc99c7199cbb0293d5c0a42.png" group-title="|LIVE| COLOMBIA",COL| SENAL COLOMBIA
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47536.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| TV AGRO HD" tvg-logo="http://miarea.vip:8080/images/c836985e570602cfd04f3318351a9372.png" group-title="|LIVE| COLOMBIA",COL| TV AGRO HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47537.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| TELECAFE HD" tvg-logo="http://miarea.vip:8080/images/ec81118a6a63ee326e0f8d5760b72430.png" group-title="|LIVE| COLOMBIA",COL| TELECAFE HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47538.m3u8
+#EXTINF:0 tvg-id="telepacifico.co" tvg-name="COL| TELEPACIFICO HD" tvg-logo="http://miarea.vip:8080/images/c7871a2a5eb0095e3e39ecfb0ad26151.png" group-title="|LIVE| COLOMBIA",COL| TELEPACIFICO HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47539.m3u8
+#EXTINF:0 tvg-id="mtv.mx" tvg-name="COL| LA KALLE HD" tvg-logo="http://miarea.vip:8080/images/c8573dfc6d4f1347b3e2fa5ab105c6be.png" group-title="|LIVE| COLOMBIA",COL| LA KALLE HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47540.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| FARRA MUSIC" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/farra-png-5.png" group-title="|LIVE| COLOMBIA",COL| FARRA MUSIC
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47541.m3u8
+#EXTINF:0 tvg-id="mtv.co" tvg-name="COL| MUSICA URBANA HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="|LIVE| COLOMBIA",COL| MUSICA URBANA HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47542.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| HOLA TV HD" tvg-logo="http://miarea.vip:8080/images/58b14737be22a168aa04f6fffdbbfcfa.png" group-title="|LIVE| COLOMBIA",COL| HOLA TV HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47543.m3u8
+#EXTINF:0 tvg-id="elgourmet.mx" tvg-name="COL| EL GOURMET HD" tvg-logo="http://miarea.vip:8080/images/5b6b7df2c85e1f4dfcd506558f0d6984.png" group-title="|LIVE| COLOMBIA",COL| EL GOURMET HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47544.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| CONCERT CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/853cf41be680128dc20eb3ffdb116893.png" group-title="|LIVE| COLOMBIA",COL| CONCERT CHANNEL HD
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47545.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="RADIOS : VALLENATOS CLASSICOS LIVE" tvg-logo="https://www.kindpng.com/picc/m/164-1645020_colombia-country-flag-free-picture-colombia-png-transparent.png" group-title="|LIVE| COLOMBIA",RADIOS : VALLENATOS CLASSICOS LIVE
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47546.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="RADIOS : VALLENATOS LIVE" tvg-logo="https://www.kindpng.com/picc/m/164-1645020_colombia-country-flag-free-picture-colombia-png-transparent.png" group-title="|LIVE| COLOMBIA",RADIOS : VALLENATOS LIVE
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47547.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="NOVELAS| A CORAZON ABIERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c0/A-corazon-abierto%28mexico%29.jpg" group-title="|LIVE| COLOMBIA",NOVELAS| A CORAZON ABIERTO
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47548.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="NOVELAS| ADRIAN ESTA DE VISITA" tvg-logo="http://miarea.vip:8080/images/a5a604f620c00c48b5a5287ec5ed14f3.jpg" group-title="|LIVE| COLOMBIA",NOVELAS| ADRIAN ESTA DE VISITA
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47549.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="NOVELAS| AMORES QUE MATAN" tvg-logo="http://miarea.vip:8080/images/20e11040aa10ceab8ae5b33440168041.jpg" group-title="|LIVE| COLOMBIA",NOVELAS| AMORES QUE MATAN
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47550.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="NOVELAS| AMANTES DEL DESIERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Amantes_del_Desierto_Poster.jpg/220px-Amantes_del_Desierto_Poster.jpg" group-title="|LIVE| COLOMBIA",NOVELAS| AMANTES DEL DESIERTO
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47551.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="NOVELAS| AMOR A LA PLANCHA" tvg-logo="http://miarea.vip:8080/images/ba5553d6f16c4b827850701c7e279a7d.JPG" group-title="|LIVE| COLOMBIA",NOVELAS| AMOR A LA PLANCHA
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47552.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="COL| RIGO LA SERIE" tvg-logo="http://miarea.vip:8080/images/958f305281ea13a44bbbe72fb88ccca7.jpg" group-title="|LIVE| COLOMBIA",COL| RIGO LA SERIE
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47553.m3u8
+#EXTINF:0 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="|LIVE| COLOMBIA",------------- SMARTIPTV ---------------
 https://i.postimg.cc/X7THnVFK/smartiptv.png
 #EXTINF:0 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="CULTURA",------------- SMARTIPTV ---------------
 https://i.postimg.cc/X7THnVFK/smartiptv.png
