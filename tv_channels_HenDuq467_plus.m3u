@@ -2496,3 +2496,25 @@ https://stitcher.pluto.tv/stitch/hls/channel/66a01adf46762a00081ee3dc/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:-1 tvg-name="Karaoke por Stingray"tvg-id="5f85cf621d6d2200079f1de0"tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png"tvg-chno="1525"group-title="🎬​📺 Pluto TV",Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv-150x150.jpg"group-title="SERENOTV",Canal Retrox tv
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2023/09/RETRO-TV-LOGO-150x150.jpg"group-title="SERENOTV",Canal Retrotv
+https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/unnamed-150x150.jpg"group-title="SERENOTV",Canal Retrotoons
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-retro-magico-150x84.jpg"group-title="SERENOTV",Canal Retro Magico
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-big-150x113.jpg"group-title="SERENOTV",Canal Retro BIG
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-Mi-TV-Television-Clasica-en-vivo-150x96.jpg"group-title="SERENOTV",Canal Mi TV Televisión Clásica
+https://5aa8c7549bfa9.streamlock.net/live/livestream123/chunklist_w2146708339.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SERENOTV",Canal Mi TV Televisión Clásica
+https://5aa8c7549bfa9.streamlock.net/live/livestream123/chunklist_w2146708339.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/25-1.jpg"group-title="XTREMATV",Xtrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/chunklist_w966552282.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://xtrematv.com/wp-content/uploads/2023/06/retrox.jpg"group-title="XTREMATV",Retro X
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://xtrematv.com/wp-content/uploads/2023/06/teleclasicos.jpg"group-title="XTREMATV",Tele Clásica
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://xtrematv.com/wp-content/uploads/2023/06/retrox.jpg"group-title="XTREMATV",Retro X
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
