@@ -2155,15 +2155,15 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47696.m3u8
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47697.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX| CANAL 33 TIJUANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_33_El_Salvador_2010.png" group-title="|LIVE| MEXICO",MX| CANAL 33 TIJUANA HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47698.m3u8
-#EXTINF:-1 tvg-name="LD - UNIVISION TUDN USA" tvg-id="" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"group-title="TUDN",LD - UNIVISION TUDN USA
+#EXTINF:-1 tvg-name="LD - UNIVISION TUDN USA" tvg-id="" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"group-title="TUDN",UNIVISION TUDN
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156010
-#EXTINF:-1 tvg-name="LD - TUDN DEPORTES FHD" tvg-id="UnivisionDeportes.us" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="TUDN",LD - TUDN DEPORTES FHD
+#EXTINF:-1 tvg-name="LD - TUDN DEPORTES FHD" tvg-id="UnivisionDeportes.us" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="TUDN",TUDN DEPORTES FHD
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/3962
-#EXTINF:-1 tvg-name="LD - TUDN DEPORTES HD" tvg-id="TDN.mx" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="TUDN",LD - TUDN DEPORTES HD
+#EXTINF:-1 tvg-name="LD - TUDN DEPORTES HD" tvg-id="TDN.mx" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="TUDN",TUDN DEPORTES HD
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4117
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="TUDN",US Latin TUDN
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="TUDN",Latin TUDN
 http://tvmate.icu:8080/C4Ft1d/042942/11885
-#EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="TUDN",US TUDN 
+#EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="TUDN",US TUDN
 http://tvmate.icu:8080/C4Ft1d/042942/82241
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml.gz"
 #EXTINF:-1 tvg-name="Descubriendo Pluto TV"tvg-id="5e793a7cfbdf780007f7eb75"tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png"tvg-chno="1"group-title="🎬​📺 Pluto TV",Descubriendo Pluto TV
