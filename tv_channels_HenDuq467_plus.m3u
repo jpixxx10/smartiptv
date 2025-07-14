@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/jpixxx10/smartiptv/refs/heads/main/epg_ripper_MX1.xml"
 #EXTINF:0 tvg-rec="0" tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/X7THnVFK/smartiptv.png"group-title="• PPV CINE FHD (ES) •",------------- SMARTIPTV ---------------
 https://i.postimg.cc/X7THnVFK/smartiptv.png
 #EXTINF:0 tvg-rec="0" tvg-name="PPV - CINE INFANTIL 03"tvg-id=""tvg-logo="http://descargas.podzone.net/logos/-PPV.png"group-title="• PPV CINE FHD (ES) • ",PPV - CINE INFANTIL 03
@@ -1891,7 +1891,7 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47561.m3u8
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47562.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| AZTECA UNO FHD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO FHD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47563.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| AZTECA UNO -1HR" tvg-logo="http://miarea.vip:8080/images/52ee6dd4808e79c7b995338185314bc8.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO -1HR
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.Azteca.Uno.mx" tvg-name="MX| AZTECA UNO -1HR" tvg-logo="http://miarea.vip:8080/images/52ee6dd4808e79c7b995338185314bc8.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO -1HR
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47564.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| AZTECA INTERACIONAL HD" tvg-logo="http://miarea.vip:8080/images/c5654575b4ff37f9637df3e04e86738d.png" group-title="|LIVE| MEXICO",MX| AZTECA INTERACIONAL HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47565.m3u8
@@ -1907,7 +1907,7 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47569.m3u8
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47570.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| UNICABLE HD" tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png" group-title="|LIVE| MEXICO",MX| UNICABLE HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47571.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| EL NUEVE HD" tvg-logo="http://miarea.vip:8080/images/f39000bb0ac7d3696fa6a302c6feec8e.png" group-title="|LIVE| MEXICO",MX| EL NUEVE HD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.9.de.México.(XEQ-TDT).mx" tvg-name="MX| EL NUEVE HD" tvg-logo="http://miarea.vip:8080/images/f39000bb0ac7d3696fa6a302c6feec8e.png" group-title="|LIVE| MEXICO",MX| EL NUEVE HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47572.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| UNICABLE" tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png" group-title="|LIVE| MEXICO",MX| UNICABLE
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47573.m3u8
@@ -1915,9 +1915,9 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47573.m3u8
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47574.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| FORO TV FHD" tvg-logo="http://miarea.vip:8080/images/467675b33c1fcae34c8fc4eb0f32d73e.png" group-title="|LIVE| MEXICO",MX| FORO TV FHD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47575.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| CANAL 5 FHD" tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png" group-title="|LIVE| MEXICO",MX| CANAL 5 FHD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="MX| CANAL 5 FHD" tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png" group-title="|LIVE| MEXICO",MX| CANAL 5 FHD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47576.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| CANAL 5 HD" tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png" group-title="|LIVE| MEXICO",MX| CANAL 5 HD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="MX| CANAL 5 HD" tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png" group-title="|LIVE| MEXICO",MX| CANAL 5 HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47577.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| ADN 40 HD" tvg-logo="http://miarea.vip:8080/images/108439a9c39119adc303e1c9fcadab96.png" group-title="|LIVE| MEXICO",MX| ADN 40 HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47578.m3u8
@@ -1947,15 +1947,15 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47589.m3u8
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47590.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| TELEFORMULA HD" tvg-logo="http://miarea.vip:8080/images/a7a7f77d5db129e456db369ca6aebd70.png" group-title="|LIVE| MEXICO",MX| TELEFORMULA HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47591.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| CANAL ONCE HD" tvg-logo="http://miarea.vip:8080/images/b64eb8c33dfbcd714ae17308b74a419d.png" group-title="|LIVE| MEXICO",MX| CANAL ONCE HD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.11.de.México.mx" tvg-name="MX| CANAL ONCE HD" tvg-logo="http://miarea.vip:8080/images/b64eb8c33dfbcd714ae17308b74a419d.png" group-title="|LIVE| MEXICO",MX| CANAL ONCE HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47592.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| MILEMIUN TV HD" tvg-logo="http://miarea.vip:8080/images/a53f718d20371f1c5ecfecd62f801a58.png" group-title="|LIVE| MEXICO",MX| MILEMIUN TV HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47593.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| MAS CHIC HD" tvg-logo="http://miarea.vip:8080/images/4583826aba9b84f3f492c74be1c611d5.png" group-title="|LIVE| MEXICO",MX| MAS CHIC HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47594.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| MULTIMEDIOS HD" tvg-logo="http://miarea.vip:8080/images/d5672d833508688d0c2a35d9c1fa35e3.png" group-title="|LIVE| MEXICO",MX| MULTIMEDIOS HD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.Multimedios.Plus.mx" tvg-name="MX| MULTIMEDIOS HD" tvg-logo="http://miarea.vip:8080/images/d5672d833508688d0c2a35d9c1fa35e3.png" group-title="|LIVE| MEXICO",MX| MULTIMEDIOS HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47595.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| MULTIMEDIOS MONTERREY HD" tvg-logo="http://miarea.vip:8080/images/89806ab4baa45f4c408095d567cb14d7.jpg" group-title="|LIVE| MEXICO",MX| MULTIMEDIOS MONTERREY HD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.Multimedios.Plus.mx" tvg-name="MX| MULTIMEDIOS MONTERREY HD" tvg-logo="http://miarea.vip:8080/images/89806ab4baa45f4c408095d567cb14d7.jpg" group-title="|LIVE| MEXICO",MX| MULTIMEDIOS MONTERREY HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47596.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| ADRENALINA HD" tvg-logo="http://miarea.vip:8080/images/3c44228bf3cf14c1bcbf35bae42d3006.png" group-title="|LIVE| MEXICO",MX| ADRENALINA HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47597.m3u8
