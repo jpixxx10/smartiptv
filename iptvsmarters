@@ -1,23 +1,23 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/CO.xml"
-#EXTINF:-1 tvg-id="",A&E HD
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"
+#EXTINF:-1 tvg-id="A&amp;E.co",A&E HD
 http://181.78.85.53:9002/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="",AMC HD
+#EXTINF:-1 tvg-id="AMC.HD.co",AMC HD
 http://181.78.85.53:9002/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="",AXN HD
+#EXTINF:-1 tvg-id="AXN.co",AXN HD
 http://181.78.85.53:9002/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="",Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim.co",Adult Swim
 http://181.78.85.53:9002/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal.Planet.co",Animal Planet HD
 http://181.78.85.53:9002/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="",Baby TV
+#EXTINF:-1 tvg-id="BABY.TV.co",Baby TV
 http://181.78.85.53:9002/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="CO - Caracol",CANAL CARACOL  HD
+#EXTINF:-1 tvg-id="Caracol.co",CANAL CARACOL  HD
 http://181.78.85.53:9002/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="",CNN Español
+#EXTINF:-1 tvg-id="CableNoticias.co",CNN Español
 http://181.78.85.53:9002/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="",CableNoticias
 http://181.78.85.53:9002/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="CO - Canal 1",Canal 1
+#EXTINF:-1 tvg-id="Canal.1.co",Canal 1
 http://181.78.85.53:9002/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="",Canal 13 HD
 http://181.78.85.53:9002/play/a02f/index.m3u8
