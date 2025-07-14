@@ -1885,11 +1885,11 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47558.m3u8
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47559.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| ESTRELLA TV NEWS HD" tvg-logo="http://miarea.vip:8080/images/9dc6eb525846b336736a0ee066abedda.png" group-title="|LIVE| MEXICO",MX| ESTRELLA TV NEWS HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47560.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| AZTECA UNO HD**" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO HD**
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.Azteca.Uno.mx" tvg-name="MX| AZTECA UNO HD**" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO HD**
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47561.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| AZTECA UNO HD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO HD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.Azteca.Uno.mx" tvg-name="MX| AZTECA UNO HD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO HD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47562.m3u8
-#EXTINF:0 tvg-rec="0" tvg-id="(no tvg-id)" tvg-name="MX| AZTECA UNO FHD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO FHD
+#EXTINF:0 tvg-rec="0" tvg-id="Canal.Azteca.Uno.mx" tvg-name="MX| AZTECA UNO FHD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO FHD
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47563.m3u8
 #EXTINF:0 tvg-rec="0" tvg-id="Canal.Azteca.Uno.mx" tvg-name="MX| AZTECA UNO -1HR" tvg-logo="http://miarea.vip:8080/images/52ee6dd4808e79c7b995338185314bc8.png" group-title="|LIVE| MEXICO",MX| AZTECA UNO -1HR
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47564.m3u8
