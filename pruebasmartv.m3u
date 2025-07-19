@@ -15,19 +15,19 @@ http://181.78.85.53:9002/play/a03f/index.m3u8
 http://181.78.85.53:9002/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="CableNoticias.co",CNN Español
 http://181.78.85.53:9002/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="",CableNoticias
+#EXTINF:-1 tvg-id="CableNoticias.co",CableNoticias
 http://181.78.85.53:9002/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="Canal.1.co",Canal 1
 http://181.78.85.53:9002/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="",Canal 13 HD
+#EXTINF:-1 tvg-id="Canal.Trece.co",Canal 13 HD
 http://181.78.85.53:9002/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="",Canal Institucional
+#EXTINF:-1 tvg-id="Canal.Institucional.co",Canal Institucional
 http://181.78.85.53:9002/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="",Canal TRO
+#EXTINF:-1 tvg-id="Canal.TRO.co",Canal TRO
 http://181.78.85.53:9002/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="",Cartoon Network HD
+#EXTINF:-1 tvg-id="Cartoon.Network.co",Cartoon Network HD
 http://181.78.85.53:9002/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="",Cartoonito
+#EXTINF:-1 tvg-id="CARTOONITO.co",Cartoonito
 http://181.78.85.53:9002/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="",Cinecanal HD
 http://181.78.85.53:9002/play/a01w/index.m3u8
