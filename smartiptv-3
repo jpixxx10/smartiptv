@@ -4031,16 +4031,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/655f626d57fe4a00085c7c3e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
 #EXTINF:-1 tvg-name="Pluto TV Series de Drama"tvg-id="655f636d954b020008c93299"tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1748619628920.png"tvg-chno="160"group-title="Pluto tv Series",Pluto TV Series de Drama
 https://stitcher.pluto.tv/stitch/hls/channel/655f636d954b020008c93299/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2023/09/RETRO-TV-LOGO-150x150.jpg"tvg-chno=""group-title="SERENO TV",Canal Retro TV
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/Toonami-2020-150x83.jpg"tvg-chno=""group-title="SERENO TV",ToonamiTV
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/locomotion-150x150.jpg"tvg-chno=""group-title="SERENO TV",Canal Locomotion
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-telecalsica-150x118.jpg"tvg-chno=""group-title="SERENO TV",Canal Teleclásica
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-Mi-TV-Television-Clasica-en-vivo-150x96.jpg"tvg-chno=""group-title="SERENO TV",Canal Mi TV Televisión Clásica
-https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="REGIONALES MX",AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="REGIONALES MX",BAJA: CANAL 66 MEXICALI
