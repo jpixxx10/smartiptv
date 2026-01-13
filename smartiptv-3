@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://tv.proyectox.vip:8080/xmltv.php?username=ruben25104&password=09JOeMEwIu"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 1 - Supercopa de España: Barcelona VS. Real Madrid (e)(1080)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - Supercopa de España: Barcelona VS. Real Madrid (e)(1080)
 http://tv.proyectox.vip:8080/live/ruben25104/09JOeMEwIu/165338.ts
 #EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="PPV 2 - Supercopa de España: Barcelona VS. Real Madrid" tvg-logo="" group-title="EVENTOS PPV",PPV 2 - Supercopa de España: Barcelona VS. Real Madrid
@@ -3465,4 +3465,3 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b619c8d2a6c0007ff534e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ddf89d24-d6e8-11f0-9cf0-674681fbe35d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c0f5a738-9d45-45b4-b93e-454ce5cd0101&userId=&serverSideAds=true
 #EXTINF:0 channel-id="cbs-news-texas-ptv1" channel-number="5250" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CBS News Texas" tvc-guide-description="CBS News Texas is hyper local news streaming 24/7...for free! It's North Texas' place to get top stories, breaking news, weather, traffic and more. Check us out. We're always on" group-title="Local News", CBS News Texas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ddf89d25-d6e8-11f0-9cf0-674681fbe35d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2a8cda93-dee8-4491-8d90-bade664a6f65&userId=&serverSideAds=true
-
