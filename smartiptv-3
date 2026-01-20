@@ -3315,3 +3315,103 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b619c8d2a6c0007ff534e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ddf89d24-d6e8-11f0-9cf0-674681fbe35d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c0f5a738-9d45-45b4-b93e-454ce5cd0101&userId=&serverSideAds=true
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png"group-title="Local News",CBS News Texas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ddf89d25-d6e8-11f0-9cf0-674681fbe35d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2a8cda93-dee8-4491-8d90-bade664a6f65&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Futbol HD (S)" tvg-logo="https://i.ibb.co/fQ2ZKjW/ecdf.png" group-title="ECUADOR",Canal del Futbol HD (S)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2363.ts
+#EXTINF:-1 tvg-id="El Canal Del Futbol" tvg-name="Canal del Futbol HD (D)" tvg-logo="https://i.ibb.co/fQ2ZKjW/ecdf.png" group-title="ECUADOR",Canal del Futbol HD (D)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Futbol SD" tvg-logo="https://i.ibb.co/fQ2ZKjW/ecdf.png" group-title="ECUADOR",Canal del Futbol SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2365.ts
+#EXTINF:-1 tvg-id="SPOEQ" tvg-name="Directv Sports FHD" tvg-logo="https://i.ibb.co/j4ysqzR/dsports.png" group-title="ECUADOR",Directv Sports FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2366.ts
+#EXTINF:-1 tvg-id="SPOEQ" tvg-name="Directv Sports HD (DTV)" tvg-logo="https://i.ibb.co/j4ysqzR/dsports.png" group-title="ECUADOR",Directv Sports HD (DTV)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2367.ts
+#EXTINF:-1 tvg-id="SPOEQ" tvg-name="Directv Sports SD" tvg-logo="https://i.ibb.co/j4ysqzR/dsports.png" group-title="ECUADOR",Directv Sports SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2368.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV HD DIRECTO (DTV)" tvg-logo="https://i.ibb.co/JKhWKWh/goltvecu.png" group-title="ECUADOR",Gol TV HD DIRECTO (DTV)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2369.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GOLTV ECUADOR (EXCLUSIVO)" tvg-logo="https://i.ibb.co/JKhWKWh/goltvecu.png" group-title="ECUADOR",ECUADOR | GOLTV ECUADOR (EXCLUSIVO)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2370.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-name="Gol TV FHD" tvg-logo="https://i.ibb.co/JKhWKWh/goltvecu.png" group-title="ECUADOR",Gol TV FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2371.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-name="Gol TV HD ©" tvg-logo="https://i.ibb.co/JKhWKWh/goltvecu.png" group-title="ECUADOR",Gol TV HD ©
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2372.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports (Solo Eventos)" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="ECUADOR",Zapping Sports (Solo Eventos)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2373.ts
+#EXTINF:-1 tvg-id="UNOGUAY" tvg-name="ESPN EXTRA (STAR+)" tvg-logo="https://i.ibb.co/6FrC02b/Imagen-de-Whats-App-2024-03-29-a-las-22-29-12-b61c20d1.jpg" group-title="ECUADOR",ESPN EXTRA (STAR+)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="https://i.ibb.co/S0mgwLQ/canelatv.png" group-title="ECUADOR",Canela TV
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2381.ts
+#EXTINF:-1 tvg-id="ECUTV" tvg-name="Ecuador TV FHD" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR",Ecuador TV FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2382.ts
+#EXTINF:-1 tvg-id="ECUTV" tvg-name="Ecuador TV HD" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR",Ecuador TV HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2383.ts
+#EXTINF:-1 tvg-id="ECUTV" tvg-name="Ecuador TV SD" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR",Ecuador TV SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2384.ts
+#EXTINF:-1 tvg-id="GAMAV" tvg-name="Gamavision FHD" tvg-logo="https://i.ibb.co/QXzGGLs/gamavison.png" group-title="ECUADOR",Gamavision FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2385.ts
+#EXTINF:-1 tvg-id="Gamavision" tvg-name="Gamavision HD" tvg-logo="https://i.ibb.co/QXzGGLs/gamavison.png" group-title="ECUADOR",Gamavision HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2386.ts
+#EXTINF:-1 tvg-id="GAMAV" tvg-name="Gamavision SD" tvg-logo="https://i.ibb.co/QXzGGLs/gamavison.png" group-title="ECUADOR",Gamavision SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2387.ts
+#EXTINF:-1 tvg-id="OROMAR" tvg-name="Oromar TV FHD" tvg-logo="https://i.ibb.co/QFYXSRx/oromarv.png" group-title="ECUADOR",Oromar TV FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2388.ts
+#EXTINF:-1 tvg-id="OROMAR" tvg-name="Oromar TV HD ©" tvg-logo="https://i.ibb.co/QFYXSRx/oromarv.png" group-title="ECUADOR",Oromar TV HD ©
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2389.ts
+#EXTINF:-1 tvg-id="OROMAR" tvg-name="Oromar TV SD" tvg-logo="https://i.ibb.co/QFYXSRx/oromarv.png" group-title="ECUADOR",Oromar TV SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2390.ts
+#EXTINF:-1 tvg-id="RTSECHD" tvg-name="RTS FHD" tvg-logo="https://i.ibb.co/3Fv90fP/rts.png" group-title="ECUADOR",RTS FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2391.ts
+#EXTINF:-1 tvg-id="RTSECHD" tvg-name="RTS HD" tvg-logo="https://i.ibb.co/3Fv90fP/rts.png" group-title="ECUADOR",RTS HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2392.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS SD (DTV)" tvg-logo="https://i.ibb.co/3Fv90fP/rts.png" group-title="ECUADOR",RTS SD (DTV)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2393.ts
+#EXTINF:-1 tvg-id="TC TELEVISION" tvg-name="TC Television OP1 (S)" tvg-logo="https://i.ibb.co/HxdM8rT/tc.png" group-title="ECUADOR",TC Television OP1 (S)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2395.ts
+#EXTINF:-1 tvg-id="TC TELEVISION" tvg-name="TC Television OP2" tvg-logo="https://i.ibb.co/HxdM8rT/tc.png" group-title="ECUADOR",TC Television OP2
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2396.ts
+#EXTINF:-1 tvg-id="TCTVHD" tvg-name="TC Television OP3" tvg-logo="https://i.ibb.co/HxdM8rT/tc.png" group-title="ECUADOR",TC Television OP3
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2397.ts
+#EXTINF:-1 tvg-id="AMAZQHD" tvg-name="ECUADOR | Teleamazonas Sierra" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR",ECUADOR | Teleamazonas Sierra
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2398.ts
+#EXTINF:-1 tvg-id="AMAZQHD" tvg-name="Teleamazonas [Quito] HD Directo" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR",Teleamazonas [Quito] HD Directo
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2399.ts
+#EXTINF:-1 tvg-id="AMAZQHD" tvg-name="Teleamazonas [Quito] HD" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR",Teleamazonas [Quito] HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2400.ts
+#EXTINF:-1 tvg-id="TELEAMAZONAS" tvg-name="Teleamazonas [Gquil] FHD" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR",Teleamazonas [Gquil] FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2401.ts
+#EXTINF:-1 tvg-id="TELEAMAZONAS" tvg-name="Teleamazonas [Gquil] HD" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR",Teleamazonas [Gquil] HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2402.ts
+#EXTINF:-1 tvg-id="TELEAMAZONAS" tvg-name="Teleamazonas [Gquil] SD" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR",Teleamazonas [Gquil] SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2403.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC FHD" tvg-logo="https://i.ibb.co/K25Dkmz/tvc.png" group-title="ECUADOR",TVC FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2404.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC HD" tvg-logo="https://i.ibb.co/K25Dkmz/tvc.png" group-title="ECUADOR",TVC HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2405.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC SD" tvg-logo="https://i.ibb.co/K25Dkmz/tvc.png" group-title="ECUADOR",TVC SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2406.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Sierra" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Sierra
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2407.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Quito HD" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Quito HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2408.ts
+#EXTINF:-1 tvg-id="ECUAVISA NACIONAL" tvg-name="Ecuavisa [Gquil] HD" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa [Gquil] HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2410.ts
+#EXTINF:-1 tvg-id="182dtv.ec" tvg-name="Ecuavisa [Gquil] HD (D)" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa [Gquil] HD (D)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2411.ts
+#EXTINF:-1 tvg-id="ECUAVISA NACIONAL" tvg-name="Ecuavisa [Gquil] SD (S)" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa [Gquil] SD (S)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2412.ts
+#EXTINF:-1 tvg-id="ECUAVI" tvg-name="Ecuavisa Internacional FHD (S)" tvg-logo="https://i.ibb.co/1KRZCCF/ecuavisainter.png" group-title="ECUADOR",Ecuavisa Internacional FHD (S)
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2413.ts
+#EXTINF:-1 tvg-id="ECUAVI" tvg-name="Ecuavisa Internacional SD" tvg-logo="https://i.ibb.co/1KRZCCF/ecuavisainter.png" group-title="ECUADOR",Ecuavisa Internacional SD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2414.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa [Quito] FHD" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa [Quito] FHD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2415.ts
+#EXTINF:-1 tvg-id="ECUAVISA NACIONAL" tvg-name="Ecuavisa [Quito] HD" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa [Quito] HD
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ecotel TV" tvg-logo="https://www.m3u.cl/logo/99_Ecotel_TV.jpg" group-title="ECUADOR",Ecotel TV
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2431.ts
+#EXTINF:-1 tvg-id="ASOMA" tvg-name="Asomavision" tvg-logo="https://i.ibb.co/601f1V3/asomavision.png" group-title="ECUADOR",Asomavision
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/2441.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELERAMA" tvg-logo="https://i.ibb.co/fF7jykL/telerama.png" group-title="ECUADOR",TELERAMA
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/85730.ts
+#EXTINF:-1 tvg-id="" tvg-name="TU RADIO 88.9" tvg-logo="https://i.ibb.co/pjGbt62/turadio.png" group-title="ECUADOR",TU RADIO 88.9
+http://totalplay.site:80/Bzdocare0623/2023AreLLaNo/146167.ts
