@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://tv.proyectox.vip:8080/xmltv.php?username=Omar24&password=0da97a574bcd, http://newultra.xyz:8080/xmltv.php?username=965168698tv&password=mj53isqzp8"
+#EXTM3U x-tvg-url="http://tv.proyectox.vip:8080/xmltv.php?username=Omar24&password=0da97a574bcd x-tvg-url="http://newultra.xyz:8080/xmltv.php?username=965168698tv&password=mj53isqzp8" refresh="3600"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HON-TVC Deportes (Z)(720)" tvg-logo="" group-title="HONDURAS",HON-TVC Deportes (Z)(720)
 http://tv.proyectox.vip:8080/live/Omar24/0da97a574bcd/153365.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HON-TVC Deportes (L)(720)" tvg-logo="" group-title="HONDURAS",HON-TVC Deportes (L)(720)
@@ -13306,4 +13306,5 @@ http://newultra.xyz:8080/live/965168698tv/mj53isqzp8/269130.ts
 http://newultra.xyz:8080/live/965168698tv/mj53isqzp8/269131.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BO | Unitel" tvg-logo="http://209.126.82.213/Bolivia/unitel_bo.png" group-title="→ BOLIVIA ←",BO | Unitel
 http://newultra.xyz:8080/live/965168698tv/mj53isqzp8/269132.ts
+
 
